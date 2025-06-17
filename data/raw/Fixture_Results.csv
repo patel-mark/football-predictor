@@ -1,0 +1,2662 @@
+Date,Home_Team,Away_Team,Home_Score,Away_Score,Home_xG,Away_xG,League
+2024-08-16,Manchester Utd,Fulham,1,0,2.4,0.4,Premier League
+2024-08-17,Ipswich Town,Liverpool,0,2,0.5,2.6,Premier League
+2024-08-17,Newcastle Utd,Southampton,1,0,0.3,1.8,Premier League
+2024-08-17,Everton,Brighton,0,3,0.5,1.4,Premier League
+2024-08-17,Nott'ham Forest,Bournemouth,1,1,1.3,1.2,Premier League
+2024-08-17,Arsenal,Wolves,2,0,1.2,0.5,Premier League
+2024-08-17,West Ham,Aston Villa,1,2,2.3,2.0,Premier League
+2024-08-18,Brentford,Crystal Palace,2,1,1.6,1.2,Premier League
+2024-08-18,Chelsea,Manchester City,0,2,1.0,0.8,Premier League
+2024-08-19,Leicester City,Tottenham,1,1,1.0,1.2,Premier League
+2024-08-24,Brighton,Manchester Utd,2,1,2.1,1.4,Premier League
+2024-08-24,Manchester City,Ipswich Town,4,1,3.3,0.3,Premier League
+2024-08-24,Southampton,Nott'ham Forest,0,1,0.1,2.2,Premier League
+2024-08-24,Tottenham,Everton,4,0,2.4,1.0,Premier League
+2024-08-24,Fulham,Leicester City,2,1,1.8,0.6,Premier League
+2024-08-24,Crystal Palace,West Ham,0,2,1.3,1.4,Premier League
+2024-08-24,Aston Villa,Arsenal,0,2,1.2,0.9,Premier League
+2024-08-25,Wolves,Chelsea,2,6,1.9,1.6,Premier League
+2024-08-25,Bournemouth,Newcastle Utd,1,1,2.2,1.6,Premier League
+2024-08-25,Liverpool,Brentford,2,0,2.5,0.5,Premier League
+2024-08-31,Arsenal,Brighton,1,1,2.1,1.7,Premier League
+2024-08-31,Ipswich Town,Fulham,1,1,0.4,0.9,Premier League
+2024-08-31,Nott'ham Forest,Wolves,1,1,1.0,0.7,Premier League
+2024-08-31,Brentford,Southampton,3,1,2.8,1.5,Premier League
+2024-08-31,Leicester City,Aston Villa,1,2,0.4,1.4,Premier League
+2024-08-31,Everton,Bournemouth,2,3,1.8,2.4,Premier League
+2024-08-31,West Ham,Manchester City,1,3,0.7,3.0,Premier League
+2024-09-01,Newcastle Utd,Tottenham,2,1,1.8,1.2,Premier League
+2024-09-01,Chelsea,Crystal Palace,1,1,2.4,0.5,Premier League
+2024-09-01,Manchester Utd,Liverpool,0,3,1.4,1.8,Premier League
+2024-09-14,Southampton,Manchester Utd,0,3,1.1,2.6,Premier League
+2024-09-14,Manchester City,Brentford,2,1,2.1,1.0,Premier League
+2024-09-14,Liverpool,Nott'ham Forest,0,1,0.9,0.4,Premier League
+2024-09-14,Crystal Palace,Leicester City,2,2,2.5,1.2,Premier League
+2024-09-14,Fulham,West Ham,1,1,1.5,0.8,Premier League
+2024-09-14,Brighton,Ipswich Town,0,0,1.6,0.3,Premier League
+2024-09-14,Aston Villa,Everton,3,2,2.1,0.9,Premier League
+2024-09-14,Bournemouth,Chelsea,0,1,1.7,0.8,Premier League
+2024-09-15,Tottenham,Arsenal,0,1,0.7,0.7,Premier League
+2024-09-15,Wolves,Newcastle Utd,1,2,1.2,1.5,Premier League
+2024-09-21,West Ham,Chelsea,0,3,0.9,2.2,Premier League
+2024-09-21,Tottenham,Brentford,3,1,3.5,0.8,Premier League
+2024-09-21,Aston Villa,Wolves,3,1,1.7,0.5,Premier League
+2024-09-21,Fulham,Newcastle Utd,3,1,2.2,1.5,Premier League
+2024-09-21,Southampton,Ipswich Town,1,1,2.4,1.6,Premier League
+2024-09-21,Leicester City,Everton,1,1,0.7,1.1,Premier League
+2024-09-21,Liverpool,Bournemouth,3,0,2.0,1.1,Premier League
+2024-09-21,Crystal Palace,Manchester Utd,0,0,1.0,1.6,Premier League
+2024-09-22,Brighton,Nott'ham Forest,2,2,1.0,1.4,Premier League
+2024-09-22,Manchester City,Arsenal,2,2,2.1,0.7,Premier League
+2024-09-28,Newcastle Utd,Manchester City,1,1,1.6,0.9,Premier League
+2024-09-28,Brentford,West Ham,1,1,0.4,1.0,Premier League
+2024-09-28,Everton,Crystal Palace,2,1,0.9,0.9,Premier League
+2024-09-28,Arsenal,Leicester City,4,2,4.4,0.3,Premier League
+2024-09-28,Chelsea,Brighton,4,2,4.2,1.1,Premier League
+2024-09-28,Nott'ham Forest,Fulham,0,1,0.8,1.3,Premier League
+2024-09-28,Wolves,Liverpool,1,2,0.6,2.5,Premier League
+2024-09-29,Ipswich Town,Aston Villa,2,2,1.2,0.8,Premier League
+2024-09-29,Manchester Utd,Tottenham,0,3,1.0,4.4,Premier League
+2024-09-30,Bournemouth,Southampton,3,1,1.3,0.6,Premier League
+2024-10-05,Crystal Palace,Liverpool,0,1,0.6,1.4,Premier League
+2024-10-05,Brentford,Wolves,5,3,4.2,1.0,Premier League
+2024-10-05,Leicester City,Bournemouth,1,0,0.8,2.1,Premier League
+2024-10-05,Manchester City,Fulham,3,2,1.6,2.6,Premier League
+2024-10-05,West Ham,Ipswich Town,4,1,3.6,0.6,Premier League
+2024-10-05,Arsenal,Southampton,3,1,2.8,0.6,Premier League
+2024-10-05,Everton,Newcastle Utd,0,0,0.7,2.1,Premier League
+2024-10-06,Aston Villa,Manchester Utd,0,0,0.5,0.6,Premier League
+2024-10-06,Chelsea,Nott'ham Forest,1,1,2.3,0.9,Premier League
+2024-10-06,Brighton,Tottenham,3,2,1.8,1.3,Premier League
+2024-10-19,Tottenham,West Ham,4,1,1.9,0.8,Premier League
+2024-10-19,Fulham,Aston Villa,1,3,1.8,1.6,Premier League
+2024-10-19,Ipswich Town,Everton,0,2,1.3,1.7,Premier League
+2024-10-19,Southampton,Leicester City,2,3,2.1,3.1,Premier League
+2024-10-19,Manchester Utd,Brentford,2,1,1.3,0.9,Premier League
+2024-10-19,Newcastle Utd,Brighton,0,1,2.0,1.1,Premier League
+2024-10-19,Bournemouth,Arsenal,2,0,1.8,0.7,Premier League
+2024-10-20,Wolves,Manchester City,1,2,0.8,1.6,Premier League
+2024-10-20,Liverpool,Chelsea,2,1,1.9,1.0,Premier League
+2024-10-21,Nott'ham Forest,Crystal Palace,1,0,1.7,1.0,Premier League
+2024-10-25,Leicester City,Nott'ham Forest,1,3,0.8,1.7,Premier League
+2024-10-26,Brighton,Wolves,2,2,1.3,1.3,Premier League
+2024-10-26,Manchester City,Southampton,1,0,2.9,0.2,Premier League
+2024-10-26,Brentford,Ipswich Town,4,3,4.0,1.3,Premier League
+2024-10-26,Aston Villa,Bournemouth,1,1,1.8,0.3,Premier League
+2024-10-26,Everton,Fulham,1,1,0.8,1.2,Premier League
+2024-10-27,West Ham,Manchester Utd,2,1,2.8,2.3,Premier League
+2024-10-27,Chelsea,Newcastle Utd,2,1,1.6,1.8,Premier League
+2024-10-27,Crystal Palace,Tottenham,1,0,0.8,0.7,Premier League
+2024-10-27,Arsenal,Liverpool,2,2,0.9,0.8,Premier League
+2024-11-02,Newcastle Utd,Arsenal,1,0,0.5,1.1,Premier League
+2024-11-02,Liverpool,Brighton,2,1,1.6,1.0,Premier League
+2024-11-02,Southampton,Everton,1,0,0.7,1.6,Premier League
+2024-11-02,Nott'ham Forest,West Ham,3,0,2.2,0.1,Premier League
+2024-11-02,Ipswich Town,Leicester City,1,1,1.0,1.5,Premier League
+2024-11-02,Bournemouth,Manchester City,2,1,2.0,1.6,Premier League
+2024-11-02,Wolves,Crystal Palace,2,2,1.5,2.4,Premier League
+2024-11-03,Tottenham,Aston Villa,4,1,2.4,1.8,Premier League
+2024-11-03,Manchester Utd,Chelsea,1,1,2.0,1.1,Premier League
+2024-11-04,Fulham,Brentford,2,1,1.3,0.6,Premier League
+2024-11-09,West Ham,Everton,0,0,0.8,1.1,Premier League
+2024-11-09,Crystal Palace,Fulham,0,2,1.5,1.8,Premier League
+2024-11-09,Wolves,Southampton,2,0,1.3,0.6,Premier League
+2024-11-09,Brentford,Bournemouth,3,2,1.5,2.6,Premier League
+2024-11-09,Brighton,Manchester City,2,1,2.3,2.1,Premier League
+2024-11-09,Liverpool,Aston Villa,2,0,2.0,1.2,Premier League
+2024-11-10,Tottenham,Ipswich Town,1,2,1.5,1.6,Premier League
+2024-11-10,Nott'ham Forest,Newcastle Utd,1,3,0.6,1.6,Premier League
+2024-11-10,Manchester Utd,Leicester City,3,0,0.8,0.6,Premier League
+2024-11-10,Chelsea,Arsenal,1,1,1.5,1.5,Premier League
+2024-11-23,Leicester City,Chelsea,1,2,1.1,2.7,Premier League
+2024-11-23,Aston Villa,Crystal Palace,2,2,3.0,1.3,Premier League
+2024-11-23,Fulham,Wolves,1,4,1.0,1.3,Premier League
+2024-11-23,Bournemouth,Brighton,1,2,1.6,0.9,Premier League
+2024-11-23,Arsenal,Nott'ham Forest,3,0,1.2,0.3,Premier League
+2024-11-23,Everton,Brentford,0,0,1.2,1.1,Premier League
+2024-11-23,Manchester City,Tottenham,0,4,2.1,2.5,Premier League
+2024-11-24,Southampton,Liverpool,2,3,1.3,3.1,Premier League
+2024-11-24,Ipswich Town,Manchester Utd,1,1,1.6,0.8,Premier League
+2024-11-25,Newcastle Utd,West Ham,0,2,1.6,0.9,Premier League
+2024-11-29,Brighton,Southampton,1,1,1.7,1.0,Premier League
+2024-11-30,Wolves,Bournemouth,2,4,0.5,3.3,Premier League
+2024-11-30,Nott'ham Forest,Ipswich Town,1,0,1.6,0.6,Premier League
+2024-11-30,Brentford,Leicester City,4,1,2.4,1.1,Premier League
+2024-11-30,Crystal Palace,Newcastle Utd,1,1,1.7,0.0,Premier League
+2024-11-30,West Ham,Arsenal,2,5,1.5,3.5,Premier League
+2024-12-01,Manchester Utd,Everton,4,0,1.1,0.6,Premier League
+2024-12-01,Tottenham,Fulham,1,1,0.8,1.5,Premier League
+2024-12-01,Chelsea,Aston Villa,3,0,1.6,1.2,Premier League
+2024-12-01,Liverpool,Manchester City,2,0,3.4,0.8,Premier League
+2024-12-03,Ipswich Town,Crystal Palace,0,1,0.5,1.6,Premier League
+2024-12-03,Leicester City,West Ham,3,1,1.7,3.0,Premier League
+2024-12-04,Newcastle Utd,Liverpool,3,3,2.1,1.9,Premier League
+2024-12-04,Everton,Wolves,4,0,1.0,0.8,Premier League
+2024-12-04,Manchester City,Nott'ham Forest,3,0,2.4,1.0,Premier League
+2024-12-04,Southampton,Chelsea,1,5,1.6,5.2,Premier League
+2024-12-04,Arsenal,Manchester Utd,2,0,2.1,0.2,Premier League
+2024-12-04,Aston Villa,Brentford,3,1,2.4,0.9,Premier League
+2024-12-05,Fulham,Brighton,3,1,1.1,1.4,Premier League
+2024-12-05,Bournemouth,Tottenham,1,0,3.5,0.9,Premier League
+2024-12-07,Aston Villa,Southampton,1,0,2.3,0.3,Premier League
+2024-12-07,Crystal Palace,Manchester City,2,2,1.3,1.4,Premier League
+2024-12-07,Brentford,Newcastle Utd,4,2,1.2,1.5,Premier League
+2024-12-07,Manchester Utd,Nott'ham Forest,2,3,1.6,0.8,Premier League
+2024-12-08,Leicester City,Brighton,2,2,1.3,1.5,Premier League
+2024-12-08,Ipswich Town,Bournemouth,1,2,1.3,3.2,Premier League
+2024-12-08,Fulham,Arsenal,1,1,0.2,1.8,Premier League
+2024-12-08,Tottenham,Chelsea,3,4,2.8,2.8,Premier League
+2024-12-09,West Ham,Wolves,2,1,1.0,1.4,Premier League
+2024-12-14,Liverpool,Fulham,2,2,2.1,1.2,Premier League
+2024-12-14,Wolves,Ipswich Town,1,2,1.3,1.1,Premier League
+2024-12-14,Newcastle Utd,Leicester City,4,0,3.8,0.2,Premier League
+2024-12-14,Arsenal,Everton,0,0,1.2,0.1,Premier League
+2024-12-14,Nott'ham Forest,Aston Villa,2,1,1.7,0.4,Premier League
+2024-12-15,Brighton,Crystal Palace,1,3,1.0,2.2,Premier League
+2024-12-15,Manchester City,Manchester Utd,1,2,0.9,2.1,Premier League
+2024-12-15,Southampton,Tottenham,0,5,0.8,2.3,Premier League
+2024-12-15,Chelsea,Brentford,2,1,2.2,1.6,Premier League
+2024-12-16,Bournemouth,West Ham,1,1,1.9,2.1,Premier League
+2024-12-21,Aston Villa,Manchester City,2,1,1.6,1.0,Premier League
+2024-12-21,Ipswich Town,Newcastle Utd,0,4,0.7,2.3,Premier League
+2024-12-21,Brentford,Nott'ham Forest,0,2,0.7,0.9,Premier League
+2024-12-21,West Ham,Brighton,1,1,1.2,0.9,Premier League
+2024-12-21,Crystal Palace,Arsenal,1,5,1.6,2.5,Premier League
+2024-12-22,Manchester Utd,Bournemouth,0,3,2.2,1.6,Premier League
+2024-12-22,Leicester City,Wolves,0,3,0.8,1.1,Premier League
+2024-12-22,Everton,Chelsea,0,0,1.0,1.2,Premier League
+2024-12-22,Fulham,Southampton,0,0,0.9,0.3,Premier League
+2024-12-22,Tottenham,Liverpool,3,6,1.3,5.6,Premier League
+2024-12-26,Manchester City,Everton,1,1,2.1,0.7,Premier League
+2024-12-26,Southampton,West Ham,0,1,1.4,1.7,Premier League
+2024-12-26,Newcastle Utd,Aston Villa,3,0,2.7,0.3,Premier League
+2024-12-26,Nott'ham Forest,Tottenham,1,0,1.1,0.9,Premier League
+2024-12-26,Bournemouth,Crystal Palace,0,0,1.4,0.4,Premier League
+2024-12-26,Chelsea,Fulham,1,2,1.1,1.8,Premier League
+2024-12-26,Wolves,Manchester Utd,2,0,0.9,0.4,Premier League
+2024-12-26,Liverpool,Leicester City,3,1,2.0,0.3,Premier League
+2024-12-27,Brighton,Brentford,0,0,1.3,1.1,Premier League
+2024-12-27,Arsenal,Ipswich Town,1,0,1.8,0.2,Premier League
+2024-12-29,Leicester City,Manchester City,0,2,1.3,1.3,Premier League
+2024-12-29,Everton,Nott'ham Forest,0,2,0.9,1.5,Premier League
+2024-12-29,Tottenham,Wolves,2,2,2.2,0.7,Premier League
+2024-12-29,Fulham,Bournemouth,2,2,1.1,2.0,Premier League
+2024-12-29,Crystal Palace,Southampton,2,1,2.0,0.9,Premier League
+2024-12-29,West Ham,Liverpool,0,5,0.4,3.1,Premier League
+2024-12-30,Aston Villa,Brighton,2,2,1.8,1.1,Premier League
+2024-12-30,Ipswich Town,Chelsea,2,0,1.6,2.0,Premier League
+2024-12-30,Manchester Utd,Newcastle Utd,0,2,0.8,1.9,Premier League
+2025-01-01,Brentford,Arsenal,1,3,0.3,1.9,Premier League
+2025-01-04,Tottenham,Newcastle Utd,1,2,0.9,2.5,Premier League
+2025-01-04,Aston Villa,Leicester City,2,1,1.4,0.4,Premier League
+2025-01-04,Bournemouth,Everton,1,0,1.8,0.7,Premier League
+2025-01-04,Crystal Palace,Chelsea,1,1,1.1,1.2,Premier League
+2025-01-04,Southampton,Brentford,0,5,0.3,4.4,Premier League
+2025-01-04,Manchester City,West Ham,4,1,1.9,1.4,Premier League
+2025-01-04,Brighton,Arsenal,1,1,1.5,0.9,Premier League
+2025-01-05,Fulham,Ipswich Town,2,2,2.2,1.5,Premier League
+2025-01-05,Liverpool,Manchester Utd,2,2,2.7,1.0,Premier League
+2025-01-06,Wolves,Nott'ham Forest,0,3,1.5,2.1,Premier League
+2025-01-14,West Ham,Fulham,3,2,1.0,1.7,Premier League
+2025-01-14,Chelsea,Bournemouth,2,2,2.5,1.2,Premier League
+2025-01-14,Brentford,Manchester City,2,2,2.5,2.2,Premier League
+2025-01-14,Nott'ham Forest,Liverpool,1,1,0.3,2.0,Premier League
+2025-01-15,Leicester City,Crystal Palace,0,2,1.7,1.8,Premier League
+2025-01-15,Everton,Aston Villa,0,1,1.1,1.2,Premier League
+2025-01-15,Newcastle Utd,Wolves,3,0,2.1,1.6,Premier League
+2025-01-15,Arsenal,Tottenham,2,1,1.4,0.8,Premier League
+2025-01-16,Ipswich Town,Brighton,0,2,0.3,1.0,Premier League
+2025-01-16,Manchester Utd,Southampton,3,1,3.4,1.4,Premier League
+2025-01-18,Newcastle Utd,Bournemouth,1,4,0.8,2.0,Premier League
+2025-01-18,Leicester City,Fulham,0,2,0.6,2.0,Premier League
+2025-01-18,West Ham,Crystal Palace,0,2,0.3,1.3,Premier League
+2025-01-18,Brentford,Liverpool,0,2,0.7,3.4,Premier League
+2025-01-18,Arsenal,Aston Villa,2,2,1.3,1.0,Premier League
+2025-01-19,Everton,Tottenham,3,2,1.8,1.1,Premier League
+2025-01-19,Manchester Utd,Brighton,1,3,1.5,1.9,Premier League
+2025-01-19,Nott'ham Forest,Southampton,3,2,1.8,0.9,Premier League
+2025-01-19,Ipswich Town,Manchester City,0,6,0.5,3.0,Premier League
+2025-01-20,Chelsea,Wolves,3,1,3.1,0.8,Premier League
+2025-01-25,Southampton,Newcastle Utd,1,3,0.8,2.9,Premier League
+2025-01-25,Brighton,Everton,0,1,0.7,0.8,Premier League
+2025-01-25,Liverpool,Ipswich Town,4,1,2.0,0.5,Premier League
+2025-01-25,Bournemouth,Nott'ham Forest,5,0,1.7,1.0,Premier League
+2025-01-25,Wolves,Arsenal,0,1,0.7,1.0,Premier League
+2025-01-25,Manchester City,Chelsea,3,1,2.2,1.8,Premier League
+2025-01-26,Crystal Palace,Brentford,1,2,1.1,1.3,Premier League
+2025-01-26,Tottenham,Leicester City,1,2,1.0,1.6,Premier League
+2025-01-26,Aston Villa,West Ham,1,1,0.9,1.3,Premier League
+2025-01-26,Fulham,Manchester Utd,0,1,0.7,0.3,Premier League
+2025-02-01,Nott'ham Forest,Brighton,7,0,3.3,0.9,Premier League
+2025-02-01,Everton,Leicester City,4,0,2.5,0.3,Premier League
+2025-02-01,Newcastle Utd,Fulham,1,2,0.8,1.6,Premier League
+2025-02-01,Bournemouth,Liverpool,0,2,1.6,2.5,Premier League
+2025-02-01,Ipswich Town,Southampton,1,2,1.8,0.9,Premier League
+2025-02-01,Wolves,Aston Villa,2,0,1.6,0.4,Premier League
+2025-02-02,Manchester Utd,Crystal Palace,0,2,1.1,2.6,Premier League
+2025-02-02,Brentford,Tottenham,0,2,2.1,0.8,Premier League
+2025-02-02,Arsenal,Manchester City,5,1,1.0,0.8,Premier League
+2025-02-03,Chelsea,West Ham,2,1,1.6,1.2,Premier League
+2025-02-12,Everton,Liverpool,2,2,1.0,0.6,Premier League
+2025-02-14,Brighton,Chelsea,3,0,1.4,0.5,Premier League
+2025-02-15,Leicester City,Arsenal,0,2,0.2,1.4,Premier League
+2025-02-15,Fulham,Nott'ham Forest,2,1,2.1,0.4,Premier League
+2025-02-15,Manchester City,Newcastle Utd,4,0,1.9,0.5,Premier League
+2025-02-15,Southampton,Bournemouth,1,3,0.8,1.2,Premier League
+2025-02-15,Aston Villa,Ipswich Town,1,1,2.4,0.4,Premier League
+2025-02-15,West Ham,Brentford,0,1,0.8,1.6,Premier League
+2025-02-15,Crystal Palace,Everton,1,2,1.6,0.9,Premier League
+2025-02-16,Liverpool,Wolves,2,1,1.7,1.5,Premier League
+2025-02-16,Tottenham,Manchester Utd,1,0,2.2,1.5,Premier League
+2025-02-19,Aston Villa,Liverpool,2,2,0.6,2.5,Premier League
+2025-02-21,Leicester City,Brentford,0,4,0.5,1.5,Premier League
+2025-02-22,Everton,Manchester Utd,2,2,1.6,0.4,Premier League
+2025-02-22,Fulham,Crystal Palace,0,2,0.2,1.3,Premier League
+2025-02-22,Bournemouth,Wolves,0,1,0.9,2.0,Premier League
+2025-02-22,Ipswich Town,Tottenham,1,4,1.1,1.7,Premier League
+2025-02-22,Arsenal,West Ham,0,1,1.2,1.1,Premier League
+2025-02-22,Southampton,Brighton,0,4,0.1,3.9,Premier League
+2025-02-22,Aston Villa,Chelsea,2,1,2.3,2.3,Premier League
+2025-02-23,Newcastle Utd,Nott'ham Forest,4,3,2.9,1.7,Premier League
+2025-02-23,Manchester City,Liverpool,0,2,0.6,0.7,Premier League
+2025-02-25,Brighton,Bournemouth,2,1,2.4,1.5,Premier League
+2025-02-25,Crystal Palace,Aston Villa,4,1,4.3,0.4,Premier League
+2025-02-25,Wolves,Fulham,1,2,1.3,1.7,Premier League
+2025-02-25,Chelsea,Southampton,4,0,2.4,0.7,Premier League
+2025-02-26,Tottenham,Manchester City,0,1,1.3,2.1,Premier League
+2025-02-26,Nott'ham Forest,Arsenal,0,0,0.4,1.0,Premier League
+2025-02-26,Manchester Utd,Ipswich Town,3,2,0.7,1.4,Premier League
+2025-02-26,Brentford,Everton,1,1,1.4,1.5,Premier League
+2025-02-26,Liverpool,Newcastle Utd,2,0,1.7,0.2,Premier League
+2025-02-27,West Ham,Leicester City,2,0,1.3,0.4,Premier League
+2025-03-08,Nott'ham Forest,Manchester City,1,0,0.7,0.9,Premier League
+2025-03-08,Liverpool,Southampton,3,1,3.9,0.4,Premier League
+2025-03-08,Brighton,Fulham,2,1,1.5,0.9,Premier League
+2025-03-08,Crystal Palace,Ipswich Town,1,0,3.2,1.5,Premier League
+2025-03-08,Brentford,Aston Villa,0,1,0.8,1.3,Premier League
+2025-03-08,Wolves,Everton,1,1,0.8,1.2,Premier League
+2025-03-09,Chelsea,Leicester City,1,0,1.7,0.1,Premier League
+2025-03-09,Tottenham,Bournemouth,2,2,1.5,2.2,Premier League
+2025-03-09,Manchester Utd,Arsenal,1,1,1.5,1.6,Premier League
+2025-03-10,West Ham,Newcastle Utd,0,1,0.7,1.4,Premier League
+2025-03-15,Everton,West Ham,1,1,1.0,0.8,Premier League
+2025-03-15,Southampton,Wolves,1,2,1.3,0.4,Premier League
+2025-03-15,Ipswich Town,Nott'ham Forest,2,4,0.4,1.5,Premier League
+2025-03-15,Manchester City,Brighton,2,2,1.7,2.0,Premier League
+2025-03-15,Bournemouth,Brentford,1,2,1.6,0.8,Premier League
+2025-03-16,Arsenal,Chelsea,1,0,0.7,0.4,Premier League
+2025-03-16,Fulham,Tottenham,2,0,1.0,0.9,Premier League
+2025-03-16,Leicester City,Manchester Utd,0,3,1.0,0.9,Premier League
+2025-04-01,Arsenal,Fulham,2,1,2.2,1.0,Premier League
+2025-04-01,Wolves,West Ham,1,0,1.2,1.3,Premier League
+2025-04-01,Nott'ham Forest,Manchester Utd,1,0,0.5,1.6,Premier League
+2025-04-02,Newcastle Utd,Brentford,2,1,1.3,1.5,Premier League
+2025-04-02,Manchester City,Leicester City,2,0,2.2,0.1,Premier League
+2025-04-02,Southampton,Crystal Palace,1,1,0.7,0.7,Premier League
+2025-04-02,Bournemouth,Ipswich Town,1,2,1.8,1.2,Premier League
+2025-04-02,Brighton,Aston Villa,0,3,0.9,1.2,Premier League
+2025-04-02,Liverpool,Everton,1,0,1.5,0.9,Premier League
+2025-04-03,Chelsea,Tottenham,1,0,1.0,0.9,Premier League
+2025-04-05,Everton,Arsenal,1,1,1.1,1.8,Premier League
+2025-04-05,Crystal Palace,Brighton,2,1,0.6,1.0,Premier League
+2025-04-05,Ipswich Town,Wolves,1,2,0.8,2.6,Premier League
+2025-04-05,West Ham,Bournemouth,2,2,0.7,2.1,Premier League
+2025-04-05,Aston Villa,Nott'ham Forest,2,1,3.0,1.5,Premier League
+2025-04-06,Fulham,Liverpool,3,2,0.7,1.5,Premier League
+2025-04-06,Brentford,Chelsea,0,0,1.1,1.2,Premier League
+2025-04-06,Tottenham,Southampton,3,1,2.1,1.0,Premier League
+2025-04-06,Manchester Utd,Manchester City,0,0,0.9,0.5,Premier League
+2025-04-07,Leicester City,Newcastle Utd,0,3,0.5,3.2,Premier League
+2025-04-12,Manchester City,Crystal Palace,5,2,3.7,1.8,Premier League
+2025-04-12,Brighton,Leicester City,2,2,3.8,1.5,Premier League
+2025-04-12,Southampton,Aston Villa,0,3,0.3,3.0,Premier League
+2025-04-12,Nott'ham Forest,Everton,0,1,0.5,1.4,Premier League
+2025-04-12,Arsenal,Brentford,1,1,1.0,0.2,Premier League
+2025-04-13,Liverpool,West Ham,2,1,1.8,1.4,Premier League
+2025-04-13,Chelsea,Ipswich Town,2,2,2.2,1.1,Premier League
+2025-04-13,Wolves,Tottenham,4,2,2.4,2.0,Premier League
+2025-04-13,Newcastle Utd,Manchester Utd,4,1,2.2,0.7,Premier League
+2025-04-14,Bournemouth,Fulham,1,0,1.4,1.0,Premier League
+2025-04-16,Newcastle Utd,Crystal Palace,5,0,1.5,2.0,Premier League
+2025-04-19,Everton,Manchester City,0,2,0.9,2.0,Premier League
+2025-04-19,West Ham,Southampton,1,1,0.9,0.6,Premier League
+2025-04-19,Crystal Palace,Bournemouth,0,0,0.4,0.7,Premier League
+2025-04-19,Brentford,Brighton,4,2,2.1,1.4,Premier League
+2025-04-19,Aston Villa,Newcastle Utd,4,1,2.2,1.0,Premier League
+2025-04-20,Fulham,Chelsea,1,2,0.3,0.9,Premier League
+2025-04-20,Ipswich Town,Arsenal,0,4,0.2,2.4,Premier League
+2025-04-20,Manchester Utd,Wolves,0,1,1.3,0.2,Premier League
+2025-04-20,Leicester City,Liverpool,0,1,0.3,2.5,Premier League
+2025-04-21,Tottenham,Nott'ham Forest,1,2,2.1,0.5,Premier League
+2025-04-22,Manchester City,Aston Villa,2,1,1.3,1.8,Premier League
+2025-04-23,Arsenal,Crystal Palace,2,2,1.2,1.7,Premier League
+2025-04-26,Chelsea,Everton,1,0,0.8,0.4,Premier League
+2025-04-26,Brighton,West Ham,3,2,1.3,1.3,Premier League
+2025-04-26,Wolves,Leicester City,3,0,2.0,1.1,Premier League
+2025-04-26,Southampton,Fulham,1,2,0.6,2.4,Premier League
+2025-04-26,Newcastle Utd,Ipswich Town,3,0,2.4,0.1,Premier League
+2025-04-27,Bournemouth,Manchester Utd,1,1,0.5,2.3,Premier League
+2025-04-27,Liverpool,Tottenham,5,1,2.2,0.5,Premier League
+2025-05-01,Nott'ham Forest,Brentford,0,2,0.9,1.3,Premier League
+2025-05-02,Manchester City,Wolves,1,0,0.7,0.4,Premier League
+2025-05-03,Aston Villa,Fulham,1,0,1.0,0.9,Premier League
+2025-05-03,Leicester City,Southampton,2,0,1.4,0.5,Premier League
+2025-05-03,Everton,Ipswich Town,2,2,0.6,0.8,Premier League
+2025-05-03,Arsenal,Bournemouth,1,2,1.4,0.9,Premier League
+2025-05-04,Brighton,Newcastle Utd,1,1,0.7,1.7,Premier League
+2025-05-04,West Ham,Tottenham,1,1,0.8,0.8,Premier League
+2025-05-04,Brentford,Manchester Utd,4,3,2.8,1.5,Premier League
+2025-05-04,Chelsea,Liverpool,3,1,3.1,1.0,Premier League
+2025-05-05,Crystal Palace,Nott'ham Forest,1,1,2.3,0.7,Premier League
+2025-05-10,Ipswich Town,Brentford,0,1,0.9,1.4,Premier League
+2025-05-10,Fulham,Everton,1,3,0.8,1.1,Premier League
+2025-05-10,Wolves,Brighton,0,2,0.9,1.6,Premier League
+2025-05-10,Southampton,Manchester City,0,0,0.1,1.7,Premier League
+2025-05-10,Bournemouth,Aston Villa,0,1,0.8,1.0,Premier League
+2025-05-11,Newcastle Utd,Chelsea,2,0,1.6,0.7,Premier League
+2025-05-11,Nott'ham Forest,Leicester City,2,2,1.3,1.1,Premier League
+2025-05-11,Tottenham,Crystal Palace,0,2,0.7,3.4,Premier League
+2025-05-11,Manchester Utd,West Ham,0,2,2.1,1.7,Premier League
+2025-05-11,Liverpool,Arsenal,2,2,2.4,2.6,Premier League
+2025-05-16,Aston Villa,Tottenham,2,0,1.4,0.5,Premier League
+2025-05-16,Chelsea,Manchester Utd,1,0,0.8,0.3,Premier League
+2025-05-18,Everton,Southampton,2,0,2.7,1.2,Premier League
+2025-05-18,West Ham,Nott'ham Forest,1,2,1.1,1.9,Premier League
+2025-05-18,Brentford,Fulham,2,3,2.5,1.0,Premier League
+2025-05-18,Leicester City,Ipswich Town,2,0,0.8,1.4,Premier League
+2025-05-18,Arsenal,Newcastle Utd,1,0,0.6,1.5,Premier League
+2025-05-19,Brighton,Liverpool,3,2,2.2,2.2,Premier League
+2025-05-20,Manchester City,Bournemouth,3,1,1.5,1.1,Premier League
+2025-05-20,Crystal Palace,Wolves,4,2,1.7,1.4,Premier League
+2024-08-15,Athletic Club,Getafe,1,1,0.3,0.8,La Liga
+2024-08-15,Betis,Girona,1,1,1.4,1.6,La Liga
+2024-08-16,Celta Vigo,Alavés,2,1,0.8,1.6,La Liga
+2024-08-16,Las Palmas,Sevilla,2,2,1.4,1.8,La Liga
+2024-08-17,Osasuna,Leganés,1,1,1.7,1.0,La Liga
+2024-08-17,Valencia,Barcelona,1,2,1.0,3.2,La Liga
+2024-08-18,Real Sociedad,Rayo Vallecano,1,2,1.1,1.1,La Liga
+2024-08-18,Mallorca,Real Madrid,1,1,1.0,0.6,La Liga
+2024-08-19,Valladolid,Espanyol,1,0,0.8,0.7,La Liga
+2024-08-19,Villarreal,Atlético Madrid,2,2,0.8,1.1,La Liga
+2024-08-23,Celta Vigo,Valencia,3,1,1.3,0.9,La Liga
+2024-08-23,Sevilla,Villarreal,1,2,1.0,0.9,La Liga
+2024-08-24,Osasuna,Mallorca,1,0,0.6,0.6,La Liga
+2024-08-24,Barcelona,Athletic Club,2,1,1.8,1.0,La Liga
+2024-08-24,Getafe,Rayo Vallecano,0,0,0.5,0.2,La Liga
+2024-08-24,Espanyol,Real Sociedad,0,1,1.6,0.7,La Liga
+2024-08-25,Real Madrid,Valladolid,3,0,2.1,0.4,La Liga
+2024-08-25,Leganés,Las Palmas,2,1,1.5,0.9,La Liga
+2024-08-25,Alavés,Betis,0,0,0.2,1.5,La Liga
+2024-08-25,Atlético Madrid,Girona,3,0,1.2,0.7,La Liga
+2024-08-26,Villarreal,Celta Vigo,4,3,3.6,2.7,La Liga
+2024-08-27,Mallorca,Sevilla,0,0,0.9,0.7,La Liga
+2024-08-27,Rayo Vallecano,Barcelona,1,2,0.4,1.4,La Liga
+2024-08-28,Athletic Club,Valencia,1,0,1.4,0.1,La Liga
+2024-08-28,Valladolid,Leganés,0,0,1.1,0.2,La Liga
+2024-08-28,Atlético Madrid,Espanyol,0,0,2.3,0.6,La Liga
+2024-08-28,Real Sociedad,Alavés,1,2,1.0,1.6,La Liga
+2024-08-29,Girona,Osasuna,4,0,2.4,0.0,La Liga
+2024-08-29,Las Palmas,Real Madrid,1,1,0.8,2.5,La Liga
+2024-08-31,Barcelona,Valladolid,7,0,4.7,0.5,La Liga
+2024-08-31,Athletic Club,Atlético Madrid,0,1,0.3,1.7,La Liga
+2024-08-31,Espanyol,Rayo Vallecano,2,1,1.6,1.3,La Liga
+2024-08-31,Valencia,Villarreal,1,1,1.1,0.5,La Liga
+2024-08-31,Leganés,Mallorca,0,1,0.3,1.0,La Liga
+2024-09-01,Alavés,Las Palmas,2,0,2.0,0.7,La Liga
+2024-09-01,Osasuna,Celta Vigo,3,2,0.9,1.7,La Liga
+2024-09-01,Sevilla,Girona,0,2,0.9,1.9,La Liga
+2024-09-01,Getafe,Real Sociedad,0,0,0.6,0.0,La Liga
+2024-09-01,Real Madrid,Betis,2,0,2.4,0.6,La Liga
+2024-09-13,Betis,Leganés,2,0,2.1,0.1,La Liga
+2024-09-14,Mallorca,Villarreal,1,2,0.3,1.8,La Liga
+2024-09-14,Espanyol,Alavés,3,2,1.6,1.9,La Liga
+2024-09-14,Sevilla,Getafe,1,0,1.4,1.0,La Liga
+2024-09-14,Real Sociedad,Real Madrid,0,2,1.1,2.3,La Liga
+2024-09-15,Celta Vigo,Valladolid,3,1,1.8,0.5,La Liga
+2024-09-15,Girona,Barcelona,1,4,1.3,1.9,La Liga
+2024-09-15,Las Palmas,Athletic Club,2,3,1.4,1.7,La Liga
+2024-09-15,Atlético Madrid,Valencia,3,0,3.1,0.1,La Liga
+2024-09-16,Rayo Vallecano,Osasuna,3,1,1.6,0.3,La Liga
+2024-09-17,Mallorca,Real Sociedad,1,0,1.2,0.6,La Liga
+2024-09-18,Betis,Getafe,2,1,2.6,0.6,La Liga
+2024-09-19,Leganés,Athletic Club,0,2,0.9,1.3,La Liga
+2024-09-20,Alavés,Sevilla,2,1,1.1,0.5,La Liga
+2024-09-21,Valladolid,Real Sociedad,0,0,1.0,1.4,La Liga
+2024-09-21,Osasuna,Las Palmas,2,1,1.9,0.8,La Liga
+2024-09-21,Valencia,Girona,2,0,0.4,0.4,La Liga
+2024-09-21,Real Madrid,Espanyol,4,1,4.4,0.3,La Liga
+2024-09-22,Getafe,Leganés,1,1,1.5,0.6,La Liga
+2024-09-22,Athletic Club,Celta Vigo,3,1,0.7,1.3,La Liga
+2024-09-22,Villarreal,Barcelona,1,5,2.2,3.9,La Liga
+2024-09-22,Rayo Vallecano,Atlético Madrid,1,1,1.7,0.5,La Liga
+2024-09-23,Betis,Mallorca,1,2,1.0,1.0,La Liga
+2024-09-24,Sevilla,Valladolid,2,1,2.1,0.7,La Liga
+2024-09-24,Valencia,Osasuna,0,0,0.7,0.5,La Liga
+2024-09-24,Real Madrid,Alavés,3,2,1.3,0.9,La Liga
+2024-09-25,Girona,Rayo Vallecano,0,0,2.0,0.5,La Liga
+2024-09-25,Barcelona,Getafe,1,0,1.9,0.7,La Liga
+2024-09-26,Las Palmas,Betis,1,1,1.0,1.9,La Liga
+2024-09-26,Espanyol,Villarreal,1,2,0.4,1.6,La Liga
+2024-09-26,Celta Vigo,Atlético Madrid,0,1,1.5,0.6,La Liga
+2024-09-27,Valladolid,Mallorca,1,2,1.2,2.2,La Liga
+2024-09-28,Getafe,Alavés,2,0,2.1,0.5,La Liga
+2024-09-28,Rayo Vallecano,Leganés,1,1,0.9,0.9,La Liga
+2024-09-28,Real Sociedad,Valencia,3,0,3.4,0.8,La Liga
+2024-09-28,Osasuna,Barcelona,4,2,2.2,0.8,La Liga
+2024-09-29,Celta Vigo,Girona,1,1,0.5,0.8,La Liga
+2024-09-29,Athletic Club,Sevilla,1,1,2.0,1.1,La Liga
+2024-09-29,Betis,Espanyol,1,0,2.1,0.5,La Liga
+2024-09-29,Atlético Madrid,Real Madrid,1,1,1.3,0.8,La Liga
+2024-09-30,Villarreal,Las Palmas,3,1,2.8,0.9,La Liga
+2024-10-04,Leganés,Valencia,0,0,0.8,0.5,La Liga
+2024-10-05,Espanyol,Mallorca,2,1,0.9,1.6,La Liga
+2024-10-05,Getafe,Osasuna,1,1,0.8,0.3,La Liga
+2024-10-05,Las Palmas,Celta Vigo,0,1,1.3,0.8,La Liga
+2024-10-05,Valladolid,Rayo Vallecano,1,2,2.0,1.5,La Liga
+2024-10-05,Real Madrid,Villarreal,2,0,0.5,1.1,La Liga
+2024-10-06,Girona,Athletic Club,2,1,1.9,3.1,La Liga
+2024-10-06,Alavés,Barcelona,0,3,0.7,2.7,La Liga
+2024-10-06,Sevilla,Betis,1,0,1.4,0.6,La Liga
+2024-10-06,Real Sociedad,Atlético Madrid,1,1,1.0,0.5,La Liga
+2024-10-18,Alavés,Valladolid,2,3,0.5,2.4,La Liga
+2024-10-19,Athletic Club,Espanyol,4,1,1.3,0.2,La Liga
+2024-10-19,Osasuna,Betis,1,2,2.0,2.1,La Liga
+2024-10-19,Girona,Real Sociedad,0,1,0.4,1.7,La Liga
+2024-10-19,Celta Vigo,Real Madrid,1,2,1.8,0.7,La Liga
+2024-10-20,Mallorca,Rayo Vallecano,1,0,2.0,0.6,La Liga
+2024-10-20,Atlético Madrid,Leganés,3,1,4.4,0.3,La Liga
+2024-10-20,Villarreal,Getafe,1,1,0.9,1.9,La Liga
+2024-10-20,Barcelona,Sevilla,5,1,3.8,1.0,La Liga
+2024-10-21,Valencia,Las Palmas,2,3,1.6,1.2,La Liga
+2024-10-25,Espanyol,Sevilla,0,2,1.2,0.8,La Liga
+2024-10-26,Valladolid,Villarreal,1,2,0.9,2.0,La Liga
+2024-10-26,Rayo Vallecano,Alavés,1,0,1.9,0.9,La Liga
+2024-10-26,Las Palmas,Girona,1,0,0.9,0.6,La Liga
+2024-10-26,Real Madrid,Barcelona,0,4,1.5,2.6,La Liga
+2024-10-27,Leganés,Celta Vigo,3,0,1.6,0.9,La Liga
+2024-10-27,Getafe,Valencia,1,1,2.2,0.7,La Liga
+2024-10-27,Betis,Atlético Madrid,1,0,1.9,0.5,La Liga
+2024-10-27,Real Sociedad,Osasuna,0,2,1.6,1.0,La Liga
+2024-10-28,Mallorca,Athletic Club,0,0,0.5,0.6,La Liga
+2024-11-01,Alavés,Mallorca,1,0,1.1,0.5,La Liga
+2024-11-02,Osasuna,Valladolid,1,0,2.2,0.2,La Liga
+2024-11-02,Girona,Leganés,4,3,2.0,0.4,La Liga
+2024-11-03,Atlético Madrid,Las Palmas,2,0,1.6,0.0,La Liga
+2024-11-03,Barcelona,Espanyol,3,1,1.8,0.9,La Liga
+2024-11-03,Sevilla,Real Sociedad,0,2,1.1,1.4,La Liga
+2024-11-03,Athletic Club,Betis,1,1,4.0,0.9,La Liga
+2024-11-04,Celta Vigo,Getafe,1,0,1.9,0.5,La Liga
+2024-11-08,Rayo Vallecano,Las Palmas,1,3,2.4,1.1,La Liga
+2024-11-09,Real Madrid,Osasuna,4,0,3.1,0.1,La Liga
+2024-11-09,Villarreal,Alavés,3,0,1.5,0.5,La Liga
+2024-11-09,Leganés,Sevilla,1,0,1.1,0.6,La Liga
+2024-11-10,Betis,Celta Vigo,2,2,1.6,1.2,La Liga
+2024-11-10,Mallorca,Atlético Madrid,0,1,0.6,0.6,La Liga
+2024-11-10,Valladolid,Athletic Club,1,1,0.6,1.2,La Liga
+2024-11-10,Getafe,Girona,0,1,0.6,0.2,La Liga
+2024-11-10,Real Sociedad,Barcelona,1,0,2.0,0.7,La Liga
+2024-11-22,Getafe,Valladolid,2,0,0.6,1.1,La Liga
+2024-11-23,Valencia,Betis,4,2,1.5,1.3,La Liga
+2024-11-23,Atlético Madrid,Alavés,2,1,1.6,0.9,La Liga
+2024-11-23,Las Palmas,Mallorca,2,3,1.2,1.7,La Liga
+2024-11-23,Girona,Espanyol,4,1,3.5,0.5,La Liga
+2024-11-23,Celta Vigo,Barcelona,2,2,2.5,1.8,La Liga
+2024-11-24,Osasuna,Villarreal,2,2,1.0,2.5,La Liga
+2024-11-24,Sevilla,Rayo Vallecano,1,0,1.1,0.8,La Liga
+2024-11-24,Leganés,Real Madrid,0,3,0.1,1.8,La Liga
+2024-11-24,Athletic Club,Real Sociedad,1,0,1.3,0.5,La Liga
+2024-11-29,Mallorca,Valencia,2,1,0.8,1.3,La Liga
+2024-11-30,Barcelona,Las Palmas,1,2,2.3,0.5,La Liga
+2024-11-30,Alavés,Leganés,1,1,1.1,0.9,La Liga
+2024-11-30,Espanyol,Celta Vigo,3,1,0.9,1.6,La Liga
+2024-11-30,Valladolid,Atlético Madrid,0,5,0.6,4.0,La Liga
+2024-12-01,Villarreal,Girona,2,2,2.0,0.5,La Liga
+2024-12-01,Real Madrid,Getafe,2,0,3.2,0.5,La Liga
+2024-12-01,Rayo Vallecano,Athletic Club,1,2,0.2,0.7,La Liga
+2024-12-01,Real Sociedad,Betis,2,0,0.8,0.4,La Liga
+2024-12-02,Sevilla,Osasuna,1,1,1.3,0.7,La Liga
+2024-12-03,Mallorca,Barcelona,1,5,0.9,5.0,La Liga
+2024-12-04,Athletic Club,Real Madrid,2,1,1.8,1.7,La Liga
+2024-12-06,Celta Vigo,Mallorca,2,0,0.9,0.8,La Liga
+2024-12-07,Las Palmas,Valladolid,2,1,1.1,1.3,La Liga
+2024-12-07,Betis,Barcelona,2,2,3.1,1.9,La Liga
+2024-12-07,Valencia,Rayo Vallecano,0,1,1.3,0.9,La Liga
+2024-12-07,Girona,Real Madrid,0,3,0.4,0.9,La Liga
+2024-12-08,Leganés,Real Sociedad,0,3,0.7,1.8,La Liga
+2024-12-08,Athletic Club,Villarreal,2,0,1.2,0.8,La Liga
+2024-12-08,Osasuna,Alavés,2,2,1.8,1.3,La Liga
+2024-12-08,Atlético Madrid,Sevilla,4,3,2.0,0.4,La Liga
+2024-12-09,Getafe,Espanyol,1,0,0.4,0.7,La Liga
+2024-12-13,Valladolid,Valencia,1,0,0.6,0.8,La Liga
+2024-12-14,Espanyol,Osasuna,0,0,0.3,0.3,La Liga
+2024-12-14,Mallorca,Girona,2,1,1.2,0.8,La Liga
+2024-12-14,Sevilla,Celta Vigo,1,0,0.7,1.2,La Liga
+2024-12-14,Rayo Vallecano,Real Madrid,3,3,1.6,0.7,La Liga
+2024-12-15,Atlético Madrid,Getafe,1,0,1.7,0.2,La Liga
+2024-12-15,Alavés,Athletic Club,1,1,0.9,0.7,La Liga
+2024-12-15,Real Sociedad,Las Palmas,0,0,1.1,1.0,La Liga
+2024-12-15,Villarreal,Betis,1,2,1.9,0.8,La Liga
+2024-12-15,Barcelona,Leganés,0,1,2.6,0.4,La Liga
+2024-12-18,Villarreal,Rayo Vallecano,1,1,1.4,1.5,La Liga
+2024-12-18,Espanyol,Valencia,1,1,2.1,2.0,La Liga
+2024-12-20,Girona,Valladolid,3,0,2.5,0.0,La Liga
+2024-12-21,Getafe,Mallorca,0,1,0.8,2.3,La Liga
+2024-12-21,Celta Vigo,Real Sociedad,2,0,1.3,0.3,La Liga
+2024-12-21,Osasuna,Athletic Club,1,2,0.6,1.2,La Liga
+2024-12-21,Barcelona,Atlético Madrid,1,2,2.7,0.7,La Liga
+2024-12-22,Valencia,Alavés,2,2,1.5,1.6,La Liga
+2024-12-22,Real Madrid,Sevilla,4,2,2.0,1.3,La Liga
+2024-12-22,Las Palmas,Espanyol,1,0,0.9,0.7,La Liga
+2024-12-22,Leganés,Villarreal,2,5,1.2,3.3,La Liga
+2024-12-22,Betis,Rayo Vallecano,1,1,2.1,0.9,La Liga
+2025-01-03,Valencia,Real Madrid,1,2,1.3,2.7,La Liga
+2025-01-10,Rayo Vallecano,Celta Vigo,2,1,0.7,2.1,La Liga
+2025-01-11,Alavés,Girona,0,1,1.3,0.5,La Liga
+2025-01-11,Valladolid,Betis,1,0,1.2,0.7,La Liga
+2025-01-11,Espanyol,Leganés,1,1,0.7,2.0,La Liga
+2025-01-11,Sevilla,Valencia,1,1,0.5,0.7,La Liga
+2025-01-12,Las Palmas,Getafe,1,2,1.3,1.1,La Liga
+2025-01-12,Atlético Madrid,Osasuna,1,0,2.5,0.3,La Liga
+2025-01-13,Real Sociedad,Villarreal,1,0,0.8,1.2,La Liga
+2025-01-17,Espanyol,Valladolid,2,1,1.0,1.2,La Liga
+2025-01-18,Girona,Sevilla,1,2,1.0,2.6,La Liga
+2025-01-18,Leganés,Atlético Madrid,1,0,0.5,2.4,La Liga
+2025-01-18,Betis,Alavés,1,3,0.5,1.5,La Liga
+2025-01-18,Getafe,Barcelona,1,1,1.3,2.3,La Liga
+2025-01-19,Celta Vigo,Athletic Club,1,2,0.6,1.8,La Liga
+2025-01-19,Real Madrid,Las Palmas,4,1,5.9,1.1,La Liga
+2025-01-19,Osasuna,Rayo Vallecano,1,1,0.8,0.8,La Liga
+2025-01-19,Valencia,Real Sociedad,1,0,1.6,0.8,La Liga
+2025-01-20,Villarreal,Mallorca,4,0,2.4,0.5,La Liga
+2025-01-24,Las Palmas,Osasuna,1,1,0.8,2.6,La Liga
+2025-01-25,Mallorca,Betis,0,1,1.0,0.4,La Liga
+2025-01-25,Atlético Madrid,Villarreal,1,1,1.7,2.2,La Liga
+2025-01-25,Sevilla,Espanyol,1,1,1.2,0.7,La Liga
+2025-01-25,Valladolid,Real Madrid,0,3,0.2,2.0,La Liga
+2025-01-26,Rayo Vallecano,Girona,2,1,2.4,1.0,La Liga
+2025-01-26,Real Sociedad,Getafe,0,3,0.9,1.4,La Liga
+2025-01-26,Athletic Club,Leganés,0,0,2.1,1.0,La Liga
+2025-01-26,Barcelona,Valencia,7,1,4.4,1.5,La Liga
+2025-01-27,Alavés,Celta Vigo,1,1,0.9,0.1,La Liga
+2025-01-31,Leganés,Rayo Vallecano,0,1,0.9,2.2,La Liga
+2025-02-01,Getafe,Sevilla,0,0,1.0,0.9,La Liga
+2025-02-01,Villarreal,Valladolid,5,1,3.5,0.5,La Liga
+2025-02-01,Atlético Madrid,Mallorca,2,0,1.3,0.5,La Liga
+2025-02-01,Espanyol,Real Madrid,1,0,0.3,1.3,La Liga
+2025-02-02,Barcelona,Alavés,1,0,1.0,0.1,La Liga
+2025-02-02,Valencia,Celta Vigo,2,1,1.6,0.4,La Liga
+2025-02-02,Osasuna,Real Sociedad,2,1,0.7,2.0,La Liga
+2025-02-02,Betis,Athletic Club,2,2,1.1,1.4,La Liga
+2025-02-03,Girona,Las Palmas,2,1,2.0,1.5,La Liga
+2025-02-07,Rayo Vallecano,Valladolid,1,0,2.3,0.4,La Liga
+2025-02-08,Celta Vigo,Betis,3,2,2.2,1.3,La Liga
+2025-02-08,Athletic Club,Girona,3,0,3.6,0.1,La Liga
+2025-02-08,Las Palmas,Villarreal,1,2,1.4,0.9,La Liga
+2025-02-08,Real Madrid,Atlético Madrid,1,1,1.6,1.5,La Liga
+2025-02-09,Alavés,Getafe,0,1,1.4,0.9,La Liga
+2025-02-09,Valencia,Leganés,2,0,1.9,0.5,La Liga
+2025-02-09,Real Sociedad,Espanyol,2,1,1.7,0.9,La Liga
+2025-02-09,Sevilla,Barcelona,1,4,0.7,1.9,La Liga
+2025-02-10,Mallorca,Osasuna,1,1,1.3,1.4,La Liga
+2025-02-14,Girona,Getafe,1,2,0.9,0.6,La Liga
+2025-02-15,Leganés,Alavés,3,3,1.8,1.7,La Liga
+2025-02-15,Osasuna,Real Madrid,1,1,1.4,1.4,La Liga
+2025-02-15,Atlético Madrid,Celta Vigo,1,1,0.6,1.7,La Liga
+2025-02-15,Villarreal,Valencia,1,1,1.3,1.1,La Liga
+2025-02-16,Espanyol,Athletic Club,1,1,0.8,1.0,La Liga
+2025-02-16,Valladolid,Sevilla,0,4,0.5,1.1,La Liga
+2025-02-16,Mallorca,Las Palmas,3,1,1.7,0.8,La Liga
+2025-02-16,Betis,Real Sociedad,3,0,2.3,0.3,La Liga
+2025-02-17,Barcelona,Rayo Vallecano,1,0,2.3,1.0,La Liga
+2025-02-21,Celta Vigo,Osasuna,1,0,1.8,1.2,La Liga
+2025-02-22,Alavés,Espanyol,0,1,1.8,0.4,La Liga
+2025-02-22,Rayo Vallecano,Villarreal,0,1,0.6,0.6,La Liga
+2025-02-22,Valencia,Atlético Madrid,0,3,0.8,1.3,La Liga
+2025-02-22,Las Palmas,Barcelona,0,2,0.4,1.4,La Liga
+2025-02-23,Athletic Club,Valladolid,7,1,3.8,0.5,La Liga
+2025-02-23,Real Madrid,Girona,2,0,2.2,0.4,La Liga
+2025-02-23,Getafe,Betis,1,2,1.2,2.0,La Liga
+2025-02-23,Real Sociedad,Leganés,3,0,0.7,0.3,La Liga
+2025-02-24,Sevilla,Mallorca,1,1,1.3,2.3,La Liga
+2025-02-28,Valladolid,Las Palmas,1,1,1.8,0.2,La Liga
+2025-03-01,Girona,Celta Vigo,2,2,0.7,1.8,La Liga
+2025-03-01,Rayo Vallecano,Sevilla,1,1,2.8,0.6,La Liga
+2025-03-01,Betis,Real Madrid,2,1,2.4,0.9,La Liga
+2025-03-01,Atlético Madrid,Athletic Club,1,0,2.2,1.1,La Liga
+2025-03-02,Leganés,Getafe,1,0,1.0,0.3,La Liga
+2025-03-02,Barcelona,Real Sociedad,4,0,2.8,0.0,La Liga
+2025-03-02,Mallorca,Alavés,1,1,1.1,1.6,La Liga
+2025-03-02,Osasuna,Valencia,3,3,1.5,1.7,La Liga
+2025-03-08,Celta Vigo,Leganés,2,1,0.9,1.0,La Liga
+2025-03-08,Alavés,Villarreal,1,0,1.0,2.8,La Liga
+2025-03-08,Valencia,Valladolid,2,1,1.9,0.9,La Liga
+2025-03-09,Getafe,Atlético Madrid,2,1,1.2,0.9,La Liga
+2025-03-09,Real Madrid,Rayo Vallecano,2,1,1.5,1.0,La Liga
+2025-03-09,Betis,Las Palmas,1,0,2.3,0.6,La Liga
+2025-03-09,Athletic Club,Mallorca,1,1,0.7,0.5,La Liga
+2025-03-09,Real Sociedad,Sevilla,0,1,0.7,0.6,La Liga
+2025-03-10,Espanyol,Girona,1,1,0.2,1.6,La Liga
+2025-03-14,Las Palmas,Alavés,2,2,1.8,1.7,La Liga
+2025-03-15,Valladolid,Celta Vigo,0,1,0.7,1.5,La Liga
+2025-03-15,Mallorca,Espanyol,2,1,2.7,0.2,La Liga
+2025-03-15,Villarreal,Real Madrid,1,2,1.6,1.1,La Liga
+2025-03-15,Girona,Valencia,1,1,0.9,1.0,La Liga
+2025-03-16,Leganés,Betis,2,3,1.3,2.7,La Liga
+2025-03-16,Sevilla,Athletic Club,0,1,0.5,1.3,La Liga
+2025-03-16,Osasuna,Getafe,1,2,1.9,0.5,La Liga
+2025-03-16,Rayo Vallecano,Real Sociedad,2,2,0.6,0.6,La Liga
+2025-03-16,Atlético Madrid,Barcelona,2,4,1.4,1.3,La Liga
+2025-03-27,Barcelona,Osasuna,3,0,3.7,0.4,La Liga
+2025-03-29,Real Sociedad,Valladolid,2,1,0.7,0.7,La Liga
+2025-03-29,Espanyol,Atlético Madrid,1,1,1.0,0.8,La Liga
+2025-03-29,Alavés,Rayo Vallecano,0,2,1.5,0.6,La Liga
+2025-03-29,Real Madrid,Leganés,3,2,2.9,2.4,La Liga
+2025-03-30,Getafe,Villarreal,1,2,1.0,1.2,La Liga
+2025-03-30,Barcelona,Girona,4,1,2.3,0.5,La Liga
+2025-03-30,Valencia,Mallorca,1,0,0.7,0.6,La Liga
+2025-03-30,Athletic Club,Osasuna,0,0,0.7,0.4,La Liga
+2025-03-30,Betis,Sevilla,2,1,1.1,0.7,La Liga
+2025-03-31,Celta Vigo,Las Palmas,1,1,1.0,0.3,La Liga
+2025-04-04,Rayo Vallecano,Espanyol,0,4,0.7,3.4,La Liga
+2025-04-05,Girona,Alavés,0,1,1.4,0.8,La Liga
+2025-04-05,Real Madrid,Valencia,1,2,3.4,0.8,La Liga
+2025-04-05,Mallorca,Celta Vigo,1,2,0.5,0.8,La Liga
+2025-04-05,Barcelona,Betis,1,1,1.4,0.3,La Liga
+2025-04-06,Las Palmas,Real Sociedad,1,3,2.0,2.4,La Liga
+2025-04-06,Sevilla,Atlético Madrid,1,2,0.9,1.3,La Liga
+2025-04-06,Valladolid,Getafe,0,4,0.6,1.9,La Liga
+2025-04-06,Villarreal,Athletic Club,0,0,2.1,0.8,La Liga
+2025-04-07,Leganés,Osasuna,1,1,1.7,2.2,La Liga
+2025-04-11,Valencia,Sevilla,1,0,1.3,0.8,La Liga
+2025-04-12,Real Sociedad,Mallorca,0,2,0.7,0.7,La Liga
+2025-04-12,Getafe,Las Palmas,1,3,1.4,1.3,La Liga
+2025-04-12,Celta Vigo,Espanyol,0,2,0.9,1.2,La Liga
+2025-04-12,Leganés,Barcelona,0,1,0.7,1.4,La Liga
+2025-04-13,Osasuna,Girona,2,1,1.7,0.9,La Liga
+2025-04-13,Alavés,Real Madrid,0,1,0.6,0.9,La Liga
+2025-04-13,Betis,Villarreal,1,2,1.4,1.3,La Liga
+2025-04-13,Athletic Club,Rayo Vallecano,3,1,1.6,1.6,La Liga
+2025-04-14,Atlético Madrid,Valladolid,4,2,3.4,1.2,La Liga
+2025-04-18,Espanyol,Getafe,1,0,0.4,0.4,La Liga
+2025-04-19,Rayo Vallecano,Valencia,1,1,0.5,2.0,La Liga
+2025-04-19,Barcelona,Celta Vigo,4,3,2.9,2.1,La Liga
+2025-04-19,Mallorca,Leganés,0,0,0.9,0.9,La Liga
+2025-04-19,Las Palmas,Atlético Madrid,1,0,0.6,0.8,La Liga
+2025-04-20,Valladolid,Osasuna,2,3,1.9,2.3,La Liga
+2025-04-20,Villarreal,Real Sociedad,2,2,1.9,1.7,La Liga
+2025-04-20,Sevilla,Alavés,1,1,1.6,1.0,La Liga
+2025-04-20,Real Madrid,Athletic Club,1,0,1.5,0.2,La Liga
+2025-04-21,Girona,Betis,1,3,1.1,1.7,La Liga
+2025-04-22,Valencia,Espanyol,1,1,0.9,0.3,La Liga
+2025-04-22,Barcelona,Mallorca,1,0,3.3,0.3,La Liga
+2025-04-23,Celta Vigo,Villarreal,3,0,2.7,0.4,La Liga
+2025-04-23,Athletic Club,Las Palmas,1,0,2.1,1.0,La Liga
+2025-04-23,Alavés,Real Sociedad,1,0,0.6,0.8,La Liga
+2025-04-23,Getafe,Real Madrid,0,1,2.3,1.5,La Liga
+2025-04-24,Osasuna,Sevilla,1,0,0.3,1.1,La Liga
+2025-04-24,Leganés,Girona,1,1,0.3,0.5,La Liga
+2025-04-24,Atlético Madrid,Rayo Vallecano,3,0,2.3,0.7,La Liga
+2025-04-24,Betis,Valladolid,5,1,1.9,0.9,La Liga
+2025-04-27,Villarreal,Espanyol,1,0,1.4,1.0,La Liga
+2025-05-02,Rayo Vallecano,Getafe,1,0,1.2,0.9,La Liga
+2025-05-03,Alavés,Atlético Madrid,0,0,0.5,0.5,La Liga
+2025-05-03,Villarreal,Osasuna,4,2,2.2,1.2,La Liga
+2025-05-03,Las Palmas,Valencia,2,3,1.7,1.4,La Liga
+2025-05-03,Valladolid,Barcelona,1,2,0.6,1.9,La Liga
+2025-05-04,Real Madrid,Celta Vigo,3,2,2.2,1.8,La Liga
+2025-05-04,Sevilla,Leganés,2,2,2.7,0.6,La Liga
+2025-05-04,Espanyol,Betis,1,2,1.2,1.1,La Liga
+2025-05-04,Real Sociedad,Athletic Club,0,0,0.9,0.2,La Liga
+2025-05-05,Girona,Mallorca,1,0,1.3,0.5,La Liga
+2025-05-09,Las Palmas,Rayo Vallecano,0,1,0.7,1.2,La Liga
+2025-05-10,Valencia,Getafe,3,0,2.7,0.5,La Liga
+2025-05-10,Celta Vigo,Sevilla,3,2,0.9,2.3,La Liga
+2025-05-10,Mallorca,Valladolid,2,1,1.0,1.8,La Liga
+2025-05-10,Girona,Villarreal,0,1,0.2,2.0,La Liga
+2025-05-10,Atlético Madrid,Real Sociedad,4,0,1.4,0.6,La Liga
+2025-05-11,Leganés,Espanyol,3,2,1.5,1.2,La Liga
+2025-05-11,Barcelona,Real Madrid,4,3,4.2,2.7,La Liga
+2025-05-11,Athletic Club,Alavés,1,0,1.3,0.4,La Liga
+2025-05-11,Betis,Osasuna,1,1,0.4,2.0,La Liga
+2025-05-13,Valladolid,Girona,0,1,0.9,1.4,La Liga
+2025-05-13,Real Sociedad,Celta Vigo,0,1,1.7,1.1,La Liga
+2025-05-13,Sevilla,Las Palmas,1,0,1.3,0.5,La Liga
+2025-05-14,Alavés,Valencia,1,0,1.8,0.8,La Liga
+2025-05-14,Villarreal,Leganés,3,0,1.6,1.1,La Liga
+2025-05-14,Real Madrid,Mallorca,2,1,2.6,0.5,La Liga
+2025-05-15,Rayo Vallecano,Betis,2,2,1.2,1.2,La Liga
+2025-05-15,Osasuna,Atlético Madrid,2,0,0.6,1.4,La Liga
+2025-05-15,Getafe,Athletic Club,0,2,0.4,1.2,La Liga
+2025-05-15,Espanyol,Barcelona,0,2,1.4,0.6,La Liga
+2025-05-18,Las Palmas,Leganés,0,1,0.6,1.5,La Liga
+2025-05-18,Mallorca,Getafe,1,2,0.4,1.6,La Liga
+2025-05-18,Valencia,Athletic Club,0,1,0.4,1.1,La Liga
+2025-05-18,Atlético Madrid,Betis,4,1,4.8,0.9,La Liga
+2025-05-18,Osasuna,Espanyol,2,0,1.2,0.7,La Liga
+2025-05-18,Barcelona,Villarreal,2,3,1.4,1.8,La Liga
+2025-05-18,Valladolid,Alavés,0,1,1.6,1.4,La Liga
+2025-05-18,Real Sociedad,Girona,3,2,2.0,2.3,La Liga
+2025-05-18,Sevilla,Real Madrid,0,2,0.5,2.0,La Liga
+2025-05-18,Celta Vigo,Rayo Vallecano,1,2,2.4,1.2,La Liga
+2024-08-23,Gladbach,Leverkusen,2,3,1.6,2.7,Bundesliga
+2024-08-24,Hoffenheim,Holstein Kiel,3,2,3.5,1.7,Bundesliga
+2024-08-24,Mainz 05,Union Berlin,1,1,1.2,0.6,Bundesliga
+2024-08-24,Augsburg,Werder Bremen,2,2,1.0,1.4,Bundesliga
+2024-08-24,Freiburg,Stuttgart,3,1,2.1,0.4,Bundesliga
+2024-08-24,RB Leipzig,Bochum,1,0,1.3,1.0,Bundesliga
+2024-08-24,Dortmund,Eint Frankfurt,2,0,1.7,1.4,Bundesliga
+2024-08-25,Wolfsburg,Bayern Munich,2,3,1.9,2.4,Bundesliga
+2024-08-25,St. Pauli,Heidenheim,0,2,1.2,1.1,Bundesliga
+2024-08-30,Union Berlin,St. Pauli,1,0,1.1,0.5,Bundesliga
+2024-08-31,Werder Bremen,Dortmund,0,0,0.3,0.6,Bundesliga
+2024-08-31,Eint Frankfurt,Hoffenheim,3,1,2.4,1.0,Bundesliga
+2024-08-31,Bochum,Gladbach,0,2,0.7,2.9,Bundesliga
+2024-08-31,Holstein Kiel,Wolfsburg,0,2,1.1,1.3,Bundesliga
+2024-08-31,Stuttgart,Mainz 05,3,3,3.8,2.3,Bundesliga
+2024-08-31,Leverkusen,RB Leipzig,2,3,2.2,1.1,Bundesliga
+2024-09-01,Heidenheim,Augsburg,4,0,3.1,0.7,Bundesliga
+2024-09-01,Bayern Munich,Freiburg,2,0,1.5,1.0,Bundesliga
+2024-09-13,Dortmund,Heidenheim,4,2,2.6,1.8,Bundesliga
+2024-09-14,RB Leipzig,Union Berlin,0,0,1.3,0.6,Bundesliga
+2024-09-14,Gladbach,Stuttgart,1,3,1.6,2.2,Bundesliga
+2024-09-14,Freiburg,Bochum,2,1,3.7,0.9,Bundesliga
+2024-09-14,Wolfsburg,Eint Frankfurt,1,2,1.5,2.5,Bundesliga
+2024-09-14,Hoffenheim,Leverkusen,1,4,0.9,3.5,Bundesliga
+2024-09-14,Holstein Kiel,Bayern Munich,1,6,0.3,3.2,Bundesliga
+2024-09-15,Augsburg,St. Pauli,3,1,2.7,0.5,Bundesliga
+2024-09-15,Mainz 05,Werder Bremen,1,2,1.1,1.6,Bundesliga
+2024-09-20,Augsburg,Mainz 05,2,3,2.4,1.0,Bundesliga
+2024-09-21,Union Berlin,Hoffenheim,2,1,1.2,0.4,Bundesliga
+2024-09-21,Bochum,Holstein Kiel,2,2,0.8,1.9,Bundesliga
+2024-09-21,Heidenheim,Freiburg,0,3,0.7,1.4,Bundesliga
+2024-09-21,Werder Bremen,Bayern Munich,0,5,0.0,3.0,Bundesliga
+2024-09-21,Eint Frankfurt,Gladbach,2,0,2.7,1.7,Bundesliga
+2024-09-22,Leverkusen,Wolfsburg,4,3,1.9,0.7,Bundesliga
+2024-09-22,Stuttgart,Dortmund,5,1,3.4,0.7,Bundesliga
+2024-09-22,St. Pauli,RB Leipzig,0,0,1.4,0.7,Bundesliga
+2024-09-27,Dortmund,Bochum,4,2,3.2,1.3,Bundesliga
+2024-09-28,Mainz 05,Heidenheim,0,2,0.6,1.2,Bundesliga
+2024-09-28,Freiburg,St. Pauli,0,3,1.2,1.1,Bundesliga
+2024-09-28,RB Leipzig,Augsburg,4,0,3.0,1.1,Bundesliga
+2024-09-28,Gladbach,Union Berlin,1,0,0.9,0.7,Bundesliga
+2024-09-28,Wolfsburg,Stuttgart,2,2,1.1,1.8,Bundesliga
+2024-09-28,Bayern Munich,Leverkusen,1,1,1.4,0.1,Bundesliga
+2024-09-29,Holstein Kiel,Eint Frankfurt,2,4,1.1,2.1,Bundesliga
+2024-09-29,Hoffenheim,Werder Bremen,3,4,1.2,2.9,Bundesliga
+2024-10-04,Augsburg,Gladbach,2,1,1.3,0.5,Bundesliga
+2024-10-05,Bochum,Wolfsburg,1,3,1.7,2.4,Bundesliga
+2024-10-05,Union Berlin,Dortmund,2,1,1.5,0.7,Bundesliga
+2024-10-05,Werder Bremen,Freiburg,0,1,1.0,1.0,Bundesliga
+2024-10-05,Leverkusen,Holstein Kiel,2,2,2.1,1.6,Bundesliga
+2024-10-05,St. Pauli,Mainz 05,0,3,1.0,1.1,Bundesliga
+2024-10-06,Heidenheim,RB Leipzig,0,1,1.0,1.4,Bundesliga
+2024-10-06,Eint Frankfurt,Bayern Munich,3,3,1.2,2.2,Bundesliga
+2024-10-06,Stuttgart,Hoffenheim,1,1,1.9,0.9,Bundesliga
+2024-10-18,Dortmund,St. Pauli,2,1,2.6,0.6,Bundesliga
+2024-10-19,Leverkusen,Eint Frankfurt,2,1,3.8,1.9,Bundesliga
+2024-10-19,Mainz 05,RB Leipzig,0,2,0.6,1.9,Bundesliga
+2024-10-19,Freiburg,Augsburg,3,1,0.8,0.6,Bundesliga
+2024-10-19,Hoffenheim,Bochum,3,1,2.5,2.7,Bundesliga
+2024-10-19,Gladbach,Heidenheim,3,2,3.6,2.0,Bundesliga
+2024-10-19,Bayern Munich,Stuttgart,4,0,3.2,0.5,Bundesliga
+2024-10-20,Holstein Kiel,Union Berlin,0,2,1.3,1.1,Bundesliga
+2024-10-20,Wolfsburg,Werder Bremen,2,4,1.8,2.0,Bundesliga
+2024-10-25,Mainz 05,Gladbach,1,1,1.7,0.7,Bundesliga
+2024-10-26,St. Pauli,Wolfsburg,0,0,0.8,1.1,Bundesliga
+2024-10-26,Stuttgart,Holstein Kiel,2,1,1.6,0.5,Bundesliga
+2024-10-26,Augsburg,Dortmund,2,1,0.6,1.0,Bundesliga
+2024-10-26,RB Leipzig,Freiburg,3,1,1.8,1.7,Bundesliga
+2024-10-26,Werder Bremen,Leverkusen,2,2,1.6,1.3,Bundesliga
+2024-10-27,Bochum,Bayern Munich,0,5,0.6,2.2,Bundesliga
+2024-10-27,Union Berlin,Eint Frankfurt,1,1,1.4,1.5,Bundesliga
+2024-10-27,Heidenheim,Hoffenheim,0,0,1.5,0.7,Bundesliga
+2024-11-01,Leverkusen,Stuttgart,0,0,2.2,0.3,Bundesliga
+2024-11-02,Wolfsburg,Augsburg,1,1,1.2,0.5,Bundesliga
+2024-11-02,Bayern Munich,Union Berlin,3,0,2.5,0.5,Bundesliga
+2024-11-02,Eint Frankfurt,Bochum,7,2,3.5,1.8,Bundesliga
+2024-11-02,Holstein Kiel,Heidenheim,1,0,1.1,1.2,Bundesliga
+2024-11-02,Hoffenheim,St. Pauli,0,2,0.7,0.9,Bundesliga
+2024-11-02,Dortmund,RB Leipzig,2,1,2.0,0.5,Bundesliga
+2024-11-03,Freiburg,Mainz 05,0,0,0.8,0.5,Bundesliga
+2024-11-03,Gladbach,Werder Bremen,4,1,2.5,1.4,Bundesliga
+2024-11-08,Union Berlin,Freiburg,0,0,0.7,1.7,Bundesliga
+2024-11-09,Bochum,Leverkusen,1,1,0.7,1.2,Bundesliga
+2024-11-09,Werder Bremen,Holstein Kiel,2,1,1.7,0.7,Bundesliga
+2024-11-09,Mainz 05,Dortmund,3,1,2.0,0.9,Bundesliga
+2024-11-09,St. Pauli,Bayern Munich,0,1,0.1,0.8,Bundesliga
+2024-11-09,RB Leipzig,Gladbach,0,0,1.0,0.9,Bundesliga
+2024-11-10,Augsburg,Hoffenheim,0,0,0.9,0.5,Bundesliga
+2024-11-10,Stuttgart,Eint Frankfurt,2,3,2.5,1.3,Bundesliga
+2024-11-10,Heidenheim,Wolfsburg,1,3,2.4,1.5,Bundesliga
+2024-11-22,Bayern Munich,Augsburg,3,0,3.7,0.1,Bundesliga
+2024-11-23,Wolfsburg,Union Berlin,1,0,0.6,0.5,Bundesliga
+2024-11-23,Leverkusen,Heidenheim,5,2,2.2,1.1,Bundesliga
+2024-11-23,Hoffenheim,RB Leipzig,4,3,2.0,1.6,Bundesliga
+2024-11-23,Stuttgart,Bochum,2,0,1.7,0.7,Bundesliga
+2024-11-23,Dortmund,Freiburg,4,0,1.3,0.8,Bundesliga
+2024-11-23,Eint Frankfurt,Werder Bremen,1,0,1.1,0.4,Bundesliga
+2024-11-24,Holstein Kiel,Mainz 05,0,3,0.4,2.2,Bundesliga
+2024-11-24,Gladbach,St. Pauli,2,0,2.3,1.1,Bundesliga
+2024-11-29,St. Pauli,Holstein Kiel,3,1,1.3,1.2,Bundesliga
+2024-11-30,RB Leipzig,Wolfsburg,1,5,1.0,2.2,Bundesliga
+2024-11-30,Freiburg,Gladbach,3,1,1.6,1.5,Bundesliga
+2024-11-30,Union Berlin,Leverkusen,1,2,0.7,0.9,Bundesliga
+2024-11-30,Werder Bremen,Stuttgart,2,2,1.6,1.8,Bundesliga
+2024-11-30,Augsburg,Bochum,1,0,1.9,0.3,Bundesliga
+2024-11-30,Dortmund,Bayern Munich,1,1,0.6,1.5,Bundesliga
+2024-12-01,Mainz 05,Hoffenheim,2,0,2.2,0.4,Bundesliga
+2024-12-01,Heidenheim,Eint Frankfurt,0,4,0.7,2.6,Bundesliga
+2024-12-06,Stuttgart,Union Berlin,3,2,2.1,1.4,Bundesliga
+2024-12-07,Bochum,Werder Bremen,0,1,1.2,0.8,Bundesliga
+2024-12-07,Holstein Kiel,RB Leipzig,0,2,1.2,1.6,Bundesliga
+2024-12-07,Leverkusen,St. Pauli,2,1,0.9,1.8,Bundesliga
+2024-12-07,Eint Frankfurt,Augsburg,2,2,1.7,0.6,Bundesliga
+2024-12-07,Bayern Munich,Heidenheim,4,2,2.4,1.3,Bundesliga
+2024-12-07,Gladbach,Dortmund,1,1,1.1,1.5,Bundesliga
+2024-12-08,Wolfsburg,Mainz 05,4,3,1.2,2.6,Bundesliga
+2024-12-08,Hoffenheim,Freiburg,1,1,1.4,1.0,Bundesliga
+2024-12-13,Freiburg,Wolfsburg,3,2,2.1,1.8,Bundesliga
+2024-12-14,Augsburg,Leverkusen,0,2,0.6,0.8,Bundesliga
+2024-12-14,Mainz 05,Bayern Munich,2,1,1.0,1.4,Bundesliga
+2024-12-14,Union Berlin,Bochum,0,2,2.5,1.0,Bundesliga
+2024-12-14,Gladbach,Holstein Kiel,4,1,2.4,0.6,Bundesliga
+2024-12-14,St. Pauli,Werder Bremen,0,2,0.6,1.0,Bundesliga
+2024-12-15,Heidenheim,Stuttgart,1,3,1.0,2.3,Bundesliga
+2024-12-15,Dortmund,Hoffenheim,1,1,0.5,1.0,Bundesliga
+2024-12-15,RB Leipzig,Eint Frankfurt,2,1,1.9,0.9,Bundesliga
+2024-12-20,Bayern Munich,RB Leipzig,5,1,3.3,0.4,Bundesliga
+2024-12-21,Werder Bremen,Union Berlin,4,1,2.3,1.3,Bundesliga
+2024-12-21,Eint Frankfurt,Mainz 05,1,3,2.4,0.6,Bundesliga
+2024-12-21,Stuttgart,St. Pauli,0,1,2.1,2.2,Bundesliga
+2024-12-21,Hoffenheim,Gladbach,1,2,3.5,0.7,Bundesliga
+2024-12-21,Holstein Kiel,Augsburg,5,1,1.7,1.5,Bundesliga
+2024-12-21,Leverkusen,Freiburg,5,1,2.8,0.7,Bundesliga
+2024-12-22,Bochum,Heidenheim,2,0,1.6,0.6,Bundesliga
+2024-12-22,Wolfsburg,Dortmund,1,3,1.5,2.7,Bundesliga
+2025-01-10,Dortmund,Leverkusen,2,3,1.3,1.6,Bundesliga
+2025-01-11,Mainz 05,Bochum,2,0,1.9,0.6,Bundesliga
+2025-01-11,St. Pauli,Eint Frankfurt,0,1,2.2,1.5,Bundesliga
+2025-01-11,Heidenheim,Union Berlin,2,0,1.4,1.1,Bundesliga
+2025-01-11,Freiburg,Holstein Kiel,3,2,0.7,1.8,Bundesliga
+2025-01-11,Hoffenheim,Wolfsburg,0,1,0.9,0.7,Bundesliga
+2025-01-11,Gladbach,Bayern Munich,0,1,0.4,4.3,Bundesliga
+2025-01-12,RB Leipzig,Werder Bremen,4,2,2.1,1.5,Bundesliga
+2025-01-12,Augsburg,Stuttgart,0,1,0.3,2.4,Bundesliga
+2025-01-14,Holstein Kiel,Dortmund,4,2,1.6,1.0,Bundesliga
+2025-01-14,Wolfsburg,Gladbach,5,1,3.9,1.1,Bundesliga
+2025-01-14,Leverkusen,Mainz 05,1,0,1.8,0.7,Bundesliga
+2025-01-14,Eint Frankfurt,Freiburg,4,1,2.4,0.5,Bundesliga
+2025-01-15,Bochum,St. Pauli,1,0,1.4,0.7,Bundesliga
+2025-01-15,Union Berlin,Augsburg,0,2,0.8,1.2,Bundesliga
+2025-01-15,Stuttgart,RB Leipzig,2,1,2.5,1.0,Bundesliga
+2025-01-15,Werder Bremen,Heidenheim,3,3,1.5,1.4,Bundesliga
+2025-01-15,Bayern Munich,Hoffenheim,5,0,3.4,0.2,Bundesliga
+2025-01-17,Eint Frankfurt,Dortmund,2,0,1.7,0.8,Bundesliga
+2025-01-18,Holstein Kiel,Hoffenheim,1,3,1.0,0.8,Bundesliga
+2025-01-18,Heidenheim,St. Pauli,0,2,0.7,1.9,Bundesliga
+2025-01-18,Bochum,RB Leipzig,3,3,2.7,2.2,Bundesliga
+2025-01-18,Stuttgart,Freiburg,4,0,1.9,0.2,Bundesliga
+2025-01-18,Bayern Munich,Wolfsburg,3,2,3.0,0.5,Bundesliga
+2025-01-18,Leverkusen,Gladbach,3,1,2.1,0.6,Bundesliga
+2025-01-19,Union Berlin,Mainz 05,2,1,2.1,1.7,Bundesliga
+2025-01-19,Werder Bremen,Augsburg,0,2,1.3,1.2,Bundesliga
+2025-01-24,Wolfsburg,Holstein Kiel,2,2,2.0,0.2,Bundesliga
+2025-01-25,Freiburg,Bayern Munich,1,2,0.3,1.0,Bundesliga
+2025-01-25,RB Leipzig,Leverkusen,2,2,0.7,2.4,Bundesliga
+2025-01-25,Dortmund,Werder Bremen,2,2,1.0,1.3,Bundesliga
+2025-01-25,Augsburg,Heidenheim,2,1,1.1,1.2,Bundesliga
+2025-01-25,Mainz 05,Stuttgart,2,0,1.9,1.1,Bundesliga
+2025-01-25,Gladbach,Bochum,3,0,2.3,0.5,Bundesliga
+2025-01-26,Hoffenheim,Eint Frankfurt,2,2,2.4,2.4,Bundesliga
+2025-01-26,St. Pauli,Union Berlin,3,0,1.2,1.1,Bundesliga
+2025-01-31,Werder Bremen,Mainz 05,1,0,2.5,1.2,Bundesliga
+2025-02-01,Heidenheim,Dortmund,1,2,0.6,2.2,Bundesliga
+2025-02-01,St. Pauli,Augsburg,1,1,0.8,0.3,Bundesliga
+2025-02-01,Bayern Munich,Holstein Kiel,4,3,3.4,1.8,Bundesliga
+2025-02-01,Bochum,Freiburg,0,1,1.0,1.7,Bundesliga
+2025-02-01,Stuttgart,Gladbach,1,2,1.2,2.1,Bundesliga
+2025-02-01,Union Berlin,RB Leipzig,0,0,1.3,0.3,Bundesliga
+2025-02-02,Eint Frankfurt,Wolfsburg,1,1,1.2,1.2,Bundesliga
+2025-02-02,Leverkusen,Hoffenheim,3,1,1.4,1.9,Bundesliga
+2025-02-07,Bayern Munich,Werder Bremen,3,0,4.1,0.1,Bundesliga
+2025-02-08,Freiburg,Heidenheim,1,0,1.0,0.5,Bundesliga
+2025-02-08,Dortmund,Stuttgart,1,2,1.4,0.3,Bundesliga
+2025-02-08,Wolfsburg,Leverkusen,0,0,0.7,1.4,Bundesliga
+2025-02-08,Hoffenheim,Union Berlin,0,4,1.1,2.8,Bundesliga
+2025-02-08,Mainz 05,Augsburg,0,0,1.3,0.3,Bundesliga
+2025-02-08,Gladbach,Eint Frankfurt,1,1,0.4,2.2,Bundesliga
+2025-02-09,Holstein Kiel,Bochum,2,2,1.9,2.3,Bundesliga
+2025-02-09,RB Leipzig,St. Pauli,2,0,1.5,0.6,Bundesliga
+2025-02-14,Augsburg,RB Leipzig,0,0,1.0,1.2,Bundesliga
+2025-02-15,Stuttgart,Wolfsburg,1,2,0.8,1.6,Bundesliga
+2025-02-15,Union Berlin,Gladbach,1,2,2.0,2.1,Bundesliga
+2025-02-15,St. Pauli,Freiburg,0,1,0.2,1.3,Bundesliga
+2025-02-15,Bochum,Dortmund,2,0,2.7,2.6,Bundesliga
+2025-02-15,Leverkusen,Bayern Munich,0,0,2.0,0.0,Bundesliga
+2025-02-16,Werder Bremen,Hoffenheim,1,3,1.1,1.4,Bundesliga
+2025-02-16,Eint Frankfurt,Holstein Kiel,3,1,2.5,1.4,Bundesliga
+2025-02-16,Heidenheim,Mainz 05,0,2,0.6,2.0,Bundesliga
+2025-02-21,Freiburg,Werder Bremen,5,0,1.8,1.2,Bundesliga
+2025-02-22,Mainz 05,St. Pauli,2,0,1.2,0.8,Bundesliga
+2025-02-22,Wolfsburg,Bochum,1,1,1.6,0.8,Bundesliga
+2025-02-22,Gladbach,Augsburg,0,3,1.0,1.5,Bundesliga
+2025-02-22,Holstein Kiel,Leverkusen,0,2,0.3,1.8,Bundesliga
+2025-02-22,Dortmund,Union Berlin,6,0,4.8,0.3,Bundesliga
+2025-02-23,RB Leipzig,Heidenheim,2,2,1.9,0.8,Bundesliga
+2025-02-23,Bayern Munich,Eint Frankfurt,4,0,3.8,0.5,Bundesliga
+2025-02-23,Hoffenheim,Stuttgart,1,1,1.0,2.1,Bundesliga
+2025-02-28,Stuttgart,Bayern Munich,1,3,0.9,2.2,Bundesliga
+2025-03-01,Werder Bremen,Wolfsburg,1,2,1.9,0.9,Bundesliga
+2025-03-01,RB Leipzig,Mainz 05,1,2,1.4,1.5,Bundesliga
+2025-03-01,Heidenheim,Gladbach,0,3,1.6,1.8,Bundesliga
+2025-03-01,Bochum,Hoffenheim,0,1,0.9,0.6,Bundesliga
+2025-03-01,St. Pauli,Dortmund,0,2,0.4,1.5,Bundesliga
+2025-03-01,Eint Frankfurt,Leverkusen,1,4,1.1,2.0,Bundesliga
+2025-03-02,Union Berlin,Holstein Kiel,0,1,1.2,1.0,Bundesliga
+2025-03-02,Augsburg,Freiburg,0,0,1.5,0.8,Bundesliga
+2025-03-07,Gladbach,Mainz 05,1,3,1.4,1.5,Bundesliga
+2025-03-08,Leverkusen,Werder Bremen,0,2,1.6,1.1,Bundesliga
+2025-03-08,Bayern Munich,Bochum,2,3,2.4,1.1,Bundesliga
+2025-03-08,Holstein Kiel,Stuttgart,2,2,1.4,0.8,Bundesliga
+2025-03-08,Wolfsburg,St. Pauli,1,1,2.0,1.5,Bundesliga
+2025-03-08,Dortmund,Augsburg,0,1,1.2,0.2,Bundesliga
+2025-03-08,Freiburg,RB Leipzig,0,0,0.5,1.5,Bundesliga
+2025-03-09,Eint Frankfurt,Union Berlin,1,2,1.8,0.9,Bundesliga
+2025-03-09,Hoffenheim,Heidenheim,1,1,1.3,1.2,Bundesliga
+2025-03-14,St. Pauli,Hoffenheim,1,0,2.0,0.2,Bundesliga
+2025-03-15,Union Berlin,Bayern Munich,1,1,0.7,1.6,Bundesliga
+2025-03-15,Werder Bremen,Gladbach,2,4,2.5,2.4,Bundesliga
+2025-03-15,Mainz 05,Freiburg,2,2,1.3,3.1,Bundesliga
+2025-03-15,Augsburg,Wolfsburg,1,0,0.7,0.8,Bundesliga
+2025-03-15,RB Leipzig,Dortmund,2,0,1.8,3.0,Bundesliga
+2025-03-16,Bochum,Eint Frankfurt,1,3,1.4,2.5,Bundesliga
+2025-03-16,Heidenheim,Holstein Kiel,3,1,1.5,1.5,Bundesliga
+2025-03-16,Stuttgart,Leverkusen,3,4,2.3,1.7,Bundesliga
+2025-03-28,Leverkusen,Bochum,3,1,2.0,0.5,Bundesliga
+2025-03-29,Hoffenheim,Augsburg,1,1,1.4,0.6,Bundesliga
+2025-03-29,Holstein Kiel,Werder Bremen,0,3,0.5,1.8,Bundesliga
+2025-03-29,Gladbach,RB Leipzig,1,0,1.8,1.3,Bundesliga
+2025-03-29,Bayern Munich,St. Pauli,3,2,3.5,1.0,Bundesliga
+2025-03-29,Wolfsburg,Heidenheim,0,1,1.3,1.3,Bundesliga
+2025-03-29,Eint Frankfurt,Stuttgart,1,0,3.7,1.2,Bundesliga
+2025-03-30,Freiburg,Union Berlin,1,2,1.4,1.0,Bundesliga
+2025-03-30,Dortmund,Mainz 05,3,1,2.8,0.8,Bundesliga
+2025-04-04,Augsburg,Bayern Munich,1,3,0.4,2.4,Bundesliga
+2025-04-05,Mainz 05,Holstein Kiel,1,1,1.8,0.9,Bundesliga
+2025-04-05,RB Leipzig,Hoffenheim,3,1,1.6,0.9,Bundesliga
+2025-04-05,Freiburg,Dortmund,1,4,1.8,3.3,Bundesliga
+2025-04-05,Bochum,Stuttgart,0,4,0.8,2.8,Bundesliga
+2025-04-05,Heidenheim,Leverkusen,0,1,1.0,0.4,Bundesliga
+2025-04-05,Werder Bremen,Eint Frankfurt,2,0,1.0,0.5,Bundesliga
+2025-04-06,St. Pauli,Gladbach,1,1,1.9,0.6,Bundesliga
+2025-04-06,Union Berlin,Wolfsburg,1,0,1.2,1.9,Bundesliga
+2025-04-11,Wolfsburg,RB Leipzig,2,3,1.6,1.3,Bundesliga
+2025-04-12,Hoffenheim,Mainz 05,2,0,1.7,1.2,Bundesliga
+2025-04-12,Gladbach,Freiburg,1,2,0.7,1.6,Bundesliga
+2025-04-12,Bochum,Augsburg,1,2,2.8,1.1,Bundesliga
+2025-04-12,Leverkusen,Union Berlin,0,0,0.8,0.5,Bundesliga
+2025-04-12,Holstein Kiel,St. Pauli,1,2,0.5,1.2,Bundesliga
+2025-04-12,Bayern Munich,Dortmund,2,2,2.3,1.6,Bundesliga
+2025-04-13,Stuttgart,Werder Bremen,1,2,1.7,1.5,Bundesliga
+2025-04-13,Eint Frankfurt,Heidenheim,3,0,3.7,1.7,Bundesliga
+2025-04-19,RB Leipzig,Holstein Kiel,1,1,1.9,0.8,Bundesliga
+2025-04-19,Freiburg,Hoffenheim,3,2,1.3,1.5,Bundesliga
+2025-04-19,Werder Bremen,Bochum,1,0,1.8,0.7,Bundesliga
+2025-04-19,Heidenheim,Bayern Munich,0,4,0.6,3.2,Bundesliga
+2025-04-19,Mainz 05,Wolfsburg,2,2,2.7,1.6,Bundesliga
+2025-04-19,Union Berlin,Stuttgart,4,4,1.3,0.9,Bundesliga
+2025-04-20,Augsburg,Eint Frankfurt,0,0,0.9,1.1,Bundesliga
+2025-04-20,Dortmund,Gladbach,3,2,1.4,1.4,Bundesliga
+2025-04-20,St. Pauli,Leverkusen,1,1,1.1,0.8,Bundesliga
+2025-04-25,Stuttgart,Heidenheim,0,1,1.8,0.3,Bundesliga
+2025-04-26,Hoffenheim,Dortmund,2,3,1.1,2.6,Bundesliga
+2025-04-26,Bayern Munich,Mainz 05,3,0,1.1,0.7,Bundesliga
+2025-04-26,Leverkusen,Augsburg,2,0,0.9,0.7,Bundesliga
+2025-04-26,Holstein Kiel,Gladbach,4,3,3.5,1.6,Bundesliga
+2025-04-26,Wolfsburg,Freiburg,0,1,0.3,1.6,Bundesliga
+2025-04-26,Eint Frankfurt,RB Leipzig,4,0,2.1,0.4,Bundesliga
+2025-04-27,Bochum,Union Berlin,1,1,1.5,0.3,Bundesliga
+2025-04-27,Werder Bremen,St. Pauli,0,0,1.1,0.6,Bundesliga
+2025-05-02,Heidenheim,Bochum,0,0,0.7,1.3,Bundesliga
+2025-05-03,St. Pauli,Stuttgart,0,1,0.4,2.7,Bundesliga
+2025-05-03,Gladbach,Hoffenheim,4,4,1.4,1.8,Bundesliga
+2025-05-03,RB Leipzig,Bayern Munich,3,3,1.2,1.6,Bundesliga
+2025-05-03,Union Berlin,Werder Bremen,2,2,1.5,1.6,Bundesliga
+2025-05-03,Dortmund,Wolfsburg,4,0,2.4,0.7,Bundesliga
+2025-05-04,Augsburg,Holstein Kiel,1,3,3.2,1.7,Bundesliga
+2025-05-04,Freiburg,Leverkusen,2,2,0.9,0.3,Bundesliga
+2025-05-04,Mainz 05,Eint Frankfurt,1,1,1.4,1.3,Bundesliga
+2025-05-09,Wolfsburg,Hoffenheim,2,2,1.0,1.4,Bundesliga
+2025-05-10,Bochum,Mainz 05,1,4,0.9,1.5,Bundesliga
+2025-05-10,Werder Bremen,RB Leipzig,0,0,2.0,1.7,Bundesliga
+2025-05-10,Holstein Kiel,Freiburg,1,2,1.0,1.4,Bundesliga
+2025-05-10,Union Berlin,Heidenheim,0,3,0.5,1.1,Bundesliga
+2025-05-10,Bayern Munich,Gladbach,2,0,2.5,1.6,Bundesliga
+2025-05-11,Leverkusen,Dortmund,2,4,2.2,1.2,Bundesliga
+2025-05-11,Eint Frankfurt,St. Pauli,2,2,1.7,0.8,Bundesliga
+2025-05-11,Stuttgart,Augsburg,4,0,3.9,0.5,Bundesliga
+2025-05-17,RB Leipzig,Stuttgart,2,3,1.1,2.6,Bundesliga
+2025-05-17,Gladbach,Wolfsburg,0,1,1.0,1.7,Bundesliga
+2025-05-17,Heidenheim,Werder Bremen,1,4,1.6,2.2,Bundesliga
+2025-05-17,St. Pauli,Bochum,0,2,0.8,1.3,Bundesliga
+2025-05-17,Freiburg,Eint Frankfurt,1,3,0.7,2.0,Bundesliga
+2025-05-17,Augsburg,Union Berlin,1,2,1.7,0.8,Bundesliga
+2025-05-17,Mainz 05,Leverkusen,2,2,3.1,1.2,Bundesliga
+2025-05-17,Dortmund,Holstein Kiel,3,0,2.4,0.8,Bundesliga
+2025-05-17,Hoffenheim,Bayern Munich,0,4,0.4,1.4,Bundesliga
+2024-08-16,Le Havre,Paris S-G,1,4,0.2,2.9,Ligue 1
+2024-08-17,Brest,Marseille,1,5,1.3,2.4,Ligue 1
+2024-08-17,Reims,Lille,0,2,0.1,2.1,Ligue 1
+2024-08-17,Monaco,Saint-Étienne,1,0,2.0,0.4,Ligue 1
+2024-08-18,Auxerre,Nice,2,1,1.8,0.7,Ligue 1
+2024-08-18,Angers,Lens,0,1,0.4,1.2,Ligue 1
+2024-08-18,Toulouse,Nantes,0,0,1.7,0.5,Ligue 1
+2024-08-18,Montpellier,Strasbourg,1,1,1.3,0.9,Ligue 1
+2024-08-18,Rennes,Lyon,3,0,2.0,2.1,Ligue 1
+2024-08-23,Paris S-G,Montpellier,6,0,3.8,0.6,Ligue 1
+2024-08-24,Lyon,Monaco,0,2,0.0,2.2,Ligue 1
+2024-08-24,Lille,Angers,2,0,0.9,0.6,Ligue 1
+2024-08-24,Saint-Étienne,Le Havre,0,2,1.1,2.4,Ligue 1
+2024-08-25,Lens,Brest,2,0,2.9,0.9,Ligue 1
+2024-08-25,Nantes,Auxerre,2,0,1.4,1.1,Ligue 1
+2024-08-25,Nice,Toulouse,1,1,1.3,1.0,Ligue 1
+2024-08-25,Strasbourg,Rennes,3,1,0.7,1.1,Ligue 1
+2024-08-25,Marseille,Reims,2,2,3.0,0.9,Ligue 1
+2024-08-30,Lyon,Strasbourg,4,3,2.9,2.7,Ligue 1
+2024-08-31,Brest,Saint-Étienne,4,0,3.1,0.2,Ligue 1
+2024-08-31,Montpellier,Nantes,1,3,0.9,1.5,Ligue 1
+2024-08-31,Toulouse,Marseille,1,3,1.0,0.8,Ligue 1
+2024-09-01,Monaco,Lens,1,1,1.0,2.2,Ligue 1
+2024-09-01,Reims,Rennes,2,1,1.4,0.8,Ligue 1
+2024-09-01,Le Havre,Auxerre,3,1,2.8,0.6,Ligue 1
+2024-09-01,Angers,Nice,1,4,1.4,2.2,Ligue 1
+2024-09-01,Lille,Paris S-G,1,3,1.4,2.6,Ligue 1
+2024-09-13,Saint-Étienne,Lille,1,0,1.2,1.2,Ligue 1
+2024-09-14,Marseille,Nice,2,0,0.7,1.9,Ligue 1
+2024-09-14,Auxerre,Monaco,0,3,0.6,3.4,Ligue 1
+2024-09-14,Paris S-G,Brest,3,1,2.8,1.0,Ligue 1
+2024-09-15,Rennes,Montpellier,3,0,1.3,0.3,Ligue 1
+2024-09-15,Nantes,Reims,1,2,1.5,0.5,Ligue 1
+2024-09-15,Strasbourg,Angers,1,1,2.3,0.9,Ligue 1
+2024-09-15,Toulouse,Le Havre,2,0,1.3,0.2,Ligue 1
+2024-09-15,Lens,Lyon,0,0,1.0,0.6,Ligue 1
+2024-09-20,Nice,Saint-Étienne,8,0,4.7,0.3,Ligue 1
+2024-09-21,Lille,Strasbourg,3,3,2.6,3.2,Ligue 1
+2024-09-21,Rennes,Lens,1,1,1.4,0.6,Ligue 1
+2024-09-21,Reims,Paris S-G,1,1,0.3,1.6,Ligue 1
+2024-09-22,Monaco,Le Havre,3,1,1.9,0.6,Ligue 1
+2024-09-22,Brest,Toulouse,2,0,0.5,2.7,Ligue 1
+2024-09-22,Angers,Nantes,1,1,0.9,0.6,Ligue 1
+2024-09-22,Montpellier,Auxerre,3,2,2.0,1.2,Ligue 1
+2024-09-22,Lyon,Marseille,2,3,3.0,0.8,Ligue 1
+2024-09-27,Auxerre,Brest,3,0,2.5,0.8,Ligue 1
+2024-09-27,Paris S-G,Rennes,3,1,3.0,1.4,Ligue 1
+2024-09-28,Lens,Nice,0,0,1.9,1.1,Ligue 1
+2024-09-28,Le Havre,Lille,0,3,0.4,3.1,Ligue 1
+2024-09-28,Monaco,Montpellier,2,1,3.2,0.9,Ligue 1
+2024-09-29,Toulouse,Lyon,1,2,0.9,0.4,Ligue 1
+2024-09-29,Nantes,Saint-Étienne,2,2,1.8,1.0,Ligue 1
+2024-09-29,Angers,Reims,1,3,1.1,2.9,Ligue 1
+2024-09-29,Strasbourg,Marseille,1,0,1.3,0.5,Ligue 1
+2024-10-04,Marseille,Angers,1,1,0.9,0.8,Ligue 1
+2024-10-05,Saint-Étienne,Auxerre,3,1,2.7,0.8,Ligue 1
+2024-10-05,Lille,Toulouse,2,1,1.6,1.1,Ligue 1
+2024-10-05,Rennes,Monaco,1,2,0.7,0.6,Ligue 1
+2024-10-06,Lyon,Nantes,2,0,3.2,0.9,Ligue 1
+2024-10-06,Brest,Le Havre,2,0,0.7,1.0,Ligue 1
+2024-10-06,Strasbourg,Lens,2,2,1.2,1.0,Ligue 1
+2024-10-06,Reims,Montpellier,4,2,3.0,0.5,Ligue 1
+2024-10-06,Nice,Paris S-G,1,1,0.5,1.3,Ligue 1
+2024-10-18,Monaco,Lille,0,0,1.2,0.2,Ligue 1
+2024-10-19,Brest,Rennes,1,1,1.5,1.2,Ligue 1
+2024-10-19,Saint-Étienne,Lens,0,2,0.8,1.2,Ligue 1
+2024-10-19,Paris S-G,Strasbourg,4,2,3.5,1.9,Ligue 1
+2024-10-20,Le Havre,Lyon,0,4,0.4,2.7,Ligue 1
+2024-10-20,Toulouse,Angers,1,1,2.0,1.4,Ligue 1
+2024-10-20,Auxerre,Reims,2,1,2.8,1.1,Ligue 1
+2024-10-20,Nantes,Nice,1,1,0.5,0.8,Ligue 1
+2024-10-20,Montpellier,Marseille,0,5,1.3,3.2,Ligue 1
+2024-10-25,Rennes,Le Havre,1,0,1.5,0.4,Ligue 1
+2024-10-26,Angers,Saint-Étienne,4,2,2.9,1.5,Ligue 1
+2024-10-26,Reims,Brest,1,2,0.7,1.5,Ligue 1
+2024-10-26,Lens,Lille,0,2,1.0,1.8,Ligue 1
+2024-10-27,Lyon,Auxerre,2,2,2.0,1.5,Ligue 1
+2024-10-27,Montpellier,Toulouse,0,3,0.2,1.9,Ligue 1
+2024-10-27,Nice,Monaco,2,1,1.6,0.5,Ligue 1
+2024-10-27,Strasbourg,Nantes,3,1,1.7,0.7,Ligue 1
+2024-10-27,Marseille,Paris S-G,0,3,0.2,3.1,Ligue 1
+2024-11-01,Monaco,Angers,0,1,1.4,0.5,Ligue 1
+2024-11-01,Lille,Lyon,1,1,1.7,1.2,Ligue 1
+2024-11-02,Paris S-G,Lens,1,0,2.9,0.7,Ligue 1
+2024-11-02,Brest,Nice,0,1,1.0,1.4,Ligue 1
+2024-11-02,Saint-Étienne,Strasbourg,2,0,2.8,0.5,Ligue 1
+2024-11-03,Toulouse,Reims,1,0,0.9,1.1,Ligue 1
+2024-11-03,Le Havre,Montpellier,1,0,2.2,1.0,Ligue 1
+2024-11-03,Auxerre,Rennes,4,0,2.8,0.9,Ligue 1
+2024-11-03,Nantes,Marseille,1,2,1.4,1.2,Ligue 1
+2024-11-08,Marseille,Auxerre,1,3,2.5,1.9,Ligue 1
+2024-11-09,Strasbourg,Monaco,1,3,0.6,3.8,Ligue 1
+2024-11-09,Lens,Nantes,3,2,2.9,1.4,Ligue 1
+2024-11-09,Angers,Paris S-G,2,4,1.1,3.4,Ligue 1
+2024-11-10,Nice,Lille,2,2,2.1,1.7,Ligue 1
+2024-11-10,Rennes,Toulouse,0,2,0.6,1.4,Ligue 1
+2024-11-10,Le Havre,Reims,0,3,1.4,2.6,Ligue 1
+2024-11-10,Montpellier,Brest,3,1,2.5,0.9,Ligue 1
+2024-11-10,Lyon,Saint-Étienne,1,0,1.1,0.6,Ligue 1
+2024-11-22,Monaco,Brest,3,2,2.6,1.0,Ligue 1
+2024-11-22,Paris S-G,Toulouse,3,0,1.1,1.4,Ligue 1
+2024-11-23,Lens,Marseille,1,3,2.5,1.2,Ligue 1
+2024-11-23,Saint-Étienne,Montpellier,1,0,1.5,0.9,Ligue 1
+2024-11-23,Reims,Lyon,1,1,1.0,1.7,Ligue 1
+2024-11-24,Lille,Rennes,1,0,0.4,0.2,Ligue 1
+2024-11-24,Auxerre,Angers,1,0,0.6,0.9,Ligue 1
+2024-11-24,Nantes,Le Havre,0,2,0.9,0.9,Ligue 1
+2024-11-24,Nice,Strasbourg,2,1,2.1,0.4,Ligue 1
+2024-11-29,Reims,Lens,0,2,0.8,1.8,Ligue 1
+2024-11-30,Rennes,Saint-Étienne,5,0,3.2,0.1,Ligue 1
+2024-11-30,Brest,Strasbourg,3,1,2.5,1.0,Ligue 1
+2024-11-30,Paris S-G,Nantes,1,1,2.6,0.8,Ligue 1
+2024-12-01,Montpellier,Lille,2,2,1.4,2.2,Ligue 1
+2024-12-01,Lyon,Nice,4,1,2.7,2.1,Ligue 1
+2024-12-01,Toulouse,Auxerre,2,0,2.3,0.2,Ligue 1
+2024-12-01,Le Havre,Angers,0,1,0.3,2.1,Ligue 1
+2024-12-01,Marseille,Monaco,2,1,1.9,1.0,Ligue 1
+2024-12-06,Lille,Brest,3,1,2.5,0.7,Ligue 1
+2024-12-06,Auxerre,Paris S-G,0,0,0.3,2.5,Ligue 1
+2024-12-07,Monaco,Toulouse,2,0,3.2,0.5,Ligue 1
+2024-12-07,Nice,Le Havre,2,1,2.0,1.1,Ligue 1
+2024-12-07,Angers,Lyon,0,3,0.6,2.0,Ligue 1
+2024-12-08,Lens,Montpellier,2,0,1.3,1.0,Ligue 1
+2024-12-08,Nantes,Rennes,1,0,1.2,0.4,Ligue 1
+2024-12-08,Strasbourg,Reims,0,0,0.8,1.1,Ligue 1
+2024-12-08,Saint-Étienne,Marseille,0,2,0.1,2.5,Ligue 1
+2024-12-13,Toulouse,Saint-Étienne,2,1,1.4,0.5,Ligue 1
+2024-12-14,Marseille,Lille,1,1,1.2,1.4,Ligue 1
+2024-12-14,Auxerre,Lens,2,2,0.6,1.6,Ligue 1
+2024-12-14,Reims,Monaco,0,0,1.5,1.3,Ligue 1
+2024-12-15,Montpellier,Nice,2,2,2.0,1.4,Ligue 1
+2024-12-15,Rennes,Angers,2,0,0.6,0.4,Ligue 1
+2024-12-15,Le Havre,Strasbourg,0,3,0.9,0.9,Ligue 1
+2024-12-15,Brest,Nantes,4,1,2.0,1.1,Ligue 1
+2024-12-15,Paris S-G,Lyon,3,1,2.9,1.5,Ligue 1
+2024-12-18,Monaco,Paris S-G,2,4,2.4,1.8,Ligue 1
+2025-01-03,Nice,Rennes,3,2,1.5,1.7,Ligue 1
+2025-01-04,Saint-Étienne,Reims,3,1,2.2,1.1,Ligue 1
+2025-01-04,Lille,Nantes,1,1,1.2,1.3,Ligue 1
+2025-01-04,Lyon,Montpellier,1,0,1.4,1.2,Ligue 1
+2025-01-05,Strasbourg,Auxerre,3,1,2.9,1.4,Ligue 1
+2025-01-05,Angers,Brest,2,0,1.8,1.0,Ligue 1
+2025-01-05,Lens,Toulouse,0,1,1.4,2.0,Ligue 1
+2025-01-05,Marseille,Le Havre,5,1,3.2,0.4,Ligue 1
+2025-01-10,Nantes,Monaco,2,2,0.8,3.4,Ligue 1
+2025-01-10,Auxerre,Lille,0,0,0.8,1.5,Ligue 1
+2025-01-11,Brest,Lyon,2,1,1.1,1.4,Ligue 1
+2025-01-11,Reims,Nice,2,4,0.8,2.5,Ligue 1
+2025-01-11,Rennes,Marseille,1,2,1.2,1.7,Ligue 1
+2025-01-12,Le Havre,Lens,1,2,1.5,2.7,Ligue 1
+2025-01-12,Toulouse,Strasbourg,1,2,1.2,2.3,Ligue 1
+2025-01-12,Montpellier,Angers,1,3,1.2,3.8,Ligue 1
+2025-01-12,Paris S-G,Saint-Étienne,2,1,4.1,0.4,Ligue 1
+2025-01-17,Montpellier,Monaco,2,1,2.4,1.8,Ligue 1
+2025-01-17,Lille,Nice,2,1,1.1,2.8,Ligue 1
+2025-01-18,Lens,Paris S-G,1,2,0.7,1.2,Ligue 1
+2025-01-18,Rennes,Brest,1,2,1.5,1.0,Ligue 1
+2025-01-18,Lyon,Toulouse,0,0,0.7,1.1,Ligue 1
+2025-01-19,Saint-Étienne,Nantes,1,1,0.8,1.3,Ligue 1
+2025-01-19,Angers,Auxerre,2,0,0.9,0.7,Ligue 1
+2025-01-19,Reims,Le Havre,1,1,0.8,0.8,Ligue 1
+2025-01-19,Marseille,Strasbourg,1,1,2.8,0.9,Ligue 1
+2025-01-24,Auxerre,Saint-Étienne,1,1,0.8,1.2,Ligue 1
+2025-01-25,Monaco,Rennes,3,2,3.5,1.8,Ligue 1
+2025-01-25,Strasbourg,Lille,2,1,1.1,1.8,Ligue 1
+2025-01-25,Paris S-G,Reims,1,1,1.2,0.9,Ligue 1
+2025-01-26,Le Havre,Brest,0,1,1.0,2.0,Ligue 1
+2025-01-26,Toulouse,Montpellier,1,2,1.0,0.5,Ligue 1
+2025-01-26,Nantes,Lyon,1,1,1.2,1.1,Ligue 1
+2025-01-26,Lens,Angers,1,0,1.9,0.2,Ligue 1
+2025-01-26,Nice,Marseille,2,0,1.2,0.8,Ligue 1
+2025-01-31,Montpellier,Lens,0,2,0.8,2.0,Ligue 1
+2025-02-01,Brest,Paris S-G,2,5,0.9,3.6,Ligue 1
+2025-02-01,Monaco,Auxerre,4,2,2.6,1.2,Ligue 1
+2025-02-01,Lille,Saint-Étienne,4,1,3.4,2.0,Ligue 1
+2025-02-02,Toulouse,Nice,1,1,1.4,1.7,Ligue 1
+2025-02-02,Reims,Nantes,1,2,1.0,2.0,Ligue 1
+2025-02-02,Rennes,Strasbourg,1,0,0.9,1.2,Ligue 1
+2025-02-02,Angers,Le Havre,1,1,1.3,2.2,Ligue 1
+2025-02-02,Marseille,Lyon,3,2,3.2,1.7,Ligue 1
+2025-02-07,Nantes,Brest,0,2,1.1,2.5,Ligue 1
+2025-02-07,Paris S-G,Monaco,4,1,3.1,0.9,Ligue 1
+2025-02-08,Nice,Lens,2,0,2.2,1.2,Ligue 1
+2025-02-08,Lille,Le Havre,1,2,1.6,1.8,Ligue 1
+2025-02-08,Saint-Étienne,Rennes,0,2,0.5,3.6,Ligue 1
+2025-02-09,Lyon,Reims,4,0,3.3,0.4,Ligue 1
+2025-02-09,Strasbourg,Montpellier,2,0,2.7,1.8,Ligue 1
+2025-02-09,Auxerre,Toulouse,2,2,0.9,0.9,Ligue 1
+2025-02-09,Angers,Marseille,0,2,0.5,2.4,Ligue 1
+2025-02-14,Brest,Auxerre,2,2,2.2,1.2,Ligue 1
+2025-02-15,Marseille,Saint-Étienne,5,1,6.1,1.0,Ligue 1
+2025-02-15,Monaco,Nantes,7,1,4.4,1.4,Ligue 1
+2025-02-15,Toulouse,Paris S-G,0,1,0.9,2.4,Ligue 1
+2025-02-16,Montpellier,Lyon,1,4,1.4,1.0,Ligue 1
+2025-02-16,Lens,Strasbourg,0,2,0.4,2.4,Ligue 1
+2025-02-16,Reims,Angers,0,1,1.7,1.5,Ligue 1
+2025-02-16,Le Havre,Nice,1,3,0.7,1.4,Ligue 1
+2025-02-16,Rennes,Lille,0,2,0.4,3.0,Ligue 1
+2025-02-21,Rennes,Reims,1,0,2.3,0.1,Ligue 1
+2025-02-22,Lille,Monaco,2,1,1.1,2.3,Ligue 1
+2025-02-22,Saint-Étienne,Angers,3,3,1.5,2.9,Ligue 1
+2025-02-22,Auxerre,Marseille,3,0,2.0,0.7,Ligue 1
+2025-02-23,Nantes,Lens,3,1,3.9,1.6,Ligue 1
+2025-02-23,Nice,Montpellier,2,0,1.8,0.6,Ligue 1
+2025-02-23,Le Havre,Toulouse,1,4,0.8,2.4,Ligue 1
+2025-02-23,Strasbourg,Brest,0,0,0.6,0.6,Ligue 1
+2025-02-23,Lyon,Paris S-G,2,3,1.8,2.3,Ligue 1
+2025-02-28,Monaco,Reims,3,0,3.8,0.6,Ligue 1
+2025-03-01,Saint-Étienne,Nice,1,3,0.9,1.8,Ligue 1
+2025-03-01,Lens,Le Havre,3,4,1.9,1.5,Ligue 1
+2025-03-01,Paris S-G,Lille,4,1,3.4,1.1,Ligue 1
+2025-03-02,Lyon,Brest,2,1,1.3,2.0,Ligue 1
+2025-03-02,Montpellier,Rennes,0,4,1.6,2.4,Ligue 1
+2025-03-02,Auxerre,Strasbourg,0,1,2.2,1.4,Ligue 1
+2025-03-02,Angers,Toulouse,0,4,0.4,3.5,Ligue 1
+2025-03-02,Marseille,Nantes,2,0,2.1,0.8,Ligue 1
+2025-03-07,Toulouse,Monaco,1,1,0.6,2.4,Ligue 1
+2025-03-08,Rennes,Paris S-G,1,4,1.6,3.8,Ligue 1
+2025-03-08,Lille,Montpellier,1,0,1.5,0.3,Ligue 1
+2025-03-08,Marseille,Lens,0,1,1.0,0.9,Ligue 1
+2025-03-09,Brest,Angers,2,0,3.5,0.4,Ligue 1
+2025-03-09,Reims,Auxerre,0,2,1.4,2.1,Ligue 1
+2025-03-09,Le Havre,Saint-Étienne,1,1,2.0,1.5,Ligue 1
+2025-03-09,Nantes,Strasbourg,0,1,0.8,1.0,Ligue 1
+2025-03-09,Nice,Lyon,0,2,1.4,1.1,Ligue 1
+2025-03-14,Nice,Auxerre,1,1,2.0,0.7,Ligue 1
+2025-03-15,Nantes,Lille,1,0,1.2,1.6,Ligue 1
+2025-03-15,Angers,Monaco,0,2,0.5,2.0,Ligue 1
+2025-03-15,Lens,Rennes,1,0,0.7,0.6,Ligue 1
+2025-03-16,Lyon,Le Havre,4,2,3.9,1.7,Ligue 1
+2025-03-16,Strasbourg,Toulouse,2,1,1.7,1.7,Ligue 1
+2025-03-16,Brest,Reims,0,0,0.3,1.3,Ligue 1
+2025-03-16,Paris S-G,Marseille,3,1,2.6,1.2,Ligue 1
+2025-03-28,Strasbourg,Lyon,4,2,1.1,2.0,Ligue 1
+2025-03-29,Reims,Marseille,3,1,1.0,1.1,Ligue 1
+2025-03-29,Saint-Étienne,Paris S-G,1,6,1.1,3.3,Ligue 1
+2025-03-29,Monaco,Nice,2,1,2.4,0.5,Ligue 1
+2025-03-30,Toulouse,Brest,2,4,2.0,1.3,Ligue 1
+2025-03-30,Le Havre,Nantes,3,2,4.0,0.8,Ligue 1
+2025-03-30,Auxerre,Montpellier,1,0,2.1,0.5,Ligue 1
+2025-03-30,Angers,Rennes,0,3,1.0,1.5,Ligue 1
+2025-03-30,Lille,Lens,1,0,1.9,0.4,Ligue 1
+2025-04-04,Nice,Nantes,1,2,1.9,0.5,Ligue 1
+2025-04-05,Paris S-G,Angers,1,0,1.9,0.2,Ligue 1
+2025-04-05,Brest,Monaco,2,1,1.0,1.5,Ligue 1
+2025-04-05,Lyon,Lille,2,1,1.8,0.9,Ligue 1
+2025-04-06,Lens,Saint-Étienne,1,0,2.1,1.4,Ligue 1
+2025-04-06,Rennes,Auxerre,0,1,1.2,0.8,Ligue 1
+2025-04-06,Reims,Strasbourg,0,1,1.3,2.5,Ligue 1
+2025-04-06,Montpellier,Le Havre,0,2,1.0,1.4,Ligue 1
+2025-04-06,Marseille,Toulouse,3,2,1.0,1.3,Ligue 1
+2025-04-11,Lens,Reims,0,2,2.9,1.4,Ligue 1
+2025-04-12,Monaco,Marseille,3,0,2.6,1.1,Ligue 1
+2025-04-12,Toulouse,Lille,1,2,0.9,0.5,Ligue 1
+2025-04-12,Strasbourg,Nice,2,2,0.7,1.7,Ligue 1
+2025-04-13,Saint-Étienne,Brest,3,3,0.7,1.5,Ligue 1
+2025-04-13,Angers,Montpellier,2,0,1.4,0.5,Ligue 1
+2025-04-13,Le Havre,Rennes,1,5,0.6,2.7,Ligue 1
+2025-04-13,Auxerre,Lyon,1,3,0.7,2.9,Ligue 1
+2025-04-18,Rennes,Nantes,2,1,2.7,0.7,Ligue 1
+2025-04-19,Paris S-G,Le Havre,2,1,3.0,0.5,Ligue 1
+2025-04-19,Monaco,Strasbourg,0,0,0.9,0.4,Ligue 1
+2025-04-19,Marseille,Montpellier,5,1,3.7,0.3,Ligue 1
+2025-04-20,Lille,Auxerre,3,1,2.0,0.3,Ligue 1
+2025-04-20,Brest,Lens,1,3,1.0,2.2,Ligue 1
+2025-04-20,Nice,Angers,2,1,2.8,0.4,Ligue 1
+2025-04-20,Reims,Toulouse,1,0,0.7,1.3,Ligue 1
+2025-04-20,Saint-Étienne,Lyon,2,1,1.6,0.8,Ligue 1
+2025-04-22,Nantes,Paris S-G,1,1,0.5,1.6,Ligue 1
+2025-04-25,Paris S-G,Nice,1,3,3.0,1.0,Ligue 1
+2025-04-26,Strasbourg,Saint-Étienne,3,1,2.7,2.1,Ligue 1
+2025-04-26,Le Havre,Monaco,1,1,0.5,2.9,Ligue 1
+2025-04-26,Lyon,Rennes,4,1,1.8,0.8,Ligue 1
+2025-04-27,Angers,Lille,0,2,0.7,1.4,Ligue 1
+2025-04-27,Nantes,Toulouse,0,0,1.1,0.4,Ligue 1
+2025-04-27,Lens,Auxerre,0,4,1.4,2.6,Ligue 1
+2025-04-27,Montpellier,Reims,0,0,0.6,0.7,Ligue 1
+2025-04-27,Marseille,Brest,4,1,0.9,1.2,Ligue 1
+2025-05-02,Nice,Reims,1,0,1.5,1.3,Ligue 1
+2025-05-03,Strasbourg,Paris S-G,2,1,0.8,1.7,Ligue 1
+2025-05-03,Toulouse,Rennes,2,1,0.7,1.4,Ligue 1
+2025-05-03,Saint-Étienne,Monaco,1,3,0.6,2.0,Ligue 1
+2025-05-04,Nantes,Angers,0,1,0.5,1.1,Ligue 1
+2025-05-04,Brest,Montpellier,1,0,1.1,0.5,Ligue 1
+2025-05-04,Lyon,Lens,1,2,1.0,0.7,Ligue 1
+2025-05-04,Auxerre,Le Havre,1,2,0.2,1.5,Ligue 1
+2025-05-04,Lille,Marseille,1,1,0.5,1.3,Ligue 1
+2025-05-10,Reims,Saint-Étienne,0,2,1.9,0.7,Ligue 1
+2025-05-10,Rennes,Nice,2,0,1.7,1.1,Ligue 1
+2025-05-10,Angers,Strasbourg,2,1,0.7,1.0,Ligue 1
+2025-05-10,Le Havre,Marseille,1,3,0.9,2.5,Ligue 1
+2025-05-10,Auxerre,Nantes,1,1,0.4,0.7,Ligue 1
+2025-05-10,Monaco,Lyon,2,0,1.2,0.4,Ligue 1
+2025-05-10,Toulouse,Lens,1,1,1.1,0.7,Ligue 1
+2025-05-10,Montpellier,Paris S-G,1,4,0.6,1.7,Ligue 1
+2025-05-10,Brest,Lille,2,0,1.2,1.9,Ligue 1
+2025-05-17,Lille,Reims,2,1,2.0,0.1,Ligue 1
+2025-05-17,Lens,Monaco,4,0,1.7,0.5,Ligue 1
+2025-05-17,Nantes,Montpellier,3,0,2.5,0.8,Ligue 1
+2025-05-17,Paris S-G,Auxerre,3,1,3.1,0.6,Ligue 1
+2025-05-17,Strasbourg,Le Havre,2,3,1.6,2.5,Ligue 1
+2025-05-17,Lyon,Angers,2,0,3.9,0.5,Ligue 1
+2025-05-17,Nice,Brest,6,0,4.9,0.9,Ligue 1
+2025-05-17,Marseille,Rennes,4,2,3.9,1.3,Ligue 1
+2025-05-17,Saint-Étienne,Toulouse,2,3,1.3,3.2,Ligue 1
+2024-08-17,Genoa,Inter,2,2,2.1,1.9,Serie A
+2024-08-17,Parma,Fiorentina,1,1,1.7,0.7,Serie A
+2024-08-17,Empoli,Monza,0,0,0.5,0.3,Serie A
+2024-08-17,Milan,Torino,2,2,2.1,1.0,Serie A
+2024-08-18,Bologna,Udinese,1,1,3.2,0.9,Serie A
+2024-08-18,Hellas Verona,Napoli,3,0,1.7,1.0,Serie A
+2024-08-18,Cagliari,Roma,0,0,1.0,0.9,Serie A
+2024-08-18,Lazio,Venezia,3,1,2.4,0.6,Serie A
+2024-08-19,Lecce,Atalanta,0,4,1.5,1.7,Serie A
+2024-08-19,Juventus,Como,3,0,1.2,0.2,Serie A
+2024-08-24,Udinese,Lazio,2,1,0.8,1.3,Serie A
+2024-08-24,Parma,Milan,2,1,1.7,1.9,Serie A
+2024-08-24,Monza,Genoa,0,1,0.4,0.7,Serie A
+2024-08-24,Inter,Lecce,2,0,2.4,0.3,Serie A
+2024-08-25,Torino,Atalanta,2,1,2.4,3.0,Serie A
+2024-08-25,Fiorentina,Venezia,0,0,0.9,0.6,Serie A
+2024-08-25,Napoli,Bologna,3,0,2.5,0.6,Serie A
+2024-08-25,Roma,Empoli,1,2,2.1,2.7,Serie A
+2024-08-26,Cagliari,Como,1,1,0.8,1.5,Serie A
+2024-08-26,Hellas Verona,Juventus,0,3,0.5,1.2,Serie A
+2024-08-30,Venezia,Torino,0,1,0.8,1.0,Serie A
+2024-08-30,Inter,Atalanta,4,0,1.3,1.4,Serie A
+2024-08-31,Lecce,Cagliari,1,0,1.7,1.8,Serie A
+2024-08-31,Bologna,Empoli,1,1,1.3,1.0,Serie A
+2024-08-31,Lazio,Milan,2,2,2.1,1.3,Serie A
+2024-08-31,Napoli,Parma,2,1,2.2,1.7,Serie A
+2024-09-01,Genoa,Hellas Verona,0,2,1.5,1.5,Serie A
+2024-09-01,Fiorentina,Monza,2,2,2.0,0.3,Serie A
+2024-09-01,Udinese,Como,1,0,1.0,1.6,Serie A
+2024-09-01,Juventus,Roma,0,0,0.5,0.3,Serie A
+2024-09-14,Como,Bologna,2,2,1.2,1.2,Serie A
+2024-09-14,Empoli,Juventus,0,0,0.5,0.9,Serie A
+2024-09-14,Milan,Venezia,4,0,2.2,0.3,Serie A
+2024-09-15,Genoa,Roma,1,1,1.2,2.2,Serie A
+2024-09-15,Atalanta,Fiorentina,3,2,1.7,1.7,Serie A
+2024-09-15,Torino,Lecce,0,0,0.4,1.6,Serie A
+2024-09-15,Cagliari,Napoli,0,4,1.0,1.9,Serie A
+2024-09-15,Monza,Inter,1,1,0.2,1.7,Serie A
+2024-09-16,Parma,Udinese,2,3,0.8,2.5,Serie A
+2024-09-16,Lazio,Hellas Verona,2,1,1.2,0.8,Serie A
+2024-09-20,Cagliari,Empoli,0,2,2.2,0.8,Serie A
+2024-09-20,Hellas Verona,Torino,2,3,0.5,2.2,Serie A
+2024-09-21,Venezia,Genoa,2,0,1.7,0.5,Serie A
+2024-09-21,Juventus,Napoli,0,0,0.3,0.3,Serie A
+2024-09-21,Lecce,Parma,2,2,1.5,2.0,Serie A
+2024-09-22,Fiorentina,Lazio,2,1,2.7,1.0,Serie A
+2024-09-22,Monza,Bologna,1,2,0.6,0.8,Serie A
+2024-09-22,Roma,Udinese,3,0,1.9,0.7,Serie A
+2024-09-22,Inter,Milan,1,2,0.7,1.7,Serie A
+2024-09-24,Atalanta,Como,2,3,1.6,1.1,Serie A
+2024-09-27,Milan,Lecce,3,0,1.6,0.5,Serie A
+2024-09-28,Udinese,Inter,2,3,0.8,2.2,Serie A
+2024-09-28,Genoa,Juventus,0,3,0.4,2.6,Serie A
+2024-09-28,Bologna,Atalanta,1,1,0.1,2.0,Serie A
+2024-09-29,Torino,Lazio,2,3,0.7,2.0,Serie A
+2024-09-29,Como,Hellas Verona,3,2,2.2,1.1,Serie A
+2024-09-29,Roma,Venezia,2,1,1.7,1.7,Serie A
+2024-09-29,Empoli,Fiorentina,0,0,0.4,0.7,Serie A
+2024-09-29,Napoli,Monza,2,0,1.1,0.3,Serie A
+2024-09-30,Parma,Cagliari,2,3,2.4,2.4,Serie A
+2024-10-04,Napoli,Como,3,1,1.9,0.4,Serie A
+2024-10-04,Hellas Verona,Venezia,2,1,2.3,0.9,Serie A
+2024-10-05,Udinese,Lecce,1,0,0.9,0.5,Serie A
+2024-10-05,Atalanta,Genoa,5,1,3.6,0.7,Serie A
+2024-10-05,Inter,Torino,3,2,2.4,1.6,Serie A
+2024-10-06,Juventus,Cagliari,1,1,2.4,1.1,Serie A
+2024-10-06,Lazio,Empoli,2,1,2.1,0.5,Serie A
+2024-10-06,Bologna,Parma,0,0,0.8,0.8,Serie A
+2024-10-06,Monza,Roma,1,1,1.1,1.1,Serie A
+2024-10-06,Fiorentina,Milan,2,1,1.5,2.6,Serie A
+2024-10-19,Genoa,Bologna,2,2,0.4,0.7,Serie A
+2024-10-19,Como,Parma,1,1,1.3,0.5,Serie A
+2024-10-19,Milan,Udinese,1,0,1.2,0.4,Serie A
+2024-10-19,Juventus,Lazio,1,0,1.3,0.1,Serie A
+2024-10-20,Empoli,Napoli,0,1,0.7,1.3,Serie A
+2024-10-20,Venezia,Atalanta,0,2,0.8,1.4,Serie A
+2024-10-20,Lecce,Fiorentina,0,6,0.2,2.2,Serie A
+2024-10-20,Cagliari,Torino,3,2,1.6,1.4,Serie A
+2024-10-20,Roma,Inter,0,1,1.0,1.0,Serie A
+2024-10-21,Hellas Verona,Monza,0,3,0.9,1.4,Serie A
+2024-10-25,Udinese,Cagliari,2,0,1.0,0.4,Serie A
+2024-10-25,Torino,Como,1,0,1.3,1.4,Serie A
+2024-10-26,Napoli,Lecce,1,0,2.7,0.7,Serie A
+2024-10-26,Atalanta,Hellas Verona,6,1,2.4,0.2,Serie A
+2024-10-27,Parma,Empoli,1,1,1.7,0.2,Serie A
+2024-10-27,Lazio,Genoa,3,0,2.1,0.3,Serie A
+2024-10-27,Monza,Venezia,2,2,1.1,0.4,Serie A
+2024-10-27,Inter,Juventus,4,4,3.0,2.1,Serie A
+2024-10-27,Fiorentina,Roma,5,1,3.7,0.8,Serie A
+2024-10-29,Lecce,Hellas Verona,1,0,1.7,0.3,Serie A
+2024-10-29,Cagliari,Bologna,0,2,0.8,0.9,Serie A
+2024-10-29,Milan,Napoli,0,2,0.7,1.1,Serie A
+2024-10-30,Venezia,Udinese,3,2,2.3,0.9,Serie A
+2024-10-30,Empoli,Inter,0,3,0.3,1.1,Serie A
+2024-10-30,Atalanta,Monza,2,0,1.2,0.1,Serie A
+2024-10-30,Juventus,Parma,2,2,2.4,1.2,Serie A
+2024-10-31,Genoa,Fiorentina,0,1,0.9,0.5,Serie A
+2024-10-31,Roma,Torino,1,0,0.6,0.2,Serie A
+2024-10-31,Como,Lazio,1,5,1.1,2.9,Serie A
+2024-11-02,Bologna,Lecce,1,0,1.4,0.7,Serie A
+2024-11-02,Udinese,Juventus,0,2,0.6,1.3,Serie A
+2024-11-02,Monza,Milan,0,1,1.2,2.5,Serie A
+2024-11-03,Napoli,Atalanta,0,3,0.8,1.2,Serie A
+2024-11-03,Torino,Fiorentina,0,1,0.6,0.6,Serie A
+2024-11-03,Hellas Verona,Roma,3,2,1.1,1.7,Serie A
+2024-11-03,Inter,Venezia,1,0,2.4,1.0,Serie A
+2024-11-04,Empoli,Como,1,0,0.6,0.4,Serie A
+2024-11-04,Parma,Genoa,0,1,1.1,1.4,Serie A
+2024-11-04,Lazio,Cagliari,2,1,2.9,0.3,Serie A
+2024-11-07,Genoa,Como,1,1,0.9,1.4,Serie A
+2024-11-08,Lecce,Empoli,1,1,1.6,0.6,Serie A
+2024-11-09,Venezia,Parma,1,2,0.8,1.0,Serie A
+2024-11-09,Cagliari,Milan,3,3,1.7,3.3,Serie A
+2024-11-09,Juventus,Torino,2,0,1.7,0.4,Serie A
+2024-11-10,Atalanta,Udinese,2,1,0.9,0.8,Serie A
+2024-11-10,Fiorentina,Hellas Verona,3,1,1.9,0.4,Serie A
+2024-11-10,Roma,Bologna,2,3,1.3,1.7,Serie A
+2024-11-10,Monza,Lazio,0,1,1.0,1.6,Serie A
+2024-11-10,Inter,Napoli,1,1,1.5,0.7,Serie A
+2024-11-23,Hellas Verona,Inter,0,5,0.5,3.2,Serie A
+2024-11-23,Milan,Juventus,0,0,0.3,0.4,Serie A
+2024-11-23,Parma,Atalanta,1,3,0.7,2.7,Serie A
+2024-11-24,Genoa,Cagliari,2,2,1.7,3.0,Serie A
+2024-11-24,Como,Fiorentina,0,2,1.1,0.8,Serie A
+2024-11-24,Torino,Monza,1,1,1.0,0.9,Serie A
+2024-11-24,Napoli,Roma,1,0,1.4,0.6,Serie A
+2024-11-24,Lazio,Bologna,3,0,2.0,0.1,Serie A
+2024-11-25,Empoli,Udinese,1,1,0.1,0.8,Serie A
+2024-11-25,Venezia,Lecce,0,1,2.5,0.7,Serie A
+2024-11-29,Cagliari,Hellas Verona,1,0,1.8,0.7,Serie A
+2024-11-30,Como,Monza,1,1,1.3,1.3,Serie A
+2024-11-30,Milan,Empoli,3,0,2.3,0.5,Serie A
+2024-11-30,Bologna,Venezia,3,0,3.2,0.4,Serie A
+2024-12-01,Udinese,Genoa,0,2,0.2,1.6,Serie A
+2024-12-01,Torino,Napoli,0,1,0.3,1.4,Serie A
+2024-12-01,Parma,Lazio,3,1,1.5,2.5,Serie A
+2024-12-01,Lecce,Juventus,1,1,1.5,1.3,Serie A
+2024-12-02,Roma,Atalanta,0,2,0.4,1.3,Serie A
+2024-12-06,Inter,Parma,3,1,1.8,0.4,Serie A
+2024-12-06,Atalanta,Milan,2,1,2.1,0.7,Serie A
+2024-12-07,Genoa,Torino,0,0,0.5,0.6,Serie A
+2024-12-07,Juventus,Bologna,2,2,1.0,0.9,Serie A
+2024-12-07,Roma,Lecce,4,1,1.8,0.9,Serie A
+2024-12-08,Fiorentina,Cagliari,1,0,0.3,0.8,Serie A
+2024-12-08,Hellas Verona,Empoli,1,4,0.9,1.3,Serie A
+2024-12-08,Venezia,Como,2,2,0.3,1.0,Serie A
+2024-12-08,Napoli,Lazio,0,1,0.5,0.3,Serie A
+2024-12-09,Monza,Udinese,1,2,1.3,1.2,Serie A
+2024-12-13,Empoli,Torino,0,1,0.6,1.0,Serie A
+2024-12-14,Cagliari,Atalanta,0,1,1.4,1.5,Serie A
+2024-12-14,Udinese,Napoli,1,3,1.4,2.2,Serie A
+2024-12-14,Juventus,Venezia,2,2,2.1,0.4,Serie A
+2024-12-15,Lecce,Monza,2,1,1.5,0.6,Serie A
+2024-12-15,Parma,Hellas Verona,2,3,1.9,2.6,Serie A
+2024-12-15,Bologna,Fiorentina,1,0,1.2,1.0,Serie A
+2024-12-15,Como,Roma,2,0,1.2,0.3,Serie A
+2024-12-15,Milan,Genoa,0,0,1.1,0.3,Serie A
+2024-12-16,Lazio,Inter,0,6,0.4,2.0,Serie A
+2024-12-20,Hellas Verona,Milan,0,1,0.7,0.8,Serie A
+2024-12-21,Torino,Bologna,0,2,0.3,1.7,Serie A
+2024-12-21,Genoa,Napoli,1,2,1.0,1.2,Serie A
+2024-12-21,Lecce,Lazio,1,2,0.7,1.6,Serie A
+2024-12-22,Roma,Parma,5,0,5.4,0.4,Serie A
+2024-12-22,Venezia,Cagliari,2,1,1.5,2.1,Serie A
+2024-12-22,Atalanta,Empoli,3,2,1.3,1.3,Serie A
+2024-12-22,Monza,Juventus,1,2,1.3,1.8,Serie A
+2024-12-23,Fiorentina,Udinese,1,2,2.1,0.9,Serie A
+2024-12-23,Inter,Como,2,0,1.6,0.3,Serie A
+2024-12-28,Empoli,Genoa,1,2,1.3,1.8,Serie A
+2024-12-28,Parma,Monza,2,1,1.4,2.2,Serie A
+2024-12-28,Cagliari,Inter,0,3,0.3,3.2,Serie A
+2024-12-28,Lazio,Atalanta,1,1,0.6,2.7,Serie A
+2024-12-29,Udinese,Torino,2,2,0.7,0.6,Serie A
+2024-12-29,Napoli,Venezia,1,0,1.9,0.2,Serie A
+2024-12-29,Juventus,Fiorentina,2,2,1.5,1.0,Serie A
+2024-12-29,Milan,Roma,1,1,1.9,1.3,Serie A
+2024-12-30,Como,Lecce,2,0,2.0,0.4,Serie A
+2024-12-30,Bologna,Hellas Verona,2,3,2.2,0.8,Serie A
+2025-01-04,Venezia,Empoli,1,1,0.8,1.8,Serie A
+2025-01-04,Fiorentina,Napoli,0,3,1.0,1.6,Serie A
+2025-01-04,Hellas Verona,Udinese,0,0,1.0,0.8,Serie A
+2025-01-05,Monza,Cagliari,1,2,1.4,0.8,Serie A
+2025-01-05,Lecce,Genoa,0,0,0.6,1.1,Serie A
+2025-01-05,Torino,Parma,0,0,1.1,0.4,Serie A
+2025-01-05,Roma,Lazio,2,0,1.1,0.9,Serie A
+2025-01-10,Lazio,Como,1,1,0.5,2.0,Serie A
+2025-01-11,Empoli,Lecce,1,3,1.4,1.5,Serie A
+2025-01-11,Udinese,Atalanta,0,0,1.5,0.2,Serie A
+2025-01-11,Torino,Juventus,1,1,0.6,0.9,Serie A
+2025-01-11,Milan,Cagliari,1,1,2.7,0.4,Serie A
+2025-01-12,Genoa,Parma,1,0,1.2,0.4,Serie A
+2025-01-12,Venezia,Inter,0,1,0.4,1.9,Serie A
+2025-01-12,Bologna,Roma,2,2,2.0,1.4,Serie A
+2025-01-12,Napoli,Hellas Verona,2,0,1.1,0.3,Serie A
+2025-01-13,Monza,Fiorentina,2,1,0.7,1.4,Serie A
+2025-01-14,Como,Milan,1,2,1.4,1.3,Serie A
+2025-01-14,Atalanta,Juventus,1,1,1.4,1.5,Serie A
+2025-01-15,Inter,Bologna,2,2,1.7,0.6,Serie A
+2025-01-17,Roma,Genoa,3,1,1.6,0.5,Serie A
+2025-01-18,Bologna,Monza,3,1,1.8,0.5,Serie A
+2025-01-18,Juventus,Milan,2,0,1.1,0.9,Serie A
+2025-01-18,Atalanta,Napoli,2,3,0.7,0.8,Serie A
+2025-01-19,Fiorentina,Torino,1,1,1.5,0.4,Serie A
+2025-01-19,Parma,Venezia,1,1,1.6,1.1,Serie A
+2025-01-19,Cagliari,Lecce,4,1,2.6,0.4,Serie A
+2025-01-19,Hellas Verona,Lazio,0,3,1.3,1.5,Serie A
+2025-01-19,Inter,Empoli,3,1,2.1,0.4,Serie A
+2025-01-20,Como,Udinese,4,1,1.4,0.6,Serie A
+2025-01-24,Torino,Cagliari,2,0,1.5,0.3,Serie A
+2025-01-25,Como,Atalanta,1,2,0.8,1.0,Serie A
+2025-01-25,Napoli,Juventus,2,1,2.3,0.8,Serie A
+2025-01-25,Empoli,Bologna,1,1,0.6,0.7,Serie A
+2025-01-26,Milan,Parma,3,2,2.2,1.6,Serie A
+2025-01-26,Udinese,Roma,1,2,0.8,2.7,Serie A
+2025-01-26,Lecce,Inter,0,4,0.9,2.1,Serie A
+2025-01-26,Lazio,Fiorentina,1,2,1.4,0.7,Serie A
+2025-01-27,Venezia,Hellas Verona,1,1,0.6,1.6,Serie A
+2025-01-27,Genoa,Monza,2,0,2.6,0.4,Serie A
+2025-01-31,Parma,Lecce,1,3,1.9,0.7,Serie A
+2025-02-01,Monza,Hellas Verona,0,1,0.4,0.9,Serie A
+2025-02-01,Udinese,Venezia,3,2,0.6,1.2,Serie A
+2025-02-01,Atalanta,Torino,1,1,2.9,0.6,Serie A
+2025-02-01,Bologna,Como,2,0,1.5,0.5,Serie A
+2025-02-02,Juventus,Empoli,4,1,1.8,0.8,Serie A
+2025-02-02,Fiorentina,Genoa,2,1,0.7,1.6,Serie A
+2025-02-02,Milan,Inter,1,1,0.6,1.3,Serie A
+2025-02-02,Roma,Napoli,1,1,0.5,0.4,Serie A
+2025-02-03,Cagliari,Lazio,1,2,1.6,1.5,Serie A
+2025-02-06,Fiorentina,Inter,3,0,1.0,0.4,Serie A
+2025-02-07,Como,Juventus,1,2,0.9,1.1,Serie A
+2025-02-08,Hellas Verona,Atalanta,0,5,1.6,2.2,Serie A
+2025-02-08,Empoli,Milan,0,2,0.7,1.3,Serie A
+2025-02-08,Torino,Genoa,1,1,0.7,0.3,Serie A
+2025-02-09,Venezia,Roma,0,1,0.7,1.6,Serie A
+2025-02-09,Cagliari,Parma,2,1,1.2,0.8,Serie A
+2025-02-09,Lazio,Monza,5,1,3.2,0.9,Serie A
+2025-02-09,Lecce,Bologna,0,0,0.4,0.8,Serie A
+2025-02-09,Napoli,Udinese,1,1,1.1,0.8,Serie A
+2025-02-10,Inter,Fiorentina,2,1,2.2,0.9,Serie A
+2025-02-14,Bologna,Torino,3,2,2.3,1.0,Serie A
+2025-02-15,Atalanta,Cagliari,0,0,0.4,0.2,Serie A
+2025-02-15,Lazio,Napoli,2,2,0.7,0.3,Serie A
+2025-02-15,Milan,Hellas Verona,1,0,2.1,0.4,Serie A
+2025-02-16,Fiorentina,Como,0,2,0.3,0.8,Serie A
+2025-02-16,Monza,Lecce,0,0,0.2,0.9,Serie A
+2025-02-16,Udinese,Empoli,3,0,2.3,2.1,Serie A
+2025-02-16,Parma,Roma,0,1,0.2,1.1,Serie A
+2025-02-16,Juventus,Inter,1,0,1.3,1.8,Serie A
+2025-02-17,Genoa,Venezia,2,0,1.5,0.5,Serie A
+2025-02-21,Lecce,Udinese,0,1,0.4,1.6,Serie A
+2025-02-22,Venezia,Lazio,0,0,0.8,1.1,Serie A
+2025-02-22,Parma,Bologna,2,0,1.1,0.7,Serie A
+2025-02-22,Torino,Milan,2,1,0.3,2.4,Serie A
+2025-02-22,Inter,Genoa,1,0,1.5,1.3,Serie A
+2025-02-23,Como,Napoli,2,1,0.7,1.2,Serie A
+2025-02-23,Hellas Verona,Fiorentina,1,0,1.2,1.4,Serie A
+2025-02-23,Empoli,Atalanta,0,5,0.9,2.1,Serie A
+2025-02-23,Cagliari,Juventus,0,1,0.3,2.1,Serie A
+2025-02-24,Roma,Monza,4,0,1.5,0.3,Serie A
+2025-02-27,Bologna,Milan,2,1,2.0,0.8,Serie A
+2025-02-28,Fiorentina,Lecce,1,0,1.6,0.9,Serie A
+2025-03-01,Atalanta,Venezia,0,0,1.9,0.8,Serie A
+2025-03-01,Napoli,Inter,1,1,1.8,0.3,Serie A
+2025-03-01,Udinese,Parma,1,0,2.3,0.8,Serie A
+2025-03-02,Monza,Torino,0,2,1.0,1.2,Serie A
+2025-03-02,Genoa,Empoli,1,1,0.3,0.9,Serie A
+2025-03-02,Bologna,Cagliari,2,1,2.1,0.5,Serie A
+2025-03-02,Roma,Como,2,1,1.6,1.2,Serie A
+2025-03-02,Milan,Lazio,1,2,1.4,3.0,Serie A
+2025-03-03,Juventus,Hellas Verona,2,0,2.0,0.2,Serie A
+2025-03-07,Cagliari,Genoa,1,1,0.7,0.9,Serie A
+2025-03-08,Parma,Torino,2,2,1.6,0.7,Serie A
+2025-03-08,Como,Venezia,1,1,1.3,1.3,Serie A
+2025-03-08,Lecce,Milan,2,3,1.0,3.5,Serie A
+2025-03-08,Inter,Monza,3,2,2.6,0.6,Serie A
+2025-03-09,Hellas Verona,Bologna,1,2,1.2,1.3,Serie A
+2025-03-09,Napoli,Fiorentina,2,1,2.8,0.7,Serie A
+2025-03-09,Empoli,Roma,0,1,0.1,2.0,Serie A
+2025-03-09,Juventus,Atalanta,0,4,0.9,3.2,Serie A
+2025-03-10,Lazio,Udinese,1,1,1.2,1.2,Serie A
+2025-03-14,Genoa,Lecce,2,1,1.0,1.2,Serie A
+2025-03-15,Udinese,Hellas Verona,0,1,0.5,0.4,Serie A
+2025-03-15,Monza,Parma,1,1,0.7,0.7,Serie A
+2025-03-15,Milan,Como,2,1,1.3,1.0,Serie A
+2025-03-15,Torino,Empoli,1,0,0.6,0.9,Serie A
+2025-03-16,Venezia,Napoli,0,0,0.7,1.7,Serie A
+2025-03-16,Bologna,Lazio,5,0,2.2,0.5,Serie A
+2025-03-16,Roma,Cagliari,1,0,1.3,0.8,Serie A
+2025-03-16,Fiorentina,Juventus,3,0,0.4,0.8,Serie A
+2025-03-16,Atalanta,Inter,0,2,0.6,2.2,Serie A
+2025-03-29,Como,Empoli,1,1,1.9,2.0,Serie A
+2025-03-29,Venezia,Bologna,0,1,0.8,1.0,Serie A
+2025-03-29,Juventus,Genoa,1,0,0.9,0.4,Serie A
+2025-03-29,Lecce,Roma,0,1,0.7,2.4,Serie A
+2025-03-30,Cagliari,Monza,3,0,1.7,0.4,Serie A
+2025-03-30,Fiorentina,Atalanta,1,0,1.6,1.1,Serie A
+2025-03-30,Inter,Udinese,2,1,1.7,0.7,Serie A
+2025-03-30,Napoli,Milan,2,1,1.0,2.6,Serie A
+2025-03-31,Hellas Verona,Parma,0,0,0.4,0.5,Serie A
+2025-03-31,Lazio,Torino,1,1,1.2,0.4,Serie A
+2025-04-04,Genoa,Udinese,1,0,1.3,1.1,Serie A
+2025-04-05,Monza,Como,1,3,0.8,2.2,Serie A
+2025-04-05,Parma,Inter,2,2,1.4,2.0,Serie A
+2025-04-05,Milan,Fiorentina,2,2,2.6,2.3,Serie A
+2025-04-06,Lecce,Venezia,1,1,1.2,0.6,Serie A
+2025-04-06,Empoli,Cagliari,0,0,0.3,0.3,Serie A
+2025-04-06,Torino,Hellas Verona,1,1,1.1,0.9,Serie A
+2025-04-06,Atalanta,Lazio,0,1,0.5,0.5,Serie A
+2025-04-06,Roma,Juventus,1,1,1.1,0.8,Serie A
+2025-04-07,Bologna,Napoli,1,1,0.8,1.2,Serie A
+2025-04-11,Udinese,Milan,0,4,0.8,2.1,Serie A
+2025-04-12,Venezia,Monza,1,0,1.3,0.5,Serie A
+2025-04-12,Inter,Cagliari,3,1,1.8,1.1,Serie A
+2025-04-12,Juventus,Lecce,2,1,1.5,1.1,Serie A
+2025-04-13,Atalanta,Bologna,2,0,1.0,0.6,Serie A
+2025-04-13,Hellas Verona,Genoa,0,0,1.2,0.2,Serie A
+2025-04-13,Fiorentina,Parma,0,0,0.8,0.6,Serie A
+2025-04-13,Como,Torino,1,0,1.3,1.2,Serie A
+2025-04-13,Lazio,Roma,1,1,1.2,0.2,Serie A
+2025-04-14,Napoli,Empoli,3,0,2.0,1.2,Serie A
+2025-04-19,Lecce,Como,0,3,0.7,1.3,Serie A
+2025-04-19,Monza,Napoli,0,1,0.9,1.5,Serie A
+2025-04-19,Roma,Hellas Verona,1,0,1.2,0.5,Serie A
+2025-04-20,Empoli,Venezia,2,2,1.2,1.8,Serie A
+2025-04-20,Bologna,Inter,1,0,0.8,0.5,Serie A
+2025-04-20,Milan,Atalanta,0,1,0.6,1.9,Serie A
+2025-04-23,Cagliari,Fiorentina,1,2,0.3,0.7,Serie A
+2025-04-23,Parma,Juventus,1,0,0.6,0.8,Serie A
+2025-04-23,Torino,Udinese,2,0,0.9,1.1,Serie A
+2025-04-23,Genoa,Lazio,0,2,0.6,1.1,Serie A
+2025-04-27,Como,Genoa,1,0,1.3,1.3,Serie A
+2025-04-27,Venezia,Milan,0,2,1.2,1.6,Serie A
+2025-04-27,Inter,Roma,0,1,1.1,1.9,Serie A
+2025-04-27,Fiorentina,Empoli,2,1,0.8,0.4,Serie A
+2025-04-27,Juventus,Monza,2,0,1.4,0.7,Serie A
+2025-04-27,Napoli,Torino,2,0,1.1,0.8,Serie A
+2025-04-27,Atalanta,Lecce,1,1,2.3,1.4,Serie A
+2025-04-28,Udinese,Bologna,0,0,0.5,1.6,Serie A
+2025-04-28,Lazio,Parma,2,2,1.4,0.9,Serie A
+2025-04-28,Hellas Verona,Cagliari,0,2,0.3,1.9,Serie A
+2025-05-02,Torino,Venezia,1,1,2.1,0.6,Serie A
+2025-05-03,Parma,Como,0,1,1.8,0.8,Serie A
+2025-05-03,Cagliari,Udinese,1,2,1.0,1.4,Serie A
+2025-05-03,Lecce,Napoli,0,1,0.3,0.6,Serie A
+2025-05-03,Inter,Hellas Verona,1,0,1.3,0.2,Serie A
+2025-05-04,Empoli,Lazio,0,1,0.2,1.8,Serie A
+2025-05-04,Monza,Atalanta,0,4,0.8,2.4,Serie A
+2025-05-04,Roma,Fiorentina,1,0,0.6,1.0,Serie A
+2025-05-04,Bologna,Juventus,1,1,0.4,0.8,Serie A
+2025-05-05,Genoa,Milan,1,2,0.6,1.0,Serie A
+2025-05-09,Milan,Bologna,3,1,1.6,0.6,Serie A
+2025-05-10,Como,Cagliari,3,1,2.0,0.9,Serie A
+2025-05-10,Lazio,Juventus,1,1,1.7,0.8,Serie A
+2025-05-10,Empoli,Parma,2,1,0.6,0.3,Serie A
+2025-05-11,Udinese,Monza,1,2,1.6,1.5,Serie A
+2025-05-11,Hellas Verona,Lecce,1,1,0.3,1.1,Serie A
+2025-05-11,Torino,Inter,0,2,1.5,2.5,Serie A
+2025-05-11,Napoli,Genoa,2,2,1.7,0.6,Serie A
+2025-05-12,Venezia,Fiorentina,2,1,2.0,1.1,Serie A
+2025-05-12,Atalanta,Roma,2,1,2.3,0.8,Serie A
+2025-05-17,Genoa,Atalanta,2,3,1.2,2.0,Serie A
+2025-05-18,Parma,Napoli,0,0,0.4,0.4,Serie A
+2025-05-18,Fiorentina,Bologna,3,2,1.8,2.4,Serie A
+2025-05-18,Cagliari,Venezia,3,0,1.6,0.5,Serie A
+2025-05-18,Roma,Milan,3,1,1.0,1.4,Serie A
+2025-05-18,Hellas Verona,Como,1,1,1.5,0.8,Serie A
+2025-05-18,Monza,Empoli,1,3,1.1,1.3,Serie A
+2025-05-18,Juventus,Udinese,2,0,1.8,0.3,Serie A
+2025-05-18,Lecce,Torino,1,0,0.8,0.5,Serie A
+2025-05-18,Inter,Lazio,2,2,1.1,2.1,Serie A
+2024-08-16,Brescia,Palermo,1,0,1.4,0.5,Serie B
+2024-08-17,Südtirol,Modena,2,1,0.8,0.3,Serie B
+2024-08-17,Salernitana,Cittadella,2,1,1.3,0.5,Serie B
+2024-08-17,Pisa,Spezia,2,2,2.2,1.0,Serie B
+2024-08-17,Bari,Juve Stabia,1,3,1.2,1.4,Serie B
+2024-08-18,Cosenza,Cremonese,1,0,2.4,0.4,Serie B
+2024-08-18,Catanzaro,Sassuolo,1,1,0.5,1.2,Serie B
+2024-08-18,Reggiana,Mantova,2,2,0.6,1.1,Serie B
+2024-08-18,Frosinone,Sampdoria,2,2,2.1,1.9,Serie B
+2024-08-18,Cesena,Carrarese,2,1,1.8,1.5,Serie B
+2024-08-23,Modena,Bari,2,1,2.6,1.3,Serie B
+2024-08-24,Südtirol,Salernitana,3,2,3.0,0.3,Serie B
+2024-08-24,Pisa,Palermo,2,0,1.0,1.5,Serie B
+2024-08-24,Sampdoria,Reggiana,0,1,0.4,1.4,Serie B
+2024-08-24,Spezia,Frosinone,2,1,2.2,0.3,Serie B
+2024-08-24,Cremonese,Carrarese,1,0,1.5,1.0,Serie B
+2024-08-24,Brescia,Cittadella,0,1,1.3,0.6,Serie B
+2024-08-24,Sassuolo,Cesena,2,1,1.9,1.6,Serie B
+2024-08-25,Catanzaro,Juve Stabia,0,0,0.6,0.8,Serie B
+2024-08-25,Mantova,Cosenza,3,2,1.1,2.2,Serie B
+2024-08-27,Carrarese,Südtirol,2,0,1.4,0.8,Serie B
+2024-08-27,Frosinone,Modena,1,1,1.2,1.5,Serie B
+2024-08-27,Salernitana,Sampdoria,3,2,1.3,2.3,Serie B
+2024-08-27,Reggiana,Brescia,2,0,1.2,0.7,Serie B
+2024-08-27,Cremonese,Palermo,0,1,1.2,0.7,Serie B
+2024-08-27,Cittadella,Pisa,0,3,0.7,1.3,Serie B
+2024-08-27,Bari,Sassuolo,1,1,1.8,0.5,Serie B
+2024-08-28,Cosenza,Spezia,0,0,1.0,0.5,Serie B
+2024-08-28,Cesena,Catanzaro,2,0,1.7,0.9,Serie B
+2024-08-28,Juve Stabia,Mantova,1,0,1.1,0.6,Serie B
+2024-08-31,Sampdoria,Bari,0,0,0.6,1.9,Serie B
+2024-08-31,Südtirol,Brescia,1,2,1.5,0.5,Serie B
+2024-08-31,Sassuolo,Cremonese,1,4,1.8,2.3,Serie B
+2024-08-31,Modena,Cittadella,0,1,1.1,0.7,Serie B
+2024-08-31,Pisa,Reggiana,2,1,1.3,0.5,Serie B
+2024-09-01,Mantova,Salernitana,1,0,0.4,0.2,Serie B
+2024-09-01,Spezia,Cesena,2,1,1.4,1.2,Serie B
+2024-09-01,Palermo,Cosenza,1,1,2.3,1.0,Serie B
+2024-09-01,Frosinone,Juve Stabia,0,0,0.4,0.5,Serie B
+2024-09-01,Catanzaro,Carrarese,3,1,1.9,0.4,Serie B
+2024-09-13,Cesena,Modena,2,2,1.5,2.2,Serie B
+2024-09-14,Juve Stabia,Palermo,1,3,1.5,1.6,Serie B
+2024-09-14,Cittadella,Catanzaro,0,0,1.0,0.5,Serie B
+2024-09-14,Cremonese,Spezia,1,1,0.6,1.3,Serie B
+2024-09-14,Bari,Mantova,2,0,1.5,0.5,Serie B
+2024-09-14,Brescia,Frosinone,4,0,2.3,0.4,Serie B
+2024-09-15,Carrarese,Sassuolo,0,2,0.6,1.3,Serie B
+2024-09-15,Reggiana,Südtirol,1,3,1.5,1.3,Serie B
+2024-09-15,Cosenza,Sampdoria,2,1,0.4,0.7,Serie B
+2024-09-15,Salernitana,Pisa,2,3,1.4,1.8,Serie B
+2024-09-20,Catanzaro,Cremonese,1,2,0.3,1.9,Serie B
+2024-09-21,Cosenza,Sassuolo,0,1,0.7,1.2,Serie B
+2024-09-21,Sampdoria,Südtirol,1,0,0.5,0.7,Serie B
+2024-09-21,Palermo,Cesena,0,0,0.9,0.5,Serie B
+2024-09-21,Reggiana,Salernitana,0,0,0.5,1.6,Serie B
+2024-09-21,Pisa,Brescia,2,1,2.0,1.1,Serie B
+2024-09-21,Modena,Juve Stabia,3,0,1.5,0.4,Serie B
+2024-09-22,Frosinone,Bari,0,3,1.7,1.2,Serie B
+2024-09-22,Spezia,Carrarese,4,2,3.4,0.8,Serie B
+2024-09-22,Mantova,Cittadella,1,0,2.3,0.6,Serie B
+2024-09-27,Cittadella,Frosinone,1,2,0.9,1.9,Serie B
+2024-09-28,Bari,Cosenza,1,1,0.7,1.5,Serie B
+2024-09-28,Carrarese,Reggiana,0,0,1.3,0.3,Serie B
+2024-09-28,Sassuolo,Spezia,0,0,0.4,0.6,Serie B
+2024-09-29,Juve Stabia,Pisa,2,0,1.6,1.1,Serie B
+2024-09-29,Salernitana,Catanzaro,0,0,0.6,0.1,Serie B
+2024-09-29,Cesena,Mantova,4,2,2.3,1.9,Serie B
+2024-09-29,Modena,Sampdoria,1,3,0.7,2.0,Serie B
+2024-09-30,Südtirol,Palermo,1,3,0.6,0.9,Serie B
+2024-09-30,Brescia,Cremonese,3,2,1.3,1.4,Serie B
+2024-10-04,Sampdoria,Juve Stabia,1,2,1.8,0.5,Serie B
+2024-10-05,Spezia,Reggiana,1,0,1.2,1.4,Serie B
+2024-10-05,Frosinone,Carrarese,0,1,1.5,0.7,Serie B
+2024-10-05,Pisa,Cesena,3,1,1.5,1.2,Serie B
+2024-10-05,Sassuolo,Cittadella,6,1,4.3,0.4,Serie B
+2024-10-06,Mantova,Brescia,1,1,2.0,0.5,Serie B
+2024-10-06,Catanzaro,Modena,2,2,0.4,0.7,Serie B
+2024-10-06,Cremonese,Bari,1,1,1.3,0.8,Serie B
+2024-10-06,Palermo,Salernitana,0,1,1.6,0.4,Serie B
+2024-10-06,Cosenza,Südtirol,0,2,1.5,0.4,Serie B
+2024-10-18,Bari,Catanzaro,1,1,1.9,0.8,Serie B
+2024-10-19,Cittadella,Cosenza,0,0,2.1,0.3,Serie B
+2024-10-19,Modena,Palermo,2,2,1.8,1.6,Serie B
+2024-10-19,Südtirol,Pisa,1,2,0.7,1.8,Serie B
+2024-10-19,Salernitana,Spezia,0,2,0.8,1.3,Serie B
+2024-10-19,Brescia,Sassuolo,2,5,1.8,2.2,Serie B
+2024-10-20,Reggiana,Frosinone,2,0,1.4,1.1,Serie B
+2024-10-20,Juve Stabia,Cremonese,1,2,1.2,1.0,Serie B
+2024-10-20,Carrarese,Mantova,1,1,1.8,1.2,Serie B
+2024-10-20,Cesena,Sampdoria,3,5,0.8,2.1,Serie B
+2024-10-25,Spezia,Bari,0,0,1.3,0.1,Serie B
+2024-10-26,Cremonese,Salernitana,2,1,1.2,0.5,Serie B
+2024-10-26,Cosenza,Juve Stabia,1,1,1.0,1.6,Serie B
+2024-10-26,Cesena,Brescia,2,0,2.7,0.9,Serie B
+2024-10-26,Palermo,Reggiana,2,0,2.1,0.9,Serie B
+2024-10-26,Carrarese,Cittadella,3,0,0.5,1.6,Serie B
+2024-10-26,Sassuolo,Modena,2,0,1.5,0.8,Serie B
+2024-10-27,Frosinone,Pisa,0,0,0.6,1.1,Serie B
+2024-10-27,Sampdoria,Mantova,1,0,1.6,0.8,Serie B
+2024-10-27,Catanzaro,Südtirol,3,0,1.4,0.9,Serie B
+2024-10-29,Brescia,Spezia,1,1,0.6,1.2,Serie B
+2024-10-29,Juve Stabia,Sassuolo,2,2,1.3,0.7,Serie B
+2024-10-29,Salernitana,Cesena,1,1,0.7,0.3,Serie B
+2024-10-29,Reggiana,Cosenza,0,1,0.9,0.7,Serie B
+2024-10-29,Bari,Carrarese,0,0,1.4,0.8,Serie B
+2024-10-29,Modena,Cremonese,2,2,1.2,1.3,Serie B
+2024-10-30,Südtirol,Frosinone,1,1,1.1,0.4,Serie B
+2024-10-30,Mantova,Palermo,0,0,0.3,0.9,Serie B
+2024-10-30,Pisa,Catanzaro,0,0,1.9,0.1,Serie B
+2024-10-30,Cittadella,Sampdoria,0,0,0.4,0.3,Serie B
+2024-11-02,Bari,Reggiana,2,2,1.5,1.8,Serie B
+2024-11-02,Carrarese,Juve Stabia,0,0,0.4,0.5,Serie B
+2024-11-02,Spezia,Modena,1,0,1.1,0.5,Serie B
+2024-11-03,Cremonese,Pisa,1,3,0.6,2.2,Serie B
+2024-11-03,Catanzaro,Frosinone,0,0,0.7,0.8,Serie B
+2024-11-03,Cosenza,Salernitana,1,1,0.7,1.2,Serie B
+2024-11-03,Palermo,Cittadella,0,1,2.3,0.7,Serie B
+2024-11-03,Cesena,Südtirol,1,0,0.6,0.2,Serie B
+2024-11-03,Sampdoria,Brescia,0,1,0.8,1.2,Serie B
+2024-11-03,Sassuolo,Mantova,1,0,2.2,0.5,Serie B
+2024-11-08,Frosinone,Palermo,1,1,0.5,0.7,Serie B
+2024-11-09,Pisa,Sampdoria,3,0,1.1,0.8,Serie B
+2024-11-09,Brescia,Cosenza,2,3,1.3,2.1,Serie B
+2024-11-09,Südtirol,Sassuolo,0,1,1.0,1.1,Serie B
+2024-11-09,Modena,Carrarese,2,0,1.2,0.2,Serie B
+2024-11-09,Mantova,Cremonese,1,0,0.9,1.0,Serie B
+2024-11-10,Reggiana,Catanzaro,2,2,1.1,1.4,Serie B
+2024-11-10,Cittadella,Cesena,0,2,0.3,2.5,Serie B
+2024-11-10,Juve Stabia,Spezia,0,3,0.8,1.8,Serie B
+2024-11-10,Salernitana,Bari,0,2,1.5,1.8,Serie B
+2024-11-22,Cosenza,Modena,1,1,1.4,2.0,Serie B
+2024-11-23,Carrarese,Pisa,1,0,1.2,0.3,Serie B
+2024-11-23,Sassuolo,Salernitana,4,0,3.9,0.4,Serie B
+2024-11-23,Juve Stabia,Brescia,0,0,0.6,0.8,Serie B
+2024-11-23,Catanzaro,Mantova,2,2,0.7,1.7,Serie B
+2024-11-23,Cesena,Reggiana,1,1,1.1,0.8,Serie B
+2024-11-24,Bari,Cittadella,3,2,1.9,0.9,Serie B
+2024-11-24,Spezia,Südtirol,3,0,1.8,0.4,Serie B
+2024-11-24,Cremonese,Frosinone,1,0,3.0,0.7,Serie B
+2024-11-24,Palermo,Sampdoria,1,1,1.6,0.6,Serie B
+2024-11-29,Reggiana,Sassuolo,0,2,1.7,0.6,Serie B
+2024-11-30,Cittadella,Juve Stabia,2,2,1.6,0.4,Serie B
+2024-11-30,Brescia,Bari,1,1,1.5,1.4,Serie B
+2024-11-30,Sampdoria,Catanzaro,3,3,3.7,1.1,Serie B
+2024-11-30,Südtirol,Cremonese,0,4,0.9,2.1,Serie B
+2024-11-30,Mantova,Modena,0,0,1.1,0.6,Serie B
+2024-12-01,Palermo,Spezia,2,0,2.4,1.1,Serie B
+2024-12-01,Frosinone,Cesena,3,2,1.3,1.6,Serie B
+2024-12-01,Pisa,Cosenza,2,2,3.3,1.2,Serie B
+2024-12-01,Salernitana,Carrarese,4,1,3.4,1.8,Serie B
+2024-12-06,Juve Stabia,Südtirol,2,1,1.7,0.5,Serie B
+2024-12-07,Mantova,Pisa,2,3,0.9,1.8,Serie B
+2024-12-07,Bari,Cesena,1,0,0.8,1.0,Serie B
+2024-12-07,Modena,Salernitana,1,1,0.7,1.0,Serie B
+2024-12-07,Carrarese,Palermo,1,0,1.9,1.2,Serie B
+2024-12-07,Cosenza,Frosinone,0,1,1.0,1.5,Serie B
+2024-12-08,Catanzaro,Brescia,2,1,2.2,1.2,Serie B
+2024-12-08,Cremonese,Reggiana,0,2,0.7,0.9,Serie B
+2024-12-08,Spezia,Cittadella,5,0,3.1,0.6,Serie B
+2024-12-08,Sassuolo,Sampdoria,5,1,1.9,1.3,Serie B
+2024-12-13,Pisa,Bari,2,0,2.9,0.8,Serie B
+2024-12-14,Frosinone,Sassuolo,1,2,0.6,1.3,Serie B
+2024-12-14,Cesena,Cosenza,2,1,2.0,1.3,Serie B
+2024-12-14,Südtirol,Mantova,2,2,1.7,2.1,Serie B
+2024-12-14,Reggiana,Modena,0,1,0.9,0.9,Serie B
+2024-12-14,Sampdoria,Spezia,0,0,0.5,1.9,Serie B
+2024-12-15,Palermo,Catanzaro,1,2,2.1,0.9,Serie B
+2024-12-15,Brescia,Carrarese,0,0,0.2,1.0,Serie B
+2024-12-15,Cittadella,Cremonese,0,0,0.5,0.5,Serie B
+2024-12-15,Salernitana,Juve Stabia,1,2,0.8,1.7,Serie B
+2024-12-20,Salernitana,Brescia,0,0,0.7,1.1,Serie B
+2024-12-21,Carrarese,Cosenza,1,0,1.5,0.5,Serie B
+2024-12-21,Bari,Südtirol,0,1,0.5,2.3,Serie B
+2024-12-21,Sassuolo,Palermo,2,1,2.0,1.0,Serie B
+2024-12-21,Mantova,Frosinone,3,1,1.6,0.9,Serie B
+2024-12-21,Cittadella,Reggiana,3,1,0.4,1.0,Serie B
+2024-12-21,Modena,Pisa,1,0,0.7,1.1,Serie B
+2024-12-21,Catanzaro,Spezia,0,1,1.4,0.7,Serie B
+2024-12-22,Juve Stabia,Cesena,1,0,1.4,0.1,Serie B
+2024-12-22,Cremonese,Sampdoria,1,1,2.4,0.8,Serie B
+2024-12-26,Pisa,Sassuolo,3,1,1.6,2.4,Serie B
+2024-12-26,Spezia,Mantova,1,1,2.6,0.3,Serie B
+2024-12-26,Cosenza,Catanzaro,1,1,2.4,1.1,Serie B
+2024-12-26,Südtirol,Cittadella,1,2,0.7,1.1,Serie B
+2024-12-26,Cesena,Cremonese,0,1,1.1,0.8,Serie B
+2024-12-26,Frosinone,Salernitana,2,0,1.5,0.2,Serie B
+2024-12-26,Brescia,Modena,3,3,1.4,1.3,Serie B
+2024-12-26,Reggiana,Juve Stabia,2,1,1.2,1.0,Serie B
+2024-12-26,Palermo,Bari,1,0,2.3,1.1,Serie B
+2024-12-26,Sampdoria,Carrarese,1,1,2.5,0.3,Serie B
+2024-12-29,Cremonese,Brescia,1,1,1.1,0.5,Serie B
+2024-12-29,Sassuolo,Cosenza,2,1,1.3,1.2,Serie B
+2024-12-29,Bari,Spezia,2,0,1.6,1.2,Serie B
+2024-12-29,Modena,Südtirol,0,0,0.4,1.0,Serie B
+2024-12-29,Mantova,Reggiana,0,2,0.2,1.6,Serie B
+2024-12-29,Carrarese,Cesena,2,0,2.5,0.4,Serie B
+2024-12-29,Catanzaro,Salernitana,1,0,1.0,0.7,Serie B
+2024-12-29,Cittadella,Palermo,2,1,0.7,1.9,Serie B
+2024-12-29,Juve Stabia,Frosinone,1,1,1.4,1.1,Serie B
+2024-12-29,Sampdoria,Pisa,0,1,1.1,1.0,Serie B
+2025-01-12,Salernitana,Sassuolo,1,2,1.6,1.5,Serie B
+2025-01-12,Palermo,Modena,2,0,2.0,1.0,Serie B
+2025-01-12,Südtirol,Catanzaro,1,1,1.4,2.3,Serie B
+2025-01-12,Frosinone,Cremonese,0,3,1.6,1.5,Serie B
+2025-01-12,Spezia,Juve Stabia,1,1,1.9,0.3,Serie B
+2025-01-12,Reggiana,Bari,0,0,0.4,0.7,Serie B
+2025-01-12,Cosenza,Mantova,2,2,1.3,0.7,Serie B
+2025-01-12,Cesena,Cittadella,0,0,1.1,0.7,Serie B
+2025-01-12,Brescia,Sampdoria,1,1,2.1,0.5,Serie B
+2025-01-13,Pisa,Carrarese,2,1,2.8,0.9,Serie B
+2025-01-17,Sampdoria,Cesena,1,2,0.8,1.5,Serie B
+2025-01-18,Modena,Frosinone,1,1,0.9,0.6,Serie B
+2025-01-18,Salernitana,Reggiana,2,1,2.0,1.1,Serie B
+2025-01-18,Cremonese,Cosenza,3,1,2.5,0.5,Serie B
+2025-01-18,Cittadella,Mantova,1,2,1.0,1.8,Serie B
+2025-01-18,Bari,Brescia,2,2,2.7,0.9,Serie B
+2025-01-19,Catanzaro,Pisa,0,0,1.5,0.5,Serie B
+2025-01-19,Palermo,Juve Stabia,1,0,1.2,1.2,Serie B
+2025-01-19,Sassuolo,Südtirol,5,3,1.8,1.0,Serie B
+2025-01-19,Carrarese,Spezia,0,4,0.5,1.7,Serie B
+2025-01-24,Spezia,Sassuolo,2,1,2.6,0.7,Serie B
+2025-01-25,Cosenza,Cittadella,0,1,1.7,0.4,Serie B
+2025-01-25,Cesena,Bari,1,1,1.2,0.9,Serie B
+2025-01-25,Juve Stabia,Carrarese,2,1,0.7,0.8,Serie B
+2025-01-25,Frosinone,Südtirol,0,3,0.9,1.6,Serie B
+2025-01-25,Mantova,Sampdoria,2,2,1.1,1.7,Serie B
+2025-01-26,Pisa,Salernitana,1,0,1.7,0.4,Serie B
+2025-01-26,Reggiana,Palermo,2,1,0.4,0.9,Serie B
+2025-01-26,Brescia,Catanzaro,2,3,1.9,1.9,Serie B
+2025-01-26,Cremonese,Modena,2,2,1.8,2.2,Serie B
+2025-01-31,Palermo,Pisa,1,2,1.1,1.1,Serie B
+2025-02-01,Catanzaro,Cesena,4,2,1.4,1.3,Serie B
+2025-02-01,Sampdoria,Cosenza,1,0,0.8,1.3,Serie B
+2025-02-01,Cittadella,Spezia,0,2,0.9,2.0,Serie B
+2025-02-01,Sassuolo,Juve Stabia,2,0,0.8,0.4,Serie B
+2025-02-01,Modena,Mantova,3,1,1.7,1.5,Serie B
+2025-02-02,Salernitana,Cremonese,1,0,2.1,1.8,Serie B
+2025-02-02,Carrarese,Brescia,1,2,1.4,1.4,Serie B
+2025-02-02,Südtirol,Reggiana,2,0,0.8,1.4,Serie B
+2025-02-02,Bari,Frosinone,2,1,1.6,1.5,Serie B
+2025-02-07,Brescia,Salernitana,0,0,0.8,0.3,Serie B
+2025-02-08,Mantova,Sassuolo,0,3,0.4,1.4,Serie B
+2025-02-08,Pisa,Cittadella,0,1,0.7,0.2,Serie B
+2025-02-08,Frosinone,Catanzaro,1,1,1.6,0.7,Serie B
+2025-02-08,Cosenza,Carrarese,1,0,0.2,0.5,Serie B
+2025-02-08,Sampdoria,Modena,1,0,2.0,0.6,Serie B
+2025-02-09,Cremonese,Südtirol,3,1,1.8,0.3,Serie B
+2025-02-09,Spezia,Palermo,2,2,3.1,0.5,Serie B
+2025-02-09,Reggiana,Cesena,0,1,0.5,0.5,Serie B
+2025-02-09,Juve Stabia,Bari,3,1,2.4,1.6,Serie B
+2025-02-14,Catanzaro,Cittadella,1,0,1.4,0.5,Serie B
+2025-02-15,Carrarese,Salernitana,3,2,2.0,1.2,Serie B
+2025-02-15,Modena,Spezia,1,1,0.7,1.8,Serie B
+2025-02-15,Sassuolo,Brescia,2,0,0.7,1.7,Serie B
+2025-02-15,Südtirol,Sampdoria,2,1,2.0,1.0,Serie B
+2025-02-15,Bari,Cremonese,1,1,0.6,2.0,Serie B
+2025-02-16,Palermo,Mantova,2,2,1.8,0.9,Serie B
+2025-02-16,Juve Stabia,Cosenza,3,0,0.9,1.9,Serie B
+2025-02-16,Frosinone,Reggiana,1,1,0.8,0.7,Serie B
+2025-02-16,Cesena,Pisa,1,1,0.8,1.5,Serie B
+2025-02-21,Sampdoria,Sassuolo,0,0,0.1,0.5,Serie B
+2025-02-22,Mantova,Bari,0,1,0.4,0.7,Serie B
+2025-02-22,Cittadella,Modena,0,2,0.9,1.4,Serie B
+2025-02-22,Reggiana,Carrarese,2,2,1.4,1.4,Serie B
+2025-02-22,Pisa,Juve Stabia,3,1,1.6,0.9,Serie B
+2025-02-22,Cremonese,Cesena,1,2,1.1,0.6,Serie B
+2025-02-23,Brescia,Südtirol,0,0,1.3,0.7,Serie B
+2025-02-23,Spezia,Catanzaro,0,1,2.6,0.9,Serie B
+2025-02-23,Cosenza,Palermo,0,3,2.4,2.1,Serie B
+2025-02-23,Salernitana,Frosinone,1,1,2.1,0.6,Serie B
+2025-02-28,Südtirol,Spezia,1,1,1.3,2.4,Serie B
+2025-03-01,Juve Stabia,Cittadella,0,1,1.1,0.8,Serie B
+2025-03-01,Cesena,Salernitana,2,0,1.1,1.7,Serie B
+2025-03-01,Frosinone,Mantova,2,1,1.6,1.7,Serie B
+2025-03-01,Carrarese,Cremonese,2,2,1.2,1.8,Serie B
+2025-03-01,Sassuolo,Pisa,1,0,0.9,1.0,Serie B
+2025-03-02,Palermo,Brescia,1,0,2.4,0.6,Serie B
+2025-03-02,Catanzaro,Reggiana,1,1,1.6,1.4,Serie B
+2025-03-02,Modena,Cosenza,1,1,0.9,0.6,Serie B
+2025-03-02,Bari,Sampdoria,1,1,0.9,2.0,Serie B
+2025-03-07,Cosenza,Reggiana,1,0,0.4,1.0,Serie B
+2025-03-08,Carrarese,Frosinone,0,1,2.0,0.6,Serie B
+2025-03-08,Cremonese,Catanzaro,4,0,3.8,0.4,Serie B
+2025-03-08,Mantova,Juve Stabia,1,1,0.5,0.6,Serie B
+2025-03-08,Salernitana,Modena,1,0,1.0,0.9,Serie B
+2025-03-08,Sampdoria,Palermo,1,1,1.2,1.4,Serie B
+2025-03-08,Brescia,Cesena,1,1,0.7,1.2,Serie B
+2025-03-09,Sassuolo,Bari,1,1,0.5,0.5,Serie B
+2025-03-09,Spezia,Pisa,3,2,1.5,0.8,Serie B
+2025-03-09,Cittadella,Südtirol,1,5,1.1,2.1,Serie B
+2025-03-14,Palermo,Cremonese,2,3,1.3,3.0,Serie B
+2025-03-15,Cittadella,Sassuolo,1,2,0.8,2.2,Serie B
+2025-03-15,Frosinone,Brescia,2,1,0.6,1.3,Serie B
+2025-03-15,Cesena,Spezia,0,0,1.2,2.3,Serie B
+2025-03-15,Juve Stabia,Modena,2,1,1.7,1.2,Serie B
+2025-03-15,Bari,Salernitana,0,0,0.7,0.7,Serie B
+2025-03-16,Südtirol,Carrarese,2,2,0.9,1.0,Serie B
+2025-03-16,Pisa,Mantova,3,1,1.7,1.0,Serie B
+2025-03-16,Reggiana,Sampdoria,2,2,2.5,1.7,Serie B
+2025-03-16,Catanzaro,Cosenza,4,0,1.3,0.5,Serie B
+2025-03-28,Spezia,Brescia,0,1,1.8,1.6,Serie B
+2025-03-29,Cosenza,Pisa,0,3,0.0,1.7,Serie B
+2025-03-29,Mantova,Südtirol,2,0,0.8,1.5,Serie B
+2025-03-29,Sampdoria,Frosinone,0,3,1.5,2.0,Serie B
+2025-03-29,Modena,Catanzaro,2,1,0.7,1.2,Serie B
+2025-03-29,Cremonese,Cittadella,2,2,2.6,0.9,Serie B
+2025-03-29,Sassuolo,Reggiana,5,1,2.2,0.6,Serie B
+2025-03-30,Cesena,Juve Stabia,1,2,1.5,1.1,Serie B
+2025-03-30,Carrarese,Bari,2,1,0.8,1.1,Serie B
+2025-03-30,Salernitana,Palermo,1,2,1.4,1.6,Serie B
+2025-04-04,Reggiana,Cremonese,1,2,1.6,1.2,Serie B
+2025-04-05,Brescia,Mantova,1,2,1.1,1.9,Serie B
+2025-04-05,Cittadella,Carrarese,0,0,0.5,0.7,Serie B
+2025-04-05,Südtirol,Cesena,1,1,0.7,0.5,Serie B
+2025-04-05,Frosinone,Cosenza,2,2,1.8,1.2,Serie B
+2025-04-05,Pisa,Modena,1,2,1.6,1.1,Serie B
+2025-04-05,Juve Stabia,Salernitana,1,0,1.2,0.5,Serie B
+2025-04-06,Palermo,Sassuolo,5,3,1.6,1.3,Serie B
+2025-04-06,Catanzaro,Bari,3,3,1.5,1.2,Serie B
+2025-04-06,Spezia,Sampdoria,2,0,2.0,0.6,Serie B
+2025-04-11,Bari,Palermo,2,1,1.7,0.5,Serie B
+2025-04-12,Cosenza,Brescia,1,1,1.8,0.6,Serie B
+2025-04-12,Reggiana,Pisa,0,2,0.9,1.2,Serie B
+2025-04-12,Salernitana,Südtirol,2,1,1.8,1.5,Serie B
+2025-04-12,Carrarese,Catanzaro,2,2,0.8,1.0,Serie B
+2025-04-12,Sampdoria,Cittadella,1,0,0.7,0.3,Serie B
+2025-04-12,Modena,Sassuolo,1,3,0.8,0.9,Serie B
+2025-04-13,Cesena,Frosinone,1,1,1.2,1.2,Serie B
+2025-04-13,Cremonese,Juve Stabia,1,1,0.8,0.2,Serie B
+2025-04-13,Mantova,Spezia,2,2,1.8,1.0,Serie B
+2025-04-25,Frosinone,Spezia,2,2,1.0,1.4,Serie B
+2025-04-25,Salernitana,Cosenza,3,1,2.3,1.0,Serie B
+2025-04-25,Brescia,Pisa,1,2,0.3,0.8,Serie B
+2025-04-25,Carrarese,Sampdoria,1,0,0.8,0.7,Serie B
+2025-04-25,Reggiana,Cittadella,2,1,1.1,1.2,Serie B
+2025-04-25,Bari,Modena,1,2,1.8,2.4,Serie B
+2025-04-25,Cremonese,Mantova,4,2,3.0,1.1,Serie B
+2025-04-25,Cesena,Sassuolo,0,2,0.8,2.0,Serie B
+2025-04-27,Catanzaro,Palermo,1,3,1.5,1.6,Serie B
+2025-04-27,Südtirol,Juve Stabia,2,0,1.3,0.9,Serie B
+2025-05-01,Juve Stabia,Catanzaro,2,0,2.2,0.7,Serie B
+2025-05-01,Sampdoria,Cremonese,0,0,0.7,0.7,Serie B
+2025-05-01,Cosenza,Bari,1,0,1.6,1.0,Serie B
+2025-05-01,Mantova,Cesena,3,0,1.2,0.3,Serie B
+2025-05-01,Modena,Reggiana,2,3,0.4,1.0,Serie B
+2025-05-01,Pisa,Frosinone,1,0,1.0,0.3,Serie B
+2025-05-01,Spezia,Salernitana,2,0,2.0,0.7,Serie B
+2025-05-01,Palermo,Südtirol,1,2,1.1,1.9,Serie B
+2025-05-01,Cittadella,Brescia,0,1,0.8,0.4,Serie B
+2025-05-01,Sassuolo,Carrarese,2,0,1.4,0.9,Serie B
+2025-05-04,Carrarese,Modena,2,1,1.1,1.5,Serie B
+2025-05-04,Salernitana,Mantova,2,0,0.9,0.5,Serie B
+2025-05-04,Reggiana,Spezia,2,1,0.5,0.7,Serie B
+2025-05-04,Cesena,Palermo,2,1,1.2,2.6,Serie B
+2025-05-04,Südtirol,Cosenza,2,1,1.1,1.6,Serie B
+2025-05-04,Catanzaro,Sampdoria,2,2,1.8,0.7,Serie B
+2025-05-04,Frosinone,Cittadella,1,1,2.5,0.8,Serie B
+2025-05-04,Brescia,Juve Stabia,0,0,0.7,0.2,Serie B
+2025-05-04,Bari,Pisa,1,0,0.5,0.9,Serie B
+2025-05-04,Cremonese,Sassuolo,1,1,0.9,0.3,Serie B
+2025-05-09,Sassuolo,Catanzaro,0,2,0.8,0.5,Serie B
+2025-05-09,Mantova,Carrarese,2,1,1.8,1.1,Serie B
+2025-05-09,Modena,Brescia,2,2,0.9,1.5,Serie B
+2025-05-09,Spezia,Cremonese,2,3,2.0,1.9,Serie B
+2025-05-09,Juve Stabia,Reggiana,1,2,1.9,1.1,Serie B
+2025-05-09,Pisa,Südtirol,3,3,1.5,2.0,Serie B
+2025-05-09,Palermo,Frosinone,2,0,1.2,1.6,Serie B
+2025-05-09,Cittadella,Bari,3,1,1.9,1.1,Serie B
+2025-05-09,Sampdoria,Salernitana,1,0,0.7,0.7,Serie B
+2025-05-09,Cosenza,Cesena,0,1,0.9,0.2,Serie B
+2025-05-13,Mantova,Catanzaro,0,0,0.9,0.2,Serie B
+2025-05-13,Cittadella,Salernitana,0,2,0.9,1.5,Serie B
+2025-05-13,Südtirol,Bari,0,0,1.0,2.3,Serie B
+2025-05-13,Palermo,Carrarese,1,1,1.6,0.6,Serie B
+2025-05-13,Modena,Cesena,0,1,0.8,0.7,Serie B
+2025-05-13,Brescia,Reggiana,2,1,1.7,1.4,Serie B
+2025-05-13,Pisa,Cremonese,2,1,1.3,0.9,Serie B
+2025-05-13,Sassuolo,Frosinone,0,1,0.8,2.2,Serie B
+2025-05-13,Juve Stabia,Sampdoria,0,0,1.0,1.1,Serie B
+2025-05-13,Spezia,Cosenza,3,1,2.2,2.4,Serie B
+2025-05-17,Catanzaro,Cesena,1,0,0.5,1.4,Serie B
+2025-05-17,Juve Stabia,Palermo,1,0,1.1,0.6,Serie B
+2025-05-21,Juve Stabia,Cremonese,2,1,1.7,1.4,Serie B
+2025-05-21,Catanzaro,Spezia,0,2,0.3,1.6,Serie B
+2024-08-09,Blackburn,Derby County,4,2,2.1,1.1,Championship
+2024-08-09,Preston,Sheffield Utd,0,2,0.6,1.0,Championship
+2024-08-10,Millwall,Watford,2,3,2.0,1.1,Championship
+2024-08-10,Cardiff City,Sunderland,0,2,1.0,1.8,Championship
+2024-08-10,QPR,West Brom,1,3,0.8,1.5,Championship
+2024-08-10,Middlesbrough,Swansea City,1,0,2.8,0.5,Championship
+2024-08-10,Hull City,Bristol City,1,1,1.7,1.2,Championship
+2024-08-10,Oxford United,Norwich City,2,0,0.9,0.8,Championship
+2024-08-10,Leeds United,Portsmouth,3,3,3.3,0.9,Championship
+2024-08-10,Stoke City,Coventry City,1,0,0.9,0.7,Championship
+2024-08-11,Sheffield Weds,Plymouth Argyle,4,0,4.4,0.2,Championship
+2024-08-12,Luton Town,Burnley,1,4,1.4,1.5,Championship
+2024-08-16,Coventry City,Oxford United,3,2,2.9,0.9,Championship
+2024-08-17,Portsmouth,Luton Town,0,0,0.9,0.9,Championship
+2024-08-17,West Brom,Leeds United,0,0,0.7,0.7,Championship
+2024-08-17,Derby County,Middlesbrough,1,0,1.0,1.6,Championship
+2024-08-17,Bristol City,Millwall,4,3,2.7,2.1,Championship
+2024-08-17,Swansea City,Preston,3,0,2.3,0.8,Championship
+2024-08-17,Burnley,Cardiff City,5,0,0.8,0.6,Championship
+2024-08-17,Plymouth Argyle,Hull City,1,1,0.7,0.8,Championship
+2024-08-17,Norwich City,Blackburn,2,2,2.1,0.8,Championship
+2024-08-17,Sheffield Utd,QPR,2,2,1.6,0.7,Championship
+2024-08-17,Watford,Stoke City,3,0,2.2,0.8,Championship
+2024-08-18,Sunderland,Sheffield Weds,4,0,1.6,0.4,Championship
+2024-08-23,Sheffield Weds,Leeds United,0,2,0.4,1.2,Championship
+2024-08-24,QPR,Plymouth Argyle,1,1,2.4,0.1,Championship
+2024-08-24,Hull City,Millwall,0,0,0.8,0.8,Championship
+2024-08-24,Bristol City,Coventry City,1,1,0.7,0.6,Championship
+2024-08-24,Sunderland,Burnley,1,0,0.7,0.1,Championship
+2024-08-24,Preston,Luton Town,1,0,0.3,1.6,Championship
+2024-08-24,Watford,Derby County,2,1,1.1,0.7,Championship
+2024-08-24,Blackburn,Oxford United,2,1,0.8,0.9,Championship
+2024-08-24,Stoke City,West Brom,1,2,1.8,1.5,Championship
+2024-08-24,Middlesbrough,Portsmouth,2,2,2.7,1.0,Championship
+2024-08-24,Norwich City,Sheffield Utd,1,1,1.0,0.8,Championship
+2024-08-25,Swansea City,Cardiff City,1,1,1.3,0.8,Championship
+2024-08-30,Luton Town,QPR,1,2,1.4,0.9,Championship
+2024-08-31,Cardiff City,Middlesbrough,0,2,0.5,0.8,Championship
+2024-08-31,Burnley,Blackburn,1,1,0.8,0.3,Championship
+2024-08-31,Coventry City,Norwich City,0,1,1.1,0.4,Championship
+2024-08-31,Portsmouth,Sunderland,1,3,0.4,2.0,Championship
+2024-08-31,Derby County,Bristol City,3,0,1.6,1.2,Championship
+2024-08-31,Leeds United,Hull City,2,0,1.5,0.5,Championship
+2024-08-31,Oxford United,Preston,3,1,1.8,1.0,Championship
+2024-08-31,West Brom,Swansea City,1,0,2.3,0.5,Championship
+2024-08-31,Millwall,Sheffield Weds,3,0,3.0,0.1,Championship
+2024-08-31,Plymouth Argyle,Stoke City,0,1,0.8,1.5,Championship
+2024-09-01,Sheffield Utd,Watford,1,0,2.2,0.8,Championship
+2024-09-13,Hull City,Sheffield Utd,0,2,1.4,0.7,Championship
+2024-09-14,Oxford United,Stoke City,1,0,1.1,0.5,Championship
+2024-09-14,Leeds United,Burnley,0,1,1.2,0.6,Championship
+2024-09-14,Millwall,Luton Town,0,1,1.0,0.6,Championship
+2024-09-14,Swansea City,Norwich City,1,0,0.7,1.1,Championship
+2024-09-14,Derby County,Cardiff City,1,0,1.5,0.3,Championship
+2024-09-14,Sheffield Weds,QPR,1,1,0.7,1.2,Championship
+2024-09-14,Blackburn,Bristol City,3,0,1.0,0.7,Championship
+2024-09-14,Watford,Coventry City,1,1,2.0,2.6,Championship
+2024-09-14,Plymouth Argyle,Sunderland,3,2,1.7,1.7,Championship
+2024-09-14,Middlesbrough,Preston,1,1,1.6,0.4,Championship
+2024-09-15,Portsmouth,West Brom,0,3,0.7,2.1,Championship
+2024-09-20,Stoke City,Hull City,1,3,1.0,1.9,Championship
+2024-09-21,QPR,Millwall,1,1,0.8,1.9,Championship
+2024-09-21,Norwich City,Watford,4,1,2.7,1.7,Championship
+2024-09-21,Sunderland,Middlesbrough,1,0,1.1,1.3,Championship
+2024-09-21,West Brom,Plymouth Argyle,1,0,2.6,0.8,Championship
+2024-09-21,Luton Town,Sheffield Weds,2,1,2.0,0.8,Championship
+2024-09-21,Bristol City,Oxford United,2,1,2.3,1.7,Championship
+2024-09-21,Sheffield Utd,Derby County,1,0,1.1,0.0,Championship
+2024-09-21,Burnley,Portsmouth,2,1,1.0,1.4,Championship
+2024-09-21,Coventry City,Swansea City,1,2,1.6,0.7,Championship
+2024-09-21,Cardiff City,Leeds United,0,2,0.1,2.9,Championship
+2024-09-22,Preston,Blackburn,0,0,0.3,0.8,Championship
+2024-09-27,Plymouth Argyle,Luton Town,3,1,1.6,1.7,Championship
+2024-09-28,Blackburn,QPR,2,0,2.2,0.5,Championship
+2024-09-28,Derby County,Norwich City,2,3,1.4,1.9,Championship
+2024-09-28,Sheffield Weds,West Brom,3,2,1.2,1.0,Championship
+2024-09-28,Leeds United,Coventry City,3,0,1.7,0.4,Championship
+2024-09-28,Watford,Sunderland,2,1,1.9,1.0,Championship
+2024-09-28,Millwall,Preston,3,1,2.6,1.1,Championship
+2024-09-28,Middlesbrough,Stoke City,2,0,2.4,0.7,Championship
+2024-09-28,Oxford United,Burnley,0,0,0.1,1.5,Championship
+2024-09-28,Portsmouth,Sheffield Utd,0,0,0.5,0.5,Championship
+2024-09-28,Hull City,Cardiff City,4,1,2.3,1.7,Championship
+2024-09-29,Swansea City,Bristol City,1,1,0.9,2.0,Championship
+2024-10-01,Burnley,Plymouth Argyle,1,0,1.4,0.6,Championship
+2024-10-01,QPR,Hull City,1,3,2.3,1.7,Championship
+2024-10-01,Sunderland,Derby County,2,0,1.0,0.9,Championship
+2024-10-01,Luton Town,Oxford United,2,2,1.3,1.7,Championship
+2024-10-01,Coventry City,Blackburn,3,0,1.2,0.5,Championship
+2024-10-01,Cardiff City,Millwall,1,0,0.8,1.3,Championship
+2024-10-01,Norwich City,Leeds United,1,1,1.4,0.9,Championship
+2024-10-01,West Brom,Middlesbrough,0,1,1.4,1.3,Championship
+2024-10-02,Stoke City,Portsmouth,6,1,2.5,1.3,Championship
+2024-10-02,Sheffield Utd,Swansea City,1,0,1.7,0.9,Championship
+2024-10-02,Preston,Watford,3,0,2.7,1.4,Championship
+2024-10-02,Bristol City,Sheffield Weds,0,0,0.9,0.3,Championship
+2024-10-04,Sunderland,Leeds United,2,2,1.6,2.3,Championship
+2024-10-05,Burnley,Preston,0,0,0.5,0.8,Championship
+2024-10-05,Portsmouth,Oxford United,1,1,2.0,1.9,Championship
+2024-10-05,Norwich City,Hull City,4,0,3.8,1.0,Championship
+2024-10-05,Plymouth Argyle,Blackburn,2,1,1.7,0.7,Championship
+2024-10-05,Watford,Middlesbrough,2,1,1.0,1.8,Championship
+2024-10-05,Swansea City,Stoke City,0,0,2.0,0.9,Championship
+2024-10-05,Sheffield Utd,Luton Town,2,0,1.4,0.4,Championship
+2024-10-05,Derby County,QPR,2,0,1.0,0.5,Championship
+2024-10-05,Coventry City,Sheffield Weds,1,2,0.7,1.5,Championship
+2024-10-05,West Brom,Millwall,0,0,0.7,0.5,Championship
+2024-10-06,Bristol City,Cardiff City,1,1,1.0,1.3,Championship
+2024-10-18,Leeds United,Sheffield Utd,2,0,1.2,0.2,Championship
+2024-10-19,Oxford United,West Brom,1,1,0.9,0.7,Championship
+2024-10-19,Cardiff City,Plymouth Argyle,5,0,2.5,0.5,Championship
+2024-10-19,Luton Town,Watford,3,0,1.3,0.5,Championship
+2024-10-19,Preston,Coventry City,1,0,2.0,1.0,Championship
+2024-10-19,Millwall,Derby County,1,1,1.9,0.7,Championship
+2024-10-19,QPR,Portsmouth,1,2,1.0,1.3,Championship
+2024-10-19,Stoke City,Norwich City,1,1,1.0,1.5,Championship
+2024-10-19,Middlesbrough,Bristol City,0,2,1.6,0.8,Championship
+2024-10-19,Sheffield Weds,Burnley,0,2,1.5,1.7,Championship
+2024-10-19,Blackburn,Swansea City,1,0,0.8,1.1,Championship
+2024-10-20,Hull City,Sunderland,0,1,0.5,1.0,Championship
+2024-10-22,Stoke City,Bristol City,2,2,0.9,2.4,Championship
+2024-10-22,Oxford United,Derby County,1,1,0.4,1.1,Championship
+2024-10-22,Leeds United,Watford,2,1,1.8,0.7,Championship
+2024-10-22,Preston,Norwich City,2,2,1.6,0.7,Championship
+2024-10-22,Cardiff City,Portsmouth,2,0,2.5,0.7,Championship
+2024-10-22,Sheffield Weds,Swansea City,0,0,0.6,0.8,Championship
+2024-10-22,QPR,Coventry City,1,1,0.7,0.7,Championship
+2024-10-23,Millwall,Plymouth Argyle,1,0,1.2,0.6,Championship
+2024-10-23,Luton Town,Sunderland,1,2,1.7,0.7,Championship
+2024-10-23,Blackburn,West Brom,0,0,0.9,0.4,Championship
+2024-10-23,Hull City,Burnley,1,1,0.9,0.7,Championship
+2024-10-23,Middlesbrough,Sheffield Utd,1,0,1.4,0.4,Championship
+2024-10-25,Portsmouth,Sheffield Weds,1,2,0.7,1.1,Championship
+2024-10-26,Bristol City,Leeds United,0,0,0.1,1.4,Championship
+2024-10-26,Coventry City,Luton Town,3,2,3.2,1.7,Championship
+2024-10-26,Watford,Blackburn,1,0,2.1,1.4,Championship
+2024-10-26,Burnley,QPR,0,0,1.2,0.1,Championship
+2024-10-26,Plymouth Argyle,Preston,3,3,1.1,2.1,Championship
+2024-10-26,Sheffield Utd,Stoke City,2,0,1.3,0.5,Championship
+2024-10-26,Sunderland,Oxford United,2,0,1.2,0.2,Championship
+2024-10-26,Swansea City,Millwall,0,1,1.9,0.3,Championship
+2024-10-26,West Brom,Cardiff City,0,0,1.6,0.7,Championship
+2024-10-26,Derby County,Hull City,1,1,0.6,1.1,Championship
+2024-10-27,Norwich City,Middlesbrough,3,3,1.1,3.3,Championship
+2024-11-01,Luton Town,West Brom,1,1,0.9,0.7,Championship
+2024-11-02,Oxford United,Swansea City,1,2,1.5,2.5,Championship
+2024-11-02,Blackburn,Sheffield Utd,0,2,0.6,2.2,Championship
+2024-11-02,Stoke City,Derby County,2,1,2.2,0.6,Championship
+2024-11-02,Cardiff City,Norwich City,2,1,0.6,1.5,Championship
+2024-11-02,Sheffield Weds,Watford,2,6,1.5,4.1,Championship
+2024-11-02,Preston,Bristol City,1,3,0.6,1.3,Championship
+2024-11-02,Hull City,Portsmouth,1,1,1.4,0.8,Championship
+2024-11-02,QPR,Sunderland,0,0,1.4,0.9,Championship
+2024-11-02,Middlesbrough,Coventry City,0,3,0.9,2.5,Championship
+2024-11-02,Leeds United,Plymouth Argyle,3,0,1.8,0.0,Championship
+2024-11-03,Millwall,Burnley,1,0,1.0,0.2,Championship
+2024-11-05,QPR,Middlesbrough,1,4,0.6,2.2,Championship
+2024-11-05,Sheffield Weds,Norwich City,2,0,2.0,0.4,Championship
+2024-11-05,Bristol City,Sheffield Utd,1,2,1.5,1.2,Championship
+2024-11-05,Oxford United,Hull City,1,0,0.6,1.1,Championship
+2024-11-05,Plymouth Argyle,Portsmouth,1,0,0.9,0.8,Championship
+2024-11-05,Swansea City,Watford,1,0,2.0,0.4,Championship
+2024-11-06,Blackburn,Stoke City,0,2,2.8,2.3,Championship
+2024-11-06,Millwall,Leeds United,1,0,0.2,0.7,Championship
+2024-11-06,Coventry City,Derby County,1,2,1.2,0.5,Championship
+2024-11-06,Preston,Sunderland,0,0,1.5,0.7,Championship
+2024-11-06,Luton Town,Cardiff City,1,0,1.0,0.4,Championship
+2024-11-07,West Brom,Burnley,0,0,0.8,1.0,Championship
+2024-11-08,Watford,Oxford United,1,0,1.7,1.4,Championship
+2024-11-09,Stoke City,Millwall,1,1,0.7,1.8,Championship
+2024-11-09,Middlesbrough,Luton Town,5,1,1.3,0.3,Championship
+2024-11-09,Cardiff City,Blackburn,1,3,1.6,2.4,Championship
+2024-11-09,Portsmouth,Preston,3,1,2.2,0.7,Championship
+2024-11-09,Leeds United,QPR,2,0,2.1,0.3,Championship
+2024-11-09,Norwich City,Bristol City,0,2,0.4,0.9,Championship
+2024-11-09,Derby County,Plymouth Argyle,1,1,1.1,0.1,Championship
+2024-11-09,Sunderland,Coventry City,2,2,0.7,0.6,Championship
+2024-11-10,Sheffield Utd,Sheffield Weds,1,0,0.5,0.4,Championship
+2024-11-10,Hull City,West Brom,1,2,1.2,1.2,Championship
+2024-11-10,Burnley,Swansea City,1,0,1.8,0.8,Championship
+2024-11-22,Plymouth Argyle,Watford,2,2,0.4,2.3,Championship
+2024-11-23,Bristol City,Burnley,0,1,0.7,1.4,Championship
+2024-11-23,Sheffield Weds,Cardiff City,1,1,2.8,1.3,Championship
+2024-11-23,Coventry City,Sheffield Utd,2,2,2.2,1.3,Championship
+2024-11-23,QPR,Stoke City,1,1,2.2,1.2,Championship
+2024-11-23,Millwall,Sunderland,1,1,1.3,1.0,Championship
+2024-11-23,Luton Town,Hull City,1,0,0.8,1.5,Championship
+2024-11-23,Preston,Derby County,1,1,0.3,0.5,Championship
+2024-11-23,Oxford United,Middlesbrough,2,6,0.6,3.5,Championship
+2024-11-23,West Brom,Norwich City,2,2,1.8,2.0,Championship
+2024-11-24,Swansea City,Leeds United,3,4,1.3,2.2,Championship
+2024-11-26,Watford,Bristol City,1,0,0.4,0.7,Championship
+2024-11-26,Burnley,Coventry City,2,0,1.0,0.1,Championship
+2024-11-26,Sheffield Utd,Oxford United,3,0,3.6,0.3,Championship
+2024-11-26,Stoke City,Preston,0,0,0.7,0.8,Championship
+2024-11-26,Norwich City,Plymouth Argyle,6,1,3.1,0.6,Championship
+2024-11-26,Hull City,Sheffield Weds,0,2,1.0,2.2,Championship
+2024-11-26,Sunderland,West Brom,0,0,0.9,0.4,Championship
+2024-11-27,Cardiff City,QPR,0,2,1.2,0.9,Championship
+2024-11-27,Middlesbrough,Blackburn,0,1,0.7,1.4,Championship
+2024-11-27,Leeds United,Luton Town,3,0,2.1,0.9,Championship
+2024-11-27,Derby County,Swansea City,1,2,3.4,0.2,Championship
+2024-11-29,Sheffield Utd,Sunderland,1,0,0.9,1.7,Championship
+2024-11-30,Middlesbrough,Hull City,3,1,1.8,1.2,Championship
+2024-11-30,Watford,QPR,0,0,0.8,2.2,Championship
+2024-11-30,Oxford United,Millwall,1,1,0.9,0.9,Championship
+2024-11-30,Blackburn,Leeds United,1,0,2.2,1.4,Championship
+2024-11-30,Stoke City,Burnley,0,2,1.0,3.0,Championship
+2024-11-30,Swansea City,Portsmouth,2,2,2.8,1.3,Championship
+2024-11-30,Coventry City,Cardiff City,2,2,2.5,0.7,Championship
+2024-11-30,Norwich City,Luton Town,4,2,1.8,1.5,Championship
+2024-11-30,Bristol City,Plymouth Argyle,4,0,3.2,0.2,Championship
+2024-11-30,Preston,West Brom,1,1,0.9,0.5,Championship
+2024-12-01,Derby County,Sheffield Weds,1,2,1.8,0.9,Championship
+2024-12-06,Burnley,Middlesbrough,1,1,0.6,1.1,Championship
+2024-12-07,Sunderland,Stoke City,2,1,2.4,1.0,Championship
+2024-12-07,Leeds United,Derby County,2,0,1.2,0.2,Championship
+2024-12-07,Sheffield Weds,Preston,1,1,1.5,3.0,Championship
+2024-12-07,Hull City,Blackburn,0,1,1.0,0.3,Championship
+2024-12-07,QPR,Norwich City,3,0,0.8,0.3,Championship
+2024-12-07,Millwall,Coventry City,0,1,0.5,1.7,Championship
+2024-12-07,Portsmouth,Bristol City,3,0,2.4,1.2,Championship
+2024-12-07,Luton Town,Swansea City,1,1,1.2,2.1,Championship
+2024-12-08,West Brom,Sheffield Utd,2,2,0.8,1.7,Championship
+2024-12-10,Luton Town,Stoke City,2,1,2.1,1.3,Championship
+2024-12-10,Sheffield Weds,Blackburn,0,1,0.9,0.9,Championship
+2024-12-10,Burnley,Derby County,0,0,1.3,0.6,Championship
+2024-12-10,Plymouth Argyle,Swansea City,1,2,1.2,1.9,Championship
+2024-12-10,Portsmouth,Norwich City,0,0,0.8,0.3,Championship
+2024-12-10,Sunderland,Bristol City,1,1,1.6,0.4,Championship
+2024-12-10,Leeds United,Middlesbrough,3,1,2.0,0.5,Championship
+2024-12-11,Cardiff City,Preston,0,2,0.7,1.1,Championship
+2024-12-11,Millwall,Sheffield Utd,0,1,0.9,1.4,Championship
+2024-12-11,QPR,Oxford United,2,0,0.7,0.1,Championship
+2024-12-11,Hull City,Watford,1,1,1.5,1.2,Championship
+2024-12-11,West Brom,Coventry City,2,0,0.5,2.2,Championship
+2024-12-13,Derby County,Portsmouth,4,0,1.8,0.6,Championship
+2024-12-14,Bristol City,QPR,1,1,2.0,0.3,Championship
+2024-12-14,Coventry City,Hull City,2,1,3.2,0.9,Championship
+2024-12-14,Preston,Leeds United,1,1,0.6,2.2,Championship
+2024-12-14,Swansea City,Sunderland,2,3,1.1,1.0,Championship
+2024-12-14,Stoke City,Cardiff City,2,2,1.8,1.8,Championship
+2024-12-14,Blackburn,Luton Town,2,0,1.7,0.9,Championship
+2024-12-14,Middlesbrough,Millwall,1,0,1.1,1.3,Championship
+2024-12-14,Sheffield Utd,Plymouth Argyle,2,0,1.3,1.1,Championship
+2024-12-14,Oxford United,Sheffield Weds,1,3,1.4,1.9,Championship
+2024-12-15,Watford,West Brom,2,1,1.4,1.4,Championship
+2024-12-15,Norwich City,Burnley,1,2,1.1,0.5,Championship
+2024-12-20,Luton Town,Derby County,2,1,1.0,0.6,Championship
+2024-12-21,Hull City,Swansea City,2,1,1.4,0.8,Championship
+2024-12-21,Sheffield Weds,Stoke City,2,0,1.5,2.1,Championship
+2024-12-21,Portsmouth,Coventry City,4,1,2.1,1.7,Championship
+2024-12-21,Burnley,Watford,2,1,1.2,0.6,Championship
+2024-12-21,QPR,Preston,2,1,2.1,0.3,Championship
+2024-12-21,Millwall,Blackburn,1,0,1.0,0.5,Championship
+2024-12-21,Leeds United,Oxford United,4,0,2.9,0.9,Championship
+2024-12-21,Cardiff City,Sheffield Utd,0,2,0.3,0.8,Championship
+2024-12-21,Plymouth Argyle,Middlesbrough,3,3,2.9,1.9,Championship
+2024-12-21,Sunderland,Norwich City,2,1,0.8,0.7,Championship
+2024-12-22,West Brom,Bristol City,2,0,1.8,0.7,Championship
+2024-12-26,Watford,Portsmouth,2,1,1.5,0.2,Championship
+2024-12-26,Norwich City,Millwall,2,1,2.0,0.4,Championship
+2024-12-26,Middlesbrough,Sheffield Weds,3,3,1.2,1.8,Championship
+2024-12-26,Preston,Hull City,1,0,0.6,0.7,Championship
+2024-12-26,Oxford United,Cardiff City,3,2,1.5,0.6,Championship
+2024-12-26,Coventry City,Plymouth Argyle,4,0,2.0,0.3,Championship
+2024-12-26,Blackburn,Sunderland,2,2,1.9,1.2,Championship
+2024-12-26,Sheffield Utd,Burnley,0,2,0.8,0.7,Championship
+2024-12-26,Bristol City,Luton Town,1,0,0.3,0.7,Championship
+2024-12-26,Swansea City,QPR,3,0,1.6,0.4,Championship
+2024-12-26,Derby County,West Brom,2,1,0.7,1.3,Championship
+2024-12-26,Stoke City,Leeds United,0,2,0.3,2.2,Championship
+2024-12-29,Sheffield Utd,West Brom,1,1,1.3,1.0,Championship
+2024-12-29,Norwich City,QPR,1,1,2.1,0.2,Championship
+2024-12-29,Preston,Sheffield Weds,3,1,3.1,1.1,Championship
+2024-12-29,Watford,Cardiff City,1,2,1.0,1.5,Championship
+2024-12-29,Oxford United,Plymouth Argyle,2,0,1.1,0.6,Championship
+2024-12-29,Blackburn,Hull City,0,1,1.2,1.1,Championship
+2024-12-29,Stoke City,Sunderland,1,0,0.8,2.0,Championship
+2024-12-29,Swansea City,Luton Town,2,1,2.2,0.6,Championship
+2024-12-29,Coventry City,Millwall,0,0,0.4,0.6,Championship
+2024-12-29,Bristol City,Portsmouth,3,0,3.0,0.2,Championship
+2024-12-29,Derby County,Leeds United,0,1,0.3,2.6,Championship
+2024-12-29,Middlesbrough,Burnley,0,0,0.5,0.6,Championship
+2025-01-01,Plymouth Argyle,Bristol City,2,2,1.6,1.7,Championship
+2025-01-01,QPR,Watford,3,1,1.5,0.7,Championship
+2025-01-01,Millwall,Oxford United,0,1,0.9,0.7,Championship
+2025-01-01,Portsmouth,Swansea City,4,0,1.7,1.1,Championship
+2025-01-01,Cardiff City,Coventry City,1,1,1.1,2.3,Championship
+2025-01-01,Luton Town,Norwich City,0,1,1.0,0.5,Championship
+2025-01-01,West Brom,Preston,3,1,1.1,0.9,Championship
+2025-01-01,Leeds United,Blackburn,1,1,1.2,0.5,Championship
+2025-01-01,Sheffield Weds,Derby County,4,2,2.1,2.5,Championship
+2025-01-01,Burnley,Stoke City,0,0,1.4,1.2,Championship
+2025-01-01,Hull City,Middlesbrough,0,1,0.3,0.9,Championship
+2025-01-01,Sunderland,Sheffield Utd,2,1,1.0,1.6,Championship
+2025-01-04,Stoke City,Plymouth Argyle,0,0,1.0,0.1,Championship
+2025-01-04,Blackburn,Burnley,0,1,0.9,0.2,Championship
+2025-01-04,Swansea City,West Brom,1,1,0.9,1.1,Championship
+2025-01-04,Hull City,Leeds United,3,3,2.3,1.8,Championship
+2025-01-04,Bristol City,Derby County,1,0,1.3,0.4,Championship
+2025-01-04,Watford,Sheffield Utd,1,2,1.5,1.1,Championship
+2025-01-04,Norwich City,Coventry City,2,1,2.0,1.1,Championship
+2025-01-04,Sheffield Weds,Millwall,2,2,1.9,1.3,Championship
+2025-01-04,Preston,Oxford United,1,1,2.1,0.6,Championship
+2025-01-04,Middlesbrough,Cardiff City,1,1,0.8,0.5,Championship
+2025-01-05,Sunderland,Portsmouth,1,0,2.3,0.5,Championship
+2025-01-06,QPR,Luton Town,2,1,2.2,2.1,Championship
+2025-01-14,Cardiff City,Watford,1,1,0.7,1.0,Championship
+2025-01-14,Plymouth Argyle,Oxford United,1,1,0.6,0.4,Championship
+2025-01-15,Blackburn,Portsmouth,3,0,1.3,1.1,Championship
+2025-01-17,Burnley,Sunderland,0,0,0.7,2.8,Championship
+2025-01-18,Millwall,Hull City,0,1,0.7,0.6,Championship
+2025-01-18,Cardiff City,Swansea City,3,0,0.8,0.3,Championship
+2025-01-18,Plymouth Argyle,QPR,0,1,0.2,2.8,Championship
+2025-01-18,Portsmouth,Middlesbrough,2,1,0.9,1.6,Championship
+2025-01-18,Luton Town,Preston,0,0,0.5,0.0,Championship
+2025-01-18,Sheffield Utd,Norwich City,2,0,2.0,0.3,Championship
+2025-01-18,Oxford United,Blackburn,1,0,1.3,0.9,Championship
+2025-01-18,West Brom,Stoke City,1,1,1.7,1.0,Championship
+2025-01-18,Coventry City,Bristol City,1,0,0.9,0.9,Championship
+2025-01-18,Derby County,Watford,0,2,1.4,1.8,Championship
+2025-01-19,Leeds United,Sheffield Weds,3,0,1.9,0.4,Championship
+2025-01-21,Swansea City,Sheffield Utd,1,2,1.4,1.8,Championship
+2025-01-21,Derby County,Sunderland,0,1,0.7,0.6,Championship
+2025-01-21,Oxford United,Luton Town,3,2,0.9,0.7,Championship
+2025-01-21,Watford,Preston,1,2,0.4,2.4,Championship
+2025-01-21,Middlesbrough,West Brom,2,0,1.0,0.9,Championship
+2025-01-21,Blackburn,Coventry City,0,2,0.9,1.8,Championship
+2025-01-21,Hull City,QPR,1,2,1.1,1.3,Championship
+2025-01-21,Millwall,Cardiff City,2,2,0.7,1.0,Championship
+2025-01-22,Leeds United,Norwich City,2,0,1.3,0.1,Championship
+2025-01-22,Portsmouth,Stoke City,3,1,2.1,0.5,Championship
+2025-01-22,Sheffield Weds,Bristol City,2,2,1.0,1.0,Championship
+2025-01-22,Plymouth Argyle,Burnley,0,5,0.4,2.9,Championship
+2025-01-24,Sheffield Utd,Hull City,0,3,1.3,0.4,Championship
+2025-01-25,Luton Town,Millwall,0,1,1.4,1.6,Championship
+2025-01-25,Stoke City,Oxford United,0,0,0.4,1.2,Championship
+2025-01-25,Norwich City,Swansea City,5,1,3.0,1.4,Championship
+2025-01-25,Sunderland,Plymouth Argyle,2,2,0.6,1.0,Championship
+2025-01-25,QPR,Sheffield Weds,0,2,0.4,0.8,Championship
+2025-01-25,Cardiff City,Derby County,2,1,2.2,1.2,Championship
+2025-01-25,Preston,Middlesbrough,2,1,0.4,1.3,Championship
+2025-01-25,Bristol City,Blackburn,2,1,1.9,1.9,Championship
+2025-01-25,Coventry City,Watford,2,1,1.3,0.6,Championship
+2025-01-25,West Brom,Portsmouth,5,1,3.0,1.6,Championship
+2025-01-27,Burnley,Leeds United,0,0,0.2,0.4,Championship
+2025-01-28,Portsmouth,Millwall,0,1,1.1,1.3,Championship
+2025-01-31,Blackburn,Preston,2,1,1.7,0.8,Championship
+2025-02-01,Oxford United,Bristol City,1,1,1.0,0.6,Championship
+2025-02-01,Plymouth Argyle,West Brom,2,1,1.6,2.0,Championship
+2025-02-01,Watford,Norwich City,0,1,0.7,2.3,Championship
+2025-02-01,Hull City,Stoke City,1,2,1.7,1.2,Championship
+2025-02-01,Derby County,Sheffield Utd,0,1,0.8,0.9,Championship
+2025-02-01,Portsmouth,Burnley,0,0,1.3,0.6,Championship
+2025-02-01,Millwall,QPR,2,1,0.7,0.8,Championship
+2025-02-01,Leeds United,Cardiff City,7,0,5.7,0.1,Championship
+2025-02-01,Sheffield Weds,Luton Town,1,1,2.7,0.4,Championship
+2025-02-01,Swansea City,Coventry City,0,2,0.2,1.7,Championship
+2025-02-03,Middlesbrough,Sunderland,2,3,1.4,2.1,Championship
+2025-02-04,Burnley,Oxford United,1,0,1.5,0.3,Championship
+2025-02-04,QPR,Blackburn,2,1,1.3,1.5,Championship
+2025-02-05,Coventry City,Leeds United,0,2,0.5,3.6,Championship
+2025-02-08,Sunderland,Watford,2,2,2.9,1.3,Championship
+2025-02-08,West Brom,Sheffield Weds,2,1,1.6,1.4,Championship
+2025-02-08,Sheffield Utd,Portsmouth,2,1,1.3,3.1,Championship
+2025-02-08,Norwich City,Derby County,1,1,0.7,1.1,Championship
+2025-02-09,Bristol City,Swansea City,0,1,1.0,1.8,Championship
+2025-02-11,Derby County,Oxford United,0,0,0.8,0.3,Championship
+2025-02-11,Watford,Leeds United,0,4,0.5,2.0,Championship
+2025-02-11,Portsmouth,Cardiff City,2,1,1.5,0.8,Championship
+2025-02-11,Coventry City,QPR,1,0,1.1,0.8,Championship
+2025-02-11,Norwich City,Preston,0,1,0.7,1.0,Championship
+2025-02-12,Swansea City,Sheffield Weds,0,1,0.2,0.8,Championship
+2025-02-12,Sunderland,Luton Town,2,0,1.3,0.3,Championship
+2025-02-12,Plymouth Argyle,Millwall,5,1,2.6,0.8,Championship
+2025-02-12,Burnley,Hull City,2,0,1.5,0.3,Championship
+2025-02-12,Bristol City,Stoke City,2,0,1.5,0.3,Championship
+2025-02-12,Sheffield Utd,Middlesbrough,3,1,2.6,1.3,Championship
+2025-02-12,West Brom,Blackburn,0,2,0.6,0.7,Championship
+2025-02-14,QPR,Derby County,4,0,0.9,0.8,Championship
+2025-02-15,Oxford United,Portsmouth,0,2,1.4,1.5,Championship
+2025-02-15,Preston,Burnley,0,0,0.3,1.0,Championship
+2025-02-15,Cardiff City,Bristol City,1,1,1.7,1.4,Championship
+2025-02-15,Millwall,West Brom,1,1,0.7,0.4,Championship
+2025-02-15,Stoke City,Swansea City,3,1,0.9,0.8,Championship
+2025-02-15,Hull City,Norwich City,1,1,0.9,1.3,Championship
+2025-02-15,Luton Town,Sheffield Utd,0,1,1.4,1.8,Championship
+2025-02-15,Blackburn,Plymouth Argyle,2,0,2.2,1.5,Championship
+2025-02-15,Middlesbrough,Watford,0,1,1.0,1.6,Championship
+2025-02-15,Sheffield Weds,Coventry City,1,2,1.5,1.4,Championship
+2025-02-17,Leeds United,Sunderland,2,1,2.0,0.5,Championship
+2025-02-18,Preston,Millwall,1,1,1.3,0.3,Championship
+2025-02-19,Luton Town,Plymouth Argyle,1,1,1.7,0.2,Championship
+2025-02-21,Bristol City,Middlesbrough,2,1,2.3,1.3,Championship
+2025-02-21,Burnley,Sheffield Weds,4,0,1.6,1.1,Championship
+2025-02-22,Plymouth Argyle,Cardiff City,1,1,1.0,1.2,Championship
+2025-02-22,Sunderland,Hull City,0,1,1.1,1.0,Championship
+2025-02-22,Derby County,Millwall,0,1,0.4,2.2,Championship
+2025-02-22,West Brom,Oxford United,2,0,2.7,0.3,Championship
+2025-02-22,Portsmouth,QPR,2,1,1.7,0.8,Championship
+2025-02-22,Coventry City,Preston,2,1,1.8,1.0,Championship
+2025-02-22,Norwich City,Stoke City,4,2,2.9,1.7,Championship
+2025-02-22,Swansea City,Blackburn,3,0,2.1,0.4,Championship
+2025-02-23,Watford,Luton Town,2,0,2.4,0.7,Championship
+2025-02-24,Sheffield Utd,Leeds United,1,3,1.0,1.4,Championship
+2025-02-25,Cardiff City,Hull City,1,0,0.5,0.3,Championship
+2025-02-25,Stoke City,Middlesbrough,1,3,1.1,2.2,Championship
+2025-02-28,Sheffield Weds,Sunderland,1,2,1.4,1.0,Championship
+2025-03-01,Oxford United,Coventry City,2,3,1.5,2.4,Championship
+2025-03-01,Blackburn,Norwich City,1,1,1.1,0.6,Championship
+2025-03-01,Leeds United,West Brom,1,1,1.2,0.7,Championship
+2025-03-01,Middlesbrough,Derby County,1,0,1.0,0.2,Championship
+2025-03-01,Luton Town,Portsmouth,1,0,0.7,0.5,Championship
+2025-03-01,Stoke City,Watford,0,0,0.6,0.5,Championship
+2025-03-01,QPR,Sheffield Utd,1,2,1.4,0.9,Championship
+2025-03-04,Millwall,Bristol City,0,2,0.9,1.7,Championship
+2025-03-04,Hull City,Plymouth Argyle,2,0,2.5,0.2,Championship
+2025-03-04,Preston,Swansea City,0,0,1.9,0.5,Championship
+2025-03-04,Cardiff City,Burnley,1,2,1.3,1.4,Championship
+2025-03-07,Norwich City,Oxford United,1,1,1.7,0.4,Championship
+2025-03-08,Watford,Millwall,1,2,1.4,0.7,Championship
+2025-03-08,Coventry City,Stoke City,3,2,0.9,2.2,Championship
+2025-03-08,West Brom,QPR,1,0,0.8,1.1,Championship
+2025-03-08,Plymouth Argyle,Sheffield Weds,0,3,0.3,1.6,Championship
+2025-03-08,Burnley,Luton Town,4,0,2.7,0.2,Championship
+2025-03-08,Swansea City,Middlesbrough,1,0,0.9,0.4,Championship
+2025-03-08,Bristol City,Hull City,1,1,2.4,0.9,Championship
+2025-03-08,Sunderland,Cardiff City,2,1,2.3,0.6,Championship
+2025-03-08,Derby County,Blackburn,2,1,2.0,1.6,Championship
+2025-03-08,Sheffield Utd,Preston,1,0,1.3,0.3,Championship
+2025-03-09,Portsmouth,Leeds United,1,0,0.7,2.3,Championship
+2025-03-11,Norwich City,Sheffield Weds,2,3,1.7,1.9,Championship
+2025-03-11,Sunderland,Preston,1,1,2.1,0.8,Championship
+2025-03-11,Derby County,Coventry City,2,0,0.6,0.7,Championship
+2025-03-11,Burnley,West Brom,1,1,1.5,0.6,Championship
+2025-03-11,Middlesbrough,QPR,2,1,1.1,0.9,Championship
+2025-03-11,Cardiff City,Luton Town,1,2,0.7,1.0,Championship
+2025-03-11,Sheffield Utd,Bristol City,1,1,1.4,1.5,Championship
+2025-03-12,Leeds United,Millwall,2,0,0.9,0.2,Championship
+2025-03-12,Watford,Swansea City,1,0,0.6,0.7,Championship
+2025-03-12,Portsmouth,Plymouth Argyle,1,2,1.7,0.3,Championship
+2025-03-12,Hull City,Oxford United,2,1,1.7,0.6,Championship
+2025-03-12,Stoke City,Blackburn,1,0,1.6,0.6,Championship
+2025-03-14,Bristol City,Norwich City,2,1,1.1,2.6,Championship
+2025-03-15,QPR,Leeds United,2,2,0.8,1.4,Championship
+2025-03-15,Millwall,Stoke City,1,0,1.2,0.7,Championship
+2025-03-15,West Brom,Hull City,1,1,1.0,1.2,Championship
+2025-03-15,Luton Town,Middlesbrough,0,0,2.4,0.3,Championship
+2025-03-15,Preston,Portsmouth,2,1,2.4,0.6,Championship
+2025-03-15,Oxford United,Watford,1,0,0.6,1.3,Championship
+2025-03-15,Coventry City,Sunderland,3,0,2.8,0.6,Championship
+2025-03-15,Blackburn,Cardiff City,1,2,0.5,0.8,Championship
+2025-03-15,Plymouth Argyle,Derby County,2,3,1.0,0.9,Championship
+2025-03-15,Swansea City,Burnley,0,2,0.5,1.8,Championship
+2025-03-16,Sheffield Weds,Sheffield Utd,0,1,1.3,1.3,Championship
+2025-03-28,Sheffield Utd,Coventry City,3,1,1.6,1.1,Championship
+2025-03-29,Hull City,Luton Town,0,1,0.7,0.7,Championship
+2025-03-29,Watford,Plymouth Argyle,0,0,1.9,0.6,Championship
+2025-03-29,Burnley,Bristol City,1,0,1.9,0.3,Championship
+2025-03-29,Norwich City,West Brom,1,0,0.9,1.1,Championship
+2025-03-29,Cardiff City,Sheffield Weds,1,1,1.7,0.4,Championship
+2025-03-29,Leeds United,Swansea City,2,2,1.4,1.6,Championship
+2025-03-29,Portsmouth,Blackburn,1,0,0.3,0.6,Championship
+2025-03-29,Sunderland,Millwall,1,0,2.1,0.8,Championship
+2025-03-29,Middlesbrough,Oxford United,2,1,2.4,1.4,Championship
+2025-03-29,Stoke City,QPR,3,1,1.5,0.5,Championship
+2025-04-02,Derby County,Preston,2,0,0.7,0.3,Championship
+2025-04-04,Blackburn,Middlesbrough,0,2,0.5,0.9,Championship
+2025-04-05,Luton Town,Leeds United,1,1,0.9,1.5,Championship
+2025-04-05,West Brom,Sunderland,0,1,1.7,0.5,Championship
+2025-04-05,Coventry City,Burnley,1,2,1.6,1.4,Championship
+2025-04-05,QPR,Cardiff City,0,0,0.5,0.6,Championship
+2025-04-05,Preston,Stoke City,1,1,0.5,2.4,Championship
+2025-04-05,Bristol City,Watford,2,1,0.6,0.3,Championship
+2025-04-05,Swansea City,Derby County,1,0,0.4,0.6,Championship
+2025-04-05,Plymouth Argyle,Norwich City,2,1,1.9,1.1,Championship
+2025-04-05,Millwall,Portsmouth,2,1,1.3,0.6,Championship
+2025-04-05,Sheffield Weds,Hull City,0,1,1.0,0.6,Championship
+2025-04-05,Oxford United,Sheffield Utd,1,0,1.3,1.3,Championship
+2025-04-08,Watford,Hull City,1,0,0.6,0.7,Championship
+2025-04-08,Norwich City,Sunderland,0,0,0.9,0.7,Championship
+2025-04-08,Preston,Cardiff City,2,2,1.8,1.0,Championship
+2025-04-08,Blackburn,Sheffield Weds,2,2,1.7,0.9,Championship
+2025-04-08,Derby County,Burnley,0,0,1.3,0.7,Championship
+2025-04-08,Stoke City,Luton Town,1,1,0.4,1.0,Championship
+2025-04-08,Bristol City,West Brom,2,1,0.8,1.8,Championship
+2025-04-08,Sheffield Utd,Millwall,0,1,1.5,0.5,Championship
+2025-04-08,Middlesbrough,Leeds United,0,1,1.3,1.0,Championship
+2025-04-09,Swansea City,Plymouth Argyle,3,0,2.7,0.5,Championship
+2025-04-09,Oxford United,QPR,1,3,0.6,1.4,Championship
+2025-04-09,Coventry City,Portsmouth,1,0,1.3,1.0,Championship
+2025-04-11,Burnley,Norwich City,2,1,0.8,1.5,Championship
+2025-04-12,Leeds United,Preston,2,1,3.2,0.3,Championship
+2025-04-12,Plymouth Argyle,Sheffield Utd,2,1,0.8,0.6,Championship
+2025-04-12,Sheffield Weds,Oxford United,0,1,1.0,1.1,Championship
+2025-04-12,Portsmouth,Derby County,2,2,1.8,1.6,Championship
+2025-04-12,QPR,Bristol City,1,1,1.8,0.9,Championship
+2025-04-12,West Brom,Watford,2,1,1.5,0.9,Championship
+2025-04-12,Luton Town,Blackburn,0,1,0.7,0.4,Championship
+2025-04-12,Cardiff City,Stoke City,0,1,1.5,1.0,Championship
+2025-04-12,Sunderland,Swansea City,0,1,0.7,0.9,Championship
+2025-04-12,Millwall,Middlesbrough,1,0,1.6,0.6,Championship
+2025-04-14,Hull City,Coventry City,1,1,1.0,0.9,Championship
+2025-04-18,Derby County,Luton Town,0,1,1.7,0.5,Championship
+2025-04-18,Bristol City,Sunderland,2,1,1.9,0.4,Championship
+2025-04-18,Preston,QPR,1,2,0.8,1.4,Championship
+2025-04-18,Swansea City,Hull City,1,0,1.3,0.6,Championship
+2025-04-18,Coventry City,West Brom,2,0,1.2,0.9,Championship
+2025-04-18,Blackburn,Millwall,4,1,1.8,1.4,Championship
+2025-04-18,Middlesbrough,Plymouth Argyle,2,1,3.0,2.0,Championship
+2025-04-18,Norwich City,Portsmouth,3,5,1.2,2.7,Championship
+2025-04-18,Watford,Burnley,1,2,1.1,2.0,Championship
+2025-04-18,Stoke City,Sheffield Weds,2,0,1.0,1.0,Championship
+2025-04-18,Sheffield Utd,Cardiff City,2,0,1.3,0.7,Championship
+2025-04-18,Oxford United,Leeds United,0,1,0.4,1.8,Championship
+2025-04-21,Sheffield Weds,Middlesbrough,2,1,3.4,2.1,Championship
+2025-04-21,West Brom,Derby County,1,3,0.9,0.9,Championship
+2025-04-21,QPR,Swansea City,1,2,0.3,1.7,Championship
+2025-04-21,Leeds United,Stoke City,6,0,3.3,0.4,Championship
+2025-04-21,Cardiff City,Oxford United,1,1,1.0,0.1,Championship
+2025-04-21,Portsmouth,Watford,1,0,3.2,0.6,Championship
+2025-04-21,Plymouth Argyle,Coventry City,3,1,2.1,1.7,Championship
+2025-04-21,Millwall,Norwich City,3,1,1.8,0.4,Championship
+2025-04-21,Luton Town,Bristol City,3,1,1.2,0.7,Championship
+2025-04-21,Hull City,Preston,2,1,2.1,1.0,Championship
+2025-04-21,Sunderland,Blackburn,0,1,0.8,0.3,Championship
+2025-04-21,Burnley,Sheffield Utd,2,1,1.9,0.8,Championship
+2025-04-25,Stoke City,Sheffield Utd,0,2,0.9,2.1,Championship
+2025-04-26,QPR,Burnley,0,5,0.5,2.4,Championship
+2025-04-26,Luton Town,Coventry City,1,0,2.3,0.2,Championship
+2025-04-26,Sheffield Weds,Portsmouth,1,1,1.6,0.4,Championship
+2025-04-26,Preston,Plymouth Argyle,1,2,2.4,0.7,Championship
+2025-04-26,Millwall,Swansea City,1,0,1.6,1.0,Championship
+2025-04-26,Oxford United,Sunderland,2,0,1.5,0.6,Championship
+2025-04-26,Middlesbrough,Norwich City,0,0,0.7,0.6,Championship
+2025-04-26,Cardiff City,West Brom,0,0,1.3,1.4,Championship
+2025-04-26,Blackburn,Watford,2,1,1.0,0.3,Championship
+2025-04-26,Hull City,Derby County,0,1,0.4,0.3,Championship
+2025-04-28,Leeds United,Bristol City,4,0,3.6,0.1,Championship
+2025-05-03,Sunderland,QPR,0,1,0.6,0.5,Championship
+2025-05-03,Norwich City,Cardiff City,4,2,2.9,1.8,Championship
+2025-05-03,West Brom,Luton Town,5,3,2.2,0.6,Championship
+2025-05-03,Coventry City,Middlesbrough,2,0,2.0,1.4,Championship
+2025-05-03,Burnley,Millwall,3,1,2.2,1.8,Championship
+2025-05-03,Portsmouth,Hull City,1,1,0.8,2.2,Championship
+2025-05-03,Bristol City,Preston,2,2,1.9,1.5,Championship
+2025-05-03,Derby County,Stoke City,0,0,1.5,0.2,Championship
+2025-05-03,Watford,Sheffield Weds,1,1,1.5,1.9,Championship
+2025-05-03,Sheffield Utd,Blackburn,1,1,2.4,0.7,Championship
+2025-05-03,Plymouth Argyle,Leeds United,1,2,0.4,2.9,Championship
+2025-05-03,Swansea City,Oxford United,3,3,1.1,1.9,Championship
+2025-05-08,Bristol City,Sheffield Utd,0,3,0.2,2.6,Championship
+2025-05-09,Coventry City,Sunderland,1,2,1.7,1.5,Championship
+2025-05-12,Sheffield Utd,Bristol City,3,0,1.5,0.4,Championship
+2025-05-13,Sunderland,Coventry City,1,1,1.1,1.6,Championship
