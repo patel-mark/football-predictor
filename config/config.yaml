@@ -1,0 +1,26 @@
+data_paths:
+  raw_stats: "data/raw/Combined_Leagues_Stats.csv"
+  raw_fixtures: "data/raw/Fixture_Results.csv"
+  new_fixtures: "data/raw/fixtures.csv"
+  
+feature_columns:
+  - total_progression
+  - goals_per90
+  - assists_per90
+  - goals_assists_per90
+  - goals_pens_per90
+  - xg_per90
+  - xg_assist_per90
+  - npxg_per90
+
+team_mapping:
+  "Man Utd": "Manchester Utd"
+  "Man United": "Manchester Utd"
+  "Man City": "Manchester City"
+  "Newcastle Utd": "Newcastle United"
+  "Newcastle Ut": "Newcastle United"
+  "Nott'ham Forest": "Nottingham Forest"
+  "Paris S-G": "Paris Saint-Germain"
+  "Inter Milan": "Inter"
+  "Spurs": "Tottenham"
+  "West Ham Utd": "West Ham United"
