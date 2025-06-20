@@ -2,8 +2,8 @@ import joblib
 import numpy as np
 import pandas as pd
 from .utils import standardize_team_names
+from .feature_engineering import create_feature_vector
 from .data_ingestion import load_data
-from .feature_engineering import create_feature_vector  # Add this import
 
 def predict_fixtures(fixtures_csv_path, model_dir='models'):
     # Load artifacts and config
@@ -11,8 +11,8 @@ def predict_fixtures(fixtures_csv_path, model_dir='models'):
     team_stats = artifacts['team_stats']
     feature_columns = artifacts['feature_columns']
     
-    # Load config separately
-    _, _, config = load_data()  # Correct unpacking
+    # Load config (only need config, ignore other returns)
+    *_, config = load_data()  # Correct unpacking for 4 values
     
     # Load all fold models
     models = []
@@ -26,11 +26,14 @@ def predict_fixtures(fixtures_csv_path, model_dir='models'):
             
     if not models:
         raise ValueError("No models found in the models directory")
-
+    
     # Prepare new fixtures
     new_fixtures = pd.read_csv(fixtures_csv_path)
-    new_fixtures = standardize_team_names(new_fixtures, 'Home_Team', config['team_mapping'])
-    new_fixtures = standardize_team_names(new_fixtures, 'Away_Team', config['team_mapping'])
+    
+    # Standardize team names using config mapping
+    team_mapping = config['team_mapping']
+    new_fixtures = standardize_team_names(new_fixtures, 'Home_Team', team_mapping)
+    new_fixtures = standardize_team_names(new_fixtures, 'Away_Team', team_mapping)
 
     # Create features
     new_fixtures['features'] = new_fixtures.apply(
@@ -70,11 +73,12 @@ def predict_fixtures(fixtures_csv_path, model_dir='models'):
 
     # Save predictions
     result_df.to_csv('data/processed/predictions.csv', index=False)
+    print(f"Predictions saved to data/processed/predictions.csv")
     
     return result_df
 
 if __name__ == "__main__":
     # Get config to find new fixtures path
-    _, _, config = load_data()  # Correct unpacking
+    *_, config = load_data()  # Correct unpacking for 4 values
     predictions = predict_fixtures(config['data_paths']['new_fixtures'])
     print(predictions)
