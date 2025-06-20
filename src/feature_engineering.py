@@ -22,3 +22,8 @@ def engineer_features(fixtures_df, team_stats, config):
     y_reg = fixtures_df[['Home_xG', 'Away_xG']].values
     
     return X, y_class, y_reg
+
+def create_feature_vector(row, team_stats, feature_columns):
+    home_features = [team_stats[row['Home_Team'].strip()][col] for col in feature_columns]
+    away_features = [team_stats[row['Away_Team'].strip()][col] for col in feature_columns]
+    return home_features + away_features
