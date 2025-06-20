@@ -99,15 +99,19 @@ def create_objective(X_train, y_class_train, fixtures_df, train_idx):
     return objective
 
 def train_model():
-    # Load and preprocess data
-    stats_df, fixtures_df, config = load_data()
-    _, fixtures_df, team_stats = preprocess_data(stats_df, fixtures_df, config)
-    X, y_class, y_reg = engineer_features(fixtures_df, team_stats, config)
+    # Load and split data
+    stats_df, train_fixtures, test_fixtures, config = load_data()
+    
+    # Preprocess training data only
+    _, train_fixtures, team_stats = preprocess_data(stats_df, train_fixtures, config)
+    
+    # Feature engineering on training data
+    X, y_class, y_reg = engineer_features(train_fixtures, team_stats, config)
     
     # Initialize the custom cross-validator
     group_kfold = TeamBasedGroupKFold(n_splits=5, random_state=42)
     
-    for fold, (train_idx, val_idx) in enumerate(group_kfold.split(fixtures_df)):
+    for fold, (train_idx, val_idx) in enumerate(group_kfold.split(train_fixtures)):
         print(f"Training fold {fold+1}")
         X_train, X_val = X[train_idx], X[val_idx]
         y_class_train, y_class_val = y_class[train_idx], y_class[val_idx]
@@ -115,7 +119,7 @@ def train_model():
 
         # Optuna optimization
         study = optuna.create_study(direction='maximize', sampler=TPESampler(seed=42))
-        objective_func = create_objective(X_train, y_class_train, fixtures_df, train_idx)
+        objective_func = create_objective(X_train, y_class_train, train_fixtures, train_idx)
         study.optimize(objective_func, n_trials=50)
 
         best_params = study.best_params
@@ -194,12 +198,21 @@ def train_model():
         del clf, calib_clf, calibrated_clf, reg_home, reg_away
         gc.collect()
 
-    # Save global artifacts
+    # Save global artifacts (including team_stats from training)
     joblib.dump({
         'team_stats': team_stats,
         'feature_columns': config['feature_columns']
     }, 'models/xgb_artifacts.pkl')
+    
+    # Save training set dates for reference
+    date_range = {
+        'start': train_fixtures['Date'].min(),
+        'end': train_fixtures['Date'].max()
+    }
+    joblib.dump(date_range, 'models/training_dates.pkl')
+    
     print("Training completed. Models saved to models/ directory")
+    print(f"Training period: {date_range['start']} to {date_range['end']}")
 
 if __name__ == "__main__":
     train_model()
