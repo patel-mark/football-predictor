@@ -1,0 +1,49 @@
+# Python and environment files
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.python-version
+
+# Data and model files
+data/
+models/
+*.pkl
+*.csv
+*.parquet
+*.feather
+
+# Notebook files
+*.ipynb
+*.ipynb_checkpoints/
+
+# IDE and editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Log files
+logs/
+*.log
+
+# Documentation files
+docs/_build/
+
+# Virtual environment files
+.env
+*.env
+
+# Package files
+*.egg-info/
+dist/
+build/
+
+# Test artifacts
+.coverage
+htmlcov/
