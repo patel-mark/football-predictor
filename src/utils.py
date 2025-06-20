@@ -10,13 +10,33 @@ def clean_numeric_values(value):
             return float(cleaned)
     return value
 
+def temporal_train_test_split(fixtures_df, test_size=0.2):
+    """
+    Split fixtures chronologically based on date
+    """
+    # Ensure we have a datetime column
+    if 'Date' not in fixtures_df.columns:
+        raise ValueError("Data must contain 'Date' column for temporal split")
+    
+    # Convert to datetime and sort
+    fixtures_df = fixtures_df.copy()
+    fixtures_df['Date'] = pd.to_datetime(fixtures_df['Date'])
+    fixtures_df = fixtures_df.sort_values('Date')
+    
+    # Calculate split index
+    split_idx = int(len(fixtures_df) * (1 - test_size))
+    
+    # Split data
+    train_df = fixtures_df.iloc[:split_idx]
+    test_df = fixtures_df.iloc[split_idx:]
+    
+    return train_df, test_df
+
 def standardize_team_names(df, column_name, team_mapping):
     df = df.copy()
     df.loc[:, column_name] = df[column_name].replace(team_mapping).str.strip()
     return df
-    #df.loc[:, column_name] = df[column_name].apply(
-    #   lambda x: team_mapping.get(x.strip(), x)
-    #return df
+
 def preprocess_stats(stats_df, feature_columns):
     stats_df = stats_df.copy()
     stats_df.loc[:, 'total_progression'] = stats_df['progressive_carries'] + stats_df['progressive_passes']
