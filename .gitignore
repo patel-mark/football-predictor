@@ -1,3 +1,4 @@
+
 # Python and environment files
 venv/
 __pycache__/
@@ -47,3 +48,4 @@ build/
 # Test artifacts
 .coverage
 htmlcov/
+
