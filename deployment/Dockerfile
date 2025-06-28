@@ -4,6 +4,7 @@ FROM python:3.10-slim
 # Set environment variables
 ENV PYTHONDONTWRITEBYTECODE 1
 ENV PYTHONUNBUFFERED 1
+# Heroku will set PORT dynamically
 ENV PORT 8000
 
 # Set working directory
@@ -25,15 +26,15 @@ RUN pip install --no-cache-dir -r requirements.txt
 COPY . .
 
 # Create necessary directories
-RUN mkdir -p /app/data/temp
-RUN mkdir -p /app/data/uploads
-RUN mkdir -p /app/models
+RUN mkdir -p /app/data/temp \
+    && mkdir -p /app/data/uploads \
+    && mkdir -p /app/models
 
 # Set execution permissions
 RUN chmod +x deployment/startup.sh
 
-# Expose port
-EXPOSE $PORT
+# Heroku requires this - don't use EXPOSE
+# Heroku automatically exposes ports
 
-# Start application
-CMD ["deployment/startup.sh"]
+# Start application using PORT from environment
+CMD ["./deployment/startup.sh"]
