@@ -1,0 +1,5 @@
+build:
+  docker:
+    web: deployment/Dockerfile
+run:
+  web: ./deployment/startup.sh
