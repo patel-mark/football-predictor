@@ -9,8 +9,6 @@ __pycache__/
 
 # Data and model files
 data/
-models/
-*.pkl
 *.csv
 *.parquet
 *.feather
@@ -44,8 +42,4 @@ docs/_build/
 *.egg-info/
 dist/
 build/
-
-# Test artifacts
-.coverage
-htmlcov/
 
