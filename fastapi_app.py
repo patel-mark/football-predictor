@@ -7,6 +7,8 @@ import os
 from pathlib import Path
 from typing import List, Optional
 import logging
+import tempfile
+import shutil
 from src.predict import predict_fixtures
 from src.data_ingestion import load_data
 
@@ -14,15 +16,12 @@ from src.data_ingestion import load_data
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger("football-predictor-api")
 
-# Set base paths
-BASE_DIR = Path(__file__).resolve().parent.parent
-DATA_DIR = os.getenv('DATA_DIR', str(BASE_DIR / 'data'))
-TEMP_DIR = os.path.join(DATA_DIR, 'temp')
-UPLOAD_DIR = os.path.join(DATA_DIR, 'uploads')
+# Heroku-compatible paths
+BASE_DIR = Path(__file__).resolve().parent
+MODEL_DIR = BASE_DIR / "models"
 
-# Create directories if they don't exist
-os.makedirs(TEMP_DIR, exist_ok=True)
-os.makedirs(UPLOAD_DIR, exist_ok=True)
+# Create temporary directory for Heroku's ephemeral filesystem
+TEMP_DIR = Path(tempfile.mkdtemp(prefix="football-predictor-"))
 
 app = FastAPI(
     title="Football Match Predictor API",
@@ -59,13 +58,27 @@ class PredictionResult(BaseModel):
 async def load_artifacts():
     """Load model artifacts on startup"""
     try:
-        # Load artifacts (models will be loaded on demand during prediction)
         logger.info("Loading model artifacts...")
-        app.state.artifacts = joblib.load('models/xgb_artifacts.pkl')
+        model_path = MODEL_DIR / "xgb_artifacts.pkl"
+        
+        if not model_path.exists():
+            logger.error(f"Model file not found at {model_path}")
+            raise FileNotFoundError(f"Model file missing: {model_path}")
+            
+        app.state.artifacts = joblib.load(model_path)
         logger.info("Artifacts loaded successfully")
     except Exception as e:
         logger.error(f"Failed to load artifacts: {str(e)}")
-        raise RuntimeError("Model artifacts could not be loaded")
+        raise RuntimeError(f"Model loading failed: {str(e)}")
+
+@app.on_event("shutdown")
+def cleanup_tempdir():
+    """Cleanup temporary directory on shutdown"""
+    try:
+        shutil.rmtree(TEMP_DIR)
+        logger.info(f"Cleaned up temporary directory: {TEMP_DIR}")
+    except Exception as e:
+        logger.warning(f"Temp directory cleanup failed: {str(e)}")
 
 @app.get("/health", tags=["Monitoring"])
 def health_check():
@@ -74,11 +87,8 @@ def health_check():
         "status": "healthy",
         "message": "Football predictor API is running",
         "model_loaded": hasattr(app.state, "artifacts"),
-        "directories": {
-            "data": DATA_DIR,
-            "temp": TEMP_DIR,
-            "uploads": UPLOAD_DIR
-        }
+        "temp_dir": str(TEMP_DIR),
+        "base_dir": str(BASE_DIR)
     }
 
 @app.post("/predict/single", response_model=PredictionResult, tags=["Predictions"])
@@ -90,20 +100,18 @@ def predict_single_fixture(fixture: FixtureRequest):
     - **away_team**: Away team name (e.g., "Chelsea")
     """
     try:
-        # Create temp file path
-        temp_path = os.path.join(TEMP_DIR, 'predict_request.csv')
-        
-        # Create a temporary DataFrame
+        # Create in-memory DataFrame
         fixtures_df = pd.DataFrame({
             'Home_Team': [fixture.home_team],
             'Away_Team': [fixture.away_team]
         })
         
-        # Save to temp CSV
+        # Create temp file path in Heroku-compatible temp dir
+        temp_path = TEMP_DIR / 'predict_request.csv'
         fixtures_df.to_csv(temp_path, index=False)
         
         # Get prediction
-        prediction = predict_fixtures(temp_path).iloc[0]
+        prediction = predict_fixtures(str(temp_path)).iloc[0]
         
         # Determine confidence level
         prob_diff = abs(prediction['Home_Win_Prob'] - prediction['Away_Win_Prob'])
@@ -122,7 +130,7 @@ def predict_single_fixture(fixture: FixtureRequest):
         }
     except Exception as e:
         logger.error(f"Prediction failed: {str(e)}")
-        raise HTTPException(status_code=500, detail=str(e))
+        raise HTTPException(status_code=500, detail=f"Prediction error: {str(e)}")
 
 @app.post("/predict/batch", response_model=List[PredictionResult], tags=["Predictions"])
 async def predict_batch_fixtures(file: UploadFile = File(...)):
@@ -134,15 +142,16 @@ async def predict_batch_fixtures(file: UploadFile = File(...)):
     - Away_Team
     """
     try:
-        # Save uploaded file
-        file_path = os.path.join(UPLOAD_DIR, file.filename)
+        # Create temp file path
+        temp_path = TEMP_DIR / file.filename
         
-        with open(file_path, "wb") as f:
+        # Save uploaded file directly to temp location
+        with open(temp_path, "wb") as f:
             content = await file.read()
             f.write(content)
         
         # Get predictions
-        predictions_df = predict_fixtures(file_path)
+        predictions_df = predict_fixtures(str(temp_path))
         
         # Format response
         results = []
@@ -165,7 +174,7 @@ async def predict_batch_fixtures(file: UploadFile = File(...)):
         return results
     except Exception as e:
         logger.error(f"Batch prediction failed: {str(e)}")
-        raise HTTPException(status_code=500, detail=str(e))
+        raise HTTPException(status_code=500, detail=f"Batch processing error: {str(e)}")
 
 @app.get("/predict/upcoming", response_model=List[PredictionResult], tags=["Predictions"])
 def predict_upcoming_fixtures():
@@ -173,7 +182,13 @@ def predict_upcoming_fixtures():
     try:
         # Get config to find new fixtures path
         *_, config = load_data()
-        predictions_df = predict_fixtures(config['data_paths']['new_fixtures'])
+        fixtures_path = BASE_DIR / "data" / "raw" / "fixtures.csv"
+        
+        if not fixtures_path.exists():
+            logger.warning(f"Fixtures file not found at {fixtures_path}, using default")
+            fixtures_path = BASE_DIR / "fixtures.csv"
+            
+        predictions_df = predict_fixtures(str(fixtures_path))
         
         # Format response
         results = []
@@ -196,7 +211,7 @@ def predict_upcoming_fixtures():
         return results
     except Exception as e:
         logger.error(f"Upcoming fixtures prediction failed: {str(e)}")
-        raise HTTPException(status_code=500, detail=str(e))
+        raise HTTPException(status_code=500, detail=f"Fixtures processing error: {str(e)}")
 
 @app.get("/")
 def root():
