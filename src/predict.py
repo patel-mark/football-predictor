@@ -1,13 +1,36 @@
 import joblib
 import numpy as np
 import pandas as pd
+import os
+from pathlib import Path
 from .utils import standardize_team_names
 from .feature_engineering import create_feature_vector
 from .data_ingestion import load_data
 
-def predict_fixtures(fixtures_csv_path, model_dir='models'):
+# Get base directory
+BASE_DIR = Path(__file__).resolve().parent.parent
+
+def predict_fixtures(fixtures_csv_path, model_dir=None):
+    """
+    Predict fixtures from CSV file
+    - Uses absolute paths for Heroku compatibility
+    - Handles missing directories
+    - Removed file saving (ephemeral filesystem)
+    """
+    # Set default model directory
+    if model_dir is None:
+        model_dir = BASE_DIR / "models"
+    
+    # Verify model directory exists
+    if not model_dir.exists():
+        raise FileNotFoundError(f"Model directory not found: {model_dir}")
+    
     # Load artifacts and config
-    artifacts = joblib.load(f'{model_dir}/xgb_artifacts.pkl')
+    artifacts_path = model_dir / "xgb_artifacts.pkl"
+    if not artifacts_path.exists():
+        raise FileNotFoundError(f"Artifacts file not found: {artifacts_path}")
+    
+    artifacts = joblib.load(artifacts_path)
     team_stats = artifacts['team_stats']
     feature_columns = artifacts['feature_columns']
     
@@ -18,16 +41,23 @@ def predict_fixtures(fixtures_csv_path, model_dir='models'):
     models = []
     for i in range(5):
         try:
-            model = joblib.load(f'{model_dir}/xgb_model_fold{i+1}.pkl')
+            model_path = model_dir / f"xgb_model_fold{i+1}.pkl"
+            if not model_path.exists():
+                print(f"Warning: Model not found: {model_path}")
+                continue
+            model = joblib.load(model_path)
             models.append(model)
-        except FileNotFoundError:
-            print(f"Warning: Model for fold {i+1} not found. Skipping.")
+        except Exception as e:
+            print(f"Error loading model fold {i+1}: {str(e)}")
             continue
             
     if not models:
-        raise ValueError("No models found in the models directory")
+        raise ValueError("No valid models found in the models directory")
     
     # Prepare new fixtures
+    if not os.path.exists(fixtures_csv_path):
+        raise FileNotFoundError(f"Fixtures CSV not found: {fixtures_csv_path}")
+    
     new_fixtures = pd.read_csv(fixtures_csv_path)
     
     # Standardize team names using config mapping
@@ -71,14 +101,19 @@ def predict_fixtures(fixtures_csv_path, model_dir='models'):
     # Sort by probability difference
     result_df = result_df.sort_values('Prob_Diff', ascending=False)
 
-    # Save predictions
-    result_df.to_csv('data/processed/predictions.csv', index=False)
-    print(f"Predictions saved to data/processed/predictions.csv")
+    # Removed file saving - Heroku has ephemeral filesystem
+    print("Predictions generated successfully")
     
     return result_df
 
 if __name__ == "__main__":
-    # Get config to find new fixtures path
-    *_, config = load_data()  # Correct unpacking for 4 values
-    predictions = predict_fixtures(config['data_paths']['new_fixtures'])
-    print(predictions)
+    # Demo prediction with fallback paths
+    try:
+        fixtures_path = BASE_DIR / "data" / "raw" / "fixtures.csv"
+        if not fixtures_path.exists():
+            fixtures_path = BASE_DIR / "fixtures.csv"
+            
+        predictions = predict_fixtures(str(fixtures_path))
+        print(predictions.head())
+    except Exception as e:
+        print(f"Prediction failed: {str(e)}")
