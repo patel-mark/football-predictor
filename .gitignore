@@ -7,12 +7,6 @@ __pycache__/
 *.pyd
 .python-version
 
-# Data and model files
-data/
-*.csv
-*.parquet
-*.feather
-
 # Notebook files
 *.ipynb
 *.ipynb_checkpoints/
