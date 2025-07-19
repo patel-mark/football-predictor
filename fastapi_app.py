@@ -9,6 +9,7 @@ from typing import List, Optional
 import logging
 import tempfile
 import shutil
+import requests
 from src.predict import predict_fixtures
 from src.data_ingestion import load_data
 
@@ -22,6 +23,12 @@ MODEL_DIR = BASE_DIR / "models"
 
 # Create temporary directory for Heroku's ephemeral filesystem
 TEMP_DIR = Path(tempfile.mkdtemp(prefix="football-predictor-"))
+
+# Ensure model directory exists
+MODEL_DIR.mkdir(exist_ok=True, parents=True)
+
+# Public URL for model files (replace with your actual URL)
+MODEL_URL = "https://github.com/patel-mark/football-predictor/raw/main/models/xgb_artifacts.pkl"
 
 app = FastAPI(
     title="Football Match Predictor API",
@@ -54,22 +61,44 @@ class PredictionResult(BaseModel):
     total_goals: int
     confidence: str
 
+def download_model(url: str, save_path: Path):
+    """Download model from URL if not exists"""
+    try:
+        if not save_path.exists():
+            logger.info(f"Downloading model from {url}")
+            response = requests.get(url, timeout=30)
+            response.raise_for_status()
+            
+            with open(save_path, "wb") as f:
+                f.write(response.content)
+            logger.info(f"Model saved to {save_path}")
+        return True
+    except Exception as e:
+        logger.error(f"Model download failed: {str(e)}")
+        return False
+
 @app.on_event("startup")
 async def load_artifacts():
-    """Load model artifacts on startup"""
+    """Load model artifacts on startup with download fallback"""
     try:
         logger.info("Loading model artifacts...")
         model_path = MODEL_DIR / "xgb_artifacts.pkl"
         
+        # Download model if missing
         if not model_path.exists():
-            logger.error(f"Model file not found at {model_path}")
+            logger.warning("Model file not found locally")
+            if not download_model(MODEL_URL, model_path):
+                raise FileNotFoundError("Model download failed")
+                
+        if not model_path.exists():
             raise FileNotFoundError(f"Model file missing: {model_path}")
             
         app.state.artifacts = joblib.load(model_path)
         logger.info("Artifacts loaded successfully")
     except Exception as e:
         logger.error(f"Failed to load artifacts: {str(e)}")
-        raise RuntimeError(f"Model loading failed: {str(e)}")
+        # Set to None but don't crash - will fail on prediction instead
+        app.state.artifacts = None
 
 @app.on_event("shutdown")
 def cleanup_tempdir():
@@ -83,10 +112,11 @@ def cleanup_tempdir():
 @app.get("/health", tags=["Monitoring"])
 def health_check():
     """Service health check"""
+    model_loaded = hasattr(app.state, "artifacts") and app.state.artifacts is not None
     return {
-        "status": "healthy",
+        "status": "healthy" if model_loaded else "degraded",
         "message": "Football predictor API is running",
-        "model_loaded": hasattr(app.state, "artifacts"),
+        "model_loaded": model_loaded,
         "temp_dir": str(TEMP_DIR),
         "base_dir": str(BASE_DIR)
     }
@@ -100,6 +130,10 @@ def predict_single_fixture(fixture: FixtureRequest):
     - **away_team**: Away team name (e.g., "Chelsea")
     """
     try:
+        # Verify model is loaded
+        if not hasattr(app.state, "artifacts") or app.state.artifacts is None:
+            raise RuntimeError("Model not loaded - cannot make predictions")
+            
         # Create in-memory DataFrame
         fixtures_df = pd.DataFrame({
             'Home_Team': [fixture.home_team],
@@ -142,6 +176,10 @@ async def predict_batch_fixtures(file: UploadFile = File(...)):
     - Away_Team
     """
     try:
+        # Verify model is loaded
+        if not hasattr(app.state, "artifacts") or app.state.artifacts is None:
+            raise RuntimeError("Model not loaded - cannot make predictions")
+            
         # Create temp file path
         temp_path = TEMP_DIR / file.filename
         
@@ -180,6 +218,10 @@ async def predict_batch_fixtures(file: UploadFile = File(...)):
 def predict_upcoming_fixtures():
     """Predict upcoming fixtures from the predefined fixtures.csv file"""
     try:
+        # Verify model is loaded
+        if not hasattr(app.state, "artifacts") or app.state.artifacts is None:
+            raise RuntimeError("Model not loaded - cannot make predictions")
+            
         # Get config to find new fixtures path
         *_, config = load_data()
         fixtures_path = BASE_DIR / "data" / "raw" / "fixtures.csv"
@@ -215,8 +257,10 @@ def predict_upcoming_fixtures():
 
 @app.get("/")
 def root():
+    model_loaded = hasattr(app.state, "artifacts") and app.state.artifacts is not None
     return {
         "message": "Football Predictor API",
+        "status": "operational" if model_loaded else "degraded - model missing",
         "docs": "/docs",
         "health_check": "/health",
         "endpoints": {
