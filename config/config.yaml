@@ -1,6 +1,6 @@
 data_paths:
   raw_stats: "data/raw/Combined_Leagues_Stats.csv"
-  raw_fixtures: "data/raw/fixture_results.csv"
+  raw_fixtures: "data/raw/Fixture_Results.csv"
   new_fixtures: "data/raw/fixtures.csv"
   test_fixtures: "data/raw/test_fixtures.csv"
   
