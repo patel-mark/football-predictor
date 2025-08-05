@@ -1,534 +1,696 @@
 Date,Home_Team,Away_Team,Home_Score,Away_Score,Home_xG,Away_xG,League
-2025-03-30,Betis,Sevilla,2,1,1.1,0.7,La Liga
-2025-03-30,Salernitana,Palermo,1,2,1.4,1.6,Serie B
-2025-03-30,Valencia,Mallorca,1,0,0.7,0.6,La Liga
-2025-03-30,Cesena,Juve Stabia,1,2,1.5,1.1,Serie B
-2025-03-30,Le Havre,Nantes,3,2,4.0,0.8,Ligue 1
-2025-03-30,Auxerre,Montpellier,1,0,2.1,0.5,Ligue 1
-2025-03-30,Angers,Rennes,0,3,1.0,1.5,Ligue 1
-2025-03-30,Carrarese,Bari,2,1,0.8,1.1,Serie B
-2025-03-30,Napoli,Milan,2,1,1.0,2.6,Serie A
-2025-03-31,Celta Vigo,Las Palmas,1,1,1.0,0.3,La Liga
-2025-03-31,Lazio,Torino,1,1,1.2,0.4,Serie A
-2025-03-31,Hellas Verona,Parma,0,0,0.4,0.5,Serie A
-2025-04-01,Arsenal,Fulham,2,1,2.2,1.0,Premier League
-2025-04-01,Wolves,West Ham,1,0,1.2,1.3,Premier League
-2025-04-01,Nott'ham Forest,Manchester Utd,1,0,0.5,1.6,Premier League
-2025-04-02,Bournemouth,Ipswich Town,1,2,1.8,1.2,Premier League
-2025-04-02,Southampton,Crystal Palace,1,1,0.7,0.7,Premier League
-2025-04-02,Manchester City,Leicester City,2,0,2.2,0.1,Premier League
-2025-04-02,Derby County,Preston,2,0,0.7,0.3,Championship
-2025-04-02,Liverpool,Everton,1,0,1.5,0.9,Premier League
-2025-04-02,Newcastle Utd,Brentford,2,1,1.3,1.5,Premier League
-2025-04-02,Brighton,Aston Villa,0,3,0.9,1.2,Premier League
-2025-04-03,Chelsea,Tottenham,1,0,1.0,0.9,Premier League
-2025-04-04,Reggiana,Cremonese,1,2,1.6,1.2,Serie B
-2025-04-04,Augsburg,Bayern Munich,1,3,0.4,2.4,Bundesliga
-2025-04-04,Nice,Nantes,1,2,1.9,0.5,Ligue 1
-2025-04-04,Blackburn,Middlesbrough,0,2,0.5,0.9,Championship
-2025-04-04,Rayo Vallecano,Espanyol,0,4,0.7,3.4,La Liga
-2025-04-04,Genoa,Udinese,1,0,1.3,1.1,Serie A
-2025-04-05,Crystal Palace,Brighton,2,1,0.6,1.0,Premier League
-2025-04-05,Ipswich Town,Wolves,1,2,0.8,2.6,Premier League
-2025-04-05,West Ham,Bournemouth,2,2,0.7,2.1,Premier League
-2025-04-05,Milan,Fiorentina,2,2,2.6,2.3,Serie A
-2025-04-05,Parma,Inter,2,2,1.4,2.0,Serie A
-2025-04-05,Monza,Como,1,3,0.8,2.2,Serie A
-2025-04-05,Girona,Alavés,0,1,1.4,0.8,La Liga
-2025-04-05,Real Madrid,Valencia,1,2,3.4,0.8,La Liga
-2025-04-05,Mallorca,Celta Vigo,1,2,0.5,0.8,La Liga
-2025-04-05,Barcelona,Betis,1,1,1.4,0.3,La Liga
-2025-04-05,Everton,Arsenal,1,1,1.1,1.8,Premier League
-2025-04-05,Aston Villa,Nott'ham Forest,2,1,3.0,1.5,Premier League
-2025-04-05,Sheffield Weds,Hull City,0,1,1.0,0.6,Championship
-2025-04-05,RB Leipzig,Hoffenheim,3,1,1.6,0.9,Bundesliga
-2025-04-05,Plymouth Argyle,Norwich City,2,1,1.9,1.1,Championship
-2025-04-05,Mainz 05,Holstein Kiel,1,1,1.8,0.9,Bundesliga
-2025-04-05,West Brom,Sunderland,0,1,1.7,0.5,Championship
-2025-04-05,Luton Town,Leeds United,1,1,0.9,1.5,Championship
-2025-04-05,Coventry City,Burnley,1,2,1.6,1.4,Championship
-2025-04-05,QPR,Cardiff City,0,0,0.5,0.6,Championship
-2025-04-05,Preston,Stoke City,1,1,0.5,2.4,Championship
-2025-04-05,Bristol City,Watford,2,1,0.6,0.3,Championship
-2025-04-05,Swansea City,Derby County,1,0,0.4,0.6,Championship
-2025-04-05,Millwall,Portsmouth,2,1,1.3,0.6,Championship
-2025-04-05,Pisa,Modena,1,2,1.6,1.1,Serie B
-2025-04-05,Frosinone,Cosenza,2,2,1.8,1.2,Serie B
-2025-04-05,Südtirol,Cesena,1,1,0.7,0.5,Serie B
-2025-04-05,Cittadella,Carrarese,0,0,0.5,0.7,Serie B
-2025-04-05,Brescia,Mantova,1,2,1.1,1.9,Serie B
-2025-04-05,Juve Stabia,Salernitana,1,0,1.2,0.5,Serie B
-2025-04-05,Oxford United,Sheffield Utd,1,0,1.3,1.3,Championship
-2025-04-05,Paris S-G,Angers,1,0,1.9,0.2,Ligue 1
-2025-04-05,Brest,Monaco,2,1,1.0,1.5,Ligue 1
-2025-04-05,Heidenheim,Leverkusen,0,1,1.0,0.4,Bundesliga
-2025-04-05,Bochum,Stuttgart,0,4,0.8,2.8,Bundesliga
-2025-04-05,Lyon,Lille,2,1,1.8,0.9,Ligue 1
-2025-04-05,Freiburg,Dortmund,1,4,1.8,3.3,Bundesliga
-2025-04-05,Werder Bremen,Eint Frankfurt,2,0,1.0,0.5,Bundesliga
-2025-04-06,Lecce,Venezia,1,1,1.2,0.6,Serie A
-2025-04-06,Torino,Hellas Verona,1,1,1.1,0.9,Serie A
-2025-04-06,Atalanta,Lazio,0,1,0.5,0.5,Serie A
-2025-04-06,Manchester Utd,Manchester City,0,0,0.9,0.5,Premier League
-2025-04-06,Tottenham,Southampton,3,1,2.1,1.0,Premier League
-2025-04-06,Brentford,Chelsea,0,0,1.1,1.2,Premier League
-2025-04-06,Roma,Juventus,1,1,1.1,0.8,Serie A
-2025-04-06,Fulham,Liverpool,3,2,0.7,1.5,Premier League
-2025-04-06,Empoli,Cagliari,0,0,0.3,0.3,Serie A
-2025-04-06,Valladolid,Getafe,0,4,0.6,1.9,La Liga
-2025-04-06,Union Berlin,Wolfsburg,1,0,1.2,1.9,Bundesliga
-2025-04-06,Spezia,Sampdoria,2,0,2.0,0.6,Serie B
-2025-04-06,Catanzaro,Bari,3,3,1.5,1.2,Serie B
-2025-04-06,Palermo,Sassuolo,5,3,1.6,1.3,Serie B
-2025-04-06,Lens,Saint-Étienne,1,0,2.1,1.4,Ligue 1
-2025-04-06,Rennes,Auxerre,0,1,1.2,0.8,Ligue 1
-2025-04-06,Reims,Strasbourg,0,1,1.3,2.5,Ligue 1
-2025-04-06,Montpellier,Le Havre,0,2,1.0,1.4,Ligue 1
-2025-04-06,Marseille,Toulouse,3,2,1.0,1.3,Ligue 1
-2025-04-06,Las Palmas,Real Sociedad,1,3,2.0,2.4,La Liga
-2025-04-06,Sevilla,Atlético Madrid,1,2,0.9,1.3,La Liga
-2025-04-06,Villarreal,Athletic Club,0,0,2.1,0.8,La Liga
-2025-04-06,St. Pauli,Gladbach,1,1,1.9,0.6,Bundesliga
-2025-04-07,Leganés,Osasuna,1,1,1.7,2.2,La Liga
-2025-04-07,Bologna,Napoli,1,1,0.8,1.2,Serie A
-2025-04-07,Leicester City,Newcastle Utd,0,3,0.5,3.2,Premier League
-2025-04-08,Sheffield Utd,Millwall,0,1,1.5,0.5,Championship
-2025-04-08,Norwich City,Sunderland,0,0,0.9,0.7,Championship
-2025-04-08,Preston,Cardiff City,2,2,1.8,1.0,Championship
-2025-04-08,Blackburn,Sheffield Weds,2,2,1.7,0.9,Championship
-2025-04-08,Derby County,Burnley,0,0,1.3,0.7,Championship
-2025-04-08,Watford,Hull City,1,0,0.6,0.7,Championship
-2025-04-08,Middlesbrough,Leeds United,0,1,1.3,1.0,Championship
-2025-04-08,Bristol City,West Brom,2,1,0.8,1.8,Championship
-2025-04-08,Stoke City,Luton Town,1,1,0.4,1.0,Championship
-2025-04-09,Coventry City,Portsmouth,1,0,1.3,1.0,Championship
-2025-04-09,Oxford United,QPR,1,3,0.6,1.4,Championship
-2025-04-09,Swansea City,Plymouth Argyle,3,0,2.7,0.5,Championship
-2025-04-11,Udinese,Milan,0,4,0.8,2.1,Serie A
-2025-04-11,Valencia,Sevilla,1,0,1.3,0.8,La Liga
-2025-04-11,Wolfsburg,RB Leipzig,2,3,1.6,1.3,Bundesliga
-2025-04-11,Lens,Reims,0,2,2.9,1.4,Ligue 1
-2025-04-11,Burnley,Norwich City,2,1,0.8,1.5,Championship
-2025-04-11,Bari,Palermo,2,1,1.7,0.5,Serie B
-2025-04-12,Inter,Cagliari,3,1,1.8,1.1,Serie A
-2025-04-12,Getafe,Las Palmas,1,3,1.4,1.3,La Liga
-2025-04-12,Real Sociedad,Mallorca,0,2,0.7,0.7,La Liga
-2025-04-12,Monaco,Marseille,3,0,2.6,1.1,Ligue 1
-2025-04-12,Toulouse,Lille,1,2,0.9,0.5,Ligue 1
-2025-04-12,Strasbourg,Nice,2,2,0.7,1.7,Ligue 1
-2025-04-12,Cosenza,Brescia,1,1,1.8,0.6,Serie B
-2025-04-12,Reggiana,Pisa,0,2,0.9,1.2,Serie B
-2025-04-12,Salernitana,Südtirol,2,1,1.8,1.5,Serie B
-2025-04-12,Carrarese,Catanzaro,2,2,0.8,1.0,Serie B
 2025-04-12,Sampdoria,Cittadella,1,0,0.7,0.3,Serie B
 2025-04-12,Modena,Sassuolo,1,3,0.8,0.9,Serie B
-2025-04-12,Manchester City,Crystal Palace,5,2,3.7,1.8,Premier League
-2025-04-12,Brighton,Leicester City,2,2,3.8,1.5,Premier League
-2025-04-12,Southampton,Aston Villa,0,3,0.3,3.0,Premier League
-2025-04-12,Celta Vigo,Espanyol,0,2,0.9,1.2,La Liga
-2025-04-12,Nott'ham Forest,Everton,0,1,0.5,1.4,Premier League
-2025-04-12,Arsenal,Brentford,1,1,1.0,0.2,Premier League
+2025-04-12,Hoffenheim,Mainz 05,2,0,1.7,1.2,Bundesliga
+2025-04-12,Gladbach,Freiburg,1,2,0.7,1.6,Bundesliga
+2025-04-12,Bochum,Augsburg,1,2,2.8,1.1,Bundesliga
+2025-04-12,Leverkusen,Union Berlin,0,0,0.8,0.5,Bundesliga
+2025-04-12,Holstein Kiel,St. Pauli,1,2,0.5,1.2,Bundesliga
+2025-04-12,Bayern Munich,Dortmund,2,2,2.3,1.6,Bundesliga
 2025-04-12,Venezia,Monza,1,0,1.3,0.5,Serie A
+2025-04-12,Inter,Cagliari,3,1,1.8,1.1,Serie A
 2025-04-12,Juventus,Lecce,2,1,1.5,1.1,Serie A
 2025-04-12,Leganés,Barcelona,0,1,0.7,1.4,La Liga
-2025-04-12,Sheffield Weds,Oxford United,0,1,1.0,1.1,Championship
+2025-04-12,Celta Vigo,Espanyol,0,2,0.9,1.2,La Liga
+2025-04-12,Getafe,Las Palmas,1,3,1.4,1.3,La Liga
+2025-04-12,Real Sociedad,Mallorca,0,2,0.7,0.7,La Liga
 2025-04-12,Millwall,Middlesbrough,1,0,1.6,0.6,Championship
-2025-04-12,Portsmouth,Derby County,2,2,1.8,1.6,Championship
-2025-04-12,QPR,Bristol City,1,1,1.8,0.9,Championship
-2025-04-12,West Brom,Watford,2,1,1.5,0.9,Championship
-2025-04-12,Luton Town,Blackburn,0,1,0.7,0.4,Championship
-2025-04-12,Bayern Munich,Dortmund,2,2,2.3,1.6,Bundesliga
-2025-04-12,Cardiff City,Stoke City,0,1,1.5,1.0,Championship
 2025-04-12,Sunderland,Swansea City,0,1,0.7,0.9,Championship
-2025-04-12,Plymouth Argyle,Sheffield Utd,2,1,0.8,0.6,Championship
-2025-04-12,Holstein Kiel,St. Pauli,1,2,0.5,1.2,Bundesliga
-2025-04-12,Leverkusen,Union Berlin,0,0,0.8,0.5,Bundesliga
-2025-04-12,Bochum,Augsburg,1,2,2.8,1.1,Bundesliga
-2025-04-12,Gladbach,Freiburg,1,2,0.7,1.6,Bundesliga
-2025-04-12,Leeds United,Preston,2,1,3.2,0.3,Championship
-2025-04-12,Hoffenheim,Mainz 05,2,0,1.7,1.2,Bundesliga
-2025-04-13,Lazio,Roma,1,1,1.2,0.2,Serie A
-2025-04-13,Cesena,Frosinone,1,1,1.2,1.2,Serie B
-2025-04-13,Cremonese,Juve Stabia,1,1,0.8,0.2,Serie B
+2025-04-12,Cardiff City,Stoke City,0,1,1.5,1.0,Championship
+2025-04-12,Luton Town,Blackburn,0,1,0.7,0.4,Championship
+2025-04-12,Portsmouth,Derby County,2,2,1.8,1.6,Championship
+2025-04-12,Fortuna Sittard,Feyenoord,0,2,0.4,1.7,Eredivisie
+2025-04-12,Reggiana,Pisa,0,2,0.9,1.2,Serie B
+2025-04-12,PSV Eindhoven,Almere City,5,0,5.4,0.7,Eredivisie
+2025-04-12,Vasco da Gama,Sport Recife,3,1,1.3,1.0,Brazil Serie A
+2025-04-12,Strasbourg,Nice,2,2,0.7,1.7,Ligue 1
+2025-04-12,Toulouse,Lille,1,2,0.9,0.5,Ligue 1
+2025-04-12,Monaco,Marseille,3,0,2.6,1.1,Ligue 1
+2025-04-12,Palmeiras,Corinthians,2,0,1.4,0.3,Brazil Serie A
+2025-04-12,Juventude,Ceará,2,1,2.0,1.3,Brazil Serie A
+2025-04-12,Sparta R'dam,Heerenveen,3,1,2.7,1.3,Eredivisie
+2025-04-12,NAC Breda,Go Ahead Eag,1,1,1.7,1.1,Eredivisie
+2025-04-12,Santa Clara,Sporting CP,0,1,0.7,0.8,Primeira Liga
+2025-04-12,Famalicão,Estoril,3,0,2.2,0.2,Primeira Liga
+2025-04-12,Boavista,Nacional,0,1,2.0,1.7,Primeira Liga
+2025-04-12,Casa Pia,Porto,0,1,0.5,0.7,Primeira Liga
+2025-04-12,RB Bragantino,Botafogo (RJ),1,0,2.0,0.7,Brazil Serie A
+2025-04-13,Benfica,Arouca,2,2,2.8,1.4,Primeira Liga
+2025-04-13,Braga,AVS Futebol,4,1,2.0,0.5,Primeira Liga
+2025-04-13,Estrela,Farense,0,1,1.4,1.1,Primeira Liga
 2025-04-13,Mantova,Spezia,2,2,1.8,1.0,Serie B
-2025-04-13,Eint Frankfurt,Heidenheim,3,0,3.7,1.7,Bundesliga
-2025-04-13,Le Havre,Rennes,1,5,0.6,2.7,Ligue 1
-2025-04-13,Auxerre,Lyon,1,3,0.7,2.9,Ligue 1
-2025-04-13,Stuttgart,Werder Bremen,1,2,1.7,1.5,Bundesliga
+2025-04-13,Cesena,Frosinone,1,1,1.2,1.2,Serie B
+2025-04-13,Lazio,Roma,1,1,1.2,0.2,Serie A
 2025-04-13,Como,Torino,1,0,1.3,1.2,Serie A
 2025-04-13,Fiorentina,Parma,0,0,0.8,0.6,Serie A
 2025-04-13,Hellas Verona,Genoa,0,0,1.2,0.2,Serie A
+2025-04-13,Atlético Mineiro,Vitória,2,2,1.8,1.3,Brazil Serie A
+2025-04-13,Cremonese,Juve Stabia,1,1,0.8,0.2,Serie B
+2025-04-13,Moreirense,Rio Ave,0,2,0.4,1.4,Primeira Liga
+2025-04-13,Fluminense,Santos,1,0,0.7,0.1,Brazil Serie A
+2025-04-13,Eint Frankfurt,Heidenheim,3,0,3.7,1.7,Bundesliga
+2025-04-13,Stuttgart,Werder Bremen,1,2,1.7,1.5,Bundesliga
+2025-04-13,Grêmio,Flamengo,0,2,0.3,1.0,Brazil Serie A
+2025-04-13,São Paulo,Cruzeiro,1,1,0.4,1.1,Brazil Serie A
+2025-04-13,Bahia,Mirassol,1,1,1.7,0.5,Brazil Serie A
 2025-04-13,Atalanta,Bologna,2,0,1.0,0.6,Serie A
-2025-04-13,Saint-Étienne,Brest,3,3,0.7,1.5,Ligue 1
-2025-04-13,Angers,Montpellier,2,0,1.4,0.5,Ligue 1
-2025-04-13,Alavés,Real Madrid,0,1,0.6,0.9,La Liga
-2025-04-13,Liverpool,West Ham,2,1,1.8,1.4,Premier League
-2025-04-13,Betis,Villarreal,1,2,1.4,1.3,La Liga
+2025-04-13,Fortaleza,Internacional,0,0,0.6,0.3,Brazil Serie A
 2025-04-13,Athletic Club,Rayo Vallecano,3,1,1.6,1.6,La Liga
 2025-04-13,Chelsea,Ipswich Town,2,2,2.2,1.1,Premier League
-2025-04-13,Osasuna,Girona,2,1,1.7,0.9,La Liga
-2025-04-13,Wolves,Tottenham,4,2,2.4,2.0,Premier League
+2025-04-13,Zwolle,Twente,1,1,1.7,0.8,Eredivisie
+2025-04-13,Utrecht,Groningen,3,1,1.4,0.8,Eredivisie
+2025-04-13,Saint-Étienne,Brest,3,3,0.7,1.5,Ligue 1
+2025-04-13,Angers,Montpellier,2,0,1.4,0.5,Ligue 1
+2025-04-13,Le Havre,Rennes,1,5,0.6,2.7,Ligue 1
+2025-04-13,Auxerre,Lyon,1,3,0.7,2.9,Ligue 1
+2025-04-13,Heracles Almelo,AZ Alkmaar,1,0,1.0,0.6,Eredivisie
+2025-04-13,Liverpool,West Ham,2,1,1.8,1.4,Premier League
+2025-04-13,Willem II,Ajax,1,2,0.5,2.5,Eredivisie
 2025-04-13,Newcastle Utd,Manchester Utd,4,1,2.2,0.7,Premier League
+2025-04-13,Osasuna,Girona,2,1,1.7,0.9,La Liga
+2025-04-13,Alavés,Real Madrid,0,1,0.6,0.9,La Liga
+2025-04-13,Betis,Villarreal,1,2,1.4,1.3,La Liga
+2025-04-13,Wolves,Tottenham,4,2,2.4,2.0,Premier League
 2025-04-14,Napoli,Empoli,3,0,2.0,1.2,Serie A
-2025-04-14,Hull City,Coventry City,1,1,1.0,0.9,Championship
-2025-04-14,Atlético Madrid,Valladolid,4,2,3.4,1.2,La Liga
 2025-04-14,Bournemouth,Fulham,1,0,1.4,1.0,Premier League
+2025-04-14,Atlético Madrid,Valladolid,4,2,3.4,1.2,La Liga
+2025-04-14,Hull City,Coventry City,1,1,1.0,0.9,Championship
+2025-04-15,Ceará,Vasco da Gama,2,1,2.0,1.0,Brazil Serie A
 2025-04-16,Newcastle Utd,Crystal Palace,5,0,1.5,2.0,Premier League
+2025-04-16,Santos,Atlético Mineiro,2,0,1.7,0.8,Brazil Serie A
+2025-04-16,Vitória,Fortaleza,2,1,0.9,1.1,Brazil Serie A
+2025-04-16,Flamengo,Juventude,6,0,3.2,0.2,Brazil Serie A
+2025-04-16,Corinthians,Fluminense,0,2,0.8,1.2,Brazil Serie A
+2025-04-16,Internacional,Palmeiras,0,1,1.0,0.9,Brazil Serie A
+2025-04-16,Mirassol,Grêmio,4,1,1.6,0.8,Brazil Serie A
+2025-04-16,Sport Recife,RB Bragantino,0,1,0.8,1.4,Brazil Serie A
+2025-04-16,Botafogo (RJ),São Paulo,2,2,1.5,1.1,Brazil Serie A
+2025-04-17,Cruzeiro,Bahia,3,0,2.3,0.3,Brazil Serie A
+2025-04-18,Farense,Boavista,0,1,1.0,0.5,Primeira Liga
+2025-04-18,Porto,Famalicão,2,1,0.8,0.4,Primeira Liga
+2025-04-18,Rio Ave,Santa Clara,1,1,0.7,1.6,Primeira Liga
+2025-04-18,Sporting CP,Moreirense,3,1,2.3,0.4,Primeira Liga
+2025-04-18,Rennes,Nantes,2,1,2.7,0.7,Ligue 1
+2025-04-18,Oxford United,Leeds United,0,1,0.4,1.8,Championship
+2025-04-18,Derby County,Luton Town,0,1,1.7,0.5,Championship
+2025-04-18,Bristol City,Sunderland,2,1,1.9,0.4,Championship
 2025-04-18,Preston,QPR,1,2,0.8,1.4,Championship
 2025-04-18,Swansea City,Hull City,1,0,1.3,0.6,Championship
-2025-04-18,Derby County,Luton Town,0,1,1.7,0.5,Championship
 2025-04-18,Coventry City,West Brom,2,0,1.2,0.9,Championship
-2025-04-18,Bristol City,Sunderland,2,1,1.9,0.4,Championship
-2025-04-18,Sheffield Utd,Cardiff City,2,0,1.3,0.7,Championship
 2025-04-18,Blackburn,Millwall,4,1,1.8,1.4,Championship
-2025-04-18,Watford,Burnley,1,2,1.1,2.0,Championship
-2025-04-18,Stoke City,Sheffield Weds,2,0,1.0,1.0,Championship
 2025-04-18,Middlesbrough,Plymouth Argyle,2,1,3.0,2.0,Championship
-2025-04-18,Espanyol,Getafe,1,0,0.4,0.4,La Liga
-2025-04-18,Oxford United,Leeds United,0,1,0.4,1.8,Championship
-2025-04-18,Rennes,Nantes,2,1,2.7,0.7,Ligue 1
 2025-04-18,Norwich City,Portsmouth,3,5,1.2,2.7,Championship
-2025-04-19,Everton,Manchester City,0,2,0.9,2.0,Premier League
-2025-04-19,West Ham,Southampton,1,1,0.9,0.6,Premier League
-2025-04-19,Crystal Palace,Bournemouth,0,0,0.4,0.7,Premier League
-2025-04-19,Brentford,Brighton,4,2,2.1,1.4,Premier League
-2025-04-19,Aston Villa,Newcastle Utd,4,1,2.2,1.0,Premier League
-2025-04-19,Mainz 05,Wolfsburg,2,2,2.7,1.6,Bundesliga
-2025-04-19,Heidenheim,Bayern Munich,0,4,0.6,3.2,Bundesliga
-2025-04-19,Marseille,Montpellier,5,1,3.7,0.3,Ligue 1
-2025-04-19,Monaco,Strasbourg,0,0,0.9,0.4,Ligue 1
-2025-04-19,Lecce,Como,0,3,0.7,1.3,Serie A
+2025-04-18,Espanyol,Getafe,1,0,0.4,0.4,La Liga
+2025-04-18,Stoke City,Sheffield Weds,2,0,1.0,1.0,Championship
+2025-04-18,Sheffield Utd,Cardiff City,2,0,1.3,0.7,Championship
+2025-04-18,Watford,Burnley,1,2,1.1,2.0,Championship
+2025-04-19,Rayo Vallecano,Valencia,1,1,0.5,2.0,La Liga
+2025-04-19,Paris S-G,Le Havre,2,1,3.0,0.5,Ligue 1
 2025-04-19,Monza,Napoli,0,1,0.9,1.5,Serie A
+2025-04-19,Roma,Hellas Verona,1,0,1.2,0.5,Serie A
+2025-04-19,Heerenveen,Almere City,2,1,1.3,0.9,Eredivisie
+2025-04-19,Aston Villa,Newcastle Utd,4,1,2.2,1.0,Premier League
+2025-04-19,Brentford,Brighton,4,2,2.1,1.4,Premier League
+2025-04-19,Crystal Palace,Bournemouth,0,0,0.4,0.7,Premier League
+2025-04-19,West Ham,Southampton,1,1,0.9,0.6,Premier League
+2025-04-19,Monaco,Strasbourg,0,0,0.9,0.4,Ligue 1
+2025-04-19,Marseille,Montpellier,5,1,3.7,0.3,Ligue 1
+2025-04-19,Everton,Manchester City,0,2,0.9,2.0,Premier League
+2025-04-19,Corinthians,Sport Recife,2,1,2.2,0.4,Brazil Serie A
+2025-04-19,Las Palmas,Atlético Madrid,1,0,0.6,0.8,La Liga
+2025-04-19,Mallorca,Leganés,0,0,0.9,0.9,La Liga
+2025-04-19,Barcelona,Celta Vigo,4,3,2.9,2.1,La Liga
+2025-04-19,AVS Futebol,Casa Pia,1,1,0.7,1.3,Primeira Liga
+2025-04-19,Arouca,Estrela,1,0,1.9,0.6,Primeira Liga
+2025-04-19,Lecce,Como,0,3,0.7,1.3,Serie A
+2025-04-19,Vitória,Benfica,0,3,1.6,2.0,Primeira Liga
+2025-04-19,Heidenheim,Bayern Munich,0,4,0.6,3.2,Bundesliga
+2025-04-19,Estoril,Braga,0,2,0.5,0.8,Primeira Liga
 2025-04-19,RB Leipzig,Holstein Kiel,1,1,1.9,0.8,Bundesliga
-2025-04-19,Freiburg,Hoffenheim,3,2,1.3,1.5,Bundesliga
+2025-04-19,Vasco da Gama,Flamengo,0,0,0.6,2.0,Brazil Serie A
+2025-04-19,Mainz 05,Wolfsburg,2,2,2.7,1.6,Bundesliga
 2025-04-19,Werder Bremen,Bochum,1,0,1.8,0.7,Bundesliga
 2025-04-19,Union Berlin,Stuttgart,4,4,1.3,0.9,Bundesliga
-2025-04-19,Paris S-G,Le Havre,2,1,3.0,0.5,Ligue 1
-2025-04-19,Roma,Hellas Verona,1,0,1.2,0.5,Serie A
-2025-04-19,Barcelona,Celta Vigo,4,3,2.9,2.1,La Liga
-2025-04-19,Mallorca,Leganés,0,0,0.9,0.9,La Liga
-2025-04-19,Las Palmas,Atlético Madrid,1,0,0.6,0.8,La Liga
-2025-04-19,Rayo Vallecano,Valencia,1,1,0.5,2.0,La Liga
-2025-04-20,Nice,Angers,2,1,2.8,0.4,Ligue 1
-2025-04-20,Empoli,Venezia,2,2,1.2,1.8,Serie A
-2025-04-20,Lille,Auxerre,3,1,2.0,0.3,Ligue 1
-2025-04-20,Fulham,Chelsea,1,2,0.3,0.9,Premier League
-2025-04-20,Saint-Étienne,Lyon,2,1,1.6,0.8,Ligue 1
+2025-04-19,Freiburg,Hoffenheim,3,2,1.3,1.5,Bundesliga
+2025-04-19,Nacional,Gil Vicente FC,0,3,0.8,1.6,Primeira Liga
+2025-04-19,Grêmio,Internacional,1,1,1.1,2.0,Brazil Serie A
 2025-04-20,Reims,Toulouse,1,0,0.7,1.3,Ligue 1
-2025-04-20,Leicester City,Liverpool,0,1,0.3,2.5,Premier League
-2025-04-20,Brest,Lens,1,3,1.0,2.2,Ligue 1
-2025-04-20,St. Pauli,Leverkusen,1,1,1.1,0.8,Bundesliga
-2025-04-20,Manchester Utd,Wolves,0,1,1.3,0.2,Premier League
-2025-04-20,Valladolid,Osasuna,2,3,1.9,2.3,La Liga
 2025-04-20,Villarreal,Real Sociedad,2,2,1.9,1.7,La Liga
-2025-04-20,Sevilla,Alavés,1,1,1.6,1.0,La Liga
-2025-04-20,Ipswich Town,Arsenal,0,4,0.2,2.4,Premier League
-2025-04-20,Real Madrid,Athletic Club,1,0,1.5,0.2,La Liga
+2025-04-20,Valladolid,Osasuna,2,3,1.9,2.3,La Liga
+2025-04-20,Saint-Étienne,Lyon,2,1,1.6,0.8,Ligue 1
+2025-04-20,Brest,Lens,1,3,1.0,2.2,Ligue 1
+2025-04-20,São Paulo,Santos,2,1,1.7,1.4,Brazil Serie A
+2025-04-20,Lille,Auxerre,3,1,2.0,0.3,Ligue 1
+2025-04-20,Fluminense,Vitória,1,1,1.1,0.6,Brazil Serie A
+2025-04-20,Atlético Mineiro,Botafogo (RJ),1,0,0.8,0.3,Brazil Serie A
+2025-04-20,Fortaleza,Palmeiras,1,2,1.2,1.0,Brazil Serie A
+2025-04-20,Juventude,Mirassol,2,2,1.3,2.3,Brazil Serie A
+2025-04-20,Nice,Angers,2,1,2.8,0.4,Ligue 1
+2025-04-20,Fulham,Chelsea,1,2,0.3,0.9,Premier League
+2025-04-20,Manchester Utd,Wolves,0,1,1.3,0.2,Premier League
+2025-04-20,Leicester City,Liverpool,0,1,0.3,2.5,Premier League
+2025-04-20,Milan,Atalanta,0,1,0.6,1.9,Serie A
+2025-04-20,Bologna,Inter,1,0,0.8,0.5,Serie A
+2025-04-20,Empoli,Venezia,2,2,1.2,1.8,Serie A
 2025-04-20,Augsburg,Eint Frankfurt,0,0,0.9,1.1,Bundesliga
 2025-04-20,Dortmund,Gladbach,3,2,1.4,1.4,Bundesliga
-2025-04-20,Bologna,Inter,1,0,0.8,0.5,Serie A
-2025-04-20,Milan,Atalanta,0,1,0.6,1.9,Serie A
-2025-04-21,Girona,Betis,1,3,1.1,1.7,La Liga
+2025-04-20,Sevilla,Alavés,1,1,1.6,1.0,La Liga
+2025-04-20,Real Madrid,Athletic Club,1,0,1.5,0.2,La Liga
+2025-04-20,Utrecht,Ajax,4,0,0.9,0.8,Eredivisie
+2025-04-20,St. Pauli,Leverkusen,1,1,1.1,0.8,Bundesliga
+2025-04-20,RB Bragantino,Cruzeiro,1,0,1.7,0.8,Brazil Serie A
+2025-04-20,Ipswich Town,Arsenal,0,4,0.2,2.4,Premier League
 2025-04-21,Tottenham,Nott'ham Forest,1,2,2.1,0.5,Premier League
-2025-04-21,Portsmouth,Watford,1,0,3.2,0.6,Championship
-2025-04-21,Plymouth Argyle,Coventry City,3,1,2.1,1.7,Championship
-2025-04-21,Cardiff City,Oxford United,1,1,1.0,0.1,Championship
-2025-04-21,Leeds United,Stoke City,6,0,3.3,0.4,Championship
+2025-04-21,Bahia,Ceará,1,0,1.7,1.2,Brazil Serie A
 2025-04-21,Sheffield Weds,Middlesbrough,2,1,3.4,2.1,Championship
 2025-04-21,Millwall,Norwich City,3,1,1.8,0.4,Championship
+2025-04-21,Leeds United,Stoke City,6,0,3.3,0.4,Championship
+2025-04-21,Cardiff City,Oxford United,1,1,1.0,0.1,Championship
+2025-04-21,Portsmouth,Watford,1,0,3.2,0.6,Championship
+2025-04-21,Plymouth Argyle,Coventry City,3,1,2.1,1.7,Championship
+2025-04-21,Girona,Betis,1,3,1.1,1.7,La Liga
 2025-04-21,Luton Town,Bristol City,3,1,1.2,0.7,Championship
 2025-04-21,QPR,Swansea City,1,2,0.3,1.7,Championship
 2025-04-21,Sunderland,Blackburn,0,1,0.8,0.3,Championship
 2025-04-21,Burnley,Sheffield Utd,2,1,1.9,0.8,Championship
 2025-04-21,West Brom,Derby County,1,3,0.9,0.9,Championship
 2025-04-21,Hull City,Preston,2,1,2.1,1.0,Championship
-2025-04-22,Valencia,Espanyol,1,1,0.9,0.3,La Liga
 2025-04-22,Nantes,Paris S-G,1,1,0.5,1.6,Ligue 1
-2025-04-22,Barcelona,Mallorca,1,0,3.3,0.3,La Liga
 2025-04-22,Manchester City,Aston Villa,2,1,1.3,1.8,Premier League
-2025-04-23,Arsenal,Crystal Palace,2,2,1.2,1.7,Premier League
-2025-04-23,Parma,Juventus,1,0,0.6,0.8,Serie A
-2025-04-23,Cagliari,Fiorentina,1,2,0.3,0.7,Serie A
-2025-04-23,Torino,Udinese,2,0,0.9,1.1,Serie A
-2025-04-23,Getafe,Real Madrid,0,1,2.3,1.5,La Liga
-2025-04-23,Alavés,Real Sociedad,1,0,0.6,0.8,La Liga
-2025-04-23,Athletic Club,Las Palmas,1,0,2.1,1.0,La Liga
+2025-04-22,Barcelona,Mallorca,1,0,3.3,0.3,La Liga
+2025-04-22,Valencia,Espanyol,1,1,0.9,0.3,La Liga
 2025-04-23,Celta Vigo,Villarreal,3,0,2.7,0.4,La Liga
+2025-04-23,Getafe,Real Madrid,0,1,2.3,1.5,La Liga
+2025-04-23,Groningen,Heracles Almelo,4,1,1.9,0.3,Eredivisie
 2025-04-23,Genoa,Lazio,0,2,0.6,1.1,Serie A
-2025-04-24,Atlético Madrid,Rayo Vallecano,3,0,2.3,0.7,La Liga
-2025-04-24,Leganés,Girona,1,1,0.3,0.5,La Liga
+2025-04-23,Cagliari,Fiorentina,1,2,0.3,0.7,Serie A
+2025-04-23,Parma,Juventus,1,0,0.6,0.8,Serie A
+2025-04-23,Torino,Udinese,2,0,0.9,1.1,Serie A
+2025-04-23,Alavés,Real Sociedad,1,0,0.6,0.8,La Liga
+2025-04-23,Arsenal,Crystal Palace,2,2,1.2,1.7,Premier League
+2025-04-23,Athletic Club,Las Palmas,1,0,2.1,1.0,La Liga
 2025-04-24,Osasuna,Sevilla,1,0,0.3,1.1,La Liga
+2025-04-24,Atlético Madrid,Rayo Vallecano,3,0,2.3,0.7,La Liga
+2025-04-24,Twente,PSV Eindhoven,1,3,0.8,2.2,Eredivisie
+2025-04-24,AZ Alkmaar,NAC Breda,1,1,1.3,0.5,Eredivisie
 2025-04-24,Betis,Valladolid,5,1,1.9,0.9,La Liga
-2025-04-25,Stuttgart,Heidenheim,0,1,1.8,0.3,Bundesliga
-2025-04-25,Salernitana,Cosenza,3,1,2.3,1.0,Serie B
-2025-04-25,Cesena,Sassuolo,0,2,0.8,2.0,Serie B
-2025-04-25,Cremonese,Mantova,4,2,3.0,1.1,Serie B
+2025-04-24,Leganés,Girona,1,1,0.3,0.5,La Liga
 2025-04-25,Bari,Modena,1,2,1.8,2.4,Serie B
-2025-04-25,Reggiana,Cittadella,2,1,1.1,1.2,Serie B
-2025-04-25,Carrarese,Sampdoria,1,0,0.8,0.7,Serie B
 2025-04-25,Paris S-G,Nice,1,3,3.0,1.0,Ligue 1
-2025-04-25,Stoke City,Sheffield Utd,0,2,0.9,2.1,Championship
+2025-04-25,Salernitana,Cosenza,3,1,2.3,1.0,Serie B
+2025-04-25,Reggiana,Cittadella,2,1,1.1,1.2,Serie B
 2025-04-25,Frosinone,Spezia,2,2,1.0,1.4,Serie B
+2025-04-25,Cesena,Sassuolo,0,2,0.8,2.0,Serie B
+2025-04-25,Famalicão,Braga,1,1,2.1,0.9,Primeira Liga
+2025-04-25,Stuttgart,Heidenheim,0,1,1.8,0.3,Bundesliga
+2025-04-25,Cremonese,Mantova,4,2,3.0,1.1,Serie B
+2025-04-25,Stoke City,Sheffield Utd,0,2,0.9,2.1,Championship
 2025-04-25,Brescia,Pisa,1,2,0.3,0.8,Serie B
-2025-04-26,Brighton,West Ham,3,2,1.3,1.3,Premier League
+2025-04-25,Carrarese,Sampdoria,1,0,0.8,0.7,Serie B
+2025-04-25,Feyenoord,Zwolle,4,0,1.3,1.5,Eredivisie
+2025-04-25,RKC Waalwijk,Utrecht,0,4,0.7,2.2,Eredivisie
+2025-04-26,Botafogo (RJ),Fluminense,2,0,0.9,0.3,Brazil Serie A
+2025-04-26,Blackburn,Watford,2,1,1.0,0.3,Championship
+2025-04-26,Cardiff City,West Brom,0,0,1.3,1.4,Championship
+2025-04-26,Middlesbrough,Norwich City,0,0,0.7,0.6,Championship
+2025-04-26,Oxford United,Sunderland,2,0,1.5,0.6,Championship
+2025-04-26,Millwall,Swansea City,1,0,1.6,1.0,Championship
+2025-04-26,Preston,Plymouth Argyle,1,2,2.4,0.7,Championship
+2025-04-26,Sheffield Weds,Portsmouth,1,1,1.6,0.4,Championship
 2025-04-26,Lyon,Rennes,4,1,1.8,0.8,Ligue 1
-2025-04-26,Eint Frankfurt,RB Leipzig,4,0,2.1,0.4,Bundesliga
-2025-04-26,Wolfsburg,Freiburg,0,1,0.3,1.6,Bundesliga
 2025-04-26,Le Havre,Monaco,1,1,0.5,2.9,Ligue 1
-2025-04-26,Hoffenheim,Dortmund,2,3,1.1,2.6,Bundesliga
-2025-04-26,Bayern Munich,Mainz 05,3,0,1.1,0.7,Bundesliga
-2025-04-26,Leverkusen,Augsburg,2,0,0.9,0.7,Bundesliga
-2025-04-26,Hull City,Derby County,0,1,0.4,0.3,Championship
-2025-04-26,Strasbourg,Saint-Étienne,3,1,2.7,2.1,Ligue 1
-2025-04-26,Wolves,Leicester City,3,0,2.0,1.1,Premier League
-2025-04-26,Holstein Kiel,Gladbach,4,3,3.5,1.6,Bundesliga
+2025-04-26,Internacional,Juventude,3,1,1.3,0.3,Brazil Serie A
+2025-04-26,Ceará,São Paulo,1,1,0.5,0.8,Brazil Serie A
 2025-04-26,QPR,Burnley,0,5,0.5,2.4,Championship
 2025-04-26,Luton Town,Coventry City,1,0,2.3,0.2,Championship
-2025-04-26,Sheffield Weds,Portsmouth,1,1,1.6,0.4,Championship
+2025-04-26,Mirassol,Atlético Mineiro,2,2,1.8,1.6,Brazil Serie A
+2025-04-26,Sport Recife,Fortaleza,0,0,1.3,0.8,Brazil Serie A
+2025-04-26,Strasbourg,Saint-Étienne,3,1,2.7,2.1,Ligue 1
+2025-04-26,Hull City,Derby County,0,1,0.4,0.3,Championship
+2025-04-26,Eint Frankfurt,RB Leipzig,4,0,2.1,0.4,Bundesliga
 2025-04-26,Southampton,Fulham,1,2,0.6,2.4,Premier League
-2025-04-26,Millwall,Swansea City,1,0,1.6,1.0,Championship
-2025-04-26,Oxford United,Sunderland,2,0,1.5,0.6,Championship
-2025-04-26,Middlesbrough,Norwich City,0,0,0.7,0.6,Championship
-2025-04-26,Cardiff City,West Brom,0,0,1.3,1.4,Championship
-2025-04-26,Blackburn,Watford,2,1,1.0,0.3,Championship
-2025-04-26,Chelsea,Everton,1,0,0.8,0.4,Premier League
 2025-04-26,Newcastle Utd,Ipswich Town,3,0,2.4,0.1,Premier League
-2025-04-26,Preston,Plymouth Argyle,1,2,2.4,0.7,Championship
-2025-04-27,Südtirol,Juve Stabia,2,0,1.3,0.9,Serie B
-2025-04-27,Catanzaro,Palermo,1,3,1.5,1.6,Serie B
+2025-04-26,Chelsea,Everton,1,0,0.8,0.4,Premier League
+2025-04-26,Estrela,Porto,2,0,2.5,0.5,Primeira Liga
+2025-04-26,Gil Vicente FC,Farense,1,0,1.5,0.1,Primeira Liga
+2025-04-26,Wolves,Leicester City,3,0,2.0,1.1,Premier League
+2025-04-26,Wolfsburg,Freiburg,0,1,0.3,1.6,Bundesliga
+2025-04-26,Holstein Kiel,Gladbach,4,3,3.5,1.6,Bundesliga
+2025-04-26,Leverkusen,Augsburg,2,0,0.9,0.7,Bundesliga
+2025-04-26,Bayern Munich,Mainz 05,3,0,1.1,0.7,Bundesliga
+2025-04-26,Hoffenheim,Dortmund,2,3,1.1,2.6,Bundesliga
+2025-04-26,Brighton,West Ham,3,2,1.3,1.3,Premier League
+2025-04-26,Santa Clara,Arouca,2,0,0.9,1.0,Primeira Liga
+2025-04-27,Boavista,Sporting CP,0,5,0.4,4.1,Primeira Liga
+2025-04-27,Werder Bremen,St. Pauli,0,0,1.1,0.6,Bundesliga
+2025-04-27,Inter,Roma,0,1,1.1,1.9,Serie A
 2025-04-27,Venezia,Milan,0,2,1.2,1.6,Serie A
-2025-04-27,Liverpool,Tottenham,5,1,2.2,0.5,Premier League
+2025-04-27,Como,Genoa,1,0,1.3,1.3,Serie A
+2025-04-27,Heerenveen,NEC Nijmegen,1,0,1.6,0.6,Eredivisie
+2025-04-27,Ajax,Sparta R'dam,1,1,3.1,1.1,Eredivisie
+2025-04-27,Fortuna Sittard,Willem II,1,0,1.6,0.3,Eredivisie
+2025-04-27,Moreirense,Nacional,1,1,0.5,0.5,Primeira Liga
+2025-04-27,Benfica,AVS Futebol,6,0,3.9,0.6,Primeira Liga
 2025-04-27,Villarreal,Espanyol,1,0,1.4,1.0,La Liga
+2025-04-27,Flamengo,Corinthians,4,0,2.2,0.3,Brazil Serie A
+2025-04-27,Palmeiras,Bahia,0,1,1.4,0.6,Brazil Serie A
+2025-04-27,Vitória,Grêmio,1,1,1.3,1.5,Brazil Serie A
+2025-04-27,Cruzeiro,Vasco da Gama,1,0,0.8,0.8,Brazil Serie A
+2025-04-27,Santos,RB Bragantino,1,2,1.1,1.4,Brazil Serie A
+2025-04-27,Vitória,Rio Ave,3,0,1.8,0.5,Primeira Liga
+2025-04-27,Liverpool,Tottenham,5,1,2.2,0.5,Premier League
+2025-04-27,Bournemouth,Manchester Utd,1,1,0.5,2.3,Premier League
+2025-04-27,Bochum,Union Berlin,1,1,1.5,0.3,Bundesliga
+2025-04-27,Fiorentina,Empoli,2,1,0.8,0.4,Serie A
+2025-04-27,Almere City,Go Ahead Eag,0,0,1.8,0.3,Eredivisie
+2025-04-27,Napoli,Torino,2,0,1.1,0.8,Serie A
+2025-04-27,Atalanta,Lecce,1,1,2.3,1.4,Serie A
 2025-04-27,Marseille,Brest,4,1,0.9,1.2,Ligue 1
+2025-04-27,Catanzaro,Palermo,1,3,1.5,1.6,Serie B
+2025-04-27,Südtirol,Juve Stabia,2,0,1.3,0.9,Serie B
+2025-04-27,Juventus,Monza,2,0,1.4,0.7,Serie A
 2025-04-27,Montpellier,Reims,0,0,0.6,0.7,Ligue 1
 2025-04-27,Lens,Auxerre,0,4,1.4,2.6,Ligue 1
 2025-04-27,Nantes,Toulouse,0,0,1.1,0.4,Ligue 1
 2025-04-27,Angers,Lille,0,2,0.7,1.4,Ligue 1
-2025-04-27,Bournemouth,Manchester Utd,1,1,0.5,2.3,Premier League
-2025-04-27,Atalanta,Lecce,1,1,2.3,1.4,Serie A
-2025-04-27,Juventus,Monza,2,0,1.4,0.7,Serie A
-2025-04-27,Fiorentina,Empoli,2,1,0.8,0.4,Serie A
-2025-04-27,Inter,Roma,0,1,1.1,1.9,Serie A
-2025-04-27,Werder Bremen,St. Pauli,0,0,1.1,0.6,Bundesliga
-2025-04-27,Como,Genoa,1,0,1.3,1.3,Serie A
-2025-04-27,Napoli,Torino,2,0,1.1,0.8,Serie A
-2025-04-27,Bochum,Union Berlin,1,1,1.5,0.3,Bundesliga
-2025-04-28,Hellas Verona,Cagliari,0,2,0.3,1.9,Serie A
 2025-04-28,Udinese,Bologna,0,0,0.5,1.6,Serie A
-2025-04-28,Leeds United,Bristol City,4,0,3.6,0.1,Championship
 2025-04-28,Lazio,Parma,2,2,1.4,0.9,Serie A
-2025-05-01,Mantova,Cesena,3,0,1.2,0.3,Serie B
-2025-05-01,Modena,Reggiana,2,3,0.4,1.0,Serie B
-2025-05-01,Nott'ham Forest,Brentford,0,2,0.9,1.3,Premier League
+2025-04-28,Hellas Verona,Cagliari,0,2,0.3,1.9,Serie A
+2025-04-28,Leeds United,Bristol City,4,0,3.6,0.1,Championship
+2025-04-29,Casa Pia,Estoril,1,3,2.0,1.7,Primeira Liga
 2025-05-01,Sassuolo,Carrarese,2,0,1.4,0.9,Serie B
-2025-05-01,Juve Stabia,Catanzaro,2,0,2.2,0.7,Serie B
+2025-05-01,Spezia,Salernitana,2,0,2.0,0.7,Serie B
 2025-05-01,Sampdoria,Cremonese,0,0,0.7,0.7,Serie B
 2025-05-01,Cosenza,Bari,1,0,1.6,1.0,Serie B
+2025-05-01,Nott'ham Forest,Brentford,0,2,0.9,1.3,Premier League
+2025-05-01,Palermo,Südtirol,1,2,1.1,1.9,Serie B
+2025-05-01,Modena,Reggiana,2,3,0.4,1.0,Serie B
+2025-05-01,Mantova,Cesena,3,0,1.2,0.3,Serie B
 2025-05-01,Cittadella,Brescia,0,1,0.8,0.4,Serie B
 2025-05-01,Pisa,Frosinone,1,0,1.0,0.3,Serie B
-2025-05-01,Spezia,Salernitana,2,0,2.0,0.7,Serie B
-2025-05-01,Palermo,Südtirol,1,2,1.1,1.9,Serie B
+2025-05-01,Juve Stabia,Catanzaro,2,0,2.2,0.7,Serie B
 2025-05-02,Rayo Vallecano,Getafe,1,0,1.2,0.9,La Liga
-2025-05-02,Nice,Reims,1,0,1.5,1.3,Ligue 1
-2025-05-02,Torino,Venezia,1,1,2.1,0.6,Serie A
-2025-05-02,Manchester City,Wolves,1,0,0.7,0.4,Premier League
+2025-05-02,São Paulo,Fortaleza,0,0,1.8,1.0,Brazil Serie A
 2025-05-02,Heidenheim,Bochum,0,0,0.7,1.3,Bundesliga
+2025-05-02,Torino,Venezia,1,1,2.1,0.6,Serie A
+2025-05-02,Porto,Moreirense,3,1,1.6,0.3,Primeira Liga
+2025-05-02,Nice,Reims,1,0,1.5,1.3,Ligue 1
+2025-05-02,Manchester City,Wolves,1,0,0.7,0.4,Premier League
 2025-05-03,Inter,Hellas Verona,1,0,1.3,0.2,Serie A
-2025-05-03,Lecce,Napoli,0,1,0.3,0.6,Serie A
 2025-05-03,Cagliari,Udinese,1,2,1.0,1.4,Serie A
-2025-05-03,Villarreal,Osasuna,4,2,2.2,1.2,La Liga
-2025-05-03,St. Pauli,Stuttgart,0,1,0.4,2.7,Bundesliga
-2025-05-03,Alavés,Atlético Madrid,0,0,0.5,0.5,La Liga
-2025-05-03,Valladolid,Barcelona,1,2,0.6,1.9,La Liga
-2025-05-03,Saint-Étienne,Monaco,1,3,0.6,2.0,Ligue 1
-2025-05-03,Toulouse,Rennes,2,1,0.7,1.4,Ligue 1
-2025-05-03,Strasbourg,Paris S-G,2,1,0.8,1.7,Ligue 1
-2025-05-03,Sunderland,QPR,0,1,0.6,0.5,Championship
+2025-05-03,Parma,Como,0,1,1.8,0.8,Serie A
+2025-05-03,Dortmund,Wolfsburg,4,0,2.4,0.7,Bundesliga
+2025-05-03,Swansea City,Oxford United,3,3,1.1,1.9,Championship
+2025-05-03,Lecce,Napoli,0,1,0.3,0.6,Serie A
 2025-05-03,Las Palmas,Valencia,2,3,1.7,1.4,La Liga
-2025-05-03,West Brom,Luton Town,5,3,2.2,0.6,Championship
+2025-05-03,Villarreal,Osasuna,4,2,2.2,1.2,La Liga
+2025-05-03,Alavés,Atlético Madrid,0,0,0.5,0.5,La Liga
+2025-05-03,Plymouth Argyle,Leeds United,1,2,0.4,2.9,Championship
+2025-05-03,Valladolid,Barcelona,1,2,0.6,1.9,La Liga
+2025-05-03,Sheffield Utd,Blackburn,1,1,2.4,0.7,Championship
+2025-05-03,Leicester City,Southampton,2,0,1.4,0.5,Premier League
+2025-05-03,Everton,Ipswich Town,2,2,0.6,0.8,Premier League
+2025-05-03,Arsenal,Bournemouth,1,2,1.4,0.9,Premier League
+2025-05-03,Strasbourg,Paris S-G,2,1,0.8,1.7,Ligue 1
+2025-05-03,Toulouse,Rennes,2,1,0.7,1.4,Ligue 1
+2025-05-03,Saint-Étienne,Monaco,1,3,0.6,2.0,Ligue 1
+2025-05-03,Sunderland,QPR,0,1,0.6,0.5,Championship
+2025-05-03,PSV Eindhoven,Fortuna Sittard,4,1,3.4,0.3,Eredivisie
+2025-05-03,Norwich City,Cardiff City,4,2,2.9,1.8,Championship
 2025-05-03,Coventry City,Middlesbrough,2,0,2.0,1.4,Championship
 2025-05-03,Burnley,Millwall,3,1,2.2,1.8,Championship
-2025-05-03,Portsmouth,Hull City,1,1,0.8,2.2,Championship
-2025-05-03,Bristol City,Preston,2,2,1.9,1.5,Championship
-2025-05-03,Derby County,Stoke City,0,0,1.5,0.2,Championship
-2025-05-03,Watford,Sheffield Weds,1,1,1.5,1.9,Championship
-2025-05-03,Sheffield Utd,Blackburn,1,1,2.4,0.7,Championship
-2025-05-03,Plymouth Argyle,Leeds United,1,2,0.4,2.9,Championship
-2025-05-03,Swansea City,Oxford United,3,3,1.1,1.9,Championship
-2025-05-03,Arsenal,Bournemouth,1,2,1.4,0.9,Premier League
-2025-05-03,Everton,Ipswich Town,2,2,0.6,0.8,Premier League
-2025-05-03,Leicester City,Southampton,2,0,1.4,0.5,Premier League
+2025-05-03,Estoril,Benfica,1,2,1.0,2.1,Primeira Liga
+2025-05-03,Braga,Santa Clara,1,1,1.3,0.6,Primeira Liga
+2025-05-03,Farense,Famalicão,2,1,1.8,0.9,Primeira Liga
+2025-05-03,Nacional,Vitória,1,2,1.2,0.9,Primeira Liga
+2025-05-03,West Brom,Luton Town,5,3,2.2,0.6,Championship
 2025-05-03,Aston Villa,Fulham,1,0,1.0,0.9,Premier League
-2025-05-03,Dortmund,Wolfsburg,4,0,2.4,0.7,Bundesliga
+2025-05-03,Groningen,RKC Waalwijk,6,1,3.6,1.0,Eredivisie
+2025-05-03,NEC Nijmegen,Willem II,1,1,2.3,0.6,Eredivisie
 2025-05-03,Union Berlin,Werder Bremen,2,2,1.5,1.6,Bundesliga
 2025-05-03,RB Leipzig,Bayern Munich,3,3,1.2,1.6,Bundesliga
+2025-05-03,Bahia,Botafogo (RJ),1,0,2.1,1.5,Brazil Serie A
 2025-05-03,Gladbach,Hoffenheim,4,4,1.4,1.8,Bundesliga
-2025-05-03,Parma,Como,0,1,1.8,0.8,Serie A
-2025-05-03,Norwich City,Cardiff City,4,2,2.9,1.8,Championship
-2025-05-04,Lyon,Lens,1,2,1.0,0.7,Ligue 1
-2025-05-04,Empoli,Lazio,0,1,0.2,1.8,Serie A
-2025-05-04,Frosinone,Cittadella,1,1,2.5,0.8,Serie B
-2025-05-04,Catanzaro,Sampdoria,2,2,1.8,0.7,Serie B
-2025-05-04,Südtirol,Cosenza,2,1,1.1,1.6,Serie B
-2025-05-04,Cesena,Palermo,2,1,1.2,2.6,Serie B
-2025-05-04,Reggiana,Spezia,2,1,0.5,0.7,Serie B
-2025-05-04,Real Madrid,Celta Vigo,3,2,2.2,1.8,La Liga
-2025-05-04,Carrarese,Modena,2,1,1.1,1.5,Serie B
-2025-05-04,Brighton,Newcastle Utd,1,1,0.7,1.7,Premier League
-2025-05-04,West Ham,Tottenham,1,1,0.8,0.8,Premier League
-2025-05-04,Brentford,Manchester Utd,4,3,2.8,1.5,Premier League
-2025-05-04,Chelsea,Liverpool,3,1,3.1,1.0,Premier League
-2025-05-04,Real Sociedad,Athletic Club,0,0,0.9,0.2,La Liga
-2025-05-04,Espanyol,Betis,1,2,1.2,1.1,La Liga
-2025-05-04,Nantes,Angers,0,1,0.5,1.1,Ligue 1
-2025-05-04,Brest,Montpellier,1,0,1.1,0.5,Ligue 1
-2025-05-04,Auxerre,Le Havre,1,2,0.2,1.5,Ligue 1
-2025-05-04,Lille,Marseille,1,1,0.5,1.3,Ligue 1
-2025-05-04,Bologna,Juventus,1,1,0.4,0.8,Serie A
-2025-05-04,Roma,Fiorentina,1,0,0.6,1.0,Serie A
-2025-05-04,Monza,Atalanta,0,4,0.8,2.4,Serie A
-2025-05-04,Sevilla,Leganés,2,2,2.7,0.6,La Liga
-2025-05-04,Brescia,Juve Stabia,0,0,0.7,0.2,Serie B
-2025-05-04,Bari,Pisa,1,0,0.5,0.9,Serie B
-2025-05-04,Salernitana,Mantova,2,0,0.9,0.5,Serie B
-2025-05-04,Cremonese,Sassuolo,1,1,0.9,0.3,Serie B
-2025-05-04,Augsburg,Holstein Kiel,1,3,3.2,1.7,Bundesliga
+2025-05-03,St. Pauli,Stuttgart,0,1,0.4,2.7,Bundesliga
+2025-05-03,Ceará,Vitória,1,0,1.2,0.7,Brazil Serie A
+2025-05-03,Corinthians,Internacional,4,2,3.5,0.9,Brazil Serie A
+2025-05-03,Heracles Almelo,Feyenoord,1,4,1.5,2.5,Eredivisie
+2025-05-03,Fluminense,Sport Recife,2,1,1.9,1.0,Brazil Serie A
+2025-05-03,Watford,Sheffield Weds,1,1,1.5,1.9,Championship
+2025-05-03,Derby County,Stoke City,0,0,1.5,0.2,Championship
+2025-05-03,Bristol City,Preston,2,2,1.9,1.5,Championship
+2025-05-03,Portsmouth,Hull City,1,1,0.8,2.2,Championship
+2025-05-04,Arouca,Casa Pia,0,0,1.0,0.3,Primeira Liga
+2025-05-04,Sporting CP,Gil Vicente FC,2,1,0.7,0.8,Primeira Liga
 2025-05-04,Freiburg,Leverkusen,2,2,0.9,0.3,Bundesliga
 2025-05-04,Mainz 05,Eint Frankfurt,1,1,1.4,1.3,Bundesliga
+2025-05-04,Empoli,Lazio,0,1,0.2,1.8,Serie A
+2025-05-04,Monza,Atalanta,0,4,0.8,2.4,Serie A
+2025-05-04,Augsburg,Holstein Kiel,1,3,3.2,1.7,Bundesliga
+2025-05-04,Bologna,Juventus,1,1,0.4,0.8,Serie A
+2025-05-04,Go Ahead Eag,AZ Alkmaar,0,3,0.8,1.5,Eredivisie
+2025-05-04,NAC Breda,Zwolle,1,3,0.9,1.5,Eredivisie
+2025-05-04,Vasco da Gama,Palmeiras,0,1,0.8,1.6,Brazil Serie A
+2025-05-04,Grêmio,Santos,1,0,0.6,0.6,Brazil Serie A
+2025-05-04,Cruzeiro,Flamengo,2,1,1.2,0.3,Brazil Serie A
+2025-05-04,West Ham,Tottenham,1,1,0.8,0.8,Premier League
+2025-05-04,Roma,Fiorentina,1,0,0.6,1.0,Serie A
+2025-05-04,Brentford,Manchester Utd,4,3,2.8,1.5,Premier League
+2025-05-04,Chelsea,Liverpool,3,1,3.1,1.0,Premier League
+2025-05-04,Nantes,Angers,0,1,0.5,1.1,Ligue 1
+2025-05-04,Brest,Montpellier,1,0,1.1,0.5,Ligue 1
+2025-05-04,Lyon,Lens,1,2,1.0,0.7,Ligue 1
+2025-05-04,Auxerre,Le Havre,1,2,0.2,1.5,Ligue 1
+2025-05-04,Sparta R'dam,Twente,0,2,1.0,0.7,Eredivisie
+2025-05-04,Lille,Marseille,1,1,0.5,1.3,Ligue 1
+2025-05-04,Südtirol,Cosenza,2,1,1.1,1.6,Serie B
+2025-05-04,Real Sociedad,Athletic Club,0,0,0.9,0.2,La Liga
+2025-05-04,Espanyol,Betis,1,2,1.2,1.1,La Liga
+2025-05-04,Sevilla,Leganés,2,2,2.7,0.6,La Liga
+2025-05-04,Real Madrid,Celta Vigo,3,2,2.2,1.8,La Liga
+2025-05-04,Catanzaro,Sampdoria,2,2,1.8,0.7,Serie B
+2025-05-04,Cremonese,Sassuolo,1,1,0.9,0.3,Serie B
+2025-05-04,Salernitana,Mantova,2,0,0.9,0.5,Serie B
+2025-05-04,Frosinone,Cittadella,1,1,2.5,0.8,Serie B
+2025-05-04,Cesena,Palermo,2,1,1.2,2.6,Serie B
+2025-05-04,Carrarese,Modena,2,1,1.1,1.5,Serie B
+2025-05-04,Brescia,Juve Stabia,0,0,0.7,0.2,Serie B
+2025-05-04,Bari,Pisa,1,0,0.5,0.9,Serie B
+2025-05-04,Reggiana,Spezia,2,1,0.5,0.7,Serie B
+2025-05-04,Brighton,Newcastle Utd,1,1,0.7,1.7,Premier League
 2025-05-05,Crystal Palace,Nott'ham Forest,1,1,2.3,0.7,Premier League
 2025-05-05,Girona,Mallorca,1,0,1.3,0.5,La Liga
+2025-05-05,Juventude,Atlético Mineiro,0,1,0.7,1.3,Brazil Serie A
+2025-05-05,Rio Ave,Estrela,2,0,2.0,0.2,Primeira Liga
 2025-05-05,Genoa,Milan,1,2,0.6,1.0,Serie A
+2025-05-05,RB Bragantino,Mirassol,1,0,0.8,0.5,Brazil Serie A
+2025-05-05,AVS Futebol,Boavista,1,2,1.2,0.8,Primeira Liga
 2025-05-08,Bristol City,Sheffield Utd,0,3,0.2,2.6,Championship
-2025-05-09,Wolfsburg,Hoffenheim,2,2,1.0,1.4,Bundesliga
-2025-05-09,Coventry City,Sunderland,1,2,1.7,1.5,Championship
-2025-05-09,Las Palmas,Rayo Vallecano,0,1,0.7,1.2,La Liga
-2025-05-09,Sassuolo,Catanzaro,0,2,0.8,0.5,Serie B
-2025-05-09,Sampdoria,Salernitana,1,0,0.7,0.7,Serie B
-2025-05-09,Cittadella,Bari,3,1,1.9,1.1,Serie B
-2025-05-09,Palermo,Frosinone,2,0,1.2,1.6,Serie B
-2025-05-09,Pisa,Südtirol,3,3,1.5,2.0,Serie B
+2025-05-09,Mantova,Carrarese,2,1,1.8,1.1,Serie B
 2025-05-09,Juve Stabia,Reggiana,1,2,1.9,1.1,Serie B
+2025-05-09,Pisa,Südtirol,3,3,1.5,2.0,Serie B
 2025-05-09,Spezia,Cremonese,2,3,2.0,1.9,Serie B
 2025-05-09,Modena,Brescia,2,2,0.9,1.5,Serie B
-2025-05-09,Mantova,Carrarese,2,1,1.8,1.1,Serie B
+2025-05-09,Sassuolo,Catanzaro,0,2,0.8,0.5,Serie B
 2025-05-09,Cosenza,Cesena,0,1,0.9,0.2,Serie B
+2025-05-09,Cittadella,Bari,3,1,1.9,1.1,Serie B
+2025-05-09,Palermo,Frosinone,2,0,1.2,1.6,Serie B
+2025-05-09,Sampdoria,Salernitana,1,0,0.7,0.7,Serie B
+2025-05-09,Las Palmas,Rayo Vallecano,0,1,0.7,1.2,La Liga
+2025-05-09,Wolfsburg,Hoffenheim,2,2,1.0,1.4,Bundesliga
+2025-05-09,Willem II,Heracles Almelo,1,2,0.8,2.7,Eredivisie
 2025-05-09,Milan,Bologna,3,1,1.6,0.6,Serie A
-2025-05-10,Brest,Lille,2,0,1.2,1.9,Ligue 1
-2025-05-10,Montpellier,Paris S-G,1,4,0.6,1.7,Ligue 1
-2025-05-10,Bayern Munich,Gladbach,2,0,2.5,1.6,Bundesliga
+2025-05-09,Coventry City,Sunderland,1,2,1.7,1.5,Championship
+2025-05-10,Nacional,Rio Ave,3,3,1.7,1.1,Primeira Liga
 2025-05-10,Atlético Madrid,Real Sociedad,4,0,1.4,0.6,La Liga
-2025-05-10,Mallorca,Valladolid,2,1,1.0,1.8,La Liga
-2025-05-10,Monaco,Lyon,2,0,1.2,0.4,Ligue 1
-2025-05-10,Auxerre,Nantes,1,1,0.4,0.7,Ligue 1
-2025-05-10,Le Havre,Marseille,1,3,0.9,2.5,Ligue 1
-2025-05-10,Angers,Strasbourg,2,1,0.7,1.0,Ligue 1
-2025-05-10,Rennes,Nice,2,0,1.7,1.1,Ligue 1
-2025-05-10,Reims,Saint-Étienne,0,2,1.9,0.7,Ligue 1
 2025-05-10,Girona,Villarreal,0,1,0.2,2.0,La Liga
+2025-05-10,Mallorca,Valladolid,2,1,1.0,1.8,La Liga
 2025-05-10,Celta Vigo,Sevilla,3,2,0.9,2.3,La Liga
 2025-05-10,Valencia,Getafe,3,0,2.7,0.5,La Liga
-2025-05-10,Toulouse,Lens,1,1,1.1,0.7,Ligue 1
-2025-05-10,Werder Bremen,RB Leipzig,0,0,2.0,1.7,Bundesliga
-2025-05-10,Holstein Kiel,Freiburg,1,2,1.0,1.4,Bundesliga
 2025-05-10,Bournemouth,Aston Villa,0,1,0.8,1.0,Premier League
+2025-05-10,Southampton,Manchester City,0,0,0.1,1.7,Premier League
+2025-05-10,Flamengo,Bahia,1,0,1.5,0.5,Brazil Serie A
 2025-05-10,Wolves,Brighton,0,2,0.9,1.6,Premier League
 2025-05-10,Fulham,Everton,1,3,0.8,1.1,Premier League
 2025-05-10,Ipswich Town,Brentford,0,1,0.9,1.4,Premier League
-2025-05-10,Union Berlin,Heidenheim,0,3,0.5,1.1,Bundesliga
+2025-05-10,Mirassol,Corinthians,2,1,2.6,1.2,Brazil Serie A
+2025-05-10,Grêmio,RB Bragantino,1,1,0.6,1.0,Brazil Serie A
+2025-05-10,Vitória,Vasco da Gama,2,1,1.5,0.7,Brazil Serie A
+2025-05-10,Fortaleza,Juventude,5,0,2.7,0.1,Brazil Serie A
+2025-05-10,RKC Waalwijk,Heerenveen,3,1,1.3,0.9,Eredivisie
+2025-05-10,Fortuna Sittard,NAC Breda,1,0,1.5,0.7,Eredivisie
+2025-05-10,Almere City,Sparta R'dam,0,3,1.4,1.8,Eredivisie
+2025-05-10,Werder Bremen,RB Leipzig,0,0,2.0,1.7,Bundesliga
+2025-05-10,Holstein Kiel,Freiburg,1,2,1.0,1.4,Bundesliga
 2025-05-10,Bochum,Mainz 05,1,4,0.9,1.5,Bundesliga
-2025-05-10,Empoli,Parma,2,1,0.6,0.3,Serie A
-2025-05-10,Southampton,Manchester City,0,0,0.1,1.7,Premier League
+2025-05-10,Bayern Munich,Gladbach,2,0,2.5,1.6,Bundesliga
+2025-05-10,Benfica,Sporting CP,1,1,1.6,0.3,Primeira Liga
+2025-05-10,Casa Pia,Braga,2,1,0.9,1.9,Primeira Liga
+2025-05-10,Gil Vicente FC,Arouca,1,1,1.4,0.8,Primeira Liga
+2025-05-10,Brest,Lille,2,0,1.2,1.9,Ligue 1
+2025-05-10,Montpellier,Paris S-G,1,4,0.6,1.7,Ligue 1
+2025-05-10,Toulouse,Lens,1,1,1.1,0.7,Ligue 1
 2025-05-10,Como,Cagliari,3,1,2.0,0.9,Serie A
+2025-05-10,Monaco,Lyon,2,0,1.2,0.4,Ligue 1
+2025-05-10,Auxerre,Nantes,1,1,0.4,0.7,Ligue 1
+2025-05-10,Union Berlin,Heidenheim,0,3,0.5,1.1,Bundesliga
+2025-05-10,Angers,Strasbourg,2,1,0.7,1.0,Ligue 1
+2025-05-10,Le Havre,Marseille,1,3,0.9,2.5,Ligue 1
+2025-05-10,Empoli,Parma,2,1,0.6,0.3,Serie A
+2025-05-10,Rennes,Nice,2,0,1.7,1.1,Ligue 1
+2025-05-10,Reims,Saint-Étienne,0,2,1.9,0.7,Ligue 1
+2025-05-10,Santa Clara,Famalicão,2,1,2.6,1.4,Primeira Liga
 2025-05-10,Lazio,Juventus,1,1,1.7,0.8,Serie A
+2025-05-11,Newcastle Utd,Chelsea,2,0,1.6,0.7,Premier League
+2025-05-11,Leverkusen,Dortmund,2,4,2.2,1.2,Bundesliga
+2025-05-11,AZ Alkmaar,Groningen,3,0,3.5,0.6,Eredivisie
+2025-05-11,Eint Frankfurt,St. Pauli,2,2,1.7,0.8,Bundesliga
+2025-05-11,Estrela,AVS Futebol,0,1,0.9,1.4,Primeira Liga
+2025-05-11,Moreirense,Estoril,2,2,1.5,1.5,Primeira Liga
+2025-05-11,Liverpool,Arsenal,2,2,2.4,2.6,Premier League
+2025-05-11,Boavista,Porto,1,2,1.8,1.4,Primeira Liga
+2025-05-11,Ajax,NEC Nijmegen,0,3,2.5,0.8,Eredivisie
+2025-05-11,Manchester Utd,West Ham,0,2,2.1,1.7,Premier League
+2025-05-11,Tottenham,Crystal Palace,0,2,0.7,3.3,Premier League
+2025-05-11,Nott'ham Forest,Leicester City,2,2,1.3,1.1,Premier League
+2025-05-11,Vitória,Farense,1,2,2.4,1.6,Primeira Liga
+2025-05-11,Feyenoord,PSV Eindhoven,2,3,1.5,2.7,Eredivisie
+2025-05-11,Stuttgart,Augsburg,4,0,3.9,0.5,Bundesliga
+2025-05-11,Zwolle,Go Ahead Eag,1,1,1.9,1.0,Eredivisie
+2025-05-11,Udinese,Monza,1,2,1.6,1.5,Serie A
+2025-05-11,Hellas Verona,Lecce,1,1,0.3,1.1,Serie A
+2025-05-11,Torino,Inter,0,2,1.5,2.5,Serie A
+2025-05-11,Napoli,Genoa,2,2,1.7,0.6,Serie A
 2025-05-11,Betis,Osasuna,1,1,0.4,2.0,La Liga
+2025-05-11,Athletic Club,Alavés,1,0,1.3,0.4,La Liga
 2025-05-11,Barcelona,Real Madrid,4,3,4.2,2.7,La Liga
 2025-05-11,Leganés,Espanyol,3,2,1.5,1.2,La Liga
-2025-05-11,Stuttgart,Augsburg,4,0,3.9,0.5,Bundesliga
-2025-05-11,Eint Frankfurt,St. Pauli,2,2,1.7,0.8,Bundesliga
-2025-05-11,Leverkusen,Dortmund,2,4,2.2,1.2,Bundesliga
-2025-05-11,Athletic Club,Alavés,1,0,1.3,0.4,La Liga
-2025-05-11,Liverpool,Arsenal,2,2,2.4,2.6,Premier League
-2025-05-11,Napoli,Genoa,2,2,1.7,0.6,Serie A
-2025-05-11,Torino,Inter,0,2,1.5,2.5,Serie A
-2025-05-11,Udinese,Monza,1,2,1.6,1.5,Serie A
-2025-05-11,Newcastle Utd,Chelsea,2,0,1.6,0.7,Premier League
-2025-05-11,Nott'ham Forest,Leicester City,2,2,1.3,1.1,Premier League
-2025-05-11,Tottenham,Crystal Palace,0,2,0.7,3.4,Premier League
-2025-05-11,Manchester Utd,West Ham,0,2,2.1,1.7,Premier League
-2025-05-11,Hellas Verona,Lecce,1,1,0.3,1.1,Serie A
-2025-05-12,Atalanta,Roma,2,1,2.3,0.8,Serie A
-2025-05-12,Venezia,Fiorentina,2,1,2.0,1.1,Serie A
+2025-05-11,Twente,Utrecht,2,0,1.1,0.9,Eredivisie
+2025-05-11,Botafogo (RJ),Internacional,4,0,1.2,1.0,Brazil Serie A
+2025-05-11,Palmeiras,São Paulo,1,0,1.4,0.9,Brazil Serie A
+2025-05-11,Atlético Mineiro,Fluminense,3,2,2.3,0.7,Brazil Serie A
+2025-05-11,Sport Recife,Cruzeiro,0,4,1.0,1.4,Brazil Serie A
 2025-05-12,Sheffield Utd,Bristol City,3,0,1.5,0.4,Championship
-2025-05-13,Valladolid,Girona,0,1,0.9,1.4,La Liga
-2025-05-13,Real Sociedad,Celta Vigo,0,1,1.7,1.1,La Liga
-2025-05-13,Sevilla,Las Palmas,1,0,1.3,0.5,La Liga
-2025-05-13,Sunderland,Coventry City,1,1,1.1,1.6,Championship
+2025-05-12,Santos,Ceará,0,0,0.6,0.7,Brazil Serie A
+2025-05-12,Venezia,Fiorentina,2,1,2.0,1.1,Serie A
+2025-05-12,Atalanta,Roma,2,1,2.3,0.8,Serie A
 2025-05-13,Sassuolo,Frosinone,0,1,0.8,2.2,Serie B
+2025-05-13,Sunderland,Coventry City,1,1,1.1,1.6,Championship
+2025-05-13,Sevilla,Las Palmas,1,0,1.3,0.5,La Liga
+2025-05-13,Real Sociedad,Celta Vigo,0,1,1.7,1.1,La Liga
+2025-05-13,Valladolid,Girona,0,1,0.9,1.4,La Liga
+2025-05-13,Modena,Cesena,0,1,0.8,0.7,Serie B
+2025-05-13,Spezia,Cosenza,3,1,2.2,2.4,Serie B
+2025-05-13,Juve Stabia,Sampdoria,0,0,1.1,1.3,Serie B
+2025-05-13,Palermo,Carrarese,1,1,1.6,0.6,Serie B
+2025-05-13,Brescia,Reggiana,2,1,1.7,1.4,Serie B
+2025-05-13,Südtirol,Bari,0,0,1.0,2.3,Serie B
 2025-05-13,Mantova,Catanzaro,0,0,0.9,0.2,Serie B
 2025-05-13,Cittadella,Salernitana,0,2,0.9,1.5,Serie B
-2025-05-13,Südtirol,Bari,0,0,1.0,2.3,Serie B
-2025-05-13,Palermo,Carrarese,1,1,1.6,0.6,Serie B
-2025-05-13,Modena,Cesena,0,1,0.8,0.7,Serie B
-2025-05-13,Brescia,Reggiana,2,1,1.7,1.4,Serie B
 2025-05-13,Pisa,Cremonese,2,1,1.3,0.9,Serie B
-2025-05-13,Juve Stabia,Sampdoria,0,0,1.0,1.1,Serie B
-2025-05-13,Spezia,Cosenza,3,1,2.2,2.4,Serie B
-2025-05-14,Alavés,Valencia,1,0,1.8,0.8,La Liga
-2025-05-14,Villarreal,Leganés,3,0,1.6,1.1,La Liga
+2025-05-14,PSV Eindhoven,Heracles Almelo,4,1,4.1,0.5,Eredivisie
+2025-05-14,Twente,AZ Alkmaar,2,3,2.1,2.2,Eredivisie
+2025-05-14,Utrecht,Sparta R'dam,1,1,2.4,1.1,Eredivisie
 2025-05-14,Real Madrid,Mallorca,2,1,2.6,0.5,La Liga
-2025-05-15,Getafe,Athletic Club,0,2,0.4,1.2,La Liga
+2025-05-14,Alavés,Valencia,1,0,1.8,0.8,La Liga
+2025-05-14,NEC Nijmegen,NAC Breda,3,0,2.1,0.7,Eredivisie
+2025-05-14,Willem II,Zwolle,1,2,1.0,1.1,Eredivisie
+2025-05-14,Villarreal,Leganés,3,0,1.6,1.1,La Liga
+2025-05-14,Groningen,Ajax,2,2,1.9,1.1,Eredivisie
+2025-05-14,Feyenoord,RKC Waalwijk,2,0,3.6,0.2,Eredivisie
+2025-05-14,Go Ahead Eag,Heerenveen,1,0,1.6,1.1,Eredivisie
+2025-05-14,Almere City,Fortuna Sittard,1,1,1.0,1.1,Eredivisie
 2025-05-15,Espanyol,Barcelona,0,2,1.4,0.6,La Liga
 2025-05-15,Rayo Vallecano,Betis,2,2,1.2,1.2,La Liga
 2025-05-15,Osasuna,Atlético Madrid,2,0,0.6,1.4,La Liga
+2025-05-15,Getafe,Athletic Club,0,2,0.4,1.2,La Liga
+2025-05-16,Famalicão,Casa Pia,2,1,2.9,0.3,Primeira Liga
+2025-05-16,Rio Ave,Gil Vicente FC,1,1,0.9,0.9,Primeira Liga
 2025-05-16,Chelsea,Manchester Utd,1,0,0.8,0.3,Premier League
 2025-05-16,Aston Villa,Tottenham,2,0,1.4,0.5,Premier League
+2025-05-17,Braga,Benfica,1,1,1.9,1.4,Primeira Liga
+2025-05-17,Estoril,Estrela,4,0,2.6,0.6,Primeira Liga
+2025-05-17,AVS Futebol,Moreirense,0,3,0.4,1.2,Primeira Liga
+2025-05-17,Porto,Nacional,3,0,2.0,1.1,Primeira Liga
+2025-05-17,Farense,Santa Clara,1,2,1.6,1.2,Primeira Liga
+2025-05-17,Sporting CP,Vitória,2,0,2.5,0.1,Primeira Liga
+2025-05-17,Nice,Brest,6,0,4.9,0.9,Ligue 1
+2025-05-17,Mainz 05,Leverkusen,2,2,3.1,1.2,Bundesliga
 2025-05-17,Dortmund,Holstein Kiel,3,0,2.4,0.8,Bundesliga
-2025-05-17,Augsburg,Union Berlin,1,2,1.7,0.8,Bundesliga
+2025-05-17,Hoffenheim,Bayern Munich,0,4,0.4,1.4,Bundesliga
+2025-05-17,Lille,Reims,2,1,2.0,0.1,Ligue 1
+2025-05-17,Lens,Monaco,4,0,1.7,0.5,Ligue 1
+2025-05-17,Nantes,Montpellier,3,0,2.5,0.8,Ligue 1
+2025-05-17,Paris S-G,Auxerre,3,1,3.1,0.6,Ligue 1
 2025-05-17,Strasbourg,Le Havre,2,3,1.6,2.5,Ligue 1
 2025-05-17,Lyon,Angers,2,0,3.9,0.5,Ligue 1
-2025-05-17,Nice,Brest,6,0,4.9,0.9,Ligue 1
 2025-05-17,Marseille,Rennes,4,2,3.9,1.3,Ligue 1
 2025-05-17,Saint-Étienne,Toulouse,2,3,1.3,3.2,Ligue 1
 2025-05-17,Genoa,Atalanta,2,3,1.2,2.0,Serie A
-2025-05-17,Lens,Monaco,4,0,1.7,0.5,Ligue 1
-2025-05-17,Lille,Reims,2,1,2.0,0.1,Ligue 1
-2025-05-17,Hoffenheim,Bayern Munich,0,4,0.4,1.4,Bundesliga
-2025-05-17,Mainz 05,Leverkusen,2,2,3.1,1.2,Bundesliga
-2025-05-17,Nantes,Montpellier,3,0,2.5,0.8,Ligue 1
-2025-05-17,Freiburg,Eint Frankfurt,1,3,0.7,2.0,Bundesliga
-2025-05-17,Paris S-G,Auxerre,3,1,3.1,0.6,Ligue 1
-2025-05-17,Heidenheim,Werder Bremen,1,4,1.6,2.2,Bundesliga
-2025-05-17,Gladbach,Wolfsburg,0,1,1.0,1.7,Bundesliga
-2025-05-17,RB Leipzig,Stuttgart,2,3,1.1,2.6,Bundesliga
+2025-05-17,Arouca,Boavista,4,1,1.8,1.7,Primeira Liga
 2025-05-17,Catanzaro,Cesena,1,0,0.5,1.4,Serie B
 2025-05-17,Juve Stabia,Palermo,1,0,1.1,0.6,Serie B
+2025-05-17,Ceará,Sport Recife,2,0,0.5,0.4,Brazil Serie A
+2025-05-17,Vasco da Gama,Fortaleza,3,0,1.7,0.8,Brazil Serie A
+2025-05-17,Augsburg,Union Berlin,1,2,1.7,0.8,Bundesliga
+2025-05-17,Freiburg,Eint Frankfurt,1,3,0.7,2.0,Bundesliga
+2025-05-17,São Paulo,Grêmio,2,1,2.6,1.1,Brazil Serie A
+2025-05-17,Heidenheim,Werder Bremen,1,4,1.6,2.2,Bundesliga
+2025-05-17,RB Leipzig,Stuttgart,2,3,1.1,2.6,Bundesliga
 2025-05-17,St. Pauli,Bochum,0,2,0.8,1.3,Bundesliga
+2025-05-17,Gladbach,Wolfsburg,0,1,1.0,1.7,Bundesliga
+2025-05-18,Cruzeiro,Atlético Mineiro,0,0,1.4,0.2,Brazil Serie A
+2025-05-18,Brentford,Fulham,2,3,2.5,1.0,Premier League
+2025-05-18,AZ Alkmaar,Almere City,1,1,1.8,0.4,Eredivisie
+2025-05-18,Heracles Almelo,NEC Nijmegen,1,2,1.4,1.4,Eredivisie
+2025-05-18,Ajax,Twente,2,0,1.9,0.7,Eredivisie
+2025-05-18,Sparta R'dam,PSV Eindhoven,1,3,0.8,2.8,Eredivisie
+2025-05-18,Heerenveen,Feyenoord,2,0,1.9,1.7,Eredivisie
+2025-05-18,Fortuna Sittard,Utrecht,0,0,0.6,0.9,Eredivisie
+2025-05-18,Zwolle,Groningen,2,0,1.5,0.6,Eredivisie
+2025-05-18,Leicester City,Ipswich Town,2,0,0.8,1.4,Premier League
+2025-05-18,Everton,Southampton,2,0,2.7,1.2,Premier League
+2025-05-18,Bahia,Vitória,2,1,0.6,2.4,Brazil Serie A
+2025-05-18,Corinthians,Santos,1,0,0.7,0.7,Brazil Serie A
+2025-05-18,Juventude,Fluminense,1,1,0.5,2.1,Brazil Serie A
+2025-05-18,RB Bragantino,Palmeiras,1,2,0.4,0.7,Brazil Serie A
+2025-05-18,Flamengo,Botafogo (RJ),0,0,0.7,0.5,Brazil Serie A
+2025-05-18,NAC Breda,Willem II,1,1,2.8,1.5,Eredivisie
+2025-05-18,West Ham,Nott'ham Forest,1,2,1.1,1.9,Premier League
+2025-05-18,Lecce,Torino,1,0,0.8,0.5,Serie A
+2025-05-18,Juventus,Udinese,2,0,1.8,0.3,Serie A
+2025-05-18,Celta Vigo,Rayo Vallecano,1,2,2.4,1.2,La Liga
+2025-05-18,Sevilla,Real Madrid,0,2,0.5,2.0,La Liga
+2025-05-18,Real Sociedad,Girona,3,2,2.0,2.3,La Liga
+2025-05-18,Valladolid,Alavés,0,1,1.6,1.4,La Liga
+2025-05-18,Barcelona,Villarreal,2,3,1.4,1.8,La Liga
+2025-05-18,Osasuna,Espanyol,2,0,1.2,0.7,La Liga
+2025-05-18,Atlético Madrid,Betis,4,1,4.8,0.9,La Liga
+2025-05-18,Internacional,Mirassol,1,1,3.0,1.3,Brazil Serie A
+2025-05-18,Valencia,Athletic Club,0,1,0.4,1.1,La Liga
+2025-05-18,Mallorca,Getafe,1,2,0.4,1.6,La Liga
+2025-05-18,Las Palmas,Leganés,0,1,0.6,1.5,La Liga
+2025-05-18,Parma,Napoli,0,0,0.4,0.4,Serie A
+2025-05-18,Fiorentina,Bologna,3,2,1.8,2.4,Serie A
 2025-05-18,Cagliari,Venezia,3,0,1.6,0.5,Serie A
 2025-05-18,Roma,Milan,3,1,1.0,1.4,Serie A
-2025-05-18,Hellas Verona,Como,1,1,1.5,0.8,Serie A
-2025-05-18,Fiorentina,Bologna,3,2,1.8,2.4,Serie A
-2025-05-18,Parma,Napoli,0,0,0.4,0.4,Serie A
-2025-05-18,Monza,Empoli,1,3,1.1,1.3,Serie A
-2025-05-18,Juventus,Udinese,2,0,1.8,0.3,Serie A
-2025-05-18,Lecce,Torino,1,0,0.8,0.5,Serie A
-2025-05-18,Inter,Lazio,2,2,1.1,2.1,Serie A
-2025-05-18,Mallorca,Getafe,1,2,0.4,1.6,La Liga
-2025-05-18,Leicester City,Ipswich Town,2,0,0.8,1.4,Premier League
-2025-05-18,West Ham,Nott'ham Forest,1,2,1.1,1.9,Premier League
-2025-05-18,Valencia,Athletic Club,0,1,0.4,1.1,La Liga
-2025-05-18,Atlético Madrid,Betis,4,1,4.8,0.9,La Liga
-2025-05-18,Osasuna,Espanyol,2,0,1.2,0.7,La Liga
-2025-05-18,Barcelona,Villarreal,2,3,1.4,1.8,La Liga
-2025-05-18,Valladolid,Alavés,0,1,1.6,1.4,La Liga
-2025-05-18,Real Sociedad,Girona,3,2,2.0,2.3,La Liga
-2025-05-18,Sevilla,Real Madrid,0,2,0.5,2.0,La Liga
-2025-05-18,Celta Vigo,Rayo Vallecano,1,2,2.4,1.2,La Liga
 2025-05-18,Arsenal,Newcastle Utd,1,0,0.6,1.5,Premier League
-2025-05-18,Las Palmas,Leganés,0,1,0.6,1.5,La Liga
-2025-05-18,Brentford,Fulham,2,3,2.5,1.0,Premier League
-2025-05-18,Everton,Southampton,2,0,2.7,1.2,Premier League
+2025-05-18,Monza,Empoli,1,3,1.1,1.3,Serie A
+2025-05-18,Inter,Lazio,2,2,1.1,2.1,Serie A
+2025-05-18,RKC Waalwijk,Go Ahead Eag,5,3,3.1,4.3,Eredivisie
+2025-05-18,Hellas Verona,Como,1,1,1.5,0.8,Serie A
 2025-05-19,Brighton,Liverpool,3,2,2.2,2.2,Premier League
 2025-05-20,Crystal Palace,Wolves,4,2,1.7,1.4,Premier League
 2025-05-20,Manchester City,Bournemouth,3,1,1.5,1.1,Premier League
 2025-05-21,Catanzaro,Spezia,0,2,0.3,1.6,Serie B
 2025-05-21,Juve Stabia,Cremonese,2,1,1.7,1.4,Serie B
+2025-05-22,AZ Alkmaar,Heerenveen,4,1,3.3,0.6,Eredivisie
+2025-05-22,Twente,NEC Nijmegen,3,2,1.3,3.1,Eredivisie
+2025-05-23,Como,Inter,0,2,1.2,1.4,Serie A
+2025-05-23,Napoli,Cagliari,2,0,2.4,0.1,Serie A
+2025-05-23,Betis,Valencia,1,1,0.9,0.7,La Liga
+2025-05-24,Fluminense,Vasco da Gama,2,1,1.1,1.0,Brazil Serie A
+2025-05-24,Bologna,Genoa,1,3,0.7,0.9,Serie A
+2025-05-24,Milan,Monza,2,0,1.5,0.3,Serie A
+2025-05-24,Sheffield Utd,Sunderland,1,2,1.5,0.7,Championship
+2025-05-24,Leganés,Valladolid,3,0,2.1,0.4,La Liga
+2025-05-24,Espanyol,Las Palmas,2,0,2.0,0.5,La Liga
+2025-05-24,Rayo Vallecano,Mallorca,0,0,2.2,0.6,La Liga
+2025-05-24,Atlético Mineiro,Corinthians,0,0,1.2,0.4,Brazil Serie A
+2025-05-24,Alavés,Osasuna,1,1,2.0,1.6,La Liga
+2025-05-24,São Paulo,Mirassol,0,2,0.7,0.9,Brazil Serie A
+2025-05-24,Getafe,Celta Vigo,1,2,0.4,1.5,La Liga
+2025-05-24,Real Madrid,Real Sociedad,2,0,2.6,0.8,La Liga
+2025-05-25,Sport Recife,Internacional,1,1,0.8,1.3,Brazil Serie A
+2025-05-25,Lazio,Lecce,0,1,1.8,0.4,Serie A
+2025-05-25,Udinese,Fiorentina,2,3,1.4,2.7,Serie A
+2025-05-25,Liverpool,Crystal Palace,1,1,2.1,1.8,Premier League
+2025-05-25,Manchester Utd,Aston Villa,2,0,2.9,0.4,Premier League
+2025-05-25,Ipswich Town,West Ham,1,3,0.7,1.1,Premier League
+2025-05-25,Wolves,Brentford,1,1,1.0,1.4,Premier League
+2025-05-25,Southampton,Arsenal,1,2,0.6,2.3,Premier League
+2025-05-25,Torino,Roma,0,2,0.5,1.9,Serie A
+2025-05-25,Nott'ham Forest,Chelsea,0,1,1.2,1.1,Premier League
+2025-05-25,Fulham,Manchester City,0,2,1.3,3.0,Premier League
+2025-05-25,Newcastle Utd,Everton,0,1,1.2,1.2,Premier League
+2025-05-25,Bournemouth,Leicester City,2,0,1.6,0.3,Premier League
+2025-05-25,Tottenham,Brighton,1,4,2.0,2.2,Premier League
+2025-05-25,Athletic Club,Barcelona,0,3,1.2,3.5,La Liga
+2025-05-25,Vitória,Santos,0,1,1.5,1.1,Brazil Serie A
+2025-05-25,Venezia,Juventus,2,3,0.9,1.9,Serie A
+2025-05-25,Atalanta,Parma,2,3,1.2,2.5,Serie A
+2025-05-25,Empoli,Hellas Verona,1,2,0.9,0.8,Serie A
+2025-05-25,Palmeiras,Flamengo,0,2,1.9,1.7,Brazil Serie A
+2025-05-25,Grêmio,Bahia,1,0,1.1,1.2,Brazil Serie A
+2025-05-25,Fortaleza,Cruzeiro,0,2,0.7,2.3,Brazil Serie A
+2025-05-25,AZ Alkmaar,Twente,3,2,2.7,2.2,Eredivisie
+2025-05-25,Villarreal,Sevilla,4,2,1.1,1.5,La Liga
+2025-05-25,Girona,Atlético Madrid,0,4,0.0,2.7,La Liga
+2025-05-25,Spezia,Catanzaro,2,1,1.0,0.9,Serie B
+2025-05-25,Cremonese,Juve Stabia,3,0,0.9,0.2,Serie B
+2025-05-26,RB Bragantino,Juventude,1,0,1.0,0.2,Brazil Serie A
+2025-05-29,Cremonese,Spezia,0,0,0.6,0.3,Serie B
+2025-05-31,Vasco da Gama,RB Bragantino,0,2,1.7,0.8,Brazil Serie A
+2025-05-31,Bahia,São Paulo,2,1,2.4,1.9,Brazil Serie A
+2025-06-01,Spezia,Cremonese,2,3,1.3,2.1,Serie B
+2025-06-01,Corinthians,Vitória,0,0,1.0,0.4,Brazil Serie A
+2025-06-01,Ceará,Atlético Mineiro,0,1,0.7,0.4,Brazil Serie A
+2025-06-01,Internacional,Fluminense,0,2,0.6,0.6,Brazil Serie A
+2025-06-01,Cruzeiro,Palmeiras,2,1,1.3,0.7,Brazil Serie A
+2025-06-01,Santos,Botafogo (RJ),0,1,1.0,0.5,Brazil Serie A
+2025-06-01,Mirassol,Sport Recife,1,0,1.1,0.7,Brazil Serie A
+2025-06-01,Flamengo,Fortaleza,5,0,2.4,0.4,Brazil Serie A
+2025-06-01,Juventude,Grêmio,0,2,0.7,2.5,Brazil Serie A
+2025-06-04,Botafogo (RJ),Ceará,3,2,2.5,0.6,Brazil Serie A
+2025-06-12,São Paulo,Vasco da Gama,1,3,0.4,1.8,Brazil Serie A
+2025-06-12,Atlético Mineiro,Internacional,2,0,0.9,0.6,Brazil Serie A
+2025-06-12,RB Bragantino,Bahia,0,3,0.4,2.2,Brazil Serie A
+2025-06-12,Fortaleza,Santos,2,3,2.8,0.8,Brazil Serie A
+2025-06-12,Grêmio,Corinthians,1,1,1.3,0.7,Brazil Serie A
+2025-06-12,Vitória,Cruzeiro,0,0,0.7,0.7,Brazil Serie A
+2025-06-15,Sampdoria,Salernitana,2,0,1.8,0.7,Serie B
+2025-07-12,Bahia,Atlético Mineiro,2,1,0.7,0.3,Brazil Serie A
+2025-07-12,Vasco da Gama,Botafogo (RJ),0,2,0.5,3.2,Brazil Serie A
+2025-07-12,Flamengo,São Paulo,2,0,1.3,0.2,Brazil Serie A
+2025-07-12,Internacional,Vitória,1,0,1.9,0.7,Brazil Serie A
+2025-07-13,Fortaleza,Ceará,0,1,0.7,2.2,Brazil Serie A
+2025-07-13,Cruzeiro,Grêmio,4,1,2.6,0.8,Brazil Serie A
+2025-07-13,Corinthians,RB Bragantino,1,2,2.3,1.8,Brazil Serie A
+2025-07-14,Juventude,Sport Recife,2,0,0.2,1.3,Brazil Serie A
+2025-07-16,Santos,Flamengo,1,0,1.2,0.7,Brazil Serie A
+2025-07-16,Palmeiras,Mirassol,1,1,0.7,0.9,Brazil Serie A
+2025-07-16,Ceará,Corinthians,0,1,0.7,0.9,Brazil Serie A
+2025-07-16,Botafogo (RJ),Vitória,0,0,1.7,0.2,Brazil Serie A
+2025-07-16,RB Bragantino,São Paulo,2,2,0.8,1.4,Brazil Serie A
+2025-07-17,Fluminense,Cruzeiro,0,2,1.4,0.8,Brazil Serie A
+2025-07-19,São Paulo,Corinthians,2,0,2.1,1.4,Brazil Serie A
+2025-07-19,Fortaleza,Bahia,1,1,1.9,2.6,Brazil Serie A
+2025-07-19,Vasco da Gama,Grêmio,1,1,1.9,0.9,Brazil Serie A
+2025-07-19,Mirassol,Santos,3,0,1.7,0.5,Brazil Serie A
+2025-07-20,Vitória,RB Bragantino,1,0,0.3,1.3,Brazil Serie A
+2025-07-20,Flamengo,Fluminense,1,0,0.9,0.3,Brazil Serie A
+2025-07-20,Palmeiras,Atlético Mineiro,3,2,2.2,0.3,Brazil Serie A
+2025-07-20,Internacional,Ceará,1,0,1.5,0.8,Brazil Serie A
+2025-07-20,Cruzeiro,Juventude,4,0,2.7,0.4,Brazil Serie A
+2025-07-20,Sport Recife,Botafogo (RJ),0,1,1.0,0.9,Brazil Serie A
+2025-07-23,Corinthians,Cruzeiro,0,0,0.3,1.0,Brazil Serie A
+2025-07-23,RB Bragantino,Flamengo,1,2,1.1,1.0,Brazil Serie A
+2025-07-23,Vitória,Sport Recife,2,2,2.7,2.0,Brazil Serie A
+2025-07-23,Santos,Internacional,1,2,1.8,2.5,Brazil Serie A
+2025-07-23,Fluminense,Palmeiras,1,2,1.6,1.6,Brazil Serie A
+2025-07-23,Ceará,Mirassol,0,2,0.9,0.5,Brazil Serie A
+2025-07-24,Juventude,São Paulo,0,1,0.4,1.0,Brazil Serie A
+2025-07-26,Palmeiras,Grêmio,1,0,0.5,0.9,Brazil Serie A
+2025-07-26,Mirassol,Vitória,1,1,1.7,1.6,Brazil Serie A
+2025-07-26,Botafogo (RJ),Corinthians,1,1,0.6,1.1,Brazil Serie A
+2025-07-26,Sport Recife,Santos,2,2,2.1,1.1,Brazil Serie A
+2025-07-26,Fortaleza,RB Bragantino,3,1,1.9,0.9,Brazil Serie A
+2025-07-27,Flamengo,Atlético Mineiro,1,0,0.8,1.1,Brazil Serie A
+2025-07-27,Bahia,Juventude,3,0,2.2,0.1,Brazil Serie A
+2025-07-27,Cruzeiro,Ceará,1,2,1.3,0.7,Brazil Serie A
+2025-07-27,Internacional,Vasco da Gama,1,1,1.4,1.0,Brazil Serie A
+2025-07-27,São Paulo,Fluminense,3,1,2.2,0.2,Brazil Serie A
+2025-07-29,Grêmio,Fortaleza,2,1,2.5,1.6,Brazil Serie A
+2025-08-02,Sport Recife,Bahia,0,0,0.5,0.9,Brazil Serie A
+2025-08-02,Fluminense,Grêmio,1,0,1.6,0.4,Brazil Serie A
+2025-08-02,Mirassol,Vasco da Gama,3,2,1.1,1.3,Brazil Serie A

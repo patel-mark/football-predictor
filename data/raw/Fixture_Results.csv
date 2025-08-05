@@ -356,7 +356,7 @@ Date,Home_Team,Away_Team,Home_Score,Away_Score,Home_xG,Away_xG,League
 2025-05-10,Bournemouth,Aston Villa,0,1,0.8,1.0,Premier League
 2025-05-11,Newcastle Utd,Chelsea,2,0,1.6,0.7,Premier League
 2025-05-11,Nott'ham Forest,Leicester City,2,2,1.3,1.1,Premier League
-2025-05-11,Tottenham,Crystal Palace,0,2,0.7,3.4,Premier League
+2025-05-11,Tottenham,Crystal Palace,0,2,0.7,3.3,Premier League
 2025-05-11,Manchester Utd,West Ham,0,2,2.1,1.7,Premier League
 2025-05-11,Liverpool,Arsenal,2,2,2.4,2.6,Premier League
 2025-05-16,Aston Villa,Tottenham,2,0,1.4,0.5,Premier League
@@ -369,6 +369,16 @@ Date,Home_Team,Away_Team,Home_Score,Away_Score,Home_xG,Away_xG,League
 2025-05-19,Brighton,Liverpool,3,2,2.2,2.2,Premier League
 2025-05-20,Manchester City,Bournemouth,3,1,1.5,1.1,Premier League
 2025-05-20,Crystal Palace,Wolves,4,2,1.7,1.4,Premier League
+2025-05-25,Manchester Utd,Aston Villa,2,0,2.9,0.4,Premier League
+2025-05-25,Ipswich Town,West Ham,1,3,0.7,1.1,Premier League
+2025-05-25,Wolves,Brentford,1,1,1.0,1.4,Premier League
+2025-05-25,Southampton,Arsenal,1,2,0.6,2.3,Premier League
+2025-05-25,Liverpool,Crystal Palace,1,1,2.1,1.8,Premier League
+2025-05-25,Nott'ham Forest,Chelsea,0,1,1.2,1.1,Premier League
+2025-05-25,Fulham,Manchester City,0,2,1.3,3.0,Premier League
+2025-05-25,Newcastle Utd,Everton,0,1,1.2,1.2,Premier League
+2025-05-25,Bournemouth,Leicester City,2,0,1.6,0.3,Premier League
+2025-05-25,Tottenham,Brighton,1,4,2.0,2.2,Premier League
 2024-08-15,Athletic Club,Getafe,1,1,0.3,0.8,La Liga
 2024-08-15,Betis,Girona,1,1,1.4,1.6,La Liga
 2024-08-16,Celta Vigo,Alavés,2,1,0.8,1.6,La Liga
@@ -627,7 +637,7 @@ Date,Home_Team,Away_Team,Home_Score,Away_Score,Home_xG,Away_xG,League
 2025-03-02,Leganés,Getafe,1,0,1.0,0.3,La Liga
 2025-03-02,Barcelona,Real Sociedad,4,0,2.8,0.0,La Liga
 2025-03-02,Mallorca,Alavés,1,1,1.1,1.6,La Liga
-2025-03-02,Osasuna,Valencia,3,3,1.5,1.7,La Liga
+2025-03-02,Osasuna,Valencia,3,3,1.5,1.8,La Liga
 2025-03-08,Celta Vigo,Leganés,2,1,0.9,1.0,La Liga
 2025-03-08,Alavés,Villarreal,1,0,1.0,2.8,La Liga
 2025-03-08,Valencia,Valladolid,2,1,1.9,0.9,La Liga
@@ -739,6 +749,16 @@ Date,Home_Team,Away_Team,Home_Score,Away_Score,Home_xG,Away_xG,League
 2025-05-18,Real Sociedad,Girona,3,2,2.0,2.3,La Liga
 2025-05-18,Sevilla,Real Madrid,0,2,0.5,2.0,La Liga
 2025-05-18,Celta Vigo,Rayo Vallecano,1,2,2.4,1.2,La Liga
+2025-05-23,Betis,Valencia,1,1,0.9,0.7,La Liga
+2025-05-24,Real Madrid,Real Sociedad,2,0,2.6,0.8,La Liga
+2025-05-24,Leganés,Valladolid,3,0,2.1,0.4,La Liga
+2025-05-24,Espanyol,Las Palmas,2,0,2.0,0.5,La Liga
+2025-05-24,Rayo Vallecano,Mallorca,0,0,2.2,0.6,La Liga
+2025-05-24,Alavés,Osasuna,1,1,2.0,1.6,La Liga
+2025-05-24,Getafe,Celta Vigo,1,2,0.4,1.5,La Liga
+2025-05-25,Girona,Atlético Madrid,0,4,0.0,2.7,La Liga
+2025-05-25,Villarreal,Sevilla,4,2,1.1,1.5,La Liga
+2025-05-25,Athletic Club,Barcelona,0,3,1.2,3.5,La Liga
 2024-08-23,Gladbach,Leverkusen,2,3,1.6,2.7,Bundesliga
 2024-08-24,Hoffenheim,Holstein Kiel,3,2,3.5,1.7,Bundesliga
 2024-08-24,Mainz 05,Union Berlin,1,1,1.2,0.6,Bundesliga
@@ -1597,7 +1617,7 @@ Date,Home_Team,Away_Team,Home_Score,Away_Score,Home_xG,Away_xG,League
 2025-02-16,Monza,Lecce,0,0,0.2,0.9,Serie A
 2025-02-16,Udinese,Empoli,3,0,2.3,2.1,Serie A
 2025-02-16,Parma,Roma,0,1,0.2,1.1,Serie A
-2025-02-16,Juventus,Inter,1,0,1.3,1.8,Serie A
+2025-02-16,Juventus,Inter,1,0,1.2,1.8,Serie A
 2025-02-17,Genoa,Venezia,2,0,1.5,0.5,Serie A
 2025-02-21,Lecce,Udinese,0,1,0.4,1.6,Serie A
 2025-02-22,Venezia,Lazio,0,0,0.8,1.1,Serie A
@@ -1720,16 +1740,26 @@ Date,Home_Team,Away_Team,Home_Score,Away_Score,Home_xG,Away_xG,League
 2025-05-18,Juventus,Udinese,2,0,1.8,0.3,Serie A
 2025-05-18,Lecce,Torino,1,0,0.8,0.5,Serie A
 2025-05-18,Inter,Lazio,2,2,1.1,2.1,Serie A
+2025-05-23,Napoli,Cagliari,2,0,2.4,0.1,Serie A
+2025-05-23,Como,Inter,0,2,1.2,1.4,Serie A
+2025-05-24,Bologna,Genoa,1,3,0.7,0.9,Serie A
+2025-05-24,Milan,Monza,2,0,1.5,0.3,Serie A
+2025-05-25,Udinese,Fiorentina,2,3,1.4,2.7,Serie A
+2025-05-25,Lazio,Lecce,0,1,1.8,0.4,Serie A
+2025-05-25,Torino,Roma,0,2,0.5,1.9,Serie A
+2025-05-25,Venezia,Juventus,2,3,0.9,1.9,Serie A
+2025-05-25,Atalanta,Parma,2,3,1.2,2.5,Serie A
+2025-05-25,Empoli,Hellas Verona,1,2,0.9,0.8,Serie A
 2024-08-16,Brescia,Palermo,1,0,1.4,0.5,Serie B
+2024-08-17,Bari,Juve Stabia,1,3,1.2,1.4,Serie B
 2024-08-17,Südtirol,Modena,2,1,0.8,0.3,Serie B
 2024-08-17,Salernitana,Cittadella,2,1,1.3,0.5,Serie B
 2024-08-17,Pisa,Spezia,2,2,2.2,1.0,Serie B
-2024-08-17,Bari,Juve Stabia,1,3,1.2,1.4,Serie B
-2024-08-18,Cosenza,Cremonese,1,0,2.4,0.4,Serie B
-2024-08-18,Catanzaro,Sassuolo,1,1,0.5,1.2,Serie B
-2024-08-18,Reggiana,Mantova,2,2,0.6,1.1,Serie B
 2024-08-18,Frosinone,Sampdoria,2,2,2.1,1.9,Serie B
+2024-08-18,Reggiana,Mantova,2,2,0.6,1.1,Serie B
+2024-08-18,Catanzaro,Sassuolo,1,1,0.5,1.2,Serie B
 2024-08-18,Cesena,Carrarese,2,1,1.8,1.5,Serie B
+2024-08-18,Cosenza,Cremonese,1,0,2.4,0.4,Serie B
 2024-08-23,Modena,Bari,2,1,2.6,1.3,Serie B
 2024-08-24,Südtirol,Salernitana,3,2,3.0,0.3,Serie B
 2024-08-24,Pisa,Palermo,2,0,1.0,1.5,Serie B
@@ -1738,243 +1768,243 @@ Date,Home_Team,Away_Team,Home_Score,Away_Score,Home_xG,Away_xG,League
 2024-08-24,Cremonese,Carrarese,1,0,1.5,1.0,Serie B
 2024-08-24,Brescia,Cittadella,0,1,1.3,0.6,Serie B
 2024-08-24,Sassuolo,Cesena,2,1,1.9,1.6,Serie B
-2024-08-25,Catanzaro,Juve Stabia,0,0,0.6,0.8,Serie B
 2024-08-25,Mantova,Cosenza,3,2,1.1,2.2,Serie B
-2024-08-27,Carrarese,Südtirol,2,0,1.4,0.8,Serie B
+2024-08-25,Catanzaro,Juve Stabia,0,0,0.6,0.8,Serie B
+2024-08-27,Cremonese,Palermo,0,1,1.2,0.7,Serie B
+2024-08-27,Bari,Sassuolo,1,1,1.8,0.5,Serie B
+2024-08-27,Cittadella,Pisa,0,3,0.7,1.3,Serie B
 2024-08-27,Frosinone,Modena,1,1,1.2,1.5,Serie B
 2024-08-27,Salernitana,Sampdoria,3,2,1.3,2.3,Serie B
 2024-08-27,Reggiana,Brescia,2,0,1.2,0.7,Serie B
-2024-08-27,Cremonese,Palermo,0,1,1.2,0.7,Serie B
-2024-08-27,Cittadella,Pisa,0,3,0.7,1.3,Serie B
-2024-08-27,Bari,Sassuolo,1,1,1.8,0.5,Serie B
-2024-08-28,Cosenza,Spezia,0,0,1.0,0.5,Serie B
+2024-08-27,Carrarese,Südtirol,2,0,1.4,0.8,Serie B
 2024-08-28,Cesena,Catanzaro,2,0,1.7,0.9,Serie B
+2024-08-28,Cosenza,Spezia,0,0,1.0,0.5,Serie B
 2024-08-28,Juve Stabia,Mantova,1,0,1.1,0.6,Serie B
 2024-08-31,Sampdoria,Bari,0,0,0.6,1.9,Serie B
 2024-08-31,Südtirol,Brescia,1,2,1.5,0.5,Serie B
-2024-08-31,Sassuolo,Cremonese,1,4,1.8,2.3,Serie B
-2024-08-31,Modena,Cittadella,0,1,1.1,0.7,Serie B
 2024-08-31,Pisa,Reggiana,2,1,1.3,0.5,Serie B
-2024-09-01,Mantova,Salernitana,1,0,0.4,0.2,Serie B
+2024-08-31,Modena,Cittadella,0,1,1.1,0.7,Serie B
+2024-08-31,Sassuolo,Cremonese,1,4,1.8,2.3,Serie B
+2024-09-01,Frosinone,Juve Stabia,0,0,0.4,0.5,Serie B
 2024-09-01,Spezia,Cesena,2,1,1.4,1.2,Serie B
 2024-09-01,Palermo,Cosenza,1,1,2.3,1.0,Serie B
-2024-09-01,Frosinone,Juve Stabia,0,0,0.4,0.5,Serie B
 2024-09-01,Catanzaro,Carrarese,3,1,1.9,0.4,Serie B
+2024-09-01,Mantova,Salernitana,1,0,0.4,0.2,Serie B
 2024-09-13,Cesena,Modena,2,2,1.5,2.2,Serie B
-2024-09-14,Juve Stabia,Palermo,1,3,1.5,1.6,Serie B
-2024-09-14,Cittadella,Catanzaro,0,0,1.0,0.5,Serie B
-2024-09-14,Cremonese,Spezia,1,1,0.6,1.3,Serie B
-2024-09-14,Bari,Mantova,2,0,1.5,0.5,Serie B
 2024-09-14,Brescia,Frosinone,4,0,2.3,0.4,Serie B
-2024-09-15,Carrarese,Sassuolo,0,2,0.6,1.3,Serie B
+2024-09-14,Cittadella,Catanzaro,0,0,1.0,0.5,Serie B
+2024-09-14,Bari,Mantova,2,0,1.5,0.5,Serie B
+2024-09-14,Cremonese,Spezia,1,1,0.6,1.3,Serie B
+2024-09-14,Juve Stabia,Palermo,1,3,1.5,1.6,Serie B
 2024-09-15,Reggiana,Südtirol,1,3,1.5,1.3,Serie B
 2024-09-15,Cosenza,Sampdoria,2,1,0.4,0.7,Serie B
+2024-09-15,Carrarese,Sassuolo,0,2,0.6,1.3,Serie B
 2024-09-15,Salernitana,Pisa,2,3,1.4,1.8,Serie B
 2024-09-20,Catanzaro,Cremonese,1,2,0.3,1.9,Serie B
-2024-09-21,Cosenza,Sassuolo,0,1,0.7,1.2,Serie B
 2024-09-21,Sampdoria,Südtirol,1,0,0.5,0.7,Serie B
-2024-09-21,Palermo,Cesena,0,0,0.9,0.5,Serie B
 2024-09-21,Reggiana,Salernitana,0,0,0.5,1.6,Serie B
+2024-09-21,Cosenza,Sassuolo,0,1,0.7,1.2,Serie B
+2024-09-21,Palermo,Cesena,0,0,0.9,0.5,Serie B
 2024-09-21,Pisa,Brescia,2,1,2.0,1.1,Serie B
 2024-09-21,Modena,Juve Stabia,3,0,1.5,0.4,Serie B
+2024-09-22,Mantova,Cittadella,1,0,2.3,0.6,Serie B
 2024-09-22,Frosinone,Bari,0,3,1.7,1.2,Serie B
 2024-09-22,Spezia,Carrarese,4,2,3.4,0.8,Serie B
-2024-09-22,Mantova,Cittadella,1,0,2.3,0.6,Serie B
 2024-09-27,Cittadella,Frosinone,1,2,0.9,1.9,Serie B
+2024-09-28,Sassuolo,Spezia,0,0,0.4,0.6,Serie B
 2024-09-28,Bari,Cosenza,1,1,0.7,1.5,Serie B
 2024-09-28,Carrarese,Reggiana,0,0,1.3,0.3,Serie B
-2024-09-28,Sassuolo,Spezia,0,0,0.4,0.6,Serie B
-2024-09-29,Juve Stabia,Pisa,2,0,1.6,1.1,Serie B
-2024-09-29,Salernitana,Catanzaro,0,0,0.6,0.1,Serie B
-2024-09-29,Cesena,Mantova,4,2,2.3,1.9,Serie B
 2024-09-29,Modena,Sampdoria,1,3,0.7,2.0,Serie B
+2024-09-29,Salernitana,Catanzaro,0,0,0.6,0.1,Serie B
+2024-09-29,Juve Stabia,Pisa,2,0,1.6,1.1,Serie B
+2024-09-29,Cesena,Mantova,4,2,2.3,1.9,Serie B
 2024-09-30,Südtirol,Palermo,1,3,0.6,0.9,Serie B
 2024-09-30,Brescia,Cremonese,3,2,1.3,1.4,Serie B
 2024-10-04,Sampdoria,Juve Stabia,1,2,1.8,0.5,Serie B
-2024-10-05,Spezia,Reggiana,1,0,1.2,1.4,Serie B
-2024-10-05,Frosinone,Carrarese,0,1,1.5,0.7,Serie B
-2024-10-05,Pisa,Cesena,3,1,1.5,1.2,Serie B
 2024-10-05,Sassuolo,Cittadella,6,1,4.3,0.4,Serie B
-2024-10-06,Mantova,Brescia,1,1,2.0,0.5,Serie B
-2024-10-06,Catanzaro,Modena,2,2,0.4,0.7,Serie B
-2024-10-06,Cremonese,Bari,1,1,1.3,0.8,Serie B
+2024-10-05,Spezia,Reggiana,1,0,1.2,1.4,Serie B
+2024-10-05,Pisa,Cesena,3,1,1.5,1.2,Serie B
+2024-10-05,Frosinone,Carrarese,0,1,1.5,0.7,Serie B
 2024-10-06,Palermo,Salernitana,0,1,1.6,0.4,Serie B
 2024-10-06,Cosenza,Südtirol,0,2,1.5,0.4,Serie B
+2024-10-06,Catanzaro,Modena,2,2,0.4,0.7,Serie B
+2024-10-06,Mantova,Brescia,1,1,2.0,0.5,Serie B
+2024-10-06,Cremonese,Bari,1,1,1.3,0.8,Serie B
 2024-10-18,Bari,Catanzaro,1,1,1.9,0.8,Serie B
-2024-10-19,Cittadella,Cosenza,0,0,2.1,0.3,Serie B
-2024-10-19,Modena,Palermo,2,2,1.8,1.6,Serie B
 2024-10-19,Südtirol,Pisa,1,2,0.7,1.8,Serie B
+2024-10-19,Modena,Palermo,2,2,1.8,1.6,Serie B
+2024-10-19,Cittadella,Cosenza,0,0,2.1,0.3,Serie B
 2024-10-19,Salernitana,Spezia,0,2,0.8,1.3,Serie B
 2024-10-19,Brescia,Sassuolo,2,5,1.8,2.2,Serie B
-2024-10-20,Reggiana,Frosinone,2,0,1.4,1.1,Serie B
 2024-10-20,Juve Stabia,Cremonese,1,2,1.2,1.0,Serie B
+2024-10-20,Reggiana,Frosinone,2,0,1.4,1.1,Serie B
 2024-10-20,Carrarese,Mantova,1,1,1.8,1.2,Serie B
 2024-10-20,Cesena,Sampdoria,3,5,0.8,2.1,Serie B
 2024-10-25,Spezia,Bari,0,0,1.3,0.1,Serie B
-2024-10-26,Cremonese,Salernitana,2,1,1.2,0.5,Serie B
 2024-10-26,Cosenza,Juve Stabia,1,1,1.0,1.6,Serie B
 2024-10-26,Cesena,Brescia,2,0,2.7,0.9,Serie B
+2024-10-26,Cremonese,Salernitana,2,1,1.2,0.5,Serie B
 2024-10-26,Palermo,Reggiana,2,0,2.1,0.9,Serie B
 2024-10-26,Carrarese,Cittadella,3,0,0.5,1.6,Serie B
 2024-10-26,Sassuolo,Modena,2,0,1.5,0.8,Serie B
-2024-10-27,Frosinone,Pisa,0,0,0.6,1.1,Serie B
 2024-10-27,Sampdoria,Mantova,1,0,1.6,0.8,Serie B
+2024-10-27,Frosinone,Pisa,0,0,0.6,1.1,Serie B
 2024-10-27,Catanzaro,Südtirol,3,0,1.4,0.9,Serie B
 2024-10-29,Brescia,Spezia,1,1,0.6,1.2,Serie B
-2024-10-29,Juve Stabia,Sassuolo,2,2,1.3,0.7,Serie B
-2024-10-29,Salernitana,Cesena,1,1,0.7,0.3,Serie B
-2024-10-29,Reggiana,Cosenza,0,1,0.9,0.7,Serie B
-2024-10-29,Bari,Carrarese,0,0,1.4,0.8,Serie B
 2024-10-29,Modena,Cremonese,2,2,1.2,1.3,Serie B
+2024-10-29,Salernitana,Cesena,1,1,0.7,0.3,Serie B
+2024-10-29,Juve Stabia,Sassuolo,2,2,1.3,0.7,Serie B
+2024-10-29,Bari,Carrarese,0,0,1.4,0.8,Serie B
+2024-10-29,Reggiana,Cosenza,0,1,0.9,0.7,Serie B
 2024-10-30,Südtirol,Frosinone,1,1,1.1,0.4,Serie B
-2024-10-30,Mantova,Palermo,0,0,0.3,0.9,Serie B
 2024-10-30,Pisa,Catanzaro,0,0,1.9,0.1,Serie B
 2024-10-30,Cittadella,Sampdoria,0,0,0.4,0.3,Serie B
+2024-10-30,Mantova,Palermo,0,0,0.3,0.9,Serie B
+2024-11-02,Spezia,Modena,1,0,1.1,0.5,Serie B
 2024-11-02,Bari,Reggiana,2,2,1.5,1.8,Serie B
 2024-11-02,Carrarese,Juve Stabia,0,0,0.4,0.5,Serie B
-2024-11-02,Spezia,Modena,1,0,1.1,0.5,Serie B
-2024-11-03,Cremonese,Pisa,1,3,0.6,2.2,Serie B
 2024-11-03,Catanzaro,Frosinone,0,0,0.7,0.8,Serie B
-2024-11-03,Cosenza,Salernitana,1,1,0.7,1.2,Serie B
+2024-11-03,Cremonese,Pisa,1,3,0.6,2.2,Serie B
 2024-11-03,Palermo,Cittadella,0,1,2.3,0.7,Serie B
+2024-11-03,Cosenza,Salernitana,1,1,0.7,1.2,Serie B
 2024-11-03,Cesena,Südtirol,1,0,0.6,0.2,Serie B
-2024-11-03,Sampdoria,Brescia,0,1,0.8,1.2,Serie B
 2024-11-03,Sassuolo,Mantova,1,0,2.2,0.5,Serie B
+2024-11-03,Sampdoria,Brescia,0,1,0.8,1.2,Serie B
 2024-11-08,Frosinone,Palermo,1,1,0.5,0.7,Serie B
-2024-11-09,Pisa,Sampdoria,3,0,1.1,0.8,Serie B
-2024-11-09,Brescia,Cosenza,2,3,1.3,2.1,Serie B
 2024-11-09,Südtirol,Sassuolo,0,1,1.0,1.1,Serie B
+2024-11-09,Brescia,Cosenza,2,3,1.3,2.1,Serie B
 2024-11-09,Modena,Carrarese,2,0,1.2,0.2,Serie B
+2024-11-09,Pisa,Sampdoria,3,0,1.1,0.8,Serie B
 2024-11-09,Mantova,Cremonese,1,0,0.9,1.0,Serie B
 2024-11-10,Reggiana,Catanzaro,2,2,1.1,1.4,Serie B
-2024-11-10,Cittadella,Cesena,0,2,0.3,2.5,Serie B
 2024-11-10,Juve Stabia,Spezia,0,3,0.8,1.8,Serie B
+2024-11-10,Cittadella,Cesena,0,2,0.3,2.5,Serie B
 2024-11-10,Salernitana,Bari,0,2,1.5,1.8,Serie B
 2024-11-22,Cosenza,Modena,1,1,1.4,2.0,Serie B
-2024-11-23,Carrarese,Pisa,1,0,1.2,0.3,Serie B
-2024-11-23,Sassuolo,Salernitana,4,0,3.9,0.4,Serie B
-2024-11-23,Juve Stabia,Brescia,0,0,0.6,0.8,Serie B
 2024-11-23,Catanzaro,Mantova,2,2,0.7,1.7,Serie B
+2024-11-23,Juve Stabia,Brescia,0,0,0.6,0.8,Serie B
+2024-11-23,Sassuolo,Salernitana,4,0,3.9,0.4,Serie B
+2024-11-23,Carrarese,Pisa,1,0,1.2,0.3,Serie B
 2024-11-23,Cesena,Reggiana,1,1,1.1,0.8,Serie B
-2024-11-24,Bari,Cittadella,3,2,1.9,0.9,Serie B
 2024-11-24,Spezia,Südtirol,3,0,1.8,0.4,Serie B
+2024-11-24,Bari,Cittadella,3,2,1.9,0.9,Serie B
 2024-11-24,Cremonese,Frosinone,1,0,3.0,0.7,Serie B
 2024-11-24,Palermo,Sampdoria,1,1,1.6,0.6,Serie B
 2024-11-29,Reggiana,Sassuolo,0,2,1.7,0.6,Serie B
-2024-11-30,Cittadella,Juve Stabia,2,2,1.6,0.4,Serie B
-2024-11-30,Brescia,Bari,1,1,1.5,1.4,Serie B
 2024-11-30,Sampdoria,Catanzaro,3,3,3.7,1.1,Serie B
+2024-11-30,Brescia,Bari,1,1,1.5,1.4,Serie B
 2024-11-30,Südtirol,Cremonese,0,4,0.9,2.1,Serie B
+2024-11-30,Cittadella,Juve Stabia,2,2,1.6,0.4,Serie B
 2024-11-30,Mantova,Modena,0,0,1.1,0.6,Serie B
 2024-12-01,Palermo,Spezia,2,0,2.4,1.1,Serie B
-2024-12-01,Frosinone,Cesena,3,2,1.3,1.6,Serie B
 2024-12-01,Pisa,Cosenza,2,2,3.3,1.2,Serie B
+2024-12-01,Frosinone,Cesena,3,2,1.3,1.6,Serie B
 2024-12-01,Salernitana,Carrarese,4,1,3.4,1.8,Serie B
 2024-12-06,Juve Stabia,Südtirol,2,1,1.7,0.5,Serie B
-2024-12-07,Mantova,Pisa,2,3,0.9,1.8,Serie B
 2024-12-07,Bari,Cesena,1,0,0.8,1.0,Serie B
+2024-12-07,Mantova,Pisa,2,3,0.9,1.8,Serie B
 2024-12-07,Modena,Salernitana,1,1,0.7,1.0,Serie B
 2024-12-07,Carrarese,Palermo,1,0,1.9,1.2,Serie B
 2024-12-07,Cosenza,Frosinone,0,1,1.0,1.5,Serie B
-2024-12-08,Catanzaro,Brescia,2,1,2.2,1.2,Serie B
-2024-12-08,Cremonese,Reggiana,0,2,0.7,0.9,Serie B
 2024-12-08,Spezia,Cittadella,5,0,3.1,0.6,Serie B
+2024-12-08,Cremonese,Reggiana,0,2,0.7,0.9,Serie B
+2024-12-08,Catanzaro,Brescia,2,1,2.2,1.2,Serie B
 2024-12-08,Sassuolo,Sampdoria,5,1,1.9,1.3,Serie B
 2024-12-13,Pisa,Bari,2,0,2.9,0.8,Serie B
-2024-12-14,Frosinone,Sassuolo,1,2,0.6,1.3,Serie B
-2024-12-14,Cesena,Cosenza,2,1,2.0,1.3,Serie B
-2024-12-14,Südtirol,Mantova,2,2,1.7,2.1,Serie B
 2024-12-14,Reggiana,Modena,0,1,0.9,0.9,Serie B
+2024-12-14,Frosinone,Sassuolo,1,2,0.6,1.3,Serie B
+2024-12-14,Südtirol,Mantova,2,2,1.7,2.1,Serie B
+2024-12-14,Cesena,Cosenza,2,1,2.0,1.3,Serie B
 2024-12-14,Sampdoria,Spezia,0,0,0.5,1.9,Serie B
+2024-12-15,Cittadella,Cremonese,0,0,0.5,0.5,Serie B
 2024-12-15,Palermo,Catanzaro,1,2,2.1,0.9,Serie B
 2024-12-15,Brescia,Carrarese,0,0,0.2,1.0,Serie B
-2024-12-15,Cittadella,Cremonese,0,0,0.5,0.5,Serie B
 2024-12-15,Salernitana,Juve Stabia,1,2,0.8,1.7,Serie B
 2024-12-20,Salernitana,Brescia,0,0,0.7,1.1,Serie B
+2024-12-21,Mantova,Frosinone,3,1,1.6,0.9,Serie B
 2024-12-21,Carrarese,Cosenza,1,0,1.5,0.5,Serie B
 2024-12-21,Bari,Südtirol,0,1,0.5,2.3,Serie B
 2024-12-21,Sassuolo,Palermo,2,1,2.0,1.0,Serie B
-2024-12-21,Mantova,Frosinone,3,1,1.6,0.9,Serie B
 2024-12-21,Cittadella,Reggiana,3,1,0.4,1.0,Serie B
 2024-12-21,Modena,Pisa,1,0,0.7,1.1,Serie B
 2024-12-21,Catanzaro,Spezia,0,1,1.4,0.7,Serie B
 2024-12-22,Juve Stabia,Cesena,1,0,1.4,0.1,Serie B
 2024-12-22,Cremonese,Sampdoria,1,1,2.4,0.8,Serie B
 2024-12-26,Pisa,Sassuolo,3,1,1.6,2.4,Serie B
-2024-12-26,Spezia,Mantova,1,1,2.6,0.3,Serie B
-2024-12-26,Cosenza,Catanzaro,1,1,2.4,1.1,Serie B
 2024-12-26,Südtirol,Cittadella,1,2,0.7,1.1,Serie B
+2024-12-26,Spezia,Mantova,1,1,2.6,0.3,Serie B
 2024-12-26,Cesena,Cremonese,0,1,1.1,0.8,Serie B
 2024-12-26,Frosinone,Salernitana,2,0,1.5,0.2,Serie B
 2024-12-26,Brescia,Modena,3,3,1.4,1.3,Serie B
 2024-12-26,Reggiana,Juve Stabia,2,1,1.2,1.0,Serie B
+2024-12-26,Cosenza,Catanzaro,1,1,2.4,1.1,Serie B
 2024-12-26,Palermo,Bari,1,0,2.3,1.1,Serie B
 2024-12-26,Sampdoria,Carrarese,1,1,2.5,0.3,Serie B
 2024-12-29,Cremonese,Brescia,1,1,1.1,0.5,Serie B
-2024-12-29,Sassuolo,Cosenza,2,1,1.3,1.2,Serie B
-2024-12-29,Bari,Spezia,2,0,1.6,1.2,Serie B
 2024-12-29,Modena,Südtirol,0,0,0.4,1.0,Serie B
-2024-12-29,Mantova,Reggiana,0,2,0.2,1.6,Serie B
+2024-12-29,Bari,Spezia,2,0,1.6,1.2,Serie B
 2024-12-29,Carrarese,Cesena,2,0,2.5,0.4,Serie B
+2024-12-29,Sassuolo,Cosenza,2,1,1.3,1.2,Serie B
+2024-12-29,Mantova,Reggiana,0,2,0.2,1.6,Serie B
 2024-12-29,Catanzaro,Salernitana,1,0,1.0,0.7,Serie B
-2024-12-29,Cittadella,Palermo,2,1,0.7,1.9,Serie B
 2024-12-29,Juve Stabia,Frosinone,1,1,1.4,1.1,Serie B
+2024-12-29,Cittadella,Palermo,2,1,0.7,1.9,Serie B
 2024-12-29,Sampdoria,Pisa,0,1,1.1,1.0,Serie B
 2025-01-12,Salernitana,Sassuolo,1,2,1.6,1.5,Serie B
-2025-01-12,Palermo,Modena,2,0,2.0,1.0,Serie B
 2025-01-12,Südtirol,Catanzaro,1,1,1.4,2.3,Serie B
-2025-01-12,Frosinone,Cremonese,0,3,1.6,1.5,Serie B
 2025-01-12,Spezia,Juve Stabia,1,1,1.9,0.3,Serie B
-2025-01-12,Reggiana,Bari,0,0,0.4,0.7,Serie B
 2025-01-12,Cosenza,Mantova,2,2,1.3,0.7,Serie B
+2025-01-12,Reggiana,Bari,0,0,0.4,0.7,Serie B
+2025-01-12,Frosinone,Cremonese,0,3,1.6,1.4,Serie B
+2025-01-12,Palermo,Modena,2,0,2.0,1.0,Serie B
 2025-01-12,Cesena,Cittadella,0,0,1.1,0.7,Serie B
 2025-01-12,Brescia,Sampdoria,1,1,2.1,0.5,Serie B
 2025-01-13,Pisa,Carrarese,2,1,2.8,0.9,Serie B
 2025-01-17,Sampdoria,Cesena,1,2,0.8,1.5,Serie B
-2025-01-18,Modena,Frosinone,1,1,0.9,0.6,Serie B
 2025-01-18,Salernitana,Reggiana,2,1,2.0,1.1,Serie B
-2025-01-18,Cremonese,Cosenza,3,1,2.5,0.5,Serie B
+2025-01-18,Modena,Frosinone,1,1,0.9,0.6,Serie B
 2025-01-18,Cittadella,Mantova,1,2,1.0,1.8,Serie B
+2025-01-18,Cremonese,Cosenza,3,1,2.5,0.5,Serie B
 2025-01-18,Bari,Brescia,2,2,2.7,0.9,Serie B
 2025-01-19,Catanzaro,Pisa,0,0,1.5,0.5,Serie B
 2025-01-19,Palermo,Juve Stabia,1,0,1.2,1.2,Serie B
 2025-01-19,Sassuolo,Südtirol,5,3,1.8,1.0,Serie B
 2025-01-19,Carrarese,Spezia,0,4,0.5,1.7,Serie B
 2025-01-24,Spezia,Sassuolo,2,1,2.6,0.7,Serie B
-2025-01-25,Cosenza,Cittadella,0,1,1.7,0.4,Serie B
-2025-01-25,Cesena,Bari,1,1,1.2,0.9,Serie B
 2025-01-25,Juve Stabia,Carrarese,2,1,0.7,0.8,Serie B
+2025-01-25,Cosenza,Cittadella,0,1,1.7,0.4,Serie B
 2025-01-25,Frosinone,Südtirol,0,3,0.9,1.6,Serie B
+2025-01-25,Cesena,Bari,1,1,1.2,0.9,Serie B
 2025-01-25,Mantova,Sampdoria,2,2,1.1,1.7,Serie B
 2025-01-26,Pisa,Salernitana,1,0,1.7,0.4,Serie B
-2025-01-26,Reggiana,Palermo,2,1,0.4,0.9,Serie B
 2025-01-26,Brescia,Catanzaro,2,3,1.9,1.9,Serie B
+2025-01-26,Reggiana,Palermo,2,1,0.4,0.9,Serie B
 2025-01-26,Cremonese,Modena,2,2,1.8,2.2,Serie B
 2025-01-31,Palermo,Pisa,1,2,1.1,1.1,Serie B
-2025-02-01,Catanzaro,Cesena,4,2,1.4,1.3,Serie B
-2025-02-01,Sampdoria,Cosenza,1,0,0.8,1.3,Serie B
-2025-02-01,Cittadella,Spezia,0,2,0.9,2.0,Serie B
 2025-02-01,Sassuolo,Juve Stabia,2,0,0.8,0.4,Serie B
+2025-02-01,Sampdoria,Cosenza,1,0,0.8,1.3,Serie B
+2025-02-01,Catanzaro,Cesena,4,2,1.4,1.3,Serie B
+2025-02-01,Cittadella,Spezia,0,2,0.9,2.0,Serie B
 2025-02-01,Modena,Mantova,3,1,1.7,1.5,Serie B
 2025-02-02,Salernitana,Cremonese,1,0,2.1,1.8,Serie B
-2025-02-02,Carrarese,Brescia,1,2,1.4,1.4,Serie B
 2025-02-02,Südtirol,Reggiana,2,0,0.8,1.4,Serie B
+2025-02-02,Carrarese,Brescia,1,2,1.4,1.4,Serie B
 2025-02-02,Bari,Frosinone,2,1,1.6,1.5,Serie B
 2025-02-07,Brescia,Salernitana,0,0,0.8,0.3,Serie B
-2025-02-08,Mantova,Sassuolo,0,3,0.4,1.4,Serie B
-2025-02-08,Pisa,Cittadella,0,1,0.7,0.2,Serie B
-2025-02-08,Frosinone,Catanzaro,1,1,1.6,0.7,Serie B
 2025-02-08,Cosenza,Carrarese,1,0,0.2,0.5,Serie B
+2025-02-08,Mantova,Sassuolo,0,3,0.4,1.4,Serie B
+2025-02-08,Frosinone,Catanzaro,1,1,1.6,0.7,Serie B
+2025-02-08,Pisa,Cittadella,0,1,0.7,0.2,Serie B
 2025-02-08,Sampdoria,Modena,1,0,2.0,0.6,Serie B
-2025-02-09,Cremonese,Südtirol,3,1,1.8,0.3,Serie B
 2025-02-09,Spezia,Palermo,2,2,3.1,0.5,Serie B
+2025-02-09,Cremonese,Südtirol,3,1,1.8,0.3,Serie B
 2025-02-09,Reggiana,Cesena,0,1,0.5,0.5,Serie B
 2025-02-09,Juve Stabia,Bari,3,1,2.4,1.6,Serie B
 2025-02-14,Catanzaro,Cittadella,1,0,1.4,0.5,Serie B
+2025-02-15,Südtirol,Sampdoria,2,1,2.0,1.0,Serie B
 2025-02-15,Carrarese,Salernitana,3,2,2.0,1.2,Serie B
 2025-02-15,Modena,Spezia,1,1,0.7,1.8,Serie B
 2025-02-15,Sassuolo,Brescia,2,0,0.7,1.7,Serie B
-2025-02-15,Südtirol,Sampdoria,2,1,2.0,1.0,Serie B
 2025-02-15,Bari,Cremonese,1,1,0.6,2.0,Serie B
 2025-02-16,Palermo,Mantova,2,2,1.8,0.9,Serie B
 2025-02-16,Juve Stabia,Cosenza,3,0,0.9,1.9,Serie B
@@ -1982,128 +2012,133 @@ Date,Home_Team,Away_Team,Home_Score,Away_Score,Home_xG,Away_xG,League
 2025-02-16,Cesena,Pisa,1,1,0.8,1.5,Serie B
 2025-02-21,Sampdoria,Sassuolo,0,0,0.1,0.5,Serie B
 2025-02-22,Mantova,Bari,0,1,0.4,0.7,Serie B
-2025-02-22,Cittadella,Modena,0,2,0.9,1.4,Serie B
 2025-02-22,Reggiana,Carrarese,2,2,1.4,1.4,Serie B
 2025-02-22,Pisa,Juve Stabia,3,1,1.6,0.9,Serie B
+2025-02-22,Cittadella,Modena,0,2,0.9,1.4,Serie B
 2025-02-22,Cremonese,Cesena,1,2,1.1,0.6,Serie B
 2025-02-23,Brescia,Südtirol,0,0,1.3,0.7,Serie B
-2025-02-23,Spezia,Catanzaro,0,1,2.6,0.9,Serie B
 2025-02-23,Cosenza,Palermo,0,3,2.4,2.1,Serie B
+2025-02-23,Spezia,Catanzaro,0,1,2.6,0.9,Serie B
 2025-02-23,Salernitana,Frosinone,1,1,2.1,0.6,Serie B
 2025-02-28,Südtirol,Spezia,1,1,1.3,2.4,Serie B
-2025-03-01,Juve Stabia,Cittadella,0,1,1.1,0.8,Serie B
 2025-03-01,Cesena,Salernitana,2,0,1.1,1.7,Serie B
-2025-03-01,Frosinone,Mantova,2,1,1.6,1.7,Serie B
 2025-03-01,Carrarese,Cremonese,2,2,1.2,1.8,Serie B
+2025-03-01,Frosinone,Mantova,2,1,1.6,1.7,Serie B
+2025-03-01,Juve Stabia,Cittadella,0,1,1.1,0.8,Serie B
 2025-03-01,Sassuolo,Pisa,1,0,0.9,1.0,Serie B
-2025-03-02,Palermo,Brescia,1,0,2.4,0.6,Serie B
-2025-03-02,Catanzaro,Reggiana,1,1,1.6,1.4,Serie B
 2025-03-02,Modena,Cosenza,1,1,0.9,0.6,Serie B
+2025-03-02,Catanzaro,Reggiana,1,1,1.6,1.4,Serie B
+2025-03-02,Palermo,Brescia,1,0,2.4,0.6,Serie B
 2025-03-02,Bari,Sampdoria,1,1,0.9,2.0,Serie B
 2025-03-07,Cosenza,Reggiana,1,0,0.4,1.0,Serie B
-2025-03-08,Carrarese,Frosinone,0,1,2.0,0.6,Serie B
-2025-03-08,Cremonese,Catanzaro,4,0,3.8,0.4,Serie B
-2025-03-08,Mantova,Juve Stabia,1,1,0.5,0.6,Serie B
 2025-03-08,Salernitana,Modena,1,0,1.0,0.9,Serie B
+2025-03-08,Carrarese,Frosinone,0,1,2.0,0.6,Serie B
+2025-03-08,Mantova,Juve Stabia,1,1,0.5,0.6,Serie B
+2025-03-08,Cremonese,Catanzaro,4,0,3.8,0.4,Serie B
 2025-03-08,Sampdoria,Palermo,1,1,1.2,1.4,Serie B
 2025-03-08,Brescia,Cesena,1,1,0.7,1.2,Serie B
-2025-03-09,Sassuolo,Bari,1,1,0.5,0.5,Serie B
 2025-03-09,Spezia,Pisa,3,2,1.5,0.8,Serie B
+2025-03-09,Sassuolo,Bari,1,1,0.5,0.5,Serie B
 2025-03-09,Cittadella,Südtirol,1,5,1.1,2.1,Serie B
 2025-03-14,Palermo,Cremonese,2,3,1.3,3.0,Serie B
-2025-03-15,Cittadella,Sassuolo,1,2,0.8,2.2,Serie B
-2025-03-15,Frosinone,Brescia,2,1,0.6,1.3,Serie B
 2025-03-15,Cesena,Spezia,0,0,1.2,2.3,Serie B
+2025-03-15,Frosinone,Brescia,2,1,0.6,1.3,Serie B
+2025-03-15,Cittadella,Sassuolo,1,2,0.8,2.2,Serie B
 2025-03-15,Juve Stabia,Modena,2,1,1.7,1.2,Serie B
 2025-03-15,Bari,Salernitana,0,0,0.7,0.7,Serie B
 2025-03-16,Südtirol,Carrarese,2,2,0.9,1.0,Serie B
-2025-03-16,Pisa,Mantova,3,1,1.7,1.0,Serie B
 2025-03-16,Reggiana,Sampdoria,2,2,2.5,1.7,Serie B
+2025-03-16,Pisa,Mantova,3,1,1.7,1.0,Serie B
 2025-03-16,Catanzaro,Cosenza,4,0,1.3,0.5,Serie B
 2025-03-28,Spezia,Brescia,0,1,1.8,1.6,Serie B
-2025-03-29,Cosenza,Pisa,0,3,0.0,1.7,Serie B
-2025-03-29,Mantova,Südtirol,2,0,0.8,1.5,Serie B
-2025-03-29,Sampdoria,Frosinone,0,3,1.5,2.0,Serie B
 2025-03-29,Modena,Catanzaro,2,1,0.7,1.2,Serie B
+2025-03-29,Sampdoria,Frosinone,0,3,1.5,2.0,Serie B
+2025-03-29,Mantova,Südtirol,2,0,0.8,1.5,Serie B
+2025-03-29,Cosenza,Pisa,0,3,0.0,1.7,Serie B
 2025-03-29,Cremonese,Cittadella,2,2,2.6,0.9,Serie B
 2025-03-29,Sassuolo,Reggiana,5,1,2.2,0.6,Serie B
-2025-03-30,Cesena,Juve Stabia,1,2,1.5,1.1,Serie B
 2025-03-30,Carrarese,Bari,2,1,0.8,1.1,Serie B
+2025-03-30,Cesena,Juve Stabia,1,2,1.5,1.1,Serie B
 2025-03-30,Salernitana,Palermo,1,2,1.4,1.6,Serie B
 2025-04-04,Reggiana,Cremonese,1,2,1.6,1.2,Serie B
 2025-04-05,Brescia,Mantova,1,2,1.1,1.9,Serie B
+2025-04-05,Frosinone,Cosenza,2,2,1.8,1.2,Serie B
 2025-04-05,Cittadella,Carrarese,0,0,0.5,0.7,Serie B
 2025-04-05,Südtirol,Cesena,1,1,0.7,0.5,Serie B
-2025-04-05,Frosinone,Cosenza,2,2,1.8,1.2,Serie B
 2025-04-05,Pisa,Modena,1,2,1.6,1.1,Serie B
 2025-04-05,Juve Stabia,Salernitana,1,0,1.2,0.5,Serie B
 2025-04-06,Palermo,Sassuolo,5,3,1.6,1.3,Serie B
 2025-04-06,Catanzaro,Bari,3,3,1.5,1.2,Serie B
 2025-04-06,Spezia,Sampdoria,2,0,2.0,0.6,Serie B
 2025-04-11,Bari,Palermo,2,1,1.7,0.5,Serie B
-2025-04-12,Cosenza,Brescia,1,1,1.8,0.6,Serie B
+2025-04-12,Carrarese,Catanzaro,2,2,0.8,1.0,Serie B
 2025-04-12,Reggiana,Pisa,0,2,0.9,1.2,Serie B
 2025-04-12,Salernitana,Südtirol,2,1,1.8,1.5,Serie B
-2025-04-12,Carrarese,Catanzaro,2,2,0.8,1.0,Serie B
+2025-04-12,Cosenza,Brescia,1,1,1.8,0.6,Serie B
 2025-04-12,Sampdoria,Cittadella,1,0,0.7,0.3,Serie B
 2025-04-12,Modena,Sassuolo,1,3,0.8,0.9,Serie B
-2025-04-13,Cesena,Frosinone,1,1,1.2,1.2,Serie B
 2025-04-13,Cremonese,Juve Stabia,1,1,0.8,0.2,Serie B
+2025-04-13,Cesena,Frosinone,1,1,1.2,1.2,Serie B
 2025-04-13,Mantova,Spezia,2,2,1.8,1.0,Serie B
 2025-04-25,Frosinone,Spezia,2,2,1.0,1.4,Serie B
-2025-04-25,Salernitana,Cosenza,3,1,2.3,1.0,Serie B
 2025-04-25,Brescia,Pisa,1,2,0.3,0.8,Serie B
 2025-04-25,Carrarese,Sampdoria,1,0,0.8,0.7,Serie B
-2025-04-25,Reggiana,Cittadella,2,1,1.1,1.2,Serie B
+2025-04-25,Salernitana,Cosenza,3,1,2.3,1.0,Serie B
 2025-04-25,Bari,Modena,1,2,1.8,2.4,Serie B
+2025-04-25,Reggiana,Cittadella,2,1,1.1,1.2,Serie B
 2025-04-25,Cremonese,Mantova,4,2,3.0,1.1,Serie B
 2025-04-25,Cesena,Sassuolo,0,2,0.8,2.0,Serie B
-2025-04-27,Catanzaro,Palermo,1,3,1.5,1.6,Serie B
 2025-04-27,Südtirol,Juve Stabia,2,0,1.3,0.9,Serie B
+2025-04-27,Catanzaro,Palermo,1,3,1.5,1.6,Serie B
 2025-05-01,Juve Stabia,Catanzaro,2,0,2.2,0.7,Serie B
-2025-05-01,Sampdoria,Cremonese,0,0,0.7,0.7,Serie B
-2025-05-01,Cosenza,Bari,1,0,1.6,1.0,Serie B
+2025-05-01,Pisa,Frosinone,1,0,1.0,0.3,Serie B
 2025-05-01,Mantova,Cesena,3,0,1.2,0.3,Serie B
 2025-05-01,Modena,Reggiana,2,3,0.4,1.0,Serie B
-2025-05-01,Pisa,Frosinone,1,0,1.0,0.3,Serie B
+2025-05-01,Cosenza,Bari,1,0,1.6,1.0,Serie B
+2025-05-01,Sampdoria,Cremonese,0,0,0.7,0.7,Serie B
 2025-05-01,Spezia,Salernitana,2,0,2.0,0.7,Serie B
 2025-05-01,Palermo,Südtirol,1,2,1.1,1.9,Serie B
 2025-05-01,Cittadella,Brescia,0,1,0.8,0.4,Serie B
 2025-05-01,Sassuolo,Carrarese,2,0,1.4,0.9,Serie B
-2025-05-04,Carrarese,Modena,2,1,1.1,1.5,Serie B
+2025-05-04,Catanzaro,Sampdoria,2,2,1.8,0.7,Serie B
 2025-05-04,Salernitana,Mantova,2,0,0.9,0.5,Serie B
 2025-05-04,Reggiana,Spezia,2,1,0.5,0.7,Serie B
-2025-05-04,Cesena,Palermo,2,1,1.2,2.6,Serie B
-2025-05-04,Südtirol,Cosenza,2,1,1.1,1.6,Serie B
-2025-05-04,Catanzaro,Sampdoria,2,2,1.8,0.7,Serie B
 2025-05-04,Frosinone,Cittadella,1,1,2.5,0.8,Serie B
+2025-05-04,Cesena,Palermo,2,1,1.2,2.6,Serie B
+2025-05-04,Carrarese,Modena,2,1,1.1,1.5,Serie B
 2025-05-04,Brescia,Juve Stabia,0,0,0.7,0.2,Serie B
 2025-05-04,Bari,Pisa,1,0,0.5,0.9,Serie B
+2025-05-04,Südtirol,Cosenza,2,1,1.1,1.6,Serie B
 2025-05-04,Cremonese,Sassuolo,1,1,0.9,0.3,Serie B
 2025-05-09,Sassuolo,Catanzaro,0,2,0.8,0.5,Serie B
-2025-05-09,Mantova,Carrarese,2,1,1.8,1.1,Serie B
 2025-05-09,Modena,Brescia,2,2,0.9,1.5,Serie B
 2025-05-09,Spezia,Cremonese,2,3,2.0,1.9,Serie B
-2025-05-09,Juve Stabia,Reggiana,1,2,1.9,1.1,Serie B
 2025-05-09,Pisa,Südtirol,3,3,1.5,2.0,Serie B
-2025-05-09,Palermo,Frosinone,2,0,1.2,1.6,Serie B
-2025-05-09,Cittadella,Bari,3,1,1.9,1.1,Serie B
-2025-05-09,Sampdoria,Salernitana,1,0,0.7,0.7,Serie B
+2025-05-09,Juve Stabia,Reggiana,1,2,1.9,1.1,Serie B
+2025-05-09,Mantova,Carrarese,2,1,1.8,1.1,Serie B
 2025-05-09,Cosenza,Cesena,0,1,0.9,0.2,Serie B
+2025-05-09,Cittadella,Bari,3,1,1.9,1.1,Serie B
+2025-05-09,Palermo,Frosinone,2,0,1.2,1.6,Serie B
+2025-05-09,Sampdoria,Salernitana,1,0,0.7,0.7,Serie B
+2025-05-13,Spezia,Cosenza,3,1,2.2,2.4,Serie B
+2025-05-13,Pisa,Cremonese,2,1,1.3,0.9,Serie B
+2025-05-13,Palermo,Carrarese,1,1,1.6,0.6,Serie B
+2025-05-13,Juve Stabia,Sampdoria,0,0,1.1,1.3,Serie B
+2025-05-13,Südtirol,Bari,0,0,1.0,2.3,Serie B
 2025-05-13,Mantova,Catanzaro,0,0,0.9,0.2,Serie B
 2025-05-13,Cittadella,Salernitana,0,2,0.9,1.5,Serie B
-2025-05-13,Südtirol,Bari,0,0,1.0,2.3,Serie B
-2025-05-13,Palermo,Carrarese,1,1,1.6,0.6,Serie B
+2025-05-13,Sassuolo,Frosinone,0,1,0.8,2.2,Serie B
 2025-05-13,Modena,Cesena,0,1,0.8,0.7,Serie B
 2025-05-13,Brescia,Reggiana,2,1,1.7,1.4,Serie B
-2025-05-13,Pisa,Cremonese,2,1,1.3,0.9,Serie B
-2025-05-13,Sassuolo,Frosinone,0,1,0.8,2.2,Serie B
-2025-05-13,Juve Stabia,Sampdoria,0,0,1.0,1.1,Serie B
-2025-05-13,Spezia,Cosenza,3,1,2.2,2.4,Serie B
 2025-05-17,Catanzaro,Cesena,1,0,0.5,1.4,Serie B
 2025-05-17,Juve Stabia,Palermo,1,0,1.1,0.6,Serie B
 2025-05-21,Juve Stabia,Cremonese,2,1,1.7,1.4,Serie B
 2025-05-21,Catanzaro,Spezia,0,2,0.3,1.6,Serie B
+2025-05-25,Cremonese,Juve Stabia,3,0,0.9,0.2,Serie B
+2025-05-25,Spezia,Catanzaro,2,1,1.0,0.9,Serie B
+2025-05-29,Cremonese,Spezia,0,0,0.6,0.3,Serie B
+2025-06-01,Spezia,Cremonese,2,3,1.3,2.1,Serie B
+2025-06-15,Sampdoria,Salernitana,2,0,1.8,0.7,Serie B
 2024-08-09,Blackburn,Derby County,4,2,2.1,1.1,Championship
 2024-08-09,Preston,Sheffield Utd,0,2,0.6,1.0,Championship
 2024-08-10,Millwall,Watford,2,3,2.0,1.1,Championship
@@ -2394,7 +2429,7 @@ Date,Home_Team,Away_Team,Home_Score,Away_Score,Home_xG,Away_xG,League
 2025-01-01,Portsmouth,Swansea City,4,0,1.7,1.1,Championship
 2025-01-01,Cardiff City,Coventry City,1,1,1.1,2.3,Championship
 2025-01-01,Luton Town,Norwich City,0,1,1.0,0.5,Championship
-2025-01-01,West Brom,Preston,3,1,1.1,0.9,Championship
+2025-01-01,West Brom,Preston,3,1,1.1,0.8,Championship
 2025-01-01,Leeds United,Blackburn,1,1,1.2,0.5,Championship
 2025-01-01,Sheffield Weds,Derby County,4,2,2.1,2.5,Championship
 2025-01-01,Burnley,Stoke City,0,0,1.4,1.2,Championship
@@ -2660,3 +2695,780 @@ Date,Home_Team,Away_Team,Home_Score,Away_Score,Home_xG,Away_xG,League
 2025-05-09,Coventry City,Sunderland,1,2,1.7,1.5,Championship
 2025-05-12,Sheffield Utd,Bristol City,3,0,1.5,0.4,Championship
 2025-05-13,Sunderland,Coventry City,1,1,1.1,1.6,Championship
+2025-05-24,Sheffield Utd,Sunderland,1,2,1.5,0.7,Championship
+2024-08-09,Groningen,NAC Breda,4,1,2.2,1.2,Eredivisie
+2024-08-10,Feyenoord,Willem II,1,1,1.8,0.2,Eredivisie
+2024-08-10,NEC Nijmegen,Twente,1,2,0.9,2.4,Eredivisie
+2024-08-10,Almere City,AZ Alkmaar,0,1,0.4,0.9,Eredivisie
+2024-08-10,PSV Eindhoven,RKC Waalwijk,5,1,3.3,1.3,Eredivisie
+2024-08-11,Sparta R'dam,Heracles Almelo,0,0,0.5,0.5,Eredivisie
+2024-08-11,Utrecht,Zwolle,1,0,1.0,0.4,Eredivisie
+2024-08-11,Go Ahead Eag,Fortuna Sittard,0,2,1.5,0.9,Eredivisie
+2024-08-11,Ajax,Heerenveen,1,0,1.4,0.4,Eredivisie
+2024-08-16,Fortuna Sittard,Almere City,3,0,3.2,0.7,Eredivisie
+2024-08-17,Heerenveen,Utrecht,1,1,2.4,1.0,Eredivisie
+2024-08-17,Twente,Sparta R'dam,1,1,2.5,0.9,Eredivisie
+2024-08-17,AZ Alkmaar,NEC Nijmegen,1,0,1.0,0.4,Eredivisie
+2024-08-17,RKC Waalwijk,Groningen,1,2,1.1,2.2,Eredivisie
+2024-08-18,Heracles Almelo,PSV Eindhoven,1,3,1.2,2.4,Eredivisie
+2024-08-18,Willem II,Go Ahead Eag,2,0,1.2,0.8,Eredivisie
+2024-08-18,Zwolle,Feyenoord,1,5,0.6,2.5,Eredivisie
+2024-08-18,NAC Breda,Ajax,2,1,1.1,1.4,Eredivisie
+2024-08-24,NEC Nijmegen,Zwolle,1,0,1.7,0.6,Eredivisie
+2024-08-24,Almere City,PSV Eindhoven,1,7,0.3,3.4,Eredivisie
+2024-08-24,NAC Breda,Utrecht,1,2,0.9,1.9,Eredivisie
+2024-08-25,Groningen,AZ Alkmaar,0,0,0.1,1.0,Eredivisie
+2024-08-25,Sparta R'dam,Feyenoord,1,1,0.8,0.9,Eredivisie
+2024-08-25,Heracles Almelo,Willem II,1,1,1.0,0.7,Eredivisie
+2024-08-25,Go Ahead Eag,RKC Waalwijk,2,0,2.2,0.5,Eredivisie
+2024-08-30,RKC Waalwijk,AZ Alkmaar,0,3,0.1,2.9,Eredivisie
+2024-08-31,Almere City,Groningen,1,1,1.0,0.6,Eredivisie
+2024-08-31,Fortuna Sittard,NEC Nijmegen,0,3,0.9,1.2,Eredivisie
+2024-08-31,Heerenveen,NAC Breda,4,0,2.6,1.7,Eredivisie
+2024-08-31,Willem II,Sparta R'dam,1,2,0.4,0.9,Eredivisie
+2024-09-01,Utrecht,Twente,2,1,0.8,1.1,Eredivisie
+2024-09-01,Zwolle,Heracles Almelo,3,0,2.2,0.6,Eredivisie
+2024-09-01,PSV Eindhoven,Go Ahead Eag,3,0,2.1,1.2,Eredivisie
+2024-09-14,Twente,Zwolle,1,1,2.9,0.5,Eredivisie
+2024-09-14,PSV Eindhoven,NEC Nijmegen,2,0,3.0,0.1,Eredivisie
+2024-09-14,Groningen,Feyenoord,2,2,1.0,1.2,Eredivisie
+2024-09-14,NAC Breda,Fortuna Sittard,1,0,0.6,0.6,Eredivisie
+2024-09-14,AZ Alkmaar,Heerenveen,9,1,5.2,1.9,Eredivisie
+2024-09-15,Sparta R'dam,Go Ahead Eag,1,2,1.5,0.9,Eredivisie
+2024-09-15,Willem II,RKC Waalwijk,3,0,1.6,0.8,Eredivisie
+2024-09-15,Heracles Almelo,Almere City,0,0,1.4,0.5,Eredivisie
+2024-09-17,Twente,Heerenveen,2,0,3.0,0.7,Eredivisie
+2024-09-18,Ajax,Fortuna Sittard,5,0,3.0,0.1,Eredivisie
+2024-09-20,Zwolle,AZ Alkmaar,1,2,1.6,1.4,Eredivisie
+2024-09-21,Utrecht,Willem II,3,2,1.3,0.5,Eredivisie
+2024-09-21,RKC Waalwijk,Sparta R'dam,1,2,2.3,1.2,Eredivisie
+2024-09-21,Go Ahead Eag,Ajax,1,1,0.8,0.5,Eredivisie
+2024-09-21,NEC Nijmegen,Heracles Almelo,1,2,1.7,2.0,Eredivisie
+2024-09-22,Heerenveen,Groningen,2,1,1.7,0.3,Eredivisie
+2024-09-22,Feyenoord,NAC Breda,2,0,2.5,0.1,Eredivisie
+2024-09-22,Almere City,Twente,0,5,2.4,1.5,Eredivisie
+2024-09-22,Fortuna Sittard,PSV Eindhoven,1,3,0.6,1.8,Eredivisie
+2024-09-27,Heracles Almelo,Heerenveen,2,1,1.7,0.6,Eredivisie
+2024-09-28,Willem II,PSV Eindhoven,0,2,0.6,1.6,Eredivisie
+2024-09-28,NEC Nijmegen,Feyenoord,1,1,1.1,1.3,Eredivisie
+2024-09-28,Sparta R'dam,Fortuna Sittard,1,1,1.4,0.9,Eredivisie
+2024-09-29,Zwolle,Almere City,1,0,1.2,1.5,Eredivisie
+2024-09-29,Twente,NAC Breda,1,0,2.2,0.4,Eredivisie
+2024-09-29,Groningen,Go Ahead Eag,0,1,0.2,2.9,Eredivisie
+2024-09-29,RKC Waalwijk,Ajax,0,2,0.1,1.5,Eredivisie
+2024-09-29,AZ Alkmaar,Utrecht,1,2,3.0,1.2,Eredivisie
+2024-10-04,Almere City,Willem II,0,1,1.7,0.3,Eredivisie
+2024-10-05,NAC Breda,NEC Nijmegen,1,0,1.3,0.4,Eredivisie
+2024-10-05,PSV Eindhoven,Sparta R'dam,2,1,1.7,1.5,Eredivisie
+2024-10-05,Utrecht,RKC Waalwijk,3,2,1.7,0.9,Eredivisie
+2024-10-06,Go Ahead Eag,Heracles Almelo,4,1,4.2,0.5,Eredivisie
+2024-10-06,Heerenveen,Zwolle,1,1,1.8,0.4,Eredivisie
+2024-10-06,Feyenoord,Twente,2,1,0.6,0.8,Eredivisie
+2024-10-06,Ajax,Groningen,3,1,3.5,1.3,Eredivisie
+2024-10-06,Fortuna Sittard,AZ Alkmaar,1,0,2.1,0.8,Eredivisie
+2024-10-19,Sparta R'dam,Almere City,2,2,2.4,0.8,Eredivisie
+2024-10-19,AZ Alkmaar,PSV Eindhoven,1,2,0.4,1.8,Eredivisie
+2024-10-19,NEC Nijmegen,Heerenveen,3,0,1.4,0.3,Eredivisie
+2024-10-19,RKC Waalwijk,Twente,2,2,0.8,2.1,Eredivisie
+2024-10-19,Go Ahead Eag,Feyenoord,1,5,0.4,2.3,Eredivisie
+2024-10-20,Willem II,Fortuna Sittard,0,0,0.8,2.7,Eredivisie
+2024-10-20,Groningen,Utrecht,0,1,0.7,0.5,Eredivisie
+2024-10-20,Heracles Almelo,Ajax,3,4,1.0,4.1,Eredivisie
+2024-10-20,Zwolle,NAC Breda,1,2,0.8,1.6,Eredivisie
+2024-10-25,Almere City,NEC Nijmegen,1,0,1.0,1.9,Eredivisie
+2024-10-26,Fortuna Sittard,Groningen,1,0,0.7,0.4,Eredivisie
+2024-10-26,PSV Eindhoven,Zwolle,6,0,2.3,0.1,Eredivisie
+2024-10-26,NAC Breda,RKC Waalwijk,4,1,3.2,0.5,Eredivisie
+2024-10-26,Heerenveen,Sparta R'dam,2,0,0.9,0.5,Eredivisie
+2024-10-27,Utrecht,Feyenoord,0,2,0.2,1.7,Eredivisie
+2024-10-27,Twente,Heracles Almelo,5,0,2.7,0.5,Eredivisie
+2024-10-27,Ajax,Willem II,1,0,1.9,0.5,Eredivisie
+2024-10-27,AZ Alkmaar,Go Ahead Eag,2,2,1.7,1.3,Eredivisie
+2024-10-30,Feyenoord,Ajax,0,2,1.5,0.8,Eredivisie
+2024-11-02,Willem II,Twente,0,1,0.6,1.9,Eredivisie
+2024-11-02,Heracles Almelo,NAC Breda,2,0,1.4,1.0,Eredivisie
+2024-11-02,Ajax,PSV Eindhoven,3,2,2.0,1.0,Eredivisie
+2024-11-02,Fortuna Sittard,Heerenveen,3,0,0.9,0.6,Eredivisie
+2024-11-02,Feyenoord,AZ Alkmaar,3,2,2.2,1.5,Eredivisie
+2024-11-03,Go Ahead Eag,Zwolle,2,2,2.5,0.5,Eredivisie
+2024-11-03,Sparta R'dam,Utrecht,1,4,1.4,1.0,Eredivisie
+2024-11-03,NEC Nijmegen,Groningen,6,0,3.4,0.3,Eredivisie
+2024-11-03,RKC Waalwijk,Almere City,2,0,0.7,0.3,Eredivisie
+2024-11-08,Utrecht,Heracles Almelo,1,0,2.5,0.9,Eredivisie
+2024-11-09,Groningen,Sparta R'dam,1,0,1.5,0.7,Eredivisie
+2024-11-09,Zwolle,Fortuna Sittard,3,1,2.2,2.6,Eredivisie
+2024-11-09,NAC Breda,PSV Eindhoven,0,3,0.5,2.2,Eredivisie
+2024-11-09,RKC Waalwijk,NEC Nijmegen,0,3,0.7,1.5,Eredivisie
+2024-11-10,Almere City,Feyenoord,1,4,0.8,1.7,Eredivisie
+2024-11-10,Heerenveen,Go Ahead Eag,1,0,0.2,1.0,Eredivisie
+2024-11-10,Twente,Ajax,2,2,1.8,2.9,Eredivisie
+2024-11-10,AZ Alkmaar,Willem II,1,2,2.0,0.8,Eredivisie
+2024-11-23,Go Ahead Eag,Almere City,3,0,2.7,0.5,Eredivisie
+2024-11-23,Feyenoord,Heerenveen,3,0,2.7,0.3,Eredivisie
+2024-11-23,Heracles Almelo,RKC Waalwijk,2,2,2.7,2.4,Eredivisie
+2024-11-23,Fortuna Sittard,Twente,1,2,1.2,0.8,Eredivisie
+2024-11-23,PSV Eindhoven,Groningen,5,0,4.2,0.2,Eredivisie
+2024-11-24,NEC Nijmegen,Utrecht,1,2,1.3,0.6,Eredivisie
+2024-11-24,Sparta R'dam,AZ Alkmaar,1,2,1.0,0.1,Eredivisie
+2024-11-24,Willem II,NAC Breda,2,2,2.0,1.3,Eredivisie
+2024-11-24,Ajax,Zwolle,2,0,1.5,1.3,Eredivisie
+2024-11-29,Heerenveen,RKC Waalwijk,1,1,0.8,1.1,Eredivisie
+2024-11-30,NAC Breda,Almere City,1,0,0.7,0.4,Eredivisie
+2024-11-30,Groningen,Willem II,2,0,1.3,0.3,Eredivisie
+2024-11-30,Feyenoord,Fortuna Sittard,1,1,1.8,1.2,Eredivisie
+2024-11-30,Zwolle,Sparta R'dam,1,0,1.1,1.3,Eredivisie
+2024-12-01,Utrecht,PSV Eindhoven,2,5,1.5,2.7,Eredivisie
+2024-12-01,Twente,Go Ahead Eag,3,2,2.1,1.3,Eredivisie
+2024-12-01,AZ Alkmaar,Heracles Almelo,1,0,1.5,0.7,Eredivisie
+2024-12-01,NEC Nijmegen,Ajax,1,2,3.1,0.9,Eredivisie
+2024-12-04,Ajax,Utrecht,2,2,0.7,1.2,Eredivisie
+2024-12-06,PSV Eindhoven,Twente,6,1,2.7,1.1,Eredivisie
+2024-12-07,Go Ahead Eag,NEC Nijmegen,5,0,1.9,0.7,Eredivisie
+2024-12-07,Sparta R'dam,NAC Breda,0,2,1.5,1.6,Eredivisie
+2024-12-07,RKC Waalwijk,Feyenoord,2,3,1.1,2.2,Eredivisie
+2024-12-07,Heracles Almelo,Fortuna Sittard,2,2,1.4,0.7,Eredivisie
+2024-12-08,Groningen,Zwolle,0,0,1.2,0.8,Eredivisie
+2024-12-08,AZ Alkmaar,Ajax,2,1,2.0,0.3,Eredivisie
+2024-12-08,Willem II,Heerenveen,1,2,0.7,1.7,Eredivisie
+2024-12-08,Almere City,Utrecht,1,3,1.3,1.6,Eredivisie
+2024-12-13,Zwolle,Willem II,0,1,1.5,0.6,Eredivisie
+2024-12-14,Heerenveen,PSV Eindhoven,1,0,1.1,1.1,Eredivisie
+2024-12-14,Fortuna Sittard,RKC Waalwijk,3,2,3.0,1.8,Eredivisie
+2024-12-14,Feyenoord,Heracles Almelo,5,2,3.2,1.1,Eredivisie
+2024-12-15,Utrecht,Go Ahead Eag,3,3,3.8,1.1,Eredivisie
+2024-12-15,NEC Nijmegen,Sparta R'dam,1,1,1.7,1.3,Eredivisie
+2024-12-15,Twente,Groningen,2,0,1.1,0.4,Eredivisie
+2024-12-15,Ajax,Almere City,3,0,1.5,0.1,Eredivisie
+2024-12-15,NAC Breda,AZ Alkmaar,1,2,0.7,1.5,Eredivisie
+2024-12-20,RKC Waalwijk,Zwolle,1,1,2.5,1.4,Eredivisie
+2024-12-21,Go Ahead Eag,NAC Breda,2,1,2.9,1.2,Eredivisie
+2024-12-21,Almere City,Heerenveen,3,0,1.1,1.3,Eredivisie
+2024-12-21,AZ Alkmaar,Twente,1,0,1.3,0.4,Eredivisie
+2024-12-22,Sparta R'dam,Ajax,0,2,0.6,1.3,Eredivisie
+2024-12-22,PSV Eindhoven,Feyenoord,3,0,1.6,1.7,Eredivisie
+2024-12-22,Utrecht,Fortuna Sittard,2,5,1.8,1.8,Eredivisie
+2024-12-22,Willem II,NEC Nijmegen,4,1,2.0,1.6,Eredivisie
+2025-01-10,Fortuna Sittard,Go Ahead Eag,0,3,1.0,3.0,Eredivisie
+2025-01-11,Heracles Almelo,Sparta R'dam,1,1,1.2,2.8,Eredivisie
+2025-01-11,Ajax,RKC Waalwijk,2,1,2.5,0.9,Eredivisie
+2025-01-11,Zwolle,NEC Nijmegen,0,1,0.4,1.0,Eredivisie
+2025-01-11,PSV Eindhoven,AZ Alkmaar,2,2,2.2,1.4,Eredivisie
+2025-01-12,Twente,Willem II,6,2,3.2,1.0,Eredivisie
+2025-01-12,Feyenoord,Utrecht,1,2,2.2,1.7,Eredivisie
+2025-01-12,Groningen,Almere City,0,0,1.3,0.3,Eredivisie
+2025-01-12,NAC Breda,Heerenveen,2,4,1.1,1.7,Eredivisie
+2025-01-18,Zwolle,PSV Eindhoven,3,1,1.2,3.2,Eredivisie
+2025-01-18,Utrecht,AZ Alkmaar,0,0,0.7,1.1,Eredivisie
+2025-01-18,Willem II,Feyenoord,1,1,0.4,0.9,Eredivisie
+2025-01-18,Go Ahead Eag,Groningen,2,1,1.1,1.1,Eredivisie
+2025-01-19,NAC Breda,Twente,2,1,1.1,1.8,Eredivisie
+2025-01-19,Almere City,Heracles Almelo,0,2,0.8,1.0,Eredivisie
+2025-01-19,Heerenveen,Ajax,0,2,0.6,2.5,Eredivisie
+2025-01-19,NEC Nijmegen,Fortuna Sittard,4,1,1.0,0.2,Eredivisie
+2025-01-19,Sparta R'dam,RKC Waalwijk,1,1,1.4,2.9,Eredivisie
+2025-01-24,Heracles Almelo,Utrecht,1,1,1.4,1.0,Eredivisie
+2025-01-25,PSV Eindhoven,NAC Breda,3,2,2.6,1.1,Eredivisie
+2025-01-25,Groningen,Heerenveen,1,0,0.7,0.9,Eredivisie
+2025-01-26,Fortuna Sittard,Zwolle,1,4,1.4,2.0,Eredivisie
+2025-01-26,RKC Waalwijk,Willem II,2,0,0.5,0.6,Eredivisie
+2025-01-26,AZ Alkmaar,Sparta R'dam,1,2,1.1,0.9,Eredivisie
+2025-01-28,Heracles Almelo,Groningen,1,1,1.8,1.1,Eredivisie
+2025-01-31,NAC Breda,Heracles Almelo,1,1,1.2,1.2,Eredivisie
+2025-02-01,Zwolle,Utrecht,3,3,0.6,2.6,Eredivisie
+2025-02-01,Heerenveen,Fortuna Sittard,2,2,3.2,1.0,Eredivisie
+2025-02-01,NEC Nijmegen,PSV Eindhoven,3,3,2.6,2.4,Eredivisie
+2025-02-02,Almere City,RKC Waalwijk,1,4,1.5,2.2,Eredivisie
+2025-02-02,Go Ahead Eag,Twente,2,2,1.4,2.0,Eredivisie
+2025-02-02,Ajax,Feyenoord,2,1,3.5,0.8,Eredivisie
+2025-02-02,Sparta R'dam,Groningen,1,0,0.7,1.1,Eredivisie
+2025-02-02,Willem II,AZ Alkmaar,0,2,0.3,2.4,Eredivisie
+2025-02-08,Heracles Almelo,Go Ahead Eag,4,2,2.3,1.0,Eredivisie
+2025-02-08,PSV Eindhoven,Willem II,1,1,1.2,0.7,Eredivisie
+2025-02-08,Groningen,NEC Nijmegen,2,1,2.1,0.8,Eredivisie
+2025-02-08,Feyenoord,Sparta R'dam,3,0,1.8,0.8,Eredivisie
+2025-02-09,Utrecht,Almere City,0,1,1.0,0.9,Eredivisie
+2025-02-09,RKC Waalwijk,NAC Breda,5,0,3.6,1.2,Eredivisie
+2025-02-09,Fortuna Sittard,Ajax,0,2,0.7,2.0,Eredivisie
+2025-02-09,AZ Alkmaar,Zwolle,2,0,1.5,0.7,Eredivisie
+2025-02-09,Heerenveen,Twente,3,3,1.8,1.1,Eredivisie
+2025-02-14,Go Ahead Eag,Sparta R'dam,1,0,1.0,0.8,Eredivisie
+2025-02-15,PSV Eindhoven,Utrecht,2,2,3.4,1.6,Eredivisie
+2025-02-15,NAC Breda,Feyenoord,0,0,2.0,1.8,Eredivisie
+2025-02-15,Willem II,Groningen,1,3,1.1,1.8,Eredivisie
+2025-02-16,NEC Nijmegen,Almere City,2,2,0.9,0.7,Eredivisie
+2025-02-16,Twente,RKC Waalwijk,2,0,1.6,0.9,Eredivisie
+2025-02-16,Zwolle,Heerenveen,1,1,0.9,1.1,Eredivisie
+2025-02-16,Ajax,Heracles Almelo,4,0,2.6,0.5,Eredivisie
+2025-02-22,Feyenoord,Almere City,2,1,1.9,1.1,Eredivisie
+2025-02-23,Twente,NEC Nijmegen,2,0,1.4,1.1,Eredivisie
+2025-02-23,Ajax,Go Ahead Eag,2,0,2.1,0.2,Eredivisie
+2025-02-23,AZ Alkmaar,Fortuna Sittard,1,0,1.6,0.6,Eredivisie
+2025-02-28,RKC Waalwijk,Fortuna Sittard,1,2,1.2,2.3,Eredivisie
+2025-03-01,Utrecht,NAC Breda,1,0,2.5,0.5,Eredivisie
+2025-03-01,Go Ahead Eag,PSV Eindhoven,3,2,1.6,1.2,Eredivisie
+2025-03-01,Groningen,Twente,1,1,1.1,1.4,Eredivisie
+2025-03-01,Feyenoord,NEC Nijmegen,0,0,1.0,0.2,Eredivisie
+2025-03-02,Heerenveen,AZ Alkmaar,3,1,2.0,1.3,Eredivisie
+2025-03-02,Heracles Almelo,Zwolle,4,2,2.8,0.9,Eredivisie
+2025-03-02,Almere City,Ajax,0,1,0.7,0.6,Eredivisie
+2025-03-02,Sparta R'dam,Willem II,4,0,2.5,0.4,Eredivisie
+2025-03-07,NAC Breda,Sparta R'dam,1,1,0.5,1.2,Eredivisie
+2025-03-08,Fortuna Sittard,Heracles Almelo,1,0,2.4,0.2,Eredivisie
+2025-03-08,PSV Eindhoven,Heerenveen,2,1,2.7,0.7,Eredivisie
+2025-03-09,Willem II,Utrecht,2,3,1.3,1.5,Eredivisie
+2025-03-09,Zwolle,Ajax,0,1,0.8,2.7,Eredivisie
+2025-03-09,NEC Nijmegen,Go Ahead Eag,2,3,0.7,2.8,Eredivisie
+2025-03-09,Twente,Almere City,1,0,1.8,0.6,Eredivisie
+2025-03-14,Almere City,NAC Breda,1,1,1.5,1.1,Eredivisie
+2025-03-15,Utrecht,NEC Nijmegen,0,1,1.8,1.5,Eredivisie
+2025-03-15,Sparta R'dam,Zwolle,1,1,1.8,1.1,Eredivisie
+2025-03-15,RKC Waalwijk,PSV Eindhoven,0,3,0.2,2.1,Eredivisie
+2025-03-15,Heerenveen,Heracles Almelo,1,1,1.0,0.6,Eredivisie
+2025-03-16,Go Ahead Eag,Willem II,1,0,1.1,0.2,Eredivisie
+2025-03-16,Groningen,Fortuna Sittard,1,0,1.2,0.3,Eredivisie
+2025-03-16,Twente,Feyenoord,2,6,1.0,3.7,Eredivisie
+2025-03-16,Ajax,AZ Alkmaar,2,2,2.3,0.8,Eredivisie
+2025-03-29,NAC Breda,Groningen,1,1,2.0,1.2,Eredivisie
+2025-03-29,Willem II,Almere City,0,2,0.7,1.9,Eredivisie
+2025-03-29,Fortuna Sittard,Sparta R'dam,0,3,1.1,1.7,Eredivisie
+2025-03-29,Zwolle,RKC Waalwijk,2,0,2.6,0.4,Eredivisie
+2025-03-29,NEC Nijmegen,AZ Alkmaar,3,3,1.3,0.9,Eredivisie
+2025-03-30,Utrecht,Heerenveen,2,0,1.3,1.3,Eredivisie
+2025-03-30,PSV Eindhoven,Ajax,0,2,1.2,0.9,Eredivisie
+2025-03-30,Heracles Almelo,Twente,2,1,1.6,1.0,Eredivisie
+2025-03-30,Feyenoord,Go Ahead Eag,3,2,1.7,0.7,Eredivisie
+2025-04-01,AZ Alkmaar,RKC Waalwijk,2,2,2.4,0.8,Eredivisie
+2025-04-02,Feyenoord,Groningen,4,1,1.2,0.8,Eredivisie
+2025-04-04,Heerenveen,Willem II,3,1,1.4,1.1,Eredivisie
+2025-04-05,AZ Alkmaar,Feyenoord,0,1,1.0,0.3,Eredivisie
+2025-04-05,Twente,Fortuna Sittard,1,1,1.9,0.8,Eredivisie
+2025-04-05,Groningen,PSV Eindhoven,1,3,0.8,1.4,Eredivisie
+2025-04-05,Almere City,Zwolle,2,2,3.1,1.2,Eredivisie
+2025-04-06,RKC Waalwijk,Heracles Almelo,0,0,1.7,1.3,Eredivisie
+2025-04-06,Sparta R'dam,NEC Nijmegen,2,0,0.7,0.9,Eredivisie
+2025-04-06,Go Ahead Eag,Utrecht,2,2,1.9,1.0,Eredivisie
+2025-04-06,Ajax,NAC Breda,3,1,2.0,0.7,Eredivisie
+2025-04-11,NEC Nijmegen,RKC Waalwijk,2,1,1.5,1.1,Eredivisie
+2025-04-12,Fortuna Sittard,Feyenoord,0,2,0.4,1.7,Eredivisie
+2025-04-12,Sparta R'dam,Heerenveen,3,1,2.7,1.3,Eredivisie
+2025-04-12,PSV Eindhoven,Almere City,5,0,5.4,0.7,Eredivisie
+2025-04-12,NAC Breda,Go Ahead Eag,1,1,1.7,1.1,Eredivisie
+2025-04-13,Utrecht,Groningen,3,1,1.4,0.8,Eredivisie
+2025-04-13,Zwolle,Twente,1,1,1.7,0.8,Eredivisie
+2025-04-13,Heracles Almelo,AZ Alkmaar,1,0,1.0,0.6,Eredivisie
+2025-04-13,Willem II,Ajax,1,2,0.5,2.5,Eredivisie
+2025-04-19,Heerenveen,Almere City,2,1,1.3,0.9,Eredivisie
+2025-04-20,Utrecht,Ajax,4,0,0.9,0.8,Eredivisie
+2025-04-23,Groningen,Heracles Almelo,4,1,1.9,0.3,Eredivisie
+2025-04-24,AZ Alkmaar,NAC Breda,1,1,1.3,0.5,Eredivisie
+2025-04-24,Twente,PSV Eindhoven,1,3,0.8,2.2,Eredivisie
+2025-04-25,RKC Waalwijk,Utrecht,0,4,0.7,2.2,Eredivisie
+2025-04-25,Feyenoord,Zwolle,4,0,1.3,1.5,Eredivisie
+2025-04-27,Fortuna Sittard,Willem II,1,0,1.6,0.3,Eredivisie
+2025-04-27,Ajax,Sparta R'dam,1,1,3.1,1.1,Eredivisie
+2025-04-27,Heerenveen,NEC Nijmegen,1,0,1.6,0.6,Eredivisie
+2025-04-27,Almere City,Go Ahead Eag,0,0,1.8,0.3,Eredivisie
+2025-05-03,NEC Nijmegen,Willem II,1,1,2.3,0.6,Eredivisie
+2025-05-03,Heracles Almelo,Feyenoord,1,4,1.5,2.5,Eredivisie
+2025-05-03,Groningen,RKC Waalwijk,6,1,3.6,1.0,Eredivisie
+2025-05-03,PSV Eindhoven,Fortuna Sittard,4,1,3.4,0.3,Eredivisie
+2025-05-04,NAC Breda,Zwolle,1,3,0.9,1.5,Eredivisie
+2025-05-04,Go Ahead Eag,AZ Alkmaar,0,3,0.8,1.5,Eredivisie
+2025-05-04,Sparta R'dam,Twente,0,2,1.0,0.7,Eredivisie
+2025-05-09,Willem II,Heracles Almelo,1,2,0.8,2.7,Eredivisie
+2025-05-10,RKC Waalwijk,Heerenveen,3,1,1.3,0.9,Eredivisie
+2025-05-10,Fortuna Sittard,NAC Breda,1,0,1.5,0.7,Eredivisie
+2025-05-10,Almere City,Sparta R'dam,0,3,1.4,1.8,Eredivisie
+2025-05-11,Zwolle,Go Ahead Eag,1,1,1.9,1.0,Eredivisie
+2025-05-11,Twente,Utrecht,2,0,1.1,0.9,Eredivisie
+2025-05-11,Feyenoord,PSV Eindhoven,2,3,1.5,2.7,Eredivisie
+2025-05-11,AZ Alkmaar,Groningen,3,0,3.5,0.6,Eredivisie
+2025-05-11,Ajax,NEC Nijmegen,0,3,2.5,0.8,Eredivisie
+2025-05-14,PSV Eindhoven,Heracles Almelo,4,1,4.1,0.5,Eredivisie
+2025-05-14,Twente,AZ Alkmaar,2,3,2.1,2.2,Eredivisie
+2025-05-14,Utrecht,Sparta R'dam,1,1,2.4,1.1,Eredivisie
+2025-05-14,Willem II,Zwolle,1,2,1.0,1.1,Eredivisie
+2025-05-14,Groningen,Ajax,2,2,1.9,1.1,Eredivisie
+2025-05-14,Almere City,Fortuna Sittard,1,1,1.0,1.1,Eredivisie
+2025-05-14,Go Ahead Eag,Heerenveen,1,0,1.6,1.1,Eredivisie
+2025-05-14,Feyenoord,RKC Waalwijk,2,0,3.6,0.2,Eredivisie
+2025-05-14,NEC Nijmegen,NAC Breda,3,0,2.1,0.7,Eredivisie
+2025-05-18,AZ Alkmaar,Almere City,1,1,1.8,0.4,Eredivisie
+2025-05-18,Heracles Almelo,NEC Nijmegen,1,2,1.4,1.4,Eredivisie
+2025-05-18,RKC Waalwijk,Go Ahead Eag,5,3,3.1,4.3,Eredivisie
+2025-05-18,Ajax,Twente,2,0,1.9,0.7,Eredivisie
+2025-05-18,Sparta R'dam,PSV Eindhoven,1,3,0.8,2.8,Eredivisie
+2025-05-18,Heerenveen,Feyenoord,2,0,1.9,1.7,Eredivisie
+2025-05-18,Fortuna Sittard,Utrecht,0,0,0.6,0.9,Eredivisie
+2025-05-18,Zwolle,Groningen,2,0,1.5,0.6,Eredivisie
+2025-05-18,NAC Breda,Willem II,1,1,2.8,1.5,Eredivisie
+2025-05-22,AZ Alkmaar,Heerenveen,4,1,3.3,0.6,Eredivisie
+2025-05-22,Twente,NEC Nijmegen,3,2,1.3,3.1,Eredivisie
+2025-05-25,AZ Alkmaar,Twente,3,2,2.7,2.2,Eredivisie
+2025-03-29,São Paulo,Sport Recife,0,0,2.4,0.4,Brazil Serie A
+2025-03-29,Fortaleza,Fluminense,2,0,0.9,0.9,Brazil Serie A
+2025-03-29,Cruzeiro,Mirassol,2,1,1.2,1.7,Brazil Serie A
+2025-03-29,Grêmio,Atlético Mineiro,2,1,0.8,2.9,Brazil Serie A
+2025-03-29,Juventude,Vitória,2,0,0.7,0.6,Brazil Serie A
+2025-03-30,Palmeiras,Botafogo (RJ),0,0,1.3,0.9,Brazil Serie A
+2025-03-30,Vasco da Gama,Santos,2,1,1.3,2.0,Brazil Serie A
+2025-03-30,Bahia,Corinthians,1,1,1.4,0.5,Brazil Serie A
+2025-03-29,Flamengo,Internacional,1,1,1.8,0.4,Brazil Serie A
+2025-03-31,RB Bragantino,Ceará,2,2,1.2,0.9,Brazil Serie A
+2025-04-05,Corinthians,Vasco da Gama,3,0,1.0,0.6,Brazil Serie A
+2025-04-05,Ceará,Grêmio,2,0,1.3,0.9,Brazil Serie A
+2025-04-06,Fluminense,RB Bragantino,2,1,2.0,0.7,Brazil Serie A
+2025-04-06,Atlético Mineiro,São Paulo,0,0,1.4,0.3,Brazil Serie A
+2025-04-06,Sport Recife,Palmeiras,1,2,0.5,2.0,Brazil Serie A
+2025-04-06,Mirassol,Fortaleza,1,1,1.9,1.0,Brazil Serie A
+2025-04-06,Vitória,Flamengo,1,2,0.3,1.6,Brazil Serie A
+2025-04-06,Internacional,Cruzeiro,3,0,2.4,0.3,Brazil Serie A
+2025-04-06,Santos,Bahia,2,2,1.3,2.2,Brazil Serie A
+2025-04-05,Botafogo (RJ),Juventude,2,0,1.7,0.6,Brazil Serie A
+2025-04-12,RB Bragantino,Botafogo (RJ),1,0,2.0,0.7,Brazil Serie A
+2025-04-12,Juventude,Ceará,2,1,2.0,1.3,Brazil Serie A
+2025-04-12,Palmeiras,Corinthians,2,0,1.4,0.3,Brazil Serie A
+2025-04-13,Bahia,Mirassol,1,1,1.7,0.5,Brazil Serie A
+2025-04-13,São Paulo,Cruzeiro,1,1,0.4,1.1,Brazil Serie A
+2025-04-13,Grêmio,Flamengo,0,2,0.3,1.0,Brazil Serie A
+2025-04-13,Fluminense,Santos,1,0,0.7,0.1,Brazil Serie A
+2025-04-13,Fortaleza,Internacional,0,0,0.6,0.3,Brazil Serie A
+2025-04-13,Atlético Mineiro,Vitória,2,2,1.8,1.3,Brazil Serie A
+2025-04-12,Vasco da Gama,Sport Recife,3,1,1.3,1.0,Brazil Serie A
+2025-04-16,Botafogo (RJ),São Paulo,2,2,1.5,1.1,Brazil Serie A
+2025-04-16,Sport Recife,RB Bragantino,0,1,0.8,1.4,Brazil Serie A
+2025-04-16,Mirassol,Grêmio,4,1,1.6,0.8,Brazil Serie A
+2025-04-16,Internacional,Palmeiras,0,1,1.0,0.9,Brazil Serie A
+2025-04-16,Corinthians,Fluminense,0,2,0.8,1.2,Brazil Serie A
+2025-04-15,Ceará,Vasco da Gama,2,1,2.0,1.0,Brazil Serie A
+2025-04-16,Santos,Atlético Mineiro,2,0,1.7,0.8,Brazil Serie A
+2025-04-16,Flamengo,Juventude,6,0,3.2,0.2,Brazil Serie A
+2025-04-16,Vitória,Fortaleza,2,1,0.9,1.1,Brazil Serie A
+2025-04-17,Cruzeiro,Bahia,3,0,2.3,0.3,Brazil Serie A
+2025-04-19,Corinthians,Sport Recife,2,1,2.2,0.4,Brazil Serie A
+2025-04-19,Vasco da Gama,Flamengo,0,0,0.6,2.0,Brazil Serie A
+2025-04-20,Juventude,Mirassol,2,2,1.3,2.3,Brazil Serie A
+2025-04-20,São Paulo,Santos,2,1,1.7,1.4,Brazil Serie A
+2025-04-20,Atlético Mineiro,Botafogo (RJ),1,0,0.8,0.3,Brazil Serie A
+2025-04-20,Fortaleza,Palmeiras,1,2,1.2,1.0,Brazil Serie A
+2025-04-20,Fluminense,Vitória,1,1,1.1,0.6,Brazil Serie A
+2025-04-20,RB Bragantino,Cruzeiro,1,0,1.7,0.8,Brazil Serie A
+2025-04-19,Grêmio,Internacional,1,1,1.1,2.0,Brazil Serie A
+2025-04-21,Bahia,Ceará,1,0,1.7,1.2,Brazil Serie A
+2025-04-26,Internacional,Juventude,3,1,1.3,0.3,Brazil Serie A
+2025-04-26,Ceará,São Paulo,1,1,0.5,0.8,Brazil Serie A
+2025-04-26,Mirassol,Atlético Mineiro,2,2,1.8,1.6,Brazil Serie A
+2025-04-26,Sport Recife,Fortaleza,0,0,1.3,0.8,Brazil Serie A
+2025-04-27,Flamengo,Corinthians,4,0,2.2,0.3,Brazil Serie A
+2025-04-27,Palmeiras,Bahia,0,1,1.4,0.6,Brazil Serie A
+2025-04-27,Vitória,Grêmio,1,1,1.3,1.5,Brazil Serie A
+2025-04-27,Cruzeiro,Vasco da Gama,1,0,0.8,0.8,Brazil Serie A
+2025-04-27,Santos,RB Bragantino,1,2,1.1,1.4,Brazil Serie A
+2025-04-26,Botafogo (RJ),Fluminense,2,0,0.9,0.3,Brazil Serie A
+2025-05-03,Fluminense,Sport Recife,2,1,1.9,1.0,Brazil Serie A
+2025-05-03,Corinthians,Internacional,4,2,3.5,0.9,Brazil Serie A
+2025-05-03,Ceará,Vitória,1,0,1.2,0.7,Brazil Serie A
+2025-05-02,São Paulo,Fortaleza,0,0,1.8,1.0,Brazil Serie A
+2025-05-04,Vasco da Gama,Palmeiras,0,1,0.8,1.6,Brazil Serie A
+2025-05-04,Grêmio,Santos,1,0,0.6,0.6,Brazil Serie A
+2025-05-04,Cruzeiro,Flamengo,2,1,1.2,0.3,Brazil Serie A
+2025-05-03,Bahia,Botafogo (RJ),1,0,2.1,1.5,Brazil Serie A
+2025-05-05,RB Bragantino,Mirassol,1,0,0.8,0.5,Brazil Serie A
+2025-05-05,Juventude,Atlético Mineiro,0,1,0.7,1.3,Brazil Serie A
+2025-05-10,Fortaleza,Juventude,5,0,2.7,0.1,Brazil Serie A
+2025-05-10,Vitória,Vasco da Gama,2,1,1.5,0.7,Brazil Serie A
+2025-05-10,Grêmio,RB Bragantino,1,1,0.6,1.0,Brazil Serie A
+2025-05-10,Mirassol,Corinthians,2,1,2.6,1.2,Brazil Serie A
+2025-05-11,Sport Recife,Cruzeiro,0,4,1.0,1.4,Brazil Serie A
+2025-05-11,Atlético Mineiro,Fluminense,3,2,2.3,0.7,Brazil Serie A
+2025-05-11,Palmeiras,São Paulo,1,0,1.4,0.9,Brazil Serie A
+2025-05-11,Botafogo (RJ),Internacional,4,0,1.2,1.0,Brazil Serie A
+2025-05-10,Flamengo,Bahia,1,0,1.5,0.5,Brazil Serie A
+2025-05-12,Santos,Ceará,0,0,0.6,0.7,Brazil Serie A
+2025-05-17,Ceará,Sport Recife,2,0,0.5,0.4,Brazil Serie A
+2025-05-17,Vasco da Gama,Fortaleza,3,0,1.7,0.8,Brazil Serie A
+2025-05-18,Bahia,Vitória,2,1,0.6,2.4,Brazil Serie A
+2025-05-18,Corinthians,Santos,1,0,0.7,0.7,Brazil Serie A
+2025-05-18,Juventude,Fluminense,1,1,0.5,2.1,Brazil Serie A
+2025-05-18,RB Bragantino,Palmeiras,1,2,0.4,0.7,Brazil Serie A
+2025-05-18,Flamengo,Botafogo (RJ),0,0,0.7,0.5,Brazil Serie A
+2025-05-18,Cruzeiro,Atlético Mineiro,0,0,1.4,0.2,Brazil Serie A
+2025-05-18,Internacional,Mirassol,1,1,3.0,1.3,Brazil Serie A
+2025-05-17,São Paulo,Grêmio,2,1,2.6,1.1,Brazil Serie A
+2025-05-24,São Paulo,Mirassol,0,2,0.7,0.9,Brazil Serie A
+2025-05-24,Fluminense,Vasco da Gama,2,1,1.1,1.0,Brazil Serie A
+2025-05-25,Grêmio,Bahia,1,0,1.1,1.2,Brazil Serie A
+2025-05-25,Palmeiras,Flamengo,0,2,1.9,1.7,Brazil Serie A
+2025-05-25,Sport Recife,Internacional,1,1,0.8,1.3,Brazil Serie A
+2025-05-25,Vitória,Santos,0,1,1.5,1.1,Brazil Serie A
+2025-05-25,Fortaleza,Cruzeiro,0,2,0.7,2.3,Brazil Serie A
+2025-05-24,Atlético Mineiro,Corinthians,0,0,1.2,0.4,Brazil Serie A
+2025-05-26,RB Bragantino,Juventude,1,0,1.0,0.2,Brazil Serie A
+2025-05-31,Bahia,São Paulo,2,1,2.4,1.9,Brazil Serie A
+2025-06-01,Mirassol,Sport Recife,1,0,1.1,0.7,Brazil Serie A
+2025-06-01,Santos,Botafogo (RJ),0,1,1.0,0.5,Brazil Serie A
+2025-06-01,Juventude,Grêmio,0,2,0.7,2.5,Brazil Serie A
+2025-06-01,Flamengo,Fortaleza,5,0,2.4,0.4,Brazil Serie A
+2025-06-01,Ceará,Atlético Mineiro,0,1,0.7,0.4,Brazil Serie A
+2025-06-01,Corinthians,Vitória,0,0,1.0,0.4,Brazil Serie A
+2025-06-01,Cruzeiro,Palmeiras,2,1,1.3,0.7,Brazil Serie A
+2025-06-01,Internacional,Fluminense,0,2,0.6,0.6,Brazil Serie A
+2025-05-31,Vasco da Gama,RB Bragantino,0,2,1.7,0.8,Brazil Serie A
+2025-06-04,Botafogo (RJ),Ceará,3,2,2.5,0.6,Brazil Serie A
+2025-06-12,Vitória,Cruzeiro,0,0,0.7,0.7,Brazil Serie A
+2025-06-12,RB Bragantino,Bahia,0,3,0.4,2.2,Brazil Serie A
+2025-06-12,Fortaleza,Santos,2,3,2.8,0.8,Brazil Serie A
+2025-06-12,Grêmio,Corinthians,1,1,1.3,0.7,Brazil Serie A
+2025-06-12,São Paulo,Vasco da Gama,1,3,0.4,1.8,Brazil Serie A
+2025-06-12,Atlético Mineiro,Internacional,2,0,0.9,0.6,Brazil Serie A
+2025-07-12,Internacional,Vitória,1,0,1.9,0.7,Brazil Serie A
+2025-07-12,Flamengo,São Paulo,2,0,1.3,0.2,Brazil Serie A
+2025-07-12,Vasco da Gama,Botafogo (RJ),0,2,0.5,3.2,Brazil Serie A
+2025-07-13,Corinthians,RB Bragantino,1,2,2.3,1.8,Brazil Serie A
+2025-07-13,Cruzeiro,Grêmio,4,1,2.6,0.8,Brazil Serie A
+2025-07-13,Fortaleza,Ceará,0,1,0.7,2.2,Brazil Serie A
+2025-07-12,Bahia,Atlético Mineiro,2,1,0.7,0.3,Brazil Serie A
+2025-07-14,Juventude,Sport Recife,2,0,0.2,1.3,Brazil Serie A
+2025-07-16,Palmeiras,Mirassol,1,1,0.7,0.9,Brazil Serie A
+2025-07-16,Ceará,Corinthians,0,1,0.7,0.9,Brazil Serie A
+2025-07-16,Santos,Flamengo,1,0,1.2,0.7,Brazil Serie A
+2025-07-17,Fluminense,Cruzeiro,0,2,1.4,0.8,Brazil Serie A
+2025-07-16,Botafogo (RJ),Vitória,0,0,1.7,0.2,Brazil Serie A
+2025-07-16,RB Bragantino,São Paulo,2,2,0.8,1.4,Brazil Serie A
+2025-07-19,Fortaleza,Bahia,1,1,1.9,2.6,Brazil Serie A
+2025-07-19,Vasco da Gama,Grêmio,1,1,1.9,0.9,Brazil Serie A
+2025-07-19,Mirassol,Santos,3,0,1.7,0.5,Brazil Serie A
+2025-07-20,Internacional,Ceará,1,0,1.5,0.8,Brazil Serie A
+2025-07-20,Cruzeiro,Juventude,4,0,2.7,0.4,Brazil Serie A
+2025-07-20,Vitória,RB Bragantino,1,0,0.3,1.3,Brazil Serie A
+2025-07-20,Sport Recife,Botafogo (RJ),0,1,1.0,0.9,Brazil Serie A
+2025-07-20,Palmeiras,Atlético Mineiro,3,2,2.2,0.3,Brazil Serie A
+2025-07-20,Flamengo,Fluminense,1,0,0.9,0.3,Brazil Serie A
+2025-07-19,São Paulo,Corinthians,2,0,2.1,1.4,Brazil Serie A
+2025-07-23,Fluminense,Palmeiras,1,2,1.6,1.6,Brazil Serie A
+2025-07-23,Ceará,Mirassol,0,2,0.9,0.5,Brazil Serie A
+2025-07-23,Corinthians,Cruzeiro,0,0,0.3,1.0,Brazil Serie A
+2025-07-24,Juventude,São Paulo,0,1,0.4,1.0,Brazil Serie A
+2025-07-23,RB Bragantino,Flamengo,1,2,1.1,1.0,Brazil Serie A
+2025-07-23,Santos,Internacional,1,2,1.8,2.5,Brazil Serie A
+2025-07-23,Vitória,Sport Recife,2,2,2.7,2.0,Brazil Serie A
+2025-07-26,Fortaleza,RB Bragantino,3,1,1.9,0.9,Brazil Serie A
+2025-07-26,Sport Recife,Santos,2,2,2.1,1.1,Brazil Serie A
+2025-07-26,Botafogo (RJ),Corinthians,1,1,0.6,1.1,Brazil Serie A
+2025-07-26,Mirassol,Vitória,1,1,1.7,1.6,Brazil Serie A
+2025-07-27,São Paulo,Fluminense,3,1,2.2,0.2,Brazil Serie A
+2025-07-27,Cruzeiro,Ceará,1,2,1.3,0.7,Brazil Serie A
+2025-07-27,Internacional,Vasco da Gama,1,1,1.4,1.0,Brazil Serie A
+2025-07-27,Bahia,Juventude,3,0,2.2,0.1,Brazil Serie A
+2025-07-27,Flamengo,Atlético Mineiro,1,0,0.8,1.1,Brazil Serie A
+2025-07-26,Palmeiras,Grêmio,1,0,0.5,0.9,Brazil Serie A
+2025-07-29,Grêmio,Fortaleza,2,1,2.5,1.6,Brazil Serie A
+2025-08-02,Sport Recife,Bahia,0,0,0.5,0.9,Brazil Serie A
+2025-08-02,Mirassol,Vasco da Gama,3,2,1.1,1.3,Brazil Serie A
+2025-08-02,Fluminense,Grêmio,1,0,1.6,0.4,Brazil Serie A
+2024-08-09,Sporting CP,Rio Ave,3,1,2.9,0.5,Primeira Liga
+2024-08-10,AVS Futebol,Nacional,1,1,1.1,0.9,Primeira Liga
+2024-08-10,Casa Pia,Boavista,0,1,0.9,1.2,Primeira Liga
+2024-08-10,Porto,Gil Vicente FC,3,0,3.4,0.1,Primeira Liga
+2024-08-11,Estoril,Santa Clara,1,4,0.1,3.0,Primeira Liga
+2024-08-11,Famalicão,Benfica,2,0,1.5,0.8,Primeira Liga
+2024-08-11,Farense,Moreirense,1,2,1.4,2.1,Primeira Liga
+2024-08-11,Braga,Estrela,1,1,1.4,0.7,Primeira Liga
+2024-08-12,Arouca,Vitória,0,1,0.2,0.9,Primeira Liga
+2024-08-16,Santa Clara,Porto,0,2,0.7,1.1,Primeira Liga
+2024-08-16,Gil Vicente FC,AVS Futebol,4,2,2.4,1.4,Primeira Liga
+2024-08-17,Rio Ave,Farense,1,0,1.4,0.5,Primeira Liga
+2024-08-17,Nacional,Sporting CP,1,6,1.2,3.1,Primeira Liga
+2024-08-17,Benfica,Casa Pia,3,0,2.5,0.3,Primeira Liga
+2024-08-18,Moreirense,Arouca,3,1,2.4,1.0,Primeira Liga
+2024-08-18,Vitória,Estoril,1,0,1.6,0.2,Primeira Liga
+2024-08-18,Boavista,Braga,0,1,1.0,1.1,Primeira Liga
+2024-08-19,Estrela,Famalicão,0,3,0.6,1.9,Primeira Liga
+2024-08-23,Farense,Sporting CP,0,5,0.3,3.9,Primeira Liga
+2024-08-24,Casa Pia,Santa Clara,0,2,0.8,0.6,Primeira Liga
+2024-08-24,Porto,Rio Ave,2,0,3.5,0.0,Primeira Liga
+2024-08-24,Famalicão,Boavista,1,0,0.7,0.3,Primeira Liga
+2024-08-24,Benfica,Estrela,1,0,1.3,0.2,Primeira Liga
+2024-08-25,Arouca,Nacional,1,0,1.2,1.1,Primeira Liga
+2024-08-25,Estoril,Gil Vicente FC,0,0,0.5,2.0,Primeira Liga
+2024-08-25,AVS Futebol,Vitória,1,0,0.7,1.3,Primeira Liga
+2024-08-25,Braga,Moreirense,3,1,1.7,2.4,Primeira Liga
+2024-08-30,Moreirense,Benfica,1,1,0.2,1.5,Primeira Liga
+2024-08-31,Santa Clara,AVS Futebol,2,1,1.8,0.5,Primeira Liga
+2024-08-31,Boavista,Estoril,0,0,1.6,0.3,Primeira Liga
+2024-08-31,Estrela,Casa Pia,0,1,0.6,0.8,Primeira Liga
+2024-08-31,Sporting CP,Porto,2,0,2.8,0.5,Primeira Liga
+2024-09-01,Nacional,Farense,2,0,2.0,0.3,Primeira Liga
+2024-09-01,Rio Ave,Arouca,1,0,1.7,0.9,Primeira Liga
+2024-09-01,Gil Vicente FC,Braga,0,0,0.7,0.7,Primeira Liga
+2024-09-01,Vitória,Famalicão,2,1,1.4,0.3,Primeira Liga
+2024-09-13,Arouca,Sporting CP,0,3,0.2,3.1,Primeira Liga
+2024-09-14,Casa Pia,Moreirense,3,1,1.6,0.6,Primeira Liga
+2024-09-14,AVS Futebol,Rio Ave,1,0,0.6,1.0,Primeira Liga
+2024-09-14,Famalicão,Gil Vicente FC,1,1,1.1,0.7,Primeira Liga
+2024-09-14,Benfica,Santa Clara,4,1,2.6,0.7,Primeira Liga
+2024-09-15,Porto,Farense,2,1,4.0,0.9,Primeira Liga
+2024-09-15,Estoril,Nacional,1,0,1.0,2.4,Primeira Liga
+2024-09-15,Braga,Vitória,0,2,0.4,1.0,Primeira Liga
+2024-09-16,Estrela,Boavista,2,2,1.1,1.9,Primeira Liga
+2024-09-20,Nacional,Braga,0,3,1.1,2.3,Primeira Liga
+2024-09-21,Santa Clara,Estrela,1,0,1.7,0.4,Primeira Liga
+2024-09-21,Rio Ave,Estoril,2,2,2.4,1.7,Primeira Liga
+2024-09-21,Vitória,Porto,0,3,0.2,1.7,Primeira Liga
+2024-09-21,Moreirense,Famalicão,0,0,0.6,0.1,Primeira Liga
+2024-09-22,Gil Vicente FC,Casa Pia,1,1,1.2,1.5,Primeira Liga
+2024-09-22,Farense,Arouca,0,1,1.2,0.7,Primeira Liga
+2024-09-22,Sporting CP,AVS Futebol,3,0,1.7,0.1,Primeira Liga
+2024-09-23,Boavista,Benfica,0,3,0.3,2.0,Primeira Liga
+2024-09-27,Estoril,Sporting CP,0,3,0.1,1.8,Primeira Liga
+2024-09-28,Estrela,Moreirense,2,1,1.0,1.6,Primeira Liga
+2024-09-28,Casa Pia,Vitória,1,1,1.9,0.6,Primeira Liga
+2024-09-28,Benfica,Gil Vicente FC,5,1,3.6,1.1,Primeira Liga
+2024-09-29,Famalicão,Nacional,0,0,0.9,0.6,Primeira Liga
+2024-09-29,Porto,Arouca,4,0,3.0,0.2,Primeira Liga
+2024-09-29,Santa Clara,Boavista,1,0,2.6,0.1,Primeira Liga
+2024-09-29,Braga,Rio Ave,4,0,3.2,0.9,Primeira Liga
+2024-09-30,AVS Futebol,Farense,0,0,0.5,0.5,Primeira Liga
+2024-10-04,Rio Ave,Famalicão,1,1,1.9,0.4,Primeira Liga
+2024-10-05,Gil Vicente FC,Estrela,3,0,1.6,0.7,Primeira Liga
+2024-10-05,Moreirense,Santa Clara,1,0,0.5,1.4,Primeira Liga
+2024-10-05,Arouca,AVS Futebol,1,1,1.0,2.1,Primeira Liga
+2024-10-05,Sporting CP,Casa Pia,2,0,2.6,0.6,Primeira Liga
+2024-10-06,Farense,Estoril,1,0,1.6,1.1,Primeira Liga
+2024-10-06,Vitória,Boavista,2,2,2.2,2.4,Primeira Liga
+2024-10-06,Porto,Braga,2,1,1.2,0.9,Primeira Liga
+2024-10-25,Casa Pia,Nacional,1,0,0.9,1.1,Primeira Liga
+2024-10-25,Santa Clara,Gil Vicente FC,2,1,1.4,0.8,Primeira Liga
+2024-10-26,Estoril,Arouca,4,1,2.2,1.7,Primeira Liga
+2024-10-26,Boavista,Moreirense,0,2,0.2,1.9,Primeira Liga
+2024-10-26,Famalicão,Sporting CP,0,3,0.3,3.5,Primeira Liga
+2024-10-27,Braga,Farense,2,0,2.8,0.2,Primeira Liga
+2024-10-27,Benfica,Rio Ave,5,0,2.4,0.2,Primeira Liga
+2024-10-27,Estrela,Vitória,2,2,1.4,1.5,Primeira Liga
+2024-10-28,AVS Futebol,Porto,0,5,0.2,2.4,Primeira Liga
+2024-11-01,Sporting CP,Estrela,5,1,2.7,1.9,Primeira Liga
+2024-11-02,Rio Ave,Casa Pia,2,2,1.0,1.4,Primeira Liga
+2024-11-02,Farense,Benfica,1,2,0.8,1.5,Primeira Liga
+2024-11-02,Gil Vicente FC,Boavista,1,2,1.0,1.8,Primeira Liga
+2024-11-03,AVS Futebol,Famalicão,2,3,1.9,2.2,Primeira Liga
+2024-11-03,Vitória,Moreirense,1,0,0.4,0.3,Primeira Liga
+2024-11-03,Arouca,Braga,1,2,1.5,2.0,Primeira Liga
+2024-11-03,Porto,Estoril,4,0,3.2,1.0,Primeira Liga
+2024-11-04,Nacional,Santa Clara,2,0,1.7,1.1,Primeira Liga
+2024-11-08,Moreirense,Gil Vicente FC,3,2,1.4,0.8,Primeira Liga
+2024-11-09,Casa Pia,Farense,1,1,1.2,0.8,Primeira Liga
+2024-11-09,Estoril,AVS Futebol,0,0,0.3,0.9,Primeira Liga
+2024-11-09,Famalicão,Arouca,0,0,0.2,0.4,Primeira Liga
+2024-11-09,Boavista,Rio Ave,0,2,1.4,0.5,Primeira Liga
+2024-11-10,Santa Clara,Vitória,1,0,3.2,0.5,Primeira Liga
+2024-11-10,Estrela,Nacional,2,0,2.1,0.3,Primeira Liga
+2024-11-10,Braga,Sporting CP,2,4,0.8,0.9,Primeira Liga
+2024-11-10,Benfica,Porto,4,1,2.2,1.1,Primeira Liga
+2024-11-29,Farense,Estrela,1,0,1.3,0.6,Primeira Liga
+2024-11-30,Rio Ave,Moreirense,3,2,2.2,1.3,Primeira Liga
+2024-11-30,Nacional,Boavista,0,0,1.0,0.8,Primeira Liga
+2024-11-30,Sporting CP,Santa Clara,0,1,1.7,0.2,Primeira Liga
+2024-12-01,Estoril,Famalicão,2,1,1.5,1.1,Primeira Liga
+2024-12-01,Arouca,Benfica,0,2,0.5,1.8,Primeira Liga
+2024-12-01,AVS Futebol,Braga,0,1,0.9,3.4,Primeira Liga
+2024-12-02,Vitória,Gil Vicente FC,4,0,1.8,0.1,Primeira Liga
+2024-12-02,Porto,Casa Pia,2,0,2.0,0.5,Primeira Liga
+2024-12-05,Moreirense,Sporting CP,2,1,0.4,1.8,Primeira Liga
+2024-12-06,Braga,Estoril,2,2,3.6,1.5,Primeira Liga
+2024-12-07,Gil Vicente FC,Nacional,2,1,1.0,1.6,Primeira Liga
+2024-12-07,Santa Clara,Rio Ave,1,0,1.0,0.5,Primeira Liga
+2024-12-07,Benfica,Vitória,1,0,0.8,0.5,Primeira Liga
+2024-12-07,Famalicão,Porto,1,1,1.1,0.9,Primeira Liga
+2024-12-08,Boavista,Farense,1,1,1.5,1.2,Primeira Liga
+2024-12-08,Casa Pia,AVS Futebol,1,1,1.4,1.0,Primeira Liga
+2024-12-09,Estrela,Arouca,2,1,1.1,1.1,Primeira Liga
+2024-12-14,Farense,Gil Vicente FC,0,1,0.8,0.7,Primeira Liga
+2024-12-14,Nacional,Moreirense,1,0,0.7,0.4,Primeira Liga
+2024-12-14,Sporting CP,Boavista,3,2,2.0,0.7,Primeira Liga
+2024-12-15,Arouca,Santa Clara,1,0,0.8,0.3,Primeira Liga
+2024-12-15,AVS Futebol,Benfica,1,1,1.1,0.8,Primeira Liga
+2024-12-15,Estoril,Casa Pia,0,2,0.9,1.7,Primeira Liga
+2024-12-16,Braga,Famalicão,3,3,2.8,0.8,Primeira Liga
+2024-12-16,Porto,Estrela,2,0,1.0,0.2,Primeira Liga
+2024-12-16,Rio Ave,Vitória,2,2,0.2,2.6,Primeira Liga
+2024-12-19,Nacional,Benfica,0,2,0.2,2.0,Primeira Liga
+2024-12-20,Casa Pia,Arouca,3,1,0.9,0.7,Primeira Liga
+2024-12-21,Famalicão,Farense,1,2,1.4,0.3,Primeira Liga
+2024-12-21,Boavista,AVS Futebol,0,0,0.9,1.1,Primeira Liga
+2024-12-21,Moreirense,Porto,0,3,0.3,1.0,Primeira Liga
+2024-12-22,Santa Clara,Braga,0,2,1.4,1.6,Primeira Liga
+2024-12-22,Gil Vicente FC,Sporting CP,0,0,0.1,1.2,Primeira Liga
+2024-12-23,Benfica,Estoril,3,0,2.4,0.4,Primeira Liga
+2024-12-23,Vitória,Nacional,2,2,2.4,0.6,Primeira Liga
+2024-12-23,Estrela,Rio Ave,1,0,0.9,1.3,Primeira Liga
+2024-12-27,Arouca,Gil Vicente FC,1,1,0.5,1.0,Primeira Liga
+2024-12-28,AVS Futebol,Estrela,1,1,1.3,2.2,Primeira Liga
+2024-12-28,Estoril,Moreirense,2,2,2.0,0.8,Primeira Liga
+2024-12-28,Porto,Boavista,4,0,2.0,0.1,Primeira Liga
+2024-12-29,Farense,Vitória,2,2,0.4,3.0,Primeira Liga
+2024-12-29,Rio Ave,Nacional,2,1,2.0,0.6,Primeira Liga
+2024-12-29,Braga,Casa Pia,1,2,1.0,1.4,Primeira Liga
+2024-12-29,Sporting CP,Benfica,1,0,1.2,0.8,Primeira Liga
+2024-12-30,Famalicão,Santa Clara,1,2,1.1,1.4,Primeira Liga
+2025-01-03,Vitória,Sporting CP,4,4,1.7,1.1,Primeira Liga
+2025-01-04,Moreirense,AVS Futebol,1,1,1.6,1.7,Primeira Liga
+2025-01-04,Benfica,Braga,1,2,1.6,0.7,Primeira Liga
+2025-01-04,Boavista,Arouca,1,3,0.7,3.0,Primeira Liga
+2025-01-05,Santa Clara,Farense,0,0,0.6,0.1,Primeira Liga
+2025-01-05,Casa Pia,Famalicão,1,1,0.7,1.4,Primeira Liga
+2025-01-05,Estrela,Estoril,2,4,0.9,2.2,Primeira Liga
+2025-01-06,Gil Vicente FC,Rio Ave,1,1,1.9,0.8,Primeira Liga
+2025-01-12,Nacional,Porto,2,0,1.0,1.1,Primeira Liga
+2025-01-17,Benfica,Famalicão,4,0,4.1,0.2,Primeira Liga
+2025-01-18,Santa Clara,Estoril,2,3,2.0,0.8,Primeira Liga
+2025-01-18,Rio Ave,Sporting CP,0,3,0.1,3.7,Primeira Liga
+2025-01-18,Vitória,Arouca,2,2,1.4,1.5,Primeira Liga
+2025-01-19,Moreirense,Farense,0,0,0.6,0.3,Primeira Liga
+2025-01-19,Nacional,AVS Futebol,3,1,2.3,1.7,Primeira Liga
+2025-01-19,Estrela,Braga,0,1,0.3,1.2,Primeira Liga
+2025-01-19,Gil Vicente FC,Porto,3,1,1.9,0.9,Primeira Liga
+2025-01-20,Boavista,Casa Pia,2,3,1.2,1.4,Primeira Liga
+2025-01-24,Arouca,Moreirense,1,0,0.6,0.6,Primeira Liga
+2025-01-25,Farense,Rio Ave,1,2,2.1,1.5,Primeira Liga
+2025-01-25,Famalicão,Estrela,0,0,0.7,0.1,Primeira Liga
+2025-01-25,Casa Pia,Benfica,3,1,1.3,2.1,Primeira Liga
+2025-01-25,Sporting CP,Nacional,2,0,1.2,0.4,Primeira Liga
+2025-01-26,Estoril,Vitória,1,0,1.1,0.6,Primeira Liga
+2025-01-26,Porto,Santa Clara,1,1,3.1,0.0,Primeira Liga
+2025-01-26,Braga,Boavista,3,0,2.6,0.5,Primeira Liga
+2025-01-27,AVS Futebol,Gil Vicente FC,1,0,1.3,0.4,Primeira Liga
+2025-01-31,Boavista,Famalicão,0,2,0.1,1.7,Primeira Liga
+2025-02-01,Santa Clara,Casa Pia,2,1,1.9,0.2,Primeira Liga
+2025-02-01,Nacional,Arouca,1,2,1.4,1.7,Primeira Liga
+2025-02-01,Gil Vicente FC,Estoril,1,2,2.1,1.5,Primeira Liga
+2025-02-01,Vitória,AVS Futebol,2,0,1.3,0.2,Primeira Liga
+2025-02-02,Sporting CP,Farense,3,1,1.5,0.9,Primeira Liga
+2025-02-02,Estrela,Benfica,2,3,1.2,1.8,Primeira Liga
+2025-02-03,Moreirense,Braga,1,2,0.9,1.0,Primeira Liga
+2025-02-03,Rio Ave,Porto,2,2,1.4,1.5,Primeira Liga
+2025-02-07,Porto,Sporting CP,1,1,1.4,1.1,Primeira Liga
+2025-02-08,AVS Futebol,Santa Clara,1,2,0.9,1.4,Primeira Liga
+2025-02-08,Benfica,Moreirense,3,2,1.6,1.1,Primeira Liga
+2025-02-08,Famalicão,Vitória,0,0,0.4,0.6,Primeira Liga
+2025-02-09,Estoril,Boavista,2,1,1.9,1.1,Primeira Liga
+2025-02-09,Farense,Nacional,0,2,1.0,0.5,Primeira Liga
+2025-02-09,Braga,Gil Vicente FC,2,0,1.5,0.3,Primeira Liga
+2025-02-09,Casa Pia,Estrela,1,0,1.5,0.3,Primeira Liga
+2025-02-10,Arouca,Rio Ave,1,1,1.9,0.6,Primeira Liga
+2025-02-14,Boavista,Estrela,0,1,0.5,0.5,Primeira Liga
+2025-02-15,Moreirense,Casa Pia,3,2,2.3,1.1,Primeira Liga
+2025-02-15,Nacional,Estoril,2,2,2.4,1.3,Primeira Liga
+2025-02-15,Santa Clara,Benfica,0,1,0.8,2.6,Primeira Liga
+2025-02-15,Sporting CP,Arouca,2,2,2.1,2.2,Primeira Liga
+2025-02-16,Rio Ave,AVS Futebol,1,1,1.8,0.6,Primeira Liga
+2025-02-16,Farense,Porto,0,1,0.4,1.2,Primeira Liga
+2025-02-16,Vitória,Braga,0,0,1.4,0.1,Primeira Liga
+2025-02-17,Gil Vicente FC,Famalicão,0,2,1.7,1.9,Primeira Liga
+2025-02-21,Braga,Nacional,1,0,1.2,0.3,Primeira Liga
+2025-02-22,Casa Pia,Gil Vicente FC,1,0,0.7,0.1,Primeira Liga
+2025-02-22,Benfica,Boavista,3,0,5.4,0.2,Primeira Liga
+2025-02-22,Estoril,Rio Ave,2,1,1.3,1.4,Primeira Liga
+2025-02-23,Arouca,Farense,2,2,1.7,0.9,Primeira Liga
+2025-02-23,Estrela,Santa Clara,0,0,1.0,0.5,Primeira Liga
+2025-02-23,AVS Futebol,Sporting CP,2,2,1.1,1.5,Primeira Liga
+2025-02-23,Famalicão,Moreirense,2,0,1.0,0.5,Primeira Liga
+2025-02-24,Porto,Vitória,1,1,1.0,1.4,Primeira Liga
+2025-03-01,Nacional,Famalicão,2,1,0.9,1.1,Primeira Liga
+2025-03-01,Arouca,Porto,0,2,0.3,1.5,Primeira Liga
+2025-03-01,Vitória,Casa Pia,1,0,1.9,0.6,Primeira Liga
+2025-03-02,Moreirense,Estrela,1,1,0.5,1.2,Primeira Liga
+2025-03-02,Boavista,Santa Clara,1,0,0.6,0.5,Primeira Liga
+2025-03-02,Farense,AVS Futebol,0,1,1.1,1.1,Primeira Liga
+2025-03-02,Rio Ave,Braga,2,1,2.1,1.0,Primeira Liga
+2025-03-03,Sporting CP,Estoril,3,1,2.7,0.4,Primeira Liga
+2025-03-07,Estrela,Gil Vicente FC,1,1,0.5,0.6,Primeira Liga
+2025-03-08,AVS Futebol,Arouca,0,1,0.9,2.5,Primeira Liga
+2025-03-08,Estoril,Farense,2,2,2.4,1.2,Primeira Liga
+2025-03-08,Benfica,Nacional,3,0,4.1,2.5,Primeira Liga
+2025-03-08,Braga,Porto,1,0,0.2,0.9,Primeira Liga
+2025-03-09,Santa Clara,Moreirense,1,1,1.9,0.4,Primeira Liga
+2025-03-09,Casa Pia,Sporting CP,1,3,0.6,2.3,Primeira Liga
+2025-03-09,Boavista,Vitória,1,2,1.2,2.2,Primeira Liga
+2025-03-10,Famalicão,Rio Ave,1,0,1.5,0.8,Primeira Liga
+2025-03-15,Gil Vicente FC,Santa Clara,0,1,0.7,0.7,Primeira Liga
+2025-03-15,Farense,Braga,0,1,0.4,1.4,Primeira Liga
+2025-03-15,Porto,AVS Futebol,2,0,1.8,1.1,Primeira Liga
+2025-03-15,Sporting CP,Famalicão,3,1,3.8,1.0,Primeira Liga
+2025-03-16,Arouca,Estoril,1,1,0.9,2.2,Primeira Liga
+2025-03-16,Nacional,Casa Pia,3,1,1.2,1.1,Primeira Liga
+2025-03-16,Rio Ave,Benfica,2,3,1.3,4.8,Primeira Liga
+2025-03-16,Vitória,Estrela,2,0,1.2,0.4,Primeira Liga
+2025-03-16,Moreirense,Boavista,1,0,1.8,0.7,Primeira Liga
+2025-03-28,Gil Vicente FC,Benfica,0,3,0.2,2.8,Primeira Liga
+2025-03-29,Casa Pia,Rio Ave,2,1,1.2,2.3,Primeira Liga
+2025-03-29,Estrela,Sporting CP,0,3,0.3,2.2,Primeira Liga
+2025-03-29,Braga,Arouca,2,1,0.7,0.6,Primeira Liga
+2025-03-30,Santa Clara,Nacional,1,0,0.9,0.5,Primeira Liga
+2025-03-30,Famalicão,AVS Futebol,4,1,2.4,0.5,Primeira Liga
+2025-03-30,Estoril,Porto,1,2,0.9,1.9,Primeira Liga
+2025-03-30,Moreirense,Vitória,2,2,0.9,1.2,Primeira Liga
+2025-04-01,Boavista,Gil Vicente FC,1,3,1.2,1.3,Primeira Liga
+2025-04-02,Benfica,Farense,3,2,2.4,1.6,Primeira Liga
+2025-04-04,AVS Futebol,Estoril,0,3,0.4,2.6,Primeira Liga
+2025-04-05,Arouca,Famalicão,1,2,3.0,1.0,Primeira Liga
+2025-04-05,Vitória,Santa Clara,2,0,0.5,1.2,Primeira Liga
+2025-04-06,Gil Vicente FC,Moreirense,0,1,0.8,0.8,Primeira Liga
+2025-04-06,Nacional,Estrela,0,1,0.5,1.0,Primeira Liga
+2025-04-06,Porto,Benfica,1,4,1.2,2.6,Primeira Liga
+2025-04-07,Farense,Casa Pia,0,0,0.8,0.0,Primeira Liga
+2025-04-07,Rio Ave,Boavista,0,2,0.9,1.1,Primeira Liga
+2025-04-07,Sporting CP,Braga,1,1,1.2,0.9,Primeira Liga
+2025-04-11,Gil Vicente FC,Vitória,0,1,0.4,0.7,Primeira Liga
+2025-04-12,Boavista,Nacional,0,1,2.0,1.7,Primeira Liga
+2025-04-12,Famalicão,Estoril,3,0,2.2,0.2,Primeira Liga
+2025-04-12,Santa Clara,Sporting CP,0,1,0.7,0.8,Primeira Liga
+2025-04-12,Casa Pia,Porto,0,1,0.5,0.7,Primeira Liga
+2025-04-13,Estrela,Farense,0,1,1.4,1.1,Primeira Liga
+2025-04-13,Braga,AVS Futebol,4,1,2.0,0.5,Primeira Liga
+2025-04-13,Benfica,Arouca,2,2,2.8,1.4,Primeira Liga
+2025-04-13,Moreirense,Rio Ave,0,2,0.4,1.4,Primeira Liga
+2025-04-18,Rio Ave,Santa Clara,1,1,0.7,1.6,Primeira Liga
+2025-04-18,Farense,Boavista,0,1,1.0,0.5,Primeira Liga
+2025-04-18,Porto,Famalicão,2,1,0.8,0.4,Primeira Liga
+2025-04-18,Sporting CP,Moreirense,3,1,2.3,0.4,Primeira Liga
+2025-04-19,Nacional,Gil Vicente FC,0,3,0.8,1.6,Primeira Liga
+2025-04-19,AVS Futebol,Casa Pia,1,1,0.7,1.3,Primeira Liga
+2025-04-19,Arouca,Estrela,1,0,1.9,0.6,Primeira Liga
+2025-04-19,Estoril,Braga,0,2,0.5,0.8,Primeira Liga
+2025-04-19,Vitória,Benfica,0,3,1.6,2.0,Primeira Liga
+2025-04-25,Famalicão,Braga,1,1,2.1,0.9,Primeira Liga
+2025-04-26,Santa Clara,Arouca,2,0,0.9,1.0,Primeira Liga
+2025-04-26,Gil Vicente FC,Farense,1,0,1.5,0.1,Primeira Liga
+2025-04-26,Estrela,Porto,2,0,2.5,0.5,Primeira Liga
+2025-04-27,Moreirense,Nacional,1,1,0.5,0.5,Primeira Liga
+2025-04-27,Benfica,AVS Futebol,6,0,3.9,0.6,Primeira Liga
+2025-04-27,Vitória,Rio Ave,3,0,1.8,0.5,Primeira Liga
+2025-04-27,Boavista,Sporting CP,0,5,0.4,4.1,Primeira Liga
+2025-04-29,Casa Pia,Estoril,1,3,2.0,1.7,Primeira Liga
+2025-05-02,Porto,Moreirense,3,1,1.6,0.3,Primeira Liga
+2025-05-03,Nacional,Vitória,1,2,1.2,0.9,Primeira Liga
+2025-05-03,Farense,Famalicão,2,1,1.8,0.9,Primeira Liga
+2025-05-03,Braga,Santa Clara,1,1,1.3,0.6,Primeira Liga
+2025-05-03,Estoril,Benfica,1,2,1.0,2.1,Primeira Liga
+2025-05-04,Arouca,Casa Pia,0,0,1.0,0.3,Primeira Liga
+2025-05-04,Sporting CP,Gil Vicente FC,2,1,0.7,0.8,Primeira Liga
+2025-05-05,Rio Ave,Estrela,2,0,2.0,0.2,Primeira Liga
+2025-05-05,AVS Futebol,Boavista,1,2,1.2,0.8,Primeira Liga
+2025-05-10,Santa Clara,Famalicão,2,1,2.6,1.4,Primeira Liga
+2025-05-10,Nacional,Rio Ave,3,3,1.7,1.1,Primeira Liga
+2025-05-10,Benfica,Sporting CP,1,1,1.6,0.3,Primeira Liga
+2025-05-10,Casa Pia,Braga,2,1,0.9,1.9,Primeira Liga
+2025-05-10,Gil Vicente FC,Arouca,1,1,1.4,0.8,Primeira Liga
+2025-05-11,Estrela,AVS Futebol,0,1,0.9,1.4,Primeira Liga
+2025-05-11,Moreirense,Estoril,2,2,1.5,1.5,Primeira Liga
+2025-05-11,Vitória,Farense,1,2,2.4,1.6,Primeira Liga
+2025-05-11,Boavista,Porto,1,2,1.8,1.4,Primeira Liga
+2025-05-16,Famalicão,Casa Pia,2,1,2.9,0.3,Primeira Liga
+2025-05-16,Rio Ave,Gil Vicente FC,1,1,0.9,0.9,Primeira Liga
+2025-05-17,Braga,Benfica,1,1,1.9,1.4,Primeira Liga
+2025-05-17,Estoril,Estrela,4,0,2.6,0.6,Primeira Liga
+2025-05-17,Farense,Santa Clara,1,2,1.6,1.2,Primeira Liga
+2025-05-17,AVS Futebol,Moreirense,0,3,0.4,1.2,Primeira Liga
+2025-05-17,Porto,Nacional,3,0,2.0,1.1,Primeira Liga
+2025-05-17,Arouca,Boavista,4,1,1.8,1.7,Primeira Liga
+2025-05-17,Sporting CP,Vitória,2,0,2.5,0.1,Primeira Liga

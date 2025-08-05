@@ -39,7 +39,6 @@ def standardize_team_names(df, column_name, team_mapping):
 
 def preprocess_stats(stats_df, feature_columns):
     stats_df = stats_df.copy()
-    stats_df.loc[:, 'total_progression'] = stats_df['progressive_carries'] + stats_df['progressive_passes']
     imputer = SimpleImputer(strategy='median')
     stats_df.loc[:, feature_columns] = imputer.fit_transform(stats_df[feature_columns])
     return stats_df

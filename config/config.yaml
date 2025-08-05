@@ -8,23 +8,303 @@ split:
   test_size: 0.2  # 20% for testing
 
 feature_columns:
-  - total_progression
-  - goals_per90
-  - assists_per90
-  - goals_assists_per90
-  - goals_pens_per90
-  - xg_per90
-  - xg_assist_per90
-  - npxg_per90
+  - Standard_Poss
+  - Standard_xG
+  - Standard_npxG
+  - Standard_xAG
+  - Standard_npxG+xAG
+  - Standard_Gls.1
+  - Standard_Ast.1
+  - Standard_G+A.1
+  - Standard_G-PK.1
+  - Standard_G+A-PK
+  - Standard_xG.1
+  - Standard_xAG.1
+  - Standard_xG+xAG
+  - Standard_npxG.1
+  - Standard_npxG+xAG.1
+  - Standard_PK_per_90
+  - Standard_PKatt_per_90
+  - Standard_CrdY_per_90
+  - Standard_CrdR_per_90
+  - Standard_PrgC_per_90
+  - Standard_PrgP_per_90
+  - Standard_Poss_against
+  - Standard_xG_against
+  - Standard_npxG_against
+  - Standard_xAG_against
+  - Standard_npxG+xAG_against
+  - Standard_Gls.1_against
+  - Standard_Ast.1_against
+  - Standard_G+A.1_against
+  - Standard_G-PK.1_against
+  - Standard_G+A-PK_against
+  - Standard_xG.1_against
+  - Standard_xAG.1_against
+  - Standard_xG+xAG_against
+  - Standard_npxG.1_against
+  - Standard_npxG+xAG.1_against
+  - Standard_PK_per_90_against
+  - Standard_PKatt_per_90_against
+  - Standard_CrdY_per_90_against
+  - Standard_CrdR_per_90_against
+  - Standard_PrgC_per_90_against
+  - Standard_PrgP_per_90_against
+  - Goalkeeping_GA90
+  - Goalkeeping_Save%
+  - Goalkeeping_CS%
+  - Goalkeeping_Save%.1
+  - Goalkeeping_SoTA_per_90
+  - Goalkeeping_Saves_per_90
+  - Goalkeeping_W_per_90
+  - Goalkeeping_D_per_90
+  - Goalkeeping_L_per_90
+  - Goalkeeping_PKatt_per_90
+  - Goalkeeping_PKA_per_90
+  - Goalkeeping_PKsv_per_90
+  - Goalkeeping_PKm_per_90
+  - Goalkeeping_GA90_against
+  - Goalkeeping_Save%_against
+  - Goalkeeping_CS%_against
+  - Goalkeeping_Save%.1_against
+  - Goalkeeping_SoTA_per_90_against
+  - Goalkeeping_Saves_per_90_against
+  - Goalkeeping_W_per_90_against
+  - Goalkeeping_D_per_90_against
+  - Goalkeeping_L_per_90_against
+  - Goalkeeping_PKatt_per_90_against
+  - Goalkeeping_PKA_per_90_against
+  - Goalkeeping_PKsv_per_90_against
+  - Goalkeeping_PKm_per_90_against
+  - AdvGoalkeeping_PSxG
+  - AdvGoalkeeping_PSxG/SoT
+  - AdvGoalkeeping_PSxG+/-
+  - AdvGoalkeeping_/90
+  - AdvGoalkeeping_Launch%
+  - AdvGoalkeeping_AvgLen
+  - AdvGoalkeeping_Launch%.1
+  - AdvGoalkeeping_AvgLen.1
+  - AdvGoalkeeping_Stp%
+  - AdvGoalkeeping_#OPA/90
+  - AdvGoalkeeping_AvgDist
+  - AdvGoalkeeping_FK_per_90
+  - AdvGoalkeeping_CK_per_90
+  - AdvGoalkeeping_OG_per_90
+  - AdvGoalkeeping_Cmp_per_90
+  - AdvGoalkeeping_Att_per_90
+  - AdvGoalkeeping_Cmp%_per_90
+  - AdvGoalkeeping_Att (GK)_per_90
+  - AdvGoalkeeping_Thr_per_90
+  - AdvGoalkeeping_Att.1_per_90
+  - AdvGoalkeeping_Opp_per_90
+  - AdvGoalkeeping_Stp_per_90
+  - AdvGoalkeeping_PSxG_against
+  - AdvGoalkeeping_PSxG/SoT_against
+  - AdvGoalkeeping_PSxG+/-_against
+  - AdvGoalkeeping_/90_against
+  - AdvGoalkeeping_Launch%_against
+  - AdvGoalkeeping_AvgLen_against
+  - AdvGoalkeeping_Launch%.1_against
+  - AdvGoalkeeping_AvgLen.1_against
+  - AdvGoalkeeping_Stp%_against
+  - AdvGoalkeeping_#OPA/90_against
+  - AdvGoalkeeping_AvgDist_against
+  - AdvGoalkeeping_FK_per_90_against
+  - AdvGoalkeeping_CK_per_90_against
+  - AdvGoalkeeping_OG_per_90_against
+  - AdvGoalkeeping_Cmp_per_90_against
+  - AdvGoalkeeping_Att_per_90_against
+  - AdvGoalkeeping_Cmp%_per_90_against
+  - AdvGoalkeeping_Att (GK)_per_90_against
+  - AdvGoalkeeping_Thr_per_90_against
+  - AdvGoalkeeping_Att.1_per_90_against
+  - AdvGoalkeeping_Opp_per_90_against
+  - AdvGoalkeeping_Stp_per_90_against
+  - Shooting_SoT%
+  - Shooting_Sh/90
+  - Shooting_SoT/90
+  - Shooting_G/Sh
+  - Shooting_G/SoT
+  - Shooting_Dist
+  - Shooting_npxG/Sh
+  - Shooting_G-xG
+  - Shooting_np:G-xG
+  - Shooting_Gls_per_90
+  - Shooting_SoT%_against
+  - Shooting_Sh/90_against
+  - Shooting_SoT/90_against
+  - Shooting_G/Sh_against
+  - Shooting_G/SoT_against
+  - Shooting_Dist_against
+  - Shooting_npxG/Sh_against
+  - Shooting_G-xG_against
+  - Shooting_np:G-xG_against
+  - Shooting_Gls_per_90_against
+  - Passing_TotDist_per_90
+  - Passing_PrgDist_per_90
+  - Passing_KP_per_90
+  - Passing_1/3_per_90
+  - Passing_PPA_per_90
+  - Passing_CrsPA_per_90
+  - Passing_TotDist_per_90_against
+  - Passing_PrgDist_per_90_against
+  - Passing_KP_per_90_against
+  - Passing_1/3_per_90_against
+  - Passing_PPA_per_90_against
+  - Passing_CrsPA_per_90_against
+  - PassTypes_Live_per_90
+  - PassTypes_Dead_per_90
+  - PassTypes_FK_per_90
+  - PassTypes_TB_per_90
+  - PassTypes_Sw_per_90
+  - PassTypes_Crs_per_90
+  - PassTypes_TI_per_90
+  - PassTypes_CK_per_90
+  - PassTypes_In_per_90
+  - PassTypes_Out_per_90
+  - PassTypes_Str_per_90
+  - PassTypes_Cmp_per_90
+  - PassTypes_Off_per_90
+  - PassTypes_Blocks_per_90
+  - PassTypes_Live_per_90_against
+  - PassTypes_Dead_per_90_against
+  - PassTypes_FK_per_90_against
+  - PassTypes_TB_per_90_against
+  - PassTypes_Sw_per_90_against
+  - PassTypes_Crs_per_90_against
+  - PassTypes_TI_per_90_against
+  - PassTypes_CK_per_90_against
+  - PassTypes_In_per_90_against
+  - PassTypes_Out_per_90_against
+  - PassTypes_Str_per_90_against
+  - PassTypes_Cmp_per_90_against
+  - PassTypes_Off_per_90_against
+  - PassTypes_Blocks_per_90_against
+  - GSC_SCA90
+  - GSC_GCA90
+  - GSC_PassLive_per_90
+  - GSC_PassDead_per_90
+  - GSC_TO_per_90
+  - GSC_Sh_per_90
+  - GSC_Fld_per_90
+  - GSC_Def_per_90
+  - GSC_PassLive.1_per_90
+  - GSC_PassDead.1_per_90
+  - GSC_TO.1_per_90
+  - GSC_Sh.1_per_90
+  - GSC_Fld.1_per_90
+  - GSC_Def.1_per_90
+  - GSC_SCA90_against
+  - GSC_GCA90_against
+  - GSC_PassLive_per_90_against
+  - GSC_PassDead_per_90_against
+  - GSC_TO_per_90_against
+  - GSC_Sh_per_90_against
+  - GSC_Fld_per_90_against
+  - GSC_Def_per_90_against
+  - GSC_PassLive.1_per_90_against
+  - GSC_PassDead.1_per_90_against
+  - GSC_TO.1_per_90_against
+  - GSC_Sh.1_per_90_against
+  - GSC_Fld.1_per_90_against
+  - GSC_Def.1_per_90_against
+  - Defense_Tkl_per_90
+  - Defense_TklW_per_90
+  - Defense_Def 3rd_per_90
+  - Defense_Mid 3rd_per_90
+  - Defense_Att 3rd_per_90
+  - Defense_Tkl.1_per_90
+  - Defense_Att_per_90
+  - Defense_Tkl%_per_90
+  - Defense_Lost_per_90
+  - Defense_Blocks_per_90
+  - Defense_Sh_per_90
+  - Defense_Pass_per_90
+  - Defense_Int_per_90
+  - Defense_Tkl+Int_per_90
+  - Defense_Clr_per_90
+  - Defense_Err_per_90
+  - Defense_Tkl_per_90_against
+  - Defense_TklW_per_90_against
+  - Defense_Def 3rd_per_90_against
+  - Defense_Mid 3rd_per_90_against
+  - Defense_Att 3rd_per_90_against
+  - Defense_Tkl.1_per_90_against
+  - Defense_Att_per_90_against
+  - Defense_Tkl%_per_90_against
+  - Defense_Lost_per_90_against
+  - Defense_Blocks_per_90_against
+  - Defense_Sh_per_90_against
+  - Defense_Pass_per_90_against
+  - Defense_Int_per_90_against
+  - Defense_Tkl+Int_per_90_against
+  - Defense_Clr_per_90_against
+  - Defense_Err_per_90_against
+  - Possession_Succ%
+  - Possession_Tkld%
+  - Possession_Mid 3rd_per_90
+  - Possession_Att 3rd_per_90
+  - Possession_Att Pen_per_90
+  - Possession_Att_per_90
+  - Possession_Succ_per_90
+  - Possession_Tkld_per_90
+  - Possession_Carries_per_90
+  - Possession_TotDist_per_90
+  - Possession_PrgDist_per_90
+  - Possession_PrgC_per_90
+  - Possession_1/3_per_90
+  - Possession_CPA_per_90
+  - Possession_Mis_per_90
+  - Possession_Dis_per_90
+  - Possession_Rec_per_90
+  - Possession_PrgR_per_90
+  - Possession_Succ%_against
+  - Possession_Tkld%_against
+  - Possession_Mid 3rd_per_90_against
+  - Possession_Att 3rd_per_90_against
+  - Possession_Att Pen_per_90_against
+  - Possession_Att_per_90_against
+  - Possession_Succ_per_90_against
+  - Possession_Tkld_per_90_against
+  - Possession_Carries_per_90_against
+  - Possession_TotDist_per_90_against
+  - Possession_PrgDist_per_90_against
+  - Possession_PrgC_per_90_against
+  - Possession_1/3_per_90_against
+  - Possession_CPA_per_90_against
+  - Possession_Mis_per_90_against
+  - Possession_Dis_per_90_against
+  - Possession_Rec_per_90_against
+  - Possession_PrgR_per_90_against
+  - Miscellaneous_Won%
+  - Miscellaneous_Fls_per_90
+  - Miscellaneous_Fld_per_90
+  - Miscellaneous_Off_per_90
+  - Miscellaneous_Crs_per_90
+  - Miscellaneous_Int_per_90
+  - Miscellaneous_OG_per_90
+  - Miscellaneous_Recov_per_90
+  - Miscellaneous_Won_per_90
+  - Miscellaneous_Won%_against
+  - Miscellaneous_Fls_per_90_against
+  - Miscellaneous_Fld_per_90_against
+  - Miscellaneous_Off_per_90_against
+  - Miscellaneous_Crs_per_90_against
+  - Miscellaneous_Int_per_90_against
+  - Miscellaneous_OG_per_90_against
+  - Miscellaneous_Recov_per_90_against
+  - Miscellaneous_Won_per_90_against
 
-team_mapping:
-  "Man Utd": "Manchester Utd"
-  "Man United": "Manchester Utd"
-  "Man City": "Manchester City"
-  "Newcastle Utd": "Newcastle United"
-  "Newcastle Ut": "Newcastle United"
-  "Nott'ham Forest": "Nottingham Forest"
-  "Paris S-G": "Paris Saint-Germain"
-  "Inter Milan": "Inter"
-  "Spurs": "Tottenham"
-  "West Ham Utd": "West Ham United"
+
+team_mapping :
+    # Existing mappings
+    "Man Utd": "Manchester Utd"
+    "Man United": "Manchester Utd"
+    "Man City": "Manchester City"
+    "Newcastle Utd": "Newcastle United"
+    "Newcastle Ut": "Newcastle United"
+    "Nott'ham Forest": "Nottingham Forest"
+    "Paris S-G": "Paris Saint-Germain"
+    "Inter Milan": "Inter"
+    "Spurs": "Tottenham"
+    "West Ham Utd": "West Ham United"
