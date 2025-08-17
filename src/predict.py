@@ -1,6 +1,13 @@
 import joblib
 import numpy as np
 import pandas as pd
+
+# Display all rows and columns fully
+pd.set_option("display.max_rows", None)
+pd.set_option("display.max_columns", None)
+pd.set_option("display.width", None)
+pd.set_option("display.max_colwidth", None)
+
 import os
 from pathlib import Path
 from .utils import standardize_team_names
@@ -90,19 +97,24 @@ def predict_fixtures(fixtures_csv_path, model_dir=None):
             away_xg += model['regressor_away'].predict(X_new)
 
         num_models = len(models)
+        # Format probabilities as percentages
+        home_win_probs = (class_probs[:, 2] / num_models) * 100
+        draw_probs = (class_probs[:, 1] / num_models) * 100
+        away_win_probs = (class_probs[:, 0] / num_models) * 100
+        
         result_df = pd.DataFrame({
             'Home_Team': new_fixtures['Home_Team'],
             'Away_Team': new_fixtures['Away_Team'],
-            'Home_Win_Prob': class_probs[:, 2] / num_models,
-            'Draw_Prob': class_probs[:, 1] / num_models,
-            'Away_Win_Prob': class_probs[:, 0] / num_models,
+            'Home_Win_Prob': [f"{x:.1f}%" for x in home_win_probs],
+            'Draw_Prob': [f"{x:.1f}%" for x in draw_probs],
+            'Away_Win_Prob': [f"{x:.1f}%" for x in away_win_probs],
             'Predicted_Home_xG': home_xg / num_models,
             'Predicted_Away_xG': away_xg / num_models
         })
 
         result_df['Total_Goals'] = (np.round(result_df['Predicted_Home_xG']) + 
                                   np.round(result_df['Predicted_Away_xG']))
-        result_df['Prob_Diff'] = abs(result_df['Home_Win_Prob'] - result_df['Away_Win_Prob'])
+        result_df['Prob_Diff'] = abs(home_win_probs - away_win_probs)
         
         return result_df.sort_values('Prob_Diff', ascending=False)
 

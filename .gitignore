@@ -37,3 +37,19 @@ docs/_build/
 dist/
 build/
 
+# Ignore virtual environment
+env/
+venv/
+.venv/
+
+# Ignore system files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
